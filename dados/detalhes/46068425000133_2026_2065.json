@@ -1,16 +1,7 @@
 {
   "id": "46068425000133-1-002065/2026",
   "consultadoEm": "2026-10-06T16:55:27.857582-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/46068425000133/compras/2026/2065']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -104,5 +95,68 @@
       "tipoDocumentoNome": "Edital",
       "tipoDocumentoDescricao": "Edital"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 0.0,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 3,
+    "orcamentoSigilosoDescricao": "Compra totalmente sigilosa",
+    "numeroControlePNCP": "46068425000133-1-002065/2026",
+    "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45016105023822026",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 2065,
+    "numeroCompra": "2382",
+    "processo": "01-P-49885/2025",
+    "orgaoEntidade": {
+      "cnpj": "46068425000133",
+      "razaoSocial": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+      "poderId": "E",
+      "esferaId": "E"
+    },
+    "unidadeOrgao": {
+      "ufNome": "São Paulo",
+      "ufSigla": "SP",
+      "municipioNome": "Campinas",
+      "codigoUnidade": "450161",
+      "nomeUnidade": "ESP-UNIVERSIDADE ESTADUAL DE CAMPINAS",
+      "codigoIbge": "3509502"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 1,
+    "modoDisputaNome": "Aberto",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "PE DGA N° 90416/2026 - Contratação de serviços de Instalação e Fornecimento de Licença Software SCADA e Suporte",
+    "informacaoComplementar": null,
+    "srp": false,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 3,
+        "nome": "Estadual",
+        "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-05T16:04:43"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-05T16:04:43",
+    "dataAberturaProposta": "2026-10-06T08:30:00",
+    "dataEncerramentoProposta": "2026-10-23T09:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-05T16:04:43",
+    "dataAtualizacao": "2026-10-05T16:04:43",
+    "dataAtualizacaoGlobal": "2026-10-05T16:05:44",
+    "usuarioNome": "Compras.gov.br"
+  }
 }

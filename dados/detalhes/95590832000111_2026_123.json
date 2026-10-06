@@ -1,16 +1,7 @@
 {
   "id": "95590832000111-1-000123/2026",
   "consultadoEm": "2026-10-06T16:55:27.399040-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/95590832000111/compras/2026/123']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -156,5 +147,74 @@
       "tipoDocumentoDescricao": "Outros Documentos",
       "tipoDocumentoId": 16
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 103457.0,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "95590832000111-1-000123/2026",
+    "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98549505000192026",
+    "linkProcessoEletronico": "https://portal-prefeitura-pinhal.equiplano.cloud/relatorio/licitacao-contrato/licitacoes/licitacoes",
+    "anoCompra": 2026,
+    "sequencialCompra": 123,
+    "numeroCompra": "19",
+    "processo": "53",
+    "orgaoEntidade": {
+      "cnpj": "95590832000111",
+      "razaoSocial": "MUNICIPIO DE PINHAL DO SAO BENTO",
+      "poderId": "N",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Paraná",
+      "ufSigla": "PR",
+      "municipioNome": "Pinhal de São Bento",
+      "codigoUnidade": "985495",
+      "nomeUnidade": "PREFEITURA MUNICIPAL DE PINHAL DE SÃO BENTO",
+      "codigoIbge": "4119251"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 1,
+    "modoDisputaNome": "Aberto",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "Registro de Preços para futura e eventual contratação de empresa especializada na disponibilização de solução tecnológica integrada para gestão, monitoramento e controle da frota municipal, compreendendo plataforma em ambiente de computação em nuvem (SaaS), fornecimento, instalação e manutenção de dispositivos eletrônicos embarcados (IoT), rastreamento por GPS, suporte técnico, treinamento, manutenção corretiva, preventiva e evolutiva, conforme especificações constantes do Termo de Referência.",
+    "informacaoComplementar": null,
+    "srp": true,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 2,
+        "nome": "Municipal",
+        "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-06T14:52:24"
+      },
+      {
+        "codigo": 4,
+        "nome": "Federal",
+        "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-06T14:52:24"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-06T14:52:24",
+    "dataAberturaProposta": "2026-10-07T08:00:00",
+    "dataEncerramentoProposta": "2026-10-23T09:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-06T14:52:24",
+    "dataAtualizacao": "2026-10-06T14:52:24",
+    "dataAtualizacaoGlobal": "2026-10-06T14:53:25",
+    "usuarioNome": "Compras.gov.br"
+  }
 }

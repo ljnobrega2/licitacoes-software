@@ -1,16 +1,7 @@
 {
   "id": "46482832000192-1-000722/2026",
   "consultadoEm": "2026-10-06T16:55:26.850181-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/46482832000192/compras/2026/722']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -66,5 +57,61 @@
       "tipoDocumentoNome": "Edital",
       "tipoDocumentoDescricao": "Edital"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 8021570.21,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "46482832000192-1-000722/2026",
+    "linkSistemaOrigem": " ",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 722,
+    "numeroCompra": "75 | Processo 17614",
+    "processo": "75",
+    "orgaoEntidade": {
+      "cnpj": "46482832000192",
+      "razaoSocial": "MUNICIPIO DE SAO SEBASTIAO",
+      "poderId": "N",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "São Paulo",
+      "ufSigla": "SP",
+      "municipioNome": "São Sebastião",
+      "codigoIbge": "3550704",
+      "codigoUnidade": "0000",
+      "nomeUnidade": "PREFEITURA MUNICIPAL"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": " ",
+    "modoDisputaId": 1,
+    "modoDisputaNome": "Aberto",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "CONTRATACAO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO E IMPLANTACAO DE PLATAFORMA INTEGRADA DE TECNOLOGIA DA INFORMACAO E GESTAO GEOGRAFICA MULTIFINALITARIA  PARA FORNECIMENTO E IMPLANTACAO DE PLATAFORMA INTEGRADA DE TECNOLOGIA DA INFORMACAO E GESTAO GEOGRAFICA MULTIFINALITARIA  EM REGIME DE LOCACAO DE LICENCA DE USO  SAAS .",
+    "informacaoComplementar": " ",
+    "srp": false,
+    "fontesOrcamentarias": [],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-06T14:08:55",
+    "dataAberturaProposta": "2026-10-07T08:00:00",
+    "dataEncerramentoProposta": "2026-10-23T08:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-06T14:08:55",
+    "dataAtualizacao": "2026-10-06T14:08:55",
+    "dataAtualizacaoGlobal": "2026-10-06T14:08:56",
+    "usuarioNome": "Governançabrasil Tecnologia e Gestão em Serviços"
+  }
 }

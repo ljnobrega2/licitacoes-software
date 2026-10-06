@@ -1,16 +1,7 @@
 {
   "id": "76484013000145-1-000121/2026",
   "consultadoEm": "2026-10-06T16:55:28.766325-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/76484013000145/compras/2026/121']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 10001,
@@ -66,5 +57,61 @@
       "tipoDocumentoDescricao": "Edital",
       "tipoDocumentoId": 2
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 0.0,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 3,
+    "orcamentoSigilosoDescricao": "Compra totalmente sigilosa",
+    "numeroControlePNCP": "76484013000145-1-000121/2026",
+    "linkSistemaOrigem": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101687",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 121,
+    "numeroCompra": "154726",
+    "processo": "154726",
+    "orgaoEntidade": {
+      "cnpj": "76484013000145",
+      "razaoSocial": "COMPANHIA DE SANEAMENTO DO PARANA SANEPAR",
+      "poderId": "N",
+      "esferaId": "N"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Paraná",
+      "ufSigla": "PR",
+      "municipioNome": "Curitiba",
+      "codigoUnidade": "000000001",
+      "nomeUnidade": "SEDE",
+      "codigoIbge": "4106902"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": "",
+    "modoDisputaId": 1,
+    "modoDisputaNome": "Aberto",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 13.303/2016, Art. 32, IV",
+      "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+      "codigo": 113
+    },
+    "objetoCompra": "Serviço de subscrição de produtos Red Hat, específicos para continuidade do ambiente de servidores de TI da Sanepar, conforme part numbers e respectivas quantidades especificadas neste documento.",
+    "informacaoComplementar": "",
+    "srp": false,
+    "fontesOrcamentarias": [],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-05T18:30:46",
+    "dataAberturaProposta": "2026-10-05T09:35:00",
+    "dataEncerramentoProposta": "2026-10-28T09:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-05T18:30:46",
+    "dataAtualizacao": "2026-10-05T18:30:46",
+    "dataAtualizacaoGlobal": "2026-10-05T18:30:46",
+    "usuarioNome": "Licitações-E BB"
+  }
 }

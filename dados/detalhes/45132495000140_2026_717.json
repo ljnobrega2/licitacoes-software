@@ -1,16 +1,7 @@
 {
   "id": "45132495000140-1-000717/2026",
   "consultadoEm": "2026-10-06T16:55:28.670315-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/45132495000140/compras/2026/717']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -66,5 +57,61 @@
       "tipoDocumentoDescricao": "Edital",
       "tipoDocumentoId": 2
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 37559.22,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "45132495000140-1-000717/2026",
+    "linkSistemaOrigem": "",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 717,
+    "numeroCompra": "00164",
+    "processo": "E00164",
+    "orgaoEntidade": {
+      "cnpj": "45132495000140",
+      "razaoSocial": "MUNICIPIO DE LIMEIRA",
+      "poderId": "N",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "São Paulo",
+      "ufSigla": "SP",
+      "municipioNome": "Limeira",
+      "codigoUnidade": "1",
+      "nomeUnidade": "PREFEITURA MUNICIPAL DE LIMEIRA",
+      "codigoIbge": "3526902"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": "CONFORME JUSTIFICATIVA INTERNA!",
+    "modoDisputaId": 1,
+    "modoDisputaNome": "Aberto",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "CONTRATACAO DE EMPRESA ESPECIALIZADA PARA FORNECIMENTO DE LICENCA DE SOFTWARE",
+    "informacaoComplementar": "",
+    "srp": false,
+    "fontesOrcamentarias": [],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-05T16:19:00",
+    "dataAberturaProposta": "2026-10-07T09:30:00",
+    "dataEncerramentoProposta": "2026-10-27T09:30:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-05T16:19:00",
+    "dataAtualizacao": "2026-10-05T16:19:00",
+    "dataAtualizacaoGlobal": "2026-10-05T16:19:00",
+    "usuarioNome": "CONAM Consultoria em Administração Municipal"
+  }
 }

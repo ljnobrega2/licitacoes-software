@@ -1,16 +1,7 @@
 {
   "id": "58197948000169-1-000028/2026",
   "consultadoEm": "2026-10-06T16:55:26.151655-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/58197948000169/compras/2026/28']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -408,5 +399,68 @@
       "tipoDocumentoDescricao": "Edital",
       "tipoDocumentoId": 2
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 7550887.31,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "58197948000169-1-000028/2026",
+    "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]yAx9oJfNdRotWWQhVl3/pJTmEks0/oaprmYltGNSKOPUIh1v1zM4T54i0/pUu_kGx_kX5LtLwTdLfgqNNFRnDPZAZtJy6iAsokUSS71Oock=",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 28,
+    "numeroCompra": "016",
+    "processo": "44.197/2026-83",
+    "orgaoEntidade": {
+      "cnpj": "58197948000169",
+      "razaoSocial": "CAIXA DE ASSISTENCIA  AO SERVIDOR PUBLICO MUNICIPAL DE SANTOS - CAPEP-SAUDE",
+      "poderId": "E",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "São Paulo",
+      "ufSigla": "SP",
+      "municipioNome": "Santos",
+      "codigoIbge": "3548500",
+      "codigoUnidade": "928678",
+      "nomeUnidade": "CAIXA DE ASSISTENCIA AO SER. PUB. MUN. SANTOS"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 3,
+    "modoDisputaNome": "Aberto-Fechado",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "LOTE 1: SERVIÇOS DE AUDITORIA PROSPECTIVA, CONCORRENTE E RETROSPECTIVA, AUDITORIA FARMACÊUTICA E CENTRAL DE ATENDIMENTO REMOTO AOS BENEFICIÁRIOS E PRESTADORES, LOTE 2: SOLUÇÃO INFORMATIZADA INTEGRADA PARA GESTÃO DA ASSISTÊNCIA À SAÚDE, NA MODALIDADE SAAS, INCLUINDO IMPLANTAÇÃO, MIGRAÇÃO DE DADOS, PARAMETRIZAÇÃO, INTEGRAÇÕES, TREINAMENTO, MANUTENÇÃO E SUPORTE TÉCNICO E  LOTE 3: SERVIÇOS DE CONSULTORIA E ASSESSORIA TÉCNICA, EMISSÃO DE PARECERES DE MÉDICOS ESPECIALISTAS E JUNTAS MÉDICA, CONFORME TR",
+    "informacaoComplementar": null,
+    "srp": false,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 2,
+        "nome": "Municipal",
+        "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-06T10:08:43"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-06T10:08:41",
+    "dataAberturaProposta": "2026-10-06T10:10:00",
+    "dataEncerramentoProposta": "2026-10-22T09:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-06T10:08:41",
+    "dataAtualizacao": "2026-10-06T10:08:41",
+    "dataAtualizacaoGlobal": "2026-10-06T10:08:43",
+    "usuarioNome": "BLL Compras"
+  }
 }

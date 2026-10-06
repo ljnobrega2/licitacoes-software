@@ -1,16 +1,7 @@
 {
   "id": "00394460000141-1-000711/2026",
   "consultadoEm": "2026-10-06T16:55:28.250230-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/00394460000141/compras/2026/711']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -66,5 +57,68 @@
       "tipoDocumentoNome": "Edital",
       "tipoDocumentoDescricao": "Edital"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 0.0,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 3,
+    "orcamentoSigilosoDescricao": "Compra totalmente sigilosa",
+    "numeroControlePNCP": "00394460000141-1-000711/2026",
+    "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=17900705000012026",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 711,
+    "numeroCompra": "1",
+    "processo": "2026/273",
+    "orgaoEntidade": {
+      "cnpj": "00394460000141",
+      "razaoSocial": "MINISTERIO DA FAZENDA",
+      "poderId": "E",
+      "esferaId": "F"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Pará",
+      "ufSigla": "PA",
+      "municipioNome": "Belém",
+      "codigoUnidade": "179007",
+      "nomeUnidade": "BANCO DA AMAZONIA S/A",
+      "codigoIbge": "1501402"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 3,
+    "modoDisputaNome": "Aberto-Fechado",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "Contratação de empresa para fornecimento de subscrição de 140 (cento e quarenta) novas licenças e renovação do direito de uso (subscrição de licenças) para 3260 (Três mil duzentos e sessenta) licenças do software IBM Websphere MQ Series, com direito aos serviços de suporte técnico remoto e atualização de versão (novas releases e novas versões), em regime de 24 X 7, 365 dias por ano, pelo prazo de 60 meses. ",
+    "informacaoComplementar": null,
+    "srp": false,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 4,
+        "nome": "Federal",
+        "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-01T17:15:12"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-01T17:15:12",
+    "dataAberturaProposta": "2026-10-02T10:00:00",
+    "dataEncerramentoProposta": "2026-10-23T10:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-01T17:15:12",
+    "dataAtualizacao": "2026-10-01T17:15:12",
+    "dataAtualizacaoGlobal": "2026-10-01T17:16:13",
+    "usuarioNome": "Compras.gov.br"
+  }
 }

@@ -1,16 +1,7 @@
 {
   "id": "44518371000135-1-000188/2026",
   "consultadoEm": "2026-10-06T16:55:26.242378-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/44518371000135/compras/2026/188']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -142,5 +133,61 @@
       "tipoDocumentoDescricao": "Edital",
       "tipoDocumentoId": 2
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 74952.0,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "44518371000135-1-000188/2026",
+    "linkSistemaOrigem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]PXwVpfQZwQGHEm6eJrL1VQGe0palDMtyQ7gjaorCK0HZnBGaJ7mfPXn15fvn1HLSPrSBdaEAudv490Qo9q1aZbbhaNSuLcLA04_vZcYTtYI=",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 188,
+    "numeroCompra": "114",
+    "processo": "14.573/2026",
+    "orgaoEntidade": {
+      "cnpj": "44518371000135",
+      "razaoSocial": "MUNICIPIO DE GARCA",
+      "poderId": "N",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "São Paulo",
+      "ufSigla": "SP",
+      "municipioNome": "Garça",
+      "codigoUnidade": "193",
+      "nomeUnidade": "Prefeitura Municipal de Garça - SP",
+      "codigoIbge": "3516705"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 1,
+    "modoDisputaNome": "Aberto",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "Contratação de empresa especializada em solução de firewall para toda a infraestrutura da prefeitura de Garça, pelo período de 12 (doze) meses, de acordo com as especificações contidas no anexo I deste edital. \r\n",
+    "informacaoComplementar": null,
+    "srp": false,
+    "fontesOrcamentarias": [],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-05T13:25:11",
+    "dataAberturaProposta": "2026-10-06T09:00:00",
+    "dataEncerramentoProposta": "2026-10-22T09:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-05T13:25:11",
+    "dataAtualizacao": "2026-10-05T13:25:11",
+    "dataAtualizacaoGlobal": "2026-10-05T13:25:11",
+    "usuarioNome": "BLL Compras"
+  }
 }

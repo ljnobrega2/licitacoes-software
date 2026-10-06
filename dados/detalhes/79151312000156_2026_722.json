@@ -1,16 +1,7 @@
 {
   "id": "79151312000156-1-000722/2026",
   "consultadoEm": "2026-10-06T16:55:25.781572-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/79151312000156/compras/2026/722']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -132,5 +123,61 @@
       "tipoDocumentoNome": "Outros Documentos",
       "tipoDocumentoDescricao": "Outros Documentos"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 128608.32,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "79151312000156-1-000722/2026",
+    "linkSistemaOrigem": "www.transparencia.pr.gov.br/pte/compras/licitacoes/pesquisar-param?numprocesso=1473&ano=2026&codmodalidade=68",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 722,
+    "numeroCompra": "1473",
+    "processo": "1473/2026",
+    "orgaoEntidade": {
+      "cnpj": "79151312000156",
+      "razaoSocial": "UNIVERSIDADE ESTADUAL DE MARINGA",
+      "esferaId": "E",
+      "poderId": "E"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Paraná",
+      "ufSigla": "PR",
+      "municipioNome": "Maringá",
+      "codigoIbge": "4115200",
+      "codigoUnidade": "56",
+      "nomeUnidade": "UEM - Universidade Estadual de Maringá"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 1,
+    "modoDisputaNome": "Aberto",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "Contratação de empresa especializada para locação de sistema automatizado de urinálise, com fornecimento de reagentes, controles, calibradores, insumos, acessórios, instalação, treinamento, manutenção preventiva e corretiva, suporte técnico e demais itens necessários à execução dos exames, pelo período de 12 meses podendo ser prorrogado na forma legal.",
+    "informacaoComplementar": "(L1):LOCAÇÃO,(L2):MATERIAL/INSUMOS.",
+    "srp": false,
+    "fontesOrcamentarias": [],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-05T16:00:09",
+    "dataAberturaProposta": "2026-10-06T08:00:00",
+    "dataEncerramentoProposta": "2026-10-22T08:29:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-05T16:00:09",
+    "dataAtualizacao": "2026-10-05T16:00:09",
+    "dataAtualizacaoGlobal": "2026-10-05T16:00:14",
+    "usuarioNome": "Secretaria de Estado da Administração e da Previdência do Estado do Paraná - SEAP-PR"
+  }
 }

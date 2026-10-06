@@ -1,16 +1,7 @@
 {
   "id": "50176270000126-1-000079/2026",
   "consultadoEm": "2026-10-06T16:55:27.720430-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/50176270000126/compras/2026/79']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -66,5 +57,68 @@
       "tipoDocumentoNome": "Edital",
       "tipoDocumentoDescricao": "Edital"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 0.0,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 3,
+    "orcamentoSigilosoDescricao": "Compra totalmente sigilosa",
+    "numeroControlePNCP": "50176270000126-1-000079/2026",
+    "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92546205001352026",
+    "linkProcessoEletronico": "https://portal.tcm.sp.gov.br/Publicacoes/index/23",
+    "anoCompra": 2026,
+    "sequencialCompra": 79,
+    "numeroCompra": "135",
+    "processo": "TC/011005/2026",
+    "orgaoEntidade": {
+      "cnpj": "50176270000126",
+      "razaoSocial": "SAO PAULO TRIBUNAL DE CONTAS DO MUNICIPIO",
+      "poderId": "L",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "São Paulo",
+      "ufSigla": "SP",
+      "municipioNome": "São Paulo",
+      "codigoIbge": "3550308",
+      "codigoUnidade": "925462",
+      "nomeUnidade": "ESP-TRIBUNAL DE CONTAS DO MUN. DE SAO PAULO"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 3,
+    "modoDisputaNome": "Aberto-Fechado",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "Contratação visando ao fornecimento de licenças perpétuas dos softwares Micro Focus/OpenText, abrangendo as soluções ZENworks Configuration Management e Identity Manager Standard Edition, acompanhadas de manutenção oficial do fabricante pelo período de 36 (trinta e seis) meses.",
+    "informacaoComplementar": "As propostas devem atender às especificações e quantidades do edital. Em caso de divergência com o COMPRAS.GOV.BR, valem as regras do edital. Informações extras no sistema não devem ser consideradas pelos licitantes.",
+    "srp": false,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 2,
+        "nome": "Municipal",
+        "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-06T07:02:35"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-06T07:02:33",
+    "dataAberturaProposta": "2026-10-07T08:00:00",
+    "dataEncerramentoProposta": "2026-10-23T09:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-06T07:02:33",
+    "dataAtualizacao": "2026-10-06T07:02:33",
+    "dataAtualizacaoGlobal": "2026-10-06T07:05:47",
+    "usuarioNome": "Compras.gov.br"
+  }
 }

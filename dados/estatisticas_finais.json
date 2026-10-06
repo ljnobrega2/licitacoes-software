@@ -1,16 +1,16 @@
 {
-  "consulta": "2026-10-06T19:43:17.837824",
+  "consulta": "2026-10-06T19:57:11.860403",
   "recuperados": 11076,
   "abas": {
     "Revisar resultados": 8065,
     "Licenças comerciais": 148,
-    "Soluções com serviços": 227,
+    "Soluções com serviços": 228,
     "Vencidas e inconsistentes": 1320,
     "Atas vigentes": 1094,
-    "Outros softwares": 209,
+    "Outros softwares": 208,
     "Duplicidades possíveis": 13
   },
-  "itens": 1916,
+  "itens": 1964,
   "ufs": {
     "PR": 57,
     "SC": 28,
@@ -47,7 +47,7 @@
     "Não se aplica": 40,
     "Distrital": 2
   },
-  "detalhes": 380,
+  "detalhes": 405,
   "sebraeSoftware": 15,
   "sebraeSessaoFutura": 4,
   "portalComprasPublicas": 37,

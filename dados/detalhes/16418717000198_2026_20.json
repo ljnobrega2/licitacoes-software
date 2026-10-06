@@ -1,16 +1,7 @@
 {
   "id": "16418717000198-1-000020/2026",
   "consultadoEm": "2026-10-06T16:55:30.865017-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/16418717000198/compras/2026/20']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -294,5 +285,61 @@
       "tipoDocumentoNome": "Edital",
       "tipoDocumentoDescricao": "Edital"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 179588.33,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "16418717000198-1-000020/2026",
+    "linkSistemaOrigem": "sai.io.org.br/site/PublicadoPncp/171727?localConsulta=2&cod=1570",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 20,
+    "numeroCompra": "008",
+    "processo": "078/2026",
+    "orgaoEntidade": {
+      "cnpj": "16418717000198",
+      "razaoSocial": "MUNICIPIO DE CAETANOS",
+      "esferaId": "M",
+      "poderId": "N"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Bahia",
+      "ufSigla": "BA",
+      "municipioNome": "Caetanos",
+      "codigoIbge": "2905156",
+      "codigoUnidade": "1570",
+      "nomeUnidade": "Prefeitura Municipal de Caetanos"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 12,
+    "modalidadeNome": "Credenciamento",
+    "justificativaPresencial": null,
+    "modoDisputaId": 5,
+    "modoDisputaNome": "Não se aplica",
+    "tipoInstrumentoConvocatorioCodigo": 4,
+    "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 79, I",
+      "descricao": "Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "codigo": 140
+    },
+    "objetoCompra": "Credenciamento de empresas especializadas para prestação de serviços e disponibilização de solução, por itens independentes, compreendendo: locação de sistema de digitalização de imagens para Raios-X DR; serviço de dosimetria pessoal; manutenção preventiva de equipamento de Raios-X fixo ALTUS; manutenção preventiva de câmara de conservação de 350 litros; manutenção preventiva de conservadora CSV de 280 litros; manutenção preventiva de conservadora CSV de 120 litros; e manutenção corretiva, mediante hora técnica, de equipamentos médico-hospitalares da Secretaria Municipal de Saúde de Caetanos/BA.",
+    "informacaoComplementar": null,
+    "srp": false,
+    "fontesOrcamentarias": [],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-01T10:08:37",
+    "dataAberturaProposta": "2026-10-02T08:00:00",
+    "dataEncerramentoProposta": "2027-10-02T17:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-01T10:08:37",
+    "dataAtualizacao": "2026-10-01T10:08:37",
+    "dataAtualizacaoGlobal": "2026-10-01T10:08:38",
+    "usuarioNome": "Instituto Municipal de Administração Pública - IMAP"
+  }
 }

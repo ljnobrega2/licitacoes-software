@@ -1,16 +1,7 @@
 {
   "id": "06208946000124-1-000001/2027",
   "consultadoEm": "2026-10-06T16:55:29.571317-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/06208946000124/compras/2027/1']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -80,5 +71,61 @@
       "tipoDocumentoNome": "Outros Documentos",
       "tipoDocumentoDescricao": "Outros Documentos"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 0.0,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "06208946000124-1-000001/2027",
+    "linkSistemaOrigem": null,
+    "linkProcessoEletronico": null,
+    "anoCompra": 2027,
+    "sequencialCompra": 1,
+    "numeroCompra": "1",
+    "processo": "014/2026",
+    "orgaoEntidade": {
+      "cnpj": "06208946000124",
+      "razaoSocial": "MUNICIPIO DE PORTO FRANCO",
+      "poderId": "N",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Maranhão",
+      "ufSigla": "MA",
+      "municipioNome": "Porto Franco",
+      "codigoUnidade": "980877",
+      "nomeUnidade": "PREFEITURA MUNICIPAL DE PORTO FRANCO - MA",
+      "codigoIbge": "2109007"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 12,
+    "modalidadeNome": "Credenciamento",
+    "justificativaPresencial": null,
+    "modoDisputaId": 5,
+    "modoDisputaNome": "Não se aplica",
+    "tipoInstrumentoConvocatorioCodigo": 4,
+    "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 79, I",
+      "descricao": "Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "codigo": 140
+    },
+    "objetoCompra": "Pré-Qualificação para seleção de empresas para implantação de Projeto de Educação 4.0 (educação científica, tecnológica e digital), alinhado à Base Nacional Comum Curricular (BNCC) e à Política Nacional de Educação Digital (PNED), utilizando Metodologias Ativas como Educação Maker e aprendizado STEAM, contemplando, principalmente, materiais pedagógicos e formação em Robótica Educacional, software de programação visual, atendendo as necessidades  da Secretaria Municipal de Educação de Porto Franc",
+    "informacaoComplementar": "O item 3.1.1 do Edital de pré-qualificação, em epigrafe, estipula que é vedada a entrega da obra em seu formato físico na etapa de envio de documentos. Cumpre esclarecer, que tal medida visava facilitar a análise do material didático com maior flexibilidade e pela pluralidade dos coordenadores e professores participantes, já que, em meio físico, o mesmo material teria que ser enviado e consultado individualmente, o que poderia causar demora na análise dos requisitos estipulados no Anexo II do Edital.\n\nContudo, após reflexão e considerações junto com a coordenação pedagógica sobre o funcionamento de mercado e divulgação de obras adotado por editoras e representantes comerciais de livros didáticos, e no intuito de ampliar a participação de empresas interessadas, achou-se por bem permitir também a apresentação de material didático por meio físico, ampliando-se os meios de apresentação dessa amostra.\n\nO referido item passa a ter a seguinte redação:\n\n“3.1.1. Os livros serão enviados em formato HTML5, arquivo PDF ou material físico, para avaliação da coordenação pedagógica e professores designados pela SEMED, sobre a conformidade com os parâmetros definidos no Anexo II deste Edital. Caso opte pelo envio de material físico, o mesmo deverá ser entregue aos cuidados da Equipe de Planejamento, instalada na sala da CPL, localizada na sede da Prefeitura Municipal de Porto Franco - MA, Praça Demétrio Milhomem, nº 10, Centro, Porto Franco – MA, devendo a empresa interessada arcar com todos os custos envolvidos com a entrega do material físico, não sendo de responsabilidade da Administração quaisquer prejuízos sobre a não apresentação de amostra em desacordo com os prazos estabelecidos, nos termos do Edital.”\n\nAs demais disposições do Edital permanecem inalteradas.",
+    "srp": false,
+    "fontesOrcamentarias": [],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-02-11T11:04:08",
+    "dataAberturaProposta": "2026-02-26T11:52:00",
+    "dataEncerramentoProposta": "2027-02-11T10:52:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-02-11T11:04:08",
+    "dataAtualizacao": "2026-02-25T16:06:13",
+    "dataAtualizacaoGlobal": "2026-02-25T16:06:13",
+    "usuarioNome": "Compras.gov.br"
+  }
 }

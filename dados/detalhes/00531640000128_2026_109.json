@@ -1,16 +1,7 @@
 {
   "id": "00531640000128-1-000109/2026",
   "consultadoEm": "2026-10-06T16:55:27.869038-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/00531640000128/compras/2026/109']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -180,5 +171,68 @@
       "tipoDocumentoNome": "Edital",
       "tipoDocumentoDescricao": "Edital"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 440810.7,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "00531640000128-1-000109/2026",
+    "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92645805000072026",
+    "linkProcessoEletronico": "https://sei.funprespjud.com.br/sei/controlador.php?acao=procedimento_trabalhar&acao_origem=procedimento_controlar&acao_retorno=procedimento_controlar&id_procedimento=184930&infra_sistema=100000100&infra_unidade_atual=110000932&infra_hash=0cdf70486caac5445b9ff9617a74131040f10ebb3247487dc3f197371a3e63f8",
+    "anoCompra": 2026,
+    "sequencialCompra": 109,
+    "numeroCompra": "7",
+    "processo": "01970/2026",
+    "orgaoEntidade": {
+      "cnpj": "00531640000128",
+      "razaoSocial": "SUPREMO TRIBUNAL FEDERAL",
+      "esferaId": "F",
+      "poderId": "J"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Distrito Federal",
+      "ufSigla": "DF",
+      "municipioNome": "Brasília",
+      "codigoIbge": "5300108",
+      "codigoUnidade": "926458",
+      "nomeUnidade": "FUNDAÇÃO DE PREV. COMPLEMENTAR - FUNPRESP"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 1,
+    "modoDisputaNome": "Aberto",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 13.303/2016, Art. 32, IV",
+      "descricao": "Pregão: modalidade de licitação preferencial para a aquisição de bens e serviços comuns, assim considerados aqueles cujos padrões de desempenho e qualidade possam ser objetivamente definidos pelo edital, por meio de especificações usuais no mercado;",
+      "codigo": 113
+    },
+    "objetoCompra": "Contratação de subscrições de licenças de uso de soluções Microsoft, pelo período de 12 (doze) meses, para atendimento às necessidades operacionais, de produtividade, colaboração, análise de dados, armazenamento em nuvem e segurança da informação da Funpresp-Jud",
+    "informacaoComplementar": "Todas as informações para esta contratação estão previstas no Edital Funpresp-Jud nº 36/2026 e seus anexos. O edital está disponível no site da Funpresp-Jud (https://www.funprespjud.com.br/)",
+    "srp": false,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 4,
+        "nome": "Federal",
+        "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-09-30T12:21:08"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-09-30T12:21:07",
+    "dataAberturaProposta": "2026-10-01T11:00:00",
+    "dataEncerramentoProposta": "2026-10-23T10:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-09-30T12:21:07",
+    "dataAtualizacao": "2026-09-30T12:21:07",
+    "dataAtualizacaoGlobal": "2026-09-30T12:22:56",
+    "usuarioNome": "Compras.gov.br"
+  }
 }

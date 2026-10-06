@@ -1,16 +1,7 @@
 {
   "id": "17935388000115-1-000050/2026",
   "consultadoEm": "2026-10-06T16:55:30.420168-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/17935388000115/compras/2026/50']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -712,5 +703,61 @@
       "tipoDocumentoNome": "Edital",
       "tipoDocumentoDescricao": "Edital"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 3980000.0,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "17935388000115-1-000050/2026",
+    "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/99744",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 50,
+    "numeroCompra": "03",
+    "processo": "52/2026",
+    "orgaoEntidade": {
+      "cnpj": "17935388000115",
+      "razaoSocial": "MUNICIPIO DE CAREACU",
+      "esferaId": "M",
+      "poderId": "N"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Minas Gerais",
+      "ufSigla": "MG",
+      "municipioNome": "Careaçu",
+      "codigoIbge": "3113602",
+      "codigoUnidade": "2176",
+      "nomeUnidade": "Unidade Única"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 12,
+    "modalidadeNome": "Credenciamento",
+    "justificativaPresencial": null,
+    "modoDisputaId": 5,
+    "modoDisputaNome": "Não se aplica",
+    "tipoInstrumentoConvocatorioCodigo": 4,
+    "tipoInstrumentoConvocatorioNome": "Edital de Chamamento Público",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 79, I",
+      "descricao": "Credenciamento: na hipótese de contratação paralela e não excludente: caso em que é viável e vantajosa para a Administração a realização de contratações simultâneas em condições padronizadas.",
+      "codigo": 140
+    },
+    "objetoCompra": "CREDENCIAMENTO DE EMPRESAS ESPECIALIZADAS PARA A PRESTAÇÃO DE SERVIÇOS MECÂNICOS E DEMAIS SERVIÇOS AUTOMOTIVOS, FORNECIMENTO DE PEÇAS ORIGINAIS E/OU GENUÍNAS, COMPONENTES E ACESSÓRIOS AUTOMOTIVOS NOVOS PARA VEÍCULOS LEVES E PESADOS, PELO MAIOR DESCONTO SOBRE A TABELA DO SOFTWARE \"TRAZ VALOR\", EM CONFORMIDADE COM O TERMO DE REFERÊNCIA PARA ATENDER A MANUTENÇÃO PREVENTIVA E CORRETIVA DA FROTA DO MUNICÍPIO DE CAREAÇU/MG",
+    "informacaoComplementar": "",
+    "srp": false,
+    "fontesOrcamentarias": [],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-05-08T10:23:40",
+    "dataAberturaProposta": "2026-05-08T00:00:00",
+    "dataEncerramentoProposta": "2027-05-08T23:59:59",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-05-08T10:23:40",
+    "dataAtualizacao": "2026-06-22T09:32:44",
+    "dataAtualizacaoGlobal": "2026-06-22T09:32:44",
+    "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+  }
 }

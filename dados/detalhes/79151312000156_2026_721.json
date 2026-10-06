@@ -1,16 +1,7 @@
 {
   "id": "79151312000156-1-000721/2026",
   "consultadoEm": "2026-10-06T16:55:25.825510-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/79151312000156/compras/2026/721']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -104,5 +95,68 @@
       "tipoDocumentoDescricao": "Edital",
       "tipoDocumentoId": 2
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 128608.32,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "79151312000156-1-000721/2026",
+    "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92676405002252026",
+    "linkProcessoEletronico": "https://www.eprotocolo.pr.gov.br",
+    "anoCompra": 2026,
+    "sequencialCompra": 721,
+    "numeroCompra": "225",
+    "processo": "26.396.210-9",
+    "orgaoEntidade": {
+      "cnpj": "79151312000156",
+      "razaoSocial": "UNIVERSIDADE ESTADUAL DE MARINGA",
+      "poderId": "E",
+      "esferaId": "E"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Paraná",
+      "ufSigla": "PR",
+      "municipioNome": "Maringá",
+      "codigoIbge": "4115200",
+      "codigoUnidade": "926764",
+      "nomeUnidade": "UNIVERSIDADE ESTADUAL DE MARINGA - PR"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 1,
+    "modoDisputaNome": "Aberto",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "Contratação de empresa especializada para locação de sistema automatizado de urinálise, com fornecimento de reagentes, controles, calibradores, insumos, acessórios, instalação, treinamento, manutenção preventiva e corretiva, suporte técnico e demais itens necessários à execução dos exames, pelo período de 12 meses podendo ser prorrogado na forma legal. Conforme descrição detalhada no Termo de Referência.",
+    "informacaoComplementar": "Conforme Edital de Pregão Eletrônico 225/2026-HUM e Termo de Referência.",
+    "srp": false,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 3,
+        "nome": "Estadual",
+        "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-05T14:26:37"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-05T14:26:36",
+    "dataAberturaProposta": "2026-10-06T08:00:00",
+    "dataEncerramentoProposta": "2026-10-22T08:29:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-05T14:26:36",
+    "dataAtualizacao": "2026-10-05T14:26:36",
+    "dataAtualizacaoGlobal": "2026-10-05T14:27:37",
+    "usuarioNome": "Compras.gov.br"
+  }
 }

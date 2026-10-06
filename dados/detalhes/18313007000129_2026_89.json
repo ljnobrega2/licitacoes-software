@@ -1,16 +1,7 @@
 {
   "id": "18313007000129-1-000089/2026",
   "consultadoEm": "2026-10-06T16:55:28.365790-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/18313007000129/compras/2026/89']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -66,5 +57,61 @@
       "tipoDocumentoNome": "Edital",
       "tipoDocumentoDescricao": "Edital"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 0.0,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 3,
+    "orcamentoSigilosoDescricao": "Compra totalmente sigilosa",
+    "numeroControlePNCP": "18313007000129-1-000089/2026",
+    "linkSistemaOrigem": "https://app2.licitardigital.com.br/pesquisa/115493",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 89,
+    "numeroCompra": "56",
+    "processo": "106/2026",
+    "orgaoEntidade": {
+      "cnpj": "18313007000129",
+      "razaoSocial": "MUNICIPIO DE CRUCILANDIA",
+      "poderId": "N",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Minas Gerais",
+      "ufSigla": "MG",
+      "municipioNome": "Crucilândia",
+      "codigoUnidade": "670",
+      "nomeUnidade": "Unidade Única",
+      "codigoIbge": "3120607"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 3,
+    "modoDisputaNome": "Aberto-Fechado",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA PARA DISPONIBILIZAÇÃO DE SOLUÇÃO TECNOLÓGICA INTEGRALMENTE ACESSÍVEL EM AMBIENTE WEB, NO MODELO SOFTWARE COMO SERVIÇO – SAAS, DESTINADA AO ACOMPANHAMENTO, PROCESSAMENTO, CONFERÊNCIA, ANÁLISE E MONITORAMENTO DAS INFORMAÇÕES RELACIONADAS AO VALOR ADICIONADO FISCAL – VAF, AOS ELEMENTOS RELACIONADOS À COMPOSIÇÃO DO ÍNDICE DE PARTICIPAÇÃO DOS MUNICÍPIOS – IPM E AO CRITÉRIO EDUCAÇÃO UTILIZADO NA DISTRIBUIÇÃO DA RECEITA ESTADUAL",
+    "informacaoComplementar": "",
+    "srp": false,
+    "fontesOrcamentarias": [],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-05T10:07:50",
+    "dataAberturaProposta": "2026-10-02T00:00:00",
+    "dataEncerramentoProposta": "2026-10-26T10:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-05T10:07:50",
+    "dataAtualizacao": "2026-10-05T10:07:50",
+    "dataAtualizacaoGlobal": "2026-10-05T10:07:51",
+    "usuarioNome": "Licitar Digital - Plataforma de Licitações Online"
+  }
 }

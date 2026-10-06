@@ -1,16 +1,7 @@
 {
   "id": "00097857000171-1-000042/2026",
   "consultadoEm": "2026-10-06T16:55:29.257758-03:00",
-  "falhas": [
-    {
-      "campo": "compra",
-      "erro": "'>=' not supported between instances of 'str' and 'int'"
-    },
-    {
-      "campo": "compra",
-      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/00097857000171/compras/2026/42']' returned non-zero exit status 22."
-    }
-  ],
+  "falhas": [],
   "itens": [
     {
       "numeroItem": 1,
@@ -80,5 +71,61 @@
       "tipoDocumentoNome": "Outros Documentos",
       "tipoDocumentoDescricao": "Outros Documentos"
     }
-  ]
+  ],
+  "compra": {
+    "valorTotalEstimado": 13230.0,
+    "valorTotalHomologado": 10800.0,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "00097857000171-1-000042/2026",
+    "linkSistemaOrigem": "",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 42,
+    "numeroCompra": "7272",
+    "processo": "7272",
+    "orgaoEntidade": {
+      "cnpj": "00097857000171",
+      "razaoSocial": "MUNICIPIO DE SANTO ANTONIO DO DESCOBERTO",
+      "poderId": "N",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Goiás",
+      "ufSigla": "GO",
+      "municipioNome": "Santo Antônio do Descoberto",
+      "codigoUnidade": "16",
+      "nomeUnidade": "FUNDO DE PREVIDENCIA SOCIAL SADPREV",
+      "codigoIbge": "5219753"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 8,
+    "modalidadeNome": "Dispensa",
+    "justificativaPresencial": null,
+    "modoDisputaId": 4,
+    "modoDisputaNome": "Dispensa Com Disputa",
+    "tipoInstrumentoConvocatorioCodigo": 2,
+    "tipoInstrumentoConvocatorioNome": "Aviso de Contratação Direta",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 75, II",
+      "descricao": "Dispensa de Licitação: para contratação que envolva valores inferiores a R$ 50.000,00 (cinquenta mil reais), no caso de outros serviços e compras",
+      "codigo": 19
+    },
+    "objetoCompra": "CONTRATAÇÃO DE SERVIÇOS DE LOCAÇÃO DE SISTEMA CMS DE GESTÃO DE SITE, PORTAL TRANSPARÊNCIA, PAINEL PRÓ-GESTÃO E IMPLANTAÇÃO DE SITE PARA ATENDER AS NECESSIDADES ADMINISTRATIVAS DO FUNDO DE PREVIDÊNCIA ",
+    "informacaoComplementar": "CONTRATAÇÃO DE SERVIÇOS DE LOCAÇÃO DE SISTEMA CMS DE GESTÃO DE SITE, PORTAL TRANSPARÊNCIA, PAINEL PRÓ-GESTÃO E IMPLANTAÇÃO DE SITE PARA ATENDER AS NECESSIDADES ADMINISTRATIVAS DO FUNDO DE PREVIDÊNCIA SOCIAL DOS SERVIDORES DO MUNICÍPIO DE SANTO ANTÔNIO DO DESCOBERTO-GO",
+    "srp": false,
+    "fontesOrcamentarias": [],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-04-13T10:33:30",
+    "dataAberturaProposta": "2026-02-19T09:40:41",
+    "dataEncerramentoProposta": "2026-12-31T10:08:41",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": true,
+    "dataInclusao": "2026-04-13T10:33:30",
+    "dataAtualizacao": "2026-04-13T10:33:30",
+    "dataAtualizacaoGlobal": "2026-04-13T10:35:15",
+    "usuarioNome": "CENTI"
+  }
 }
