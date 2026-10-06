@@ -12,13 +12,9 @@ Levantamento de 06/10/2026. Pasta de pesquisa e exportação de dados públicos;
 - Dados oficiais, detalhes de contratações e auditoria das consultas ficam em `dados/`.
 - Os scripts de coleta, triagem e exportação ficam em `scripts/`.
 
-## Continuidade no Claude
+## Continuidade
 
-Leia o handoff salvo em:
-
-`/var/folders/0t/rb30_h7109z0j45cm5fxp5600000gt/T/handoff-licitacoes-software-2026-10-06.md`
-
-Esse arquivo está na pasta temporária do macOS por orientação da habilidade handoff. Os dados, a planilha e os scripts permanecem nesta pasta do projeto.
+O estado atual, o que falta e os cuidados técnicos estão em `HANDOFF.md`, na raiz do repositório.
 
 Objetivo do usuário: encontrar todas as oportunidades brasileiras para fornecer/revender licenças e assinaturas de sistemas, em todas as esferas e localidades, incluindo abertas, futuras anunciadas e atas vigentes. O levantamento atual **não é exaustivo**: há falhas documentadas de consulta e portais externos ainda sem cobertura integral. Atas não representam nova disputa para qualquer fornecedor; classificação como licença comercial não comprova autorização de revenda.
 
