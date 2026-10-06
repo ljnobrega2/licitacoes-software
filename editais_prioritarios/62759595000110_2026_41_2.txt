@@ -1,0 +1,1530 @@
+
+[PÁGINA 1]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+1 de 32
+AUTORIDADE NACIONAL DE SEGURANÇA NUCLEAR
+Termo de Referência 10/2026
+Informações Básicas
+Número do 
+artefato UASG Editado por Atualizado em
+10/2026 324002-AUTORIDADE NACIONAL DE SEGURANÇA 
+NUCLEAR
+CLAUDIO ADAO DIAS 
+CAETANO
+23/09/2026 10:20 (v 
+0.6)
+Status
+CONCLUIDO
+Outras informações
+Categoria Número da Contratação Processo Administrativo
+VII - contratações de tecnologia da informação e de comunicação/Serviços de TIC 48100.004018/2026-26
+1. CONDIÇÕES GERAIS DA CONTRATAÇÃO
+1.1. Aquisição de 4 (quatro) licenças nominais do Adobe Creative Cloud VIP Teams, identificador SGD AD-014, na
+modalidade de subscrição pelo período de 24 (vinte e quatro) meses, incluindo ativação eletrônica, direito de uso,
+atualizações, correções de segurança, administração centralizada e suporte oficial do fabricante ou de canal
+autorizado, nos termos da tabela abaixo, conforme condições e exigências estabelecidas neste instrumento.
+ITEM ESPECIFICAÇÃO CATSER
+UNIDADE DE 
+MEDIDA
+QUANTIDADE VALOR UNITÁRIO VALOR TOTAL
+1
+Adobe Creative Cloud VIP Teams – subscrição nominal por 
+24 meses – SGD AD-014
+27502 Licença 4 R$ 10.204,16 R$ 40.816,64
+ 
+1.2. O CATSER 27502 corresponde à cessão temporária de direitos sobre programas de computador (locação de
+software), compatível com o modelo de subscrição pretendido.
+1.3. O objeto desta contratação é caracterizado como serviço comum e contínuo de TIC, conforme justificativa
+constante do Estudo Técnico Preliminar, pois seus padrões de desempenho e qualidade podem ser definidos
+objetivamente por especificações usuais de mercado e sua necessidade se prolonga no tempo.
+1.4. O objeto desta contratação não se enquadra como bem de luxo, conforme o Decreto nº 10.818, de 27 de
+setembro de 2021.
+1.5. O prazo de vigência da contratação é de 24 (vinte e quatro) meses, contado da ativação das licenças, que deverá
+ocorrer no início da execução, admitidas prorrogações sucessivas de 24 (vinte e quatro) meses, observado o limite
+total de 10 (dez) anos previsto nos arts. 106 e 107 da Lei nº 14.133/2021.
+1.5.1. O fornecimento é enquadrado como continuado porque a interrupção do licenciamento compromete atividades
+institucionais permanentes de criação, edição e documentação digital. A vigência plurianual é mais vantajosa por
+reduzir o risco de descontinuidade e os custos administrativos de contratações anuais.
+UASG 324002
+
+[PÁGINA 2]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+2 de 32
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+7.  
+1.6. A prorrogação não é automática e dependerá, em cada oportunidade, de previsão contratual, manutenção da
+necessidade, disponibilidade orçamentária, execução satisfatória, regularidade da contratada e ateste da autoridade
+competente de que os preços e as condições permanecem vantajosos, admitida a negociação. O PMC-TIC vigente
+deverá ser verificado antes de cada prorrogação e o ajuste deverá ser formalizado por termo aditivo.
+1.7. A adoção do ciclo inicial de 24 meses é coerente com o item padronizado AD-014, reduz o risco de interrupção
+anual e permite reavaliação técnica e econômica bienal. O desenho permite até cinco ciclos regulares de 24 meses —
+período inicial e, se vantajosas, até quatro prorrogações — alcançando, sem frações residuais, o limite de 120 meses.
+A alternativa de 36 meses exigiria, para chegar a dez anos, três ciclos de 36 meses e um ciclo residual de 12 meses,
+além de comprometer recursos por prazo inicial superior ao necessário.
+1.8. Não haverá parcelamento, pois se trata de item único, homogêneo e tecnicamente integrado, com quatro
+unidades idênticas, cuja contratação conjunta simplifica a administração e preserva a padronização do período de
+licenciamento.
+1.9. O contrato ou outro instrumento hábil que o substitua oferecerá maior detalhamento das regras aplicáveis à
+vigência da contratação.
+2. FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO
+A presente contratação justifica-se para atender às necessidades da Autoridade Nacional de Segurança[A1] 
+Nuclear (ANSN) relacionadas à produção, edição, tratamento e publicação de materiais gráficos e
+audiovisuais em padrão profissional, utilizados em atividades técnicas, finalísticas, administrativas e de
+comunicação institucional.
+As demandas compreendem, entre outras, a elaboração de relatórios técnicos, infográficos, diagramas, peças
+informativas, campanhas educativas, apresentações, imagens, vídeos e materiais para meios digitais e
+impressos. A execução dessas atividades requer recursos de edição de imagem, vetorização, diagramação,
+tratamento de cores, edição audiovisual e exportação em formatos compatíveis com os fluxos institucionais.
+O Adobe Creative Cloud atende aos fluxos de edição de imagens, diagramação, produção audiovisual e
+criação de conteúdo digital.  A continuidade dessa ferramenta reduz riscos de perda de formatação, retrabalho
+e incompatibilidade na atualização de acervos existentes.
+Os resultados esperados são a continuidade dos fluxos de produção visual, a padronização dos materiais
+institucionais, a redução de retrabalho, o aumento da produtividade das equipes e a conformidade do
+licenciamento de software utilizado pela ANSN.
+O objeto da contratação está previsto no Plano de Contratações Anual 2026 conforme consta das informações
+básicas desse Termo de Referência.
+A ANSN foi criada em decorrência da cisão da CNEN, efetivada em agosto de 2025, e, durante o período de
+transição institucional, vem utilizando o PDTIC daquele órgão até o término de sua vigência. Após esse
+período, as contratações de TIC da Autoridade passarão a ser fundamentadas em Plano Diretor de
+Tecnologia da Informação e Comunicação próprio.
+O objeto da contratação também está alinhado com a Estratégia Federal de Governo Digital 2024 – 2027 e em
+consonância com o Plano Diretor de Tecnologia da Informação e Comunicação (PDTIC) 2025 - 2027 da
+CNEN, conforme demonstrado abaixo:
+ALINHAMENTO AOS PLANOS ESTRATÉGICOS
+ID Objetivos Estratégicos
+OE-PEI.04
+PEI-CNEN 2023-2027
+Fortalecer as Atividades de Proteção da População
+PEI-CNEN 2023-2027
+
+
+[PÁGINA 3]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+3 de 32
+OE-PEI.06 Aperfeiçoar a Governança e a Gestão Corporativa
+OE-PEI.09
+PEI-CNEN 2023-2027
+Modernizar a Infraestrutura
+OETI07 Implantar e evoluir os sistemas e serviços de TIC oferecidos
+OETI09 Dispor de infraestrutura moderna, segura, escalável e robusta
+N16 Prover softwares comerciais para execução das atividades 
+administrativas e finalísticas
+ 
+ALINHAMENTO AO PDTIC 2025 - 2027 da CNEN
+ID  Ação do PDTIC ID Meta do PDTIC associada
+A057
+Aquisição e/ou atualização de 
+licenças de software, a fim de 
+atender demandas específicas da 
+área técnica e administrativa 
+(minitab, autocad, coreal draw,
+matlab)
+M5.
+1
+Aumentar o uso de soluções corporativas
+3. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO CONSIDERADO O CICLO DE VIDA 
+DO OBJETO E ESPECIFICAÇÃO DO PRODUTO
+ 
+3.1. A descrição da solução como um todo encontra-se pormenorizada em tópico específico dos Estudos Técnicos
+Preliminares, apêndice deste Termo de Referência.
+3.2. A solução de TIC consiste na disponibilização eletrônica de quatro licenças completas do plano Adobe Creative Cloud
+VIP Teams, atribuídas individualmente a quatro usuários autorizados da ANSN, em conta institucional administrada pela
+SECSOL/CGTI.
+3.3. O fornecimento abrange:
+3.3.1. ativação eletrônica das quatro licenças na organização administrativo institucional indicada pela ANSN;
+3.3.2. direito de uso contínuo das aplicações integrantes do plano Adobe Creative Cloud VIP Teams por 24 meses;
+3.3.3. aplicações integradas para edição de imagens, ilustração vetorial, diagramação, vídeo, áudio, animação, criação de
+conteúdo para web e documentação digital;
+3.3.4. atualizações de versão, correções de segurança e recursos disponibilizados regularmente pelo fabricante;
+3.3.5. portal administrativo para atribuição, remoção, controle e acompanhamento das licenças;
+
+
+[PÁGINA 4]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+4 de 32
+3.3.6. suporte oficial do fabricante ou de canal autorizado durante toda a vigência; e
+3.3.7. comprovação de licenciamento autêntico, regular e destinado ao segmento governamental/equipes, conforme o
+programa aplicável do fabricante.
+3.4. Cada licença será nominal e indivisível quanto aos aplicativos que compõem o plano. Não se admite compartilhar
+credenciais, atribuir a mesma licença simultaneamente a pessoas distintas ou distribuir diferentes aplicativos da mesma
+licença entre vários usuários.
+3.5. Não integram o objeto bancos de imagens ou ativos comercializados separadamente, treinamento específico, mídias
+físicas, equipamentos, infraestrutura adicional ou aplicações não incluídas no plano Adobe Creative Cloud VIP Teams.
+3.6. Ao término do contrato, a contratada deverá apoiar a desativação ou a transição administrativa das licenças, sem reter
+credenciais, arquivos ou informações institucionais. Os arquivos produzidos permanecerão sob domínio da ANSN,
+observadas as condições técnicas dos formatos e dos serviços em nuvem.
+4. REQUISITOS DA CONTRATAÇÃO
+Requisitos de Negócio
+ A presente contratação orienta-se pelos seguintes requisitos de negócio:4.1.
+ Garantir a continuidade das atividades institucionais da ANSN relacionadas à criação, edição, tratamento e4.1.1.
+publicação de conteúdos gráficos, audiovisuais, técnicos e institucionais;
+ Disponibilizar solução de mercado amplamente difundida, compatível com os formatos de arquivos já utilizados pela4.1.2.
+Administração, assegurando a preservação dos acervos digitais existentes e a continuidade dos fluxos de trabalho;
+ Permitir a utilização dos recursos necessários à edição de imagens, ilustração vetorial, diagramação, produção4.1.3.
+audiovisual e criação de conteúdo digital, por meio de subscrição regular e devidamente licenciada;
+ Assegurar a conformidade do licenciamento de software utilizado pela ANSN, eliminando riscos relacionados à4.1.4.
+utilização de soluções não licenciadas ou incompatíveis com as condições de uso estabelecidas pelo fabricante;
+ Disponibilizar mecanismos centralizados de administração e gerenciamento das licenças contratadas.4.1.5.
+Requisitos de Capacitação
+ Não faz parte do escopo da contratação a realização de capacitação técnica na utilização dos recursos relacionados ao4.2.
+objeto da presente contratação.
+ Considerando que os usuários indicados pela Contratante já possuem conhecimento e experiência na utilização da4.2.1.
+solução Adobe Creative Cloud, não será exigido treinamento ou transferência de conhecimento por parte da Contratada.
+Requisitos Legais
+ O presente processo de contratação deve observar a Constituição Federal, a Lei nº 14.133/2021, a Instrução Normativa4.3.
+SGD/ME nº 94/2022, a Instrução Normativa SEGES/ME nº 65/2021, a Lei nº 13.709/2018 (LGPD), a Lei nº 9.609/1998 (Lei
+de Software), a Lei nº 9.610/1998 (Direitos Autorais), além das demais normas aplicáveis à contratação e licenciamento de
+software para a Administração Pública Federal.
+ As licenças fornecidas deverão ser originais, regulares e comercializadas em conformidade com os termos e4.3.1.
+condições estabelecidos pelo fabricante.
+Requisitos de Manutenção
+ Devido às características da solução, haverá necessidade de realização de manutenção corretiva, adaptativa e4.4.
+evolutiva pelo fabricante durante toda a vigência da subscrição.
+
+
+[PÁGINA 5]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+5 de 32
+2.  
+1.  
+1.  
+ A solução deverá disponibilizar atualizações de versão, correções de falhas, correções de segurança e melhorias4.4.1.
+funcionais sem custos adicionais para a Contratante.
+ As atualizações disponibilizadas pelo fabricante deverão permanecer acessíveis durante todo o período de vigência4.4.2.
+das licenças.
+Requisitos Temporais
+ As licenças deverão ser disponibilizadas e ativadas no prazo máximo de , contados do4.5. 10 (dez) dias corridos
+recebimento da Ordem de Serviço emitida pela Contratante.
+ Na contagem dos prazos estabelecidos neste Termo de Referência, excluir-se-á o dia de início e incluir-se-á o dia do4.6.
+vencimento.
+ Todos os prazos citados, quando não expressamente indicados de forma diversa, serão considerados em dias corridos.4.7.
+ Na execução dos serviços deverão ser observados os seguintes prazos:4.8.
+Atividade, Tarefa ou Serviço Prazo máximo de início de
+atendimento
+Prazo máximo de
+solução
+Ativação das licenças dias úteis 10 dias corridos
+Problemas de acesso ou atribuição de licença dia útil 3 dias úteis
+Problemas administrativos relacionados ao
+licenciamento dia útil 5 dias úteis
+ O período de subscrição de 24 (vinte e quatro) meses deverá ser contabilizado a partir da data efetiva de ativação4.8.1.
+das licenças.
+Requisitos de Segurança e Privacidade
+ A solução deverá atender aos princípios e diretrizes estabelecidos pela Política de Segurança da Informação da ANSN.4.9.
+ O acesso aos recursos da solução deverá ocorrer mediante autenticação individual e vinculada aos usuários4.9.1.
+indicados pela Contratante.
+ A solução deverá permitir a administração centralizada das licenças por administrador designado pela ANSN.4.9.2.
+ Quaisquer dados eventualmente tratados pela solução deverão observar os princípios, direitos e obrigações4.9.3.
+estabelecidos pela Lei Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018).
+ A Contratada deverá assegurar que as licenças fornecidas sejam originais e livres de códigos maliciosos ou4.9.4.
+mecanismos que comprometam a segurança dos ambientes da Contratante.
+Requisitos Sociais, Ambientais e Culturais
+ Os serviços devem estar aderentes às seguintes diretrizes sociais, ambientais e culturais:4.10.
+ Incentivo à utilização de recursos digitais e eletrônicos, reduzindo a necessidade de materiais impressos;4.10.1.
+ Observância das boas práticas de sustentabilidade e responsabilidade socioambiental adotadas pelo fabricante da4.10.2.
+solução;
+ Respeito à legislação brasileira relativa à propriedade intelectual, direitos autorais e acessibilidade digital.4.10.3.
+
+
+[PÁGINA 6]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+6 de 32
+Requisitos da Arquitetura Tecnológica
+ Os serviços deverão ser executados observando-se as diretrizes tecnológicas estabelecidas pela Área de TIC da4.11.
+ANSN.
+ A solução deverá operar em ambiente de computação em nuvem disponibilizado pelo fabricante e acessível por meio4.12.
+da internet.
+ A solução deverá ser compatível com os sistemas operacionais Windows 11 ou superior e macOS suportados pelo4.13.
+fabricante.
+ A administração das licenças deverá ocorrer por meio de console de gerenciamento disponibilizado pelo fabricante.4.13.1.
+Requisitos de Projeto e Implementação
+ Os serviços deverão observar integralmente os requisitos de projeto e implementação descritos a seguir:4.14.
+ As licenças deverão ser associadas à organização institucional da ANSN indicada pela Contratante;4.14.1.
+ A Contratada deverá realizar todos os procedimentos necessários para ativação das licenças sem interrupção das4.14.2.
+atividades dos usuários;
+ A solução deverá permitir a substituição de usuários licenciados durante a vigência contratual, observadas as regras4.14.3.
+do fabricante.
+Requisitos de Implantação
+ Os serviços deverão observar integralmente os requisitos de implantação, instalação e fornecimento descritos a seguir:4.15.
+ O fornecimento ocorrerá exclusivamente por meio eletrônico;4.15.1.
+ As licenças deverão ser entregues já habilitadas para ativação pela equipe da ANSN;4.15.2.
+ A Contratada deverá disponibilizar todas as informações necessárias para administração e utilização das licenças.4.15.3.
+Requisitos de Garantia e Manutenção
+ O suporte e a garantia da solução deverão permanecer vigentes durante todo o período de subscrição.4.16.
+ A garantia compreenderá a disponibilização de atualizações, correções e suporte oficial do fabricante ou canal4.16.1.
+autorizado.
+Requisitos de Experiência Profissional
+ Os serviços de suporte e regularização de licenciamento deverão ser prestados por profissionais devidamente4.17.
+capacitados pelo fabricante ou por parceiro autorizado.
+Requisitos de Formação da Equipe
+ Não serão exigidos requisitos específicos de formação da equipe para a presente contratação.4.18.
+Requisitos de Metodologia de Trabalho
+ A execução dos serviços está condicionada ao recebimento de Ordem de Serviço emitida pela Contratante.4.19.
+ O Contratado deverá disponibilizar meios eletrônicos para abertura, acompanhamento e encerramento de chamados.4.20.
+ O atendimento deverá ocorrer em horário comercial, de segunda a sexta-feira, em dias úteis.4.21.
+Requisitos de Segurança da Informação e Privacidade
+
+
+[PÁGINA 7]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+7 de 32
+ O Contratado deverá observar integralmente os requisitos de Segurança da Informação e Privacidade descritos neste4.22.
+Termo de Referência.
+ É vedado o compartilhamento, utilização ou divulgação de informações institucionais da ANSN sem autorização4.22.1.
+formal.
+ O Contratado deverá cumprir integralmente a Lei Geral de Proteção de Dados Pessoais, quando aplicável.4.22.2.
+Vistoria
+ Não há necessidade de realização de avaliação prévia do local de execução dos serviços, uma vez que o4.23.
+fornecimento ocorrerá integralmente por meios eletrônicos.
+Outros Requisitos Aplicáveis
+ As licenças fornecidas deverão ser novas, originais e de primeiro uso;4.24.
+ As licenças deverão pertencer ao programa Adobe Creative Cloud VIP Teams ou programa sucessor oficialmente4.25.
+reconhecido pelo fabricante;
+ Não serão aceitas licenças educacionais, de avaliação, trial, OEM, usadas ou obtidas por meio não autorizado pelo4.26.
+fabricante.
+Sustentabilidade
+ Além dos critérios de sustentabilidade eventualmente inseridos na descrição do objeto, deverão ser observados os4.27.
+seguintes requisitos:
+ Priorização de processos de entrega e gerenciamento exclusivamente digitais;4.27.1.
+ Redução da utilização de mídias físicas e materiais impressos;4.27.2.
+ Observância das práticas ambientais adotadas pelo fabricante no fornecimento de serviços em nuvem.4.27.3.
+Indicação de Marca ou Modelo
+ Na presente contratação será admitida a indicação da solução , identificador SGD4.28. Adobe Creative Cloud VIP Teams
+AD-014, em razão de sua padronização, compatibilidade com os acervos existentes e justificativas constantes do Estudo
+Técnico Preliminar.
+Subcontratação
+ Não será admitida a subcontratação do objeto contratual.4.29.
+Garantia da Contratação
+ Não haverá exigência de garantia da contratação prevista nos arts. 96 e seguintes da Lei nº 14.133/2021, em razão4.30.
+da baixa complexidade da execução contratual e das características da solução, conforme justificativa constante do Estudo
+Técnico Preliminar.
+Instalação de Escritório
+ Não será exigida instalação ou manutenção de escritório local para execução do objeto.4.31.
+Margem de Preferência
+ Não se aplica margem de preferência à presente contratação.4.32.
+Informações Relevantes para Apresentação da Proposta
+ A proposta deverá considerar as seguintes premissas:4.33.
+
+
+[PÁGINA 8]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+8 de 32
+ Fornecimento de 4 (quatro) licenças nominais Adobe Creative Cloud VIP Teams;4.33.1.
+ Vigência de 24 (vinte e quatro) meses, contada da ativação das licenças;4.33.2.
+ Inclusão de atualizações, correções de segurança, administração centralizada e suporte oficial durante toda a4.33.3.
+vigência contratual.
+5. MODELO DE EXECUÇÃO DO OBJETO
+Condições de execução
+5.1. A execução do objeto seguirá a seguinte dinâmica:
+5.1.1. Início da execução do objeto em até 10 (dez) dias corridos, contados do recebimento da Ordem de Serviço
+emitida pela Contratante.
+5.1.2. A execução compreenderá o fornecimento, a ativação, a disponibilização e a manutenção de 4 (quatro) licenças
+nominais Adobe Creative Cloud VIP Teams, incluindo o direito de uso das aplicações integrantes da solução,
+atualizações de versão, correções de segurança, suporte do fabricante ou de canal autorizado e administração
+centralizada das licenças durante toda a vigência contratual.
+5.1.3. A Contratada deverá realizar todos os procedimentos administrativos necessários à vinculação das licenças à
+organização institucional da ANSN indicada pela Contratante, observando os requisitos e as políticas do fabricante.
+5.1.4. Eventuais substituições de usuários licenciados deverão ser realizadas mediante solicitação formal da
+Contratante, respeitadas as condições estabelecidas pelo fabricante da solução.
+5.1.5. Durante toda a vigência da contratação, a Contratada deverá assegurar a validade das assinaturas, mantendo
+ativo o acesso às funcionalidades previstas no plano contratado.
+Cronograma de execução
+Etapa Prazo
+Emissão da Ordem de Serviço Marco inicial
+Disponibilização das licenças Até 10 dias corridos
+Ativação das licenças na organização da ANSN Até 10 dias corridos após a Ordem de Serviço
+Disponibilização de suporte e atualizações Durante toda a vigência contratual
+Encerramento da subscrição Ao final dos 24 meses contratados ou de eventual prorrogação
+ 
+5.2. A entrega será realizada exclusivamente por meio eletrônico, na conta e na organização institucional da ANSN, sob
+acompanhamento da CGTI/SECSOL, sediada no Rio de Janeiro/RJ. Os serviços serão prestados remotamente, por meio
+dos ambientes disponibilizados pelo fabricante, e não haverá entrega física.
+5.3. Para fins administrativos, a Contratante está localizada em sua sede institucional, na Rua São Clemente, nº 38,
+Botafogo, Rio de Janeiro/RJ.
+
+
+[PÁGINA 9]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+9 de 32
+5.4. Os serviços poderão ser executados em qualquer horário, observado que os atendimentos administrativos e de
+suporte da Contratada deverão ocorrer, no mínimo, em horário comercial, de segunda-feira a sexta-feira, exceto feriados
+nacionais.
+Rotinas a serem cumpridas
+5.5. A execução contratual observará as seguintes rotinas:
+5.5.1. Recebimento e análise da Ordem de Serviço emitida pela Contratante;
+5.5.2. Disponibilização das licenças e credenciais administrativas necessárias à gestão da solução;
+5.5.3. Ativação e vinculação das licenças à organização institucional da ANSN;
+5.5.4. Manutenção da validade das subscrições durante toda a vigência contratual;
+5.5.5. Prestação de suporte administrativo relacionado ao licenciamento quando demandado pela Contratante;
+5.5.6. Disponibilização contínua das atualizações e correções fornecidas pelo fabricante;
+5.5.7. Atendimento das solicitações relativas à realocação ou substituição de usuários licenciados.
+Materiais a serem disponibilizados
+5.6. Para a perfeita execução dos serviços, a Contratada deverá disponibilizar:
+5.6.1. 4 (quatro) licenças nominais Adobe Creative Cloud VIP Teams, na modalidade de subscrição pelo período de 24
+(vinte e quatro) meses;
+5.6.2. Acesso ao portal de administração e gerenciamento das licenças;
+5.6.3. Documentação, credenciais e demais informações necessárias à administração da solução pela equipe
+designada pela Contratante.
+Informações relevantes para o dimensionamento da proposta
+5.7. A demanda da ANSN tem como base as seguintes características:
+5.7.1. Contratação de 4 (quatro) licenças nominais Adobe Creative Cloud VIP Teams;
+5.7.2. Vigência inicial de 24 (vinte e quatro) meses;
+5.7.3. Inclusão de atualizações, correções de segurança, suporte oficial e administração centralizada das licenças
+durante todo o período contratado.
+Formas de transferência de conhecimento
+5.8. Não será necessária transferência de conhecimento devido às características do objeto.
+5.8.1. A solução corresponde à continuidade de tecnologia já utilizada pela Contratante.
+5.8.2. Os usuários indicados pela Contratante já possuem conhecimento prévio da ferramenta.
+5.8.3. Não haverá desenvolvimento de software, customização ou prestação de serviços especializados que
+demandem transferência formal de conhecimento.
+Procedimentos de transição e finalização do contrato
+5.9. Os procedimentos de transição e finalização do contrato constituem-se das seguintes etapas:
+5.9.1. Disponibilização pela Contratada das informações necessárias para acompanhamento da vigência das licenças;
+
+
+[PÁGINA 10]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+10 de 32
+5.9.2. Apoio administrativo para eventual renovação, substituição ou encerramento das licenças ao término da vigência
+contratual;
+5.9.3. Garantia de que a Contratante mantenha acesso às informações administrativas relativas às licenças até o
+encerramento da contratação.
+Quantidade mínima de serviços para comparação e controle
+5.10. Cada Ordem de Serviço conterá a quantidade de licenças a serem disponibilizadas, os usuários contemplados e os
+demais parâmetros necessários à execução.
+5.11. Para fins de fiscalização e recebimento, a unidade mínima de fornecimento será 1 (uma) licença Adobe Creative
+Cloud VIP Teams ativa e regularmente vinculada à organização institucional da ANSN.
+Mecanismos formais de comunicação
+5.12. São definidos como mecanismos formais de comunicação entre a Contratante e a Contratada:
+I. Ordem de Serviço;
+II. Ata de Reunião;
+III. Ofício;
+IV. Sistema de abertura de chamados;
+V. Correio eletrônico institucional;
+VI. Sistema Eletrônico de Informações (SEI), quando aplicável;
+VII. Outros meios formais expressamente autorizados pelas partes.
+Manutenção de Sigilo e Normas de Segurança
+5.13. A Contratada deverá manter sigilo absoluto sobre quaisquer dados e informações a que tiver acesso em razão da
+execução contratual, não podendo divulgá-los, reproduzi-los ou utilizá-los para finalidade diversa daquela prevista neste
+Termo de Referência.
+5.14. A Contratada deverá observar integralmente a Política de Segurança da Informação da ANSN, a legislação
+aplicável e as disposições da Lei nº 13.709/2018 (LGPD).
+5.15. O representante legal da Contratada poderá ser convocado a assinar Termo de Compromisso de Manutenção de
+Sigilo e Confidencialidade, caso solicitado pela Contratante.
+5.16. Os profissionais eventualmente envolvidos na execução contratual deverão observar as normas de segurança da
+informação e privacidade estabelecidas pela Contratante.
+Procedimentos de recebimento
+5.17. Após a comunicação formal da ativação, acompanhada do relatório de fornecimento, o objeto será recebido
+provisoriamente no prazo de até 5 (cinco) dias úteis, mediante verificação do quantitativo, do acesso ao ambiente
+administrativo, da vinculação das 4 (quatro) licenças e da conformidade inicial com as especificações deste Termo de
+Referência.
+5.18. O recebimento definitivo ocorrerá no prazo de até 15 (quinze) dias úteis, contado do recebimento provisório, após a
+verificação da qualidade, da regularidade do licenciamento e do atendimento integral das exigências técnicas e
+administrativas, observado o detalhamento constante do item 8 deste Termo de Referência.
+ 
+
+
+[PÁGINA 11]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+11 de 32
+6. MODELO DE GESTÃO DO CONTRATO
+6.1. O contrato deverá ser executado fielmente pelas partes, de acordo com as cláusulas avençadas e as normas da Lei
+nº 14.133, de 2021, e cada parte responderá pelas consequências de sua inexecução total ou parcial.
+6.2. Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o cronograma de execução será
+prorrogado automaticamente pelo tempo correspondente, anotadas tais circunstâncias mediante simples apostila.
+6.3. As comunicações entre o órgão ou entidade e o Contratado devem ser realizadas por escrito sempre que o ato exigir
+tal formalidade, admitindo-se o uso de mensagem eletrônica para esse fim.
+6.4. O órgão ou entidade poderá convocar o preposto da empresa para adoção de providências que devam ser
+cumpridas de imediato.
+Preposto
+6.5. O Contratado designará formalmente o preposto da empresa, antes do início da prestação dos serviços, indicando no
+instrumento os poderes e deveres em relação à execução do objeto contratado.
+6.6. O Contratado não necessitará manter preposto da empresa no local da execução durante a vigência.
+6.7. O Contratante poderá recusar, desde que justificadamente, a indicação ou a manutenção do preposto da empresa,
+hipótese em que o Contratado designará outro para o exercício da atividade.
+Reunião Inicial
+6.8. Após a assinatura do Contrato e a nomeação do Gestor e Fiscais do Contrato, será realizada a Reunião Inicial de
+alinhamento com o objetivo de nivelar os entendimentos acerca das condições estabelecidas no Contrato, Edital e seus
+anexos, e esclarecer possíveis dúvidas acerca da execução dos serviços.
+6.9. A reunião será realizada em conformidade com o previsto no inciso I do Art. 31 da IN SGD/ME nº 94, de 2022, e
+ocorrerá em até 5 (cinco) dias úteis da assinatura do Contrato, podendo ser prorrogada a critério da Contratante.
+6.10. A pauta desta reunião observará, pelo menos:
+6.10.1 Presença do representante legal da contratada, que apresentará o seu preposto;
+6.10.2 Entrega, por parte da Contratada, do Termo de Compromisso e dos Termos de Ciência;
+6.10.3 esclarecimentos relativos a questões operacionais, administrativas e de gestão do contrato;
+6.10.4 A Carta de apresentação do Preposto deverá conter no mínimo o nome completo e CPF do funcionário da
+empresa designado para acompanhar a execução do contrato e atuar como interlocutor principal junto à Contratante,
+incumbido de receber, diligenciar, encaminhar e responder as principais questões técnicas, legais e administrativas
+referentes ao andamento contratual;
+6.10.5 Apresentação das declarações/certificados do fabricante, comprovando que o produto ofertado possui a garantia
+solicitada neste termo de referência.
+Rotinas de Fiscalização
+6.11. A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is) do contrato, ou pelos respectivos
+substitutos, nos termos do art. 33 da IN SGD nº 94, de 2022, observando-se, em especial, as rotinas a seguir.
+Fiscalização Técnica
+6.12. O fiscal técnico do contrato acompanhará a execução do contrato, para que sejam cumpridas todas as condições
+estabelecidas no contrato, de modo a assegurar os melhores resultados para a Administração.
+6.13. O fiscal técnico do contrato anotará no histórico de gerenciamento do contrato todas as ocorrências relacionadas à
+execução do contrato, com a descrição do que for necessário para a regularização das faltas ou dos defeitos observados.
+
+
+[PÁGINA 12]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+12 de 32
+6.14. Identificada qualquer inexatidão ou irregularidade, o fiscal técnico do contrato emitirá notificações para a correção
+da execução do contrato, determinando prazo para a correção.
+6.15. O fiscal técnico do contrato informará ao gestor do contrato, em tempo hábil, a situação que demandar decisão ou
+adoção de medidas que ultrapassem sua competência, para que adote as medidas necessárias e saneadoras, se for o
+caso.
+6.16. No caso de ocorrências que possam inviabilizar a execução do contrato nas datas aprazadas, o fiscal técnico do
+contrato comunicará o fato imediatamente ao gestor do contrato.
+6.17. O fiscal técnico do contrato comunicará ao gestor do contrato, em tempo hábil, o término do contrato sob sua
+responsabilidade, com vistas à tempestiva renovação ou à prorrogação contratual.
+6.18. A fiscalização da execução dos serviços abrange, ainda, as seguintes rotinas:
+6.18.1 Verificar o cumprimento dos prazos de disponibilização e ativação das licenças estabelecidos neste Termo de
+Referência;
+6.18.2 Confirmar a quantidade de licenças efetivamente disponibilizadas e sua vinculação à organização institucional
+da ANSN;
+6.18.3 Verificar a regularidade do licenciamento fornecido, incluindo a comprovação de que as licenças são originais,
+válidas e adquiridas por canais autorizados pelo fabricante;
+6.18.4 Acompanhar a manutenção da vigência das subscrições durante todo o período contratual, assegurando a
+continuidade do acesso às funcionalidades contratadas;
+6.18.5 Verificar a disponibilidade das atualizações de versão, correções de segurança e demais benefícios incluídos na
+subscrição da solução;
+6.18.6 Acompanhar os atendimentos prestados pela Contratada em razão de solicitações administrativas, incidentes
+relacionados ao licenciamento ou demandas de suporte acionadas pela Contratante;
+6.18.7 Verificar a observância das obrigações relacionadas à segurança da informação, confidencialidade e proteção
+de dados eventualmente acessados durante a execução contratual;
+6.18.8 Registrar e acompanhar ocorrências, não conformidades, atrasos ou falhas na execução contratual, propondo a
+adoção das medidas administrativas cabíveis quando necessário;
+6.18.9 Subsidiar o recebimento provisório e definitivo do objeto mediante verificação do atendimento integral dos
+requisitos técnicos e contratuais estabelecidos neste Termo de Referência;
+6.19. Atestar a regular execução dos serviços para fins de liquidação e pagamento das respectivas faturas.
+6.20. A fiscalização de que trata esta cláusula não exclui nem reduz a responsabilidade do Contratado, inclusive perante
+terceiros, por qualquer irregularidade, ainda que resultante de imperfeições técnicas, vícios redibitórios, ou emprego de
+material inadequado ou de qualidade inferior e, na ocorrência desta, não implica corresponsabilidade do Contratante ou
+de seus agentes, gestores e fiscais, de conformidade.
+Fiscalização Administrativa
+6.21. O fiscal administrativo do contrato, além de exercer as atribuições previstas no art. 33, IV, da IN SGD nº 94, de
+2022, verificará a manutenção das condições de habilitação da contratada, acompanhará o empenho, o pagamento, as
+garantias, as glosas e a formalização de apostilamento e termos aditivos, solicitando quaisquer documentos
+comprobatórios pertinentes, caso necessário.
+6.22. Caso ocorra descumprimento das obrigações contratuais, o fiscal administrativo do contrato atuará
+tempestivamente na solução do problema, reportando ao gestor do contrato para que tome as providências cabíveis,
+quando ultrapassar a sua competência.
+6.23. Além do disposto acima, a fiscalização contratual obedecerá às seguintes rotinas:
+
+
+[PÁGINA 13]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+13 de 32
+6.23.1 Registrar em processo administrativo todas as ocorrências relevantes relacionadas à execução contratual,
+incluindo atrasos, falhas, indisponibilidades, descumprimentos contratuais e respectivas providências adotadas;
+6.23.2 Comunicar formalmente à Contratada qualquer desconformidade identificada durante a execução contratual,
+estabelecendo prazo razoável para saneamento, quando cabível;
+6.23.3 Subsidiar o gestor do contrato com informações necessárias à aplicação de penalidades, glosas, repactuações,
+prorrogações ou demais medidas administrativas previstas contratualmente;
+Gestor do Contrato
+6.24. Cabe ao gestor do contrato, além de exercer as atribuições previstas no art. 33, I, da IN SGD nº 94, de 2022:
+6.24.1 coordenar a atualização do processo de acompanhamento e fiscalização do contrato contendo todos os
+registros formais da execução no histórico de gerenciamento do contrato, a exemplo da ordem de serviço, do registro
+de ocorrências, das alterações e das prorrogações contratuais, elaborando relatório com vistas à verificação da
+necessidade de adequações do contrato para fins de atendimento da finalidade da administração.
+6.24.2 acompanhar os registros realizados pelos fiscais do contrato, de todas as ocorrências relacionadas à execução
+do contrato e as medidas adotadas, informando, se for o caso, à autoridade superior àquelas que ultrapassarem a sua
+competência.
+6.24.3 acompanhar a manutenção das condições de habilitação da contratada, para fins de empenho de despesa e
+pagamento, e anotará os problemas que obstem o fluxo normal da liquidação e do pagamento da despesa no relatório
+de riscos eventuais.
+6.24.4 emitir documento comprobatório da avaliação realizada pelos fiscais técnico, administrativo e setorial quanto ao
+cumprimento de obrigações assumidas pelo Contratado, com menção ao seu desempenho na execução contratual,
+baseado nos indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar do
+cadastro de atesto de cumprimento de obrigações.
+6.24.5 tomar providências para a formalização de processo administrativo de responsabilização para fins de aplicação
+de sanções, a ser conduzido pela comissão de que trata o art. 158 da Lei nº 14.133, de 2021, ou pelo agente ou pelo
+setor com competência para tal, conforme o caso.
+6.24.6 elaborar relatório final com informações sobre a consecução dos objetivos que tenham justificado a contratação
+e eventuais condutas a serem adotadas para o aprimoramento das atividades da Administração.
+6.24.7 enviar a documentação pertinente ao setor de contratos para a formalização dos procedimentos de liquidação e
+pagamento, com a indicação expressa de que o valor da Nota Fiscal emitida pela contratada confere com o valor
+dimensionado pela fiscalização e gestão no recebimento definitivo do serviço.
+6.24.8 receber e dar encaminhamento imediato:
+6.24.8.1. às denúncias de discriminação, violência e assédio no ambiente de trabalho, conforme o art. 2º, inciso III,
+do Decreto n.º 12.174/2024;
+6.24.8.2. à notificação formal de que a empresa contratada está descumprindo suas obrigações trabalhistas, enviada
+pelo trabalhador, sindicato, Ministério do Trabalho, Ministério Público, Defensoria Pública ou por qualquer outro meio
+idôneo.
+PAPÉIS E RESPONSABILIDADES
+6.25. São obrigações da CONTRATANTE:
+6.25.1 nomear Gestor e Fiscais Técnico, Administrativo e Requisitante do contrato para acompanhar e fiscalizar a
+execução dos contratos;
+6.25.2 encaminhar formalmente a demanda por meio de Ordem de Serviço ou de Fornecimento de Bens, de acordo
+com os critérios estabelecidos no Termo de Referência;
+
+
+[PÁGINA 14]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+14 de 32
+6.25.3 receber o objeto fornecido pelo contratado que esteja em conformidade com a proposta aceita, conforme
+inspeções realizadas;
+6.25.4 aplicar à contratada as sanções administrativas regulamentares e contratuais cabíveis, comunicando ao órgão
+gerenciador da Ata de Registro de Preços, quando aplicável;
+6.25.5 liquidar o empenho e efetuar o pagamento à contratada, dentro dos prazos preestabelecidos em contrato;
+6.25.6 comunicar à contratada todas e quaisquer ocorrências relacionadas com o fornecimento da solução de TIC;
+6.25.7 definir produtividade ou capacidade mínima de fornecimento da solução de TIC por parte do contratado, com
+base em pesquisas de mercado, quando aplicável;
+6.25.8 prever que os direitos de propriedade intelectual e direitos autorais da solução de TIC sobre os diversos
+artefatos e produtos cuja criação ou alteração seja objeto da relação contratual pertençam à Administração, incluindo a
+documentação, o código-fonte de aplicações, os modelos de dados e as bases de dados, justificando os casos em que
+isso não ocorrer.
+6.26. São obrigações do CONTRATADO:
+6.26.1 indicar formalmente preposto apto a representá-la junto à contratante, que deverá responder pela fiel execução
+do contrato;
+6.26.2 atender prontamente quaisquer orientações e exigências da Equipe de Fiscalização do Contrato, inerentes à
+execução do objeto contratual;
+6.26.3 reparar quaisquer danos diretamente causados à contratante ou a terceiros por culpa ou dolo de seus
+representantes legais, prepostos ou empregados, em decorrência da relação contratual, não excluindo ou reduzindo a
+responsabilidade da fiscalização ou o acompanhamento da execução dos serviços pela contratante;
+6.26.4 propiciar todos os meios necessários à fiscalização do contrato pela contratante, cujo representante terá
+poderes para sustar o fornecimento, total ou parcial, em qualquer tempo, desde que motivadas as causas e
+justificativas desta decisão;
+6.26.5 manter, durante toda a execução do contrato, as mesmas condições da habilitação;
+6.26.6 quando especificada, manter, durante a execução do contrato, equipe técnica composta por profissionais
+devidamente habilitados, treinados e qualificados para fornecimento da solução de TIC;
+6.26.7 quando especificado, manter a produtividade ou a capacidade mínima de fornecimento da solução de TIC
+durante a execução do contrato;
+6.26.8 ceder os direitos de propriedade intelectual e direitos autorais da solução de TIC sobre os diversos artefatos e
+produtos produzidos em decorrência da relação contratual, incluindo a documentação, os modelos de dados e as bases
+de dados à Administração;
+6.26.9 fazer a transição contratual, quando for o caso.
+ 
+ 
+ 
+7. INFRAÇÕES E SANÇÕES ADMINISTRATIVAS
+ 
+7.1. Nos casos de inadimplemento na execução do objeto, as ocorrências serão registradas pela contratante, conforme a
+tabela abaixo:
+
+
+[PÁGINA 15]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+15 de 32
+Id Ocorrência Glosa / Sanção
+1 Não disponibilizar e ativar as licenças contratadas no prazo 
+estabelecido neste Termo de Referência.
+Glosa de 2% sobre o valor total da contratação para atraso de até 5 
+dias corridos; glosa de 5% para atraso superior a 5 e até 10 dias 
+corridos; e glosa de 10% para atraso superior a 10 dias corridos, sem 
+prejuízo das demais sanções previstas na Lei nº 14.133/2021.
+2 Fornecer quantidade inferior à contratada. Glosa proporcional ao valor das licenças não fornecidas, sem prejuízo 
+da obrigação de regularização.
+3 Fornecer licenças em desacordo com as especificações 
+técnicas previstas no Termo de Referência.
+Advertência e prazo para saneamento. Em caso de não regularização, 
+multa de 5% sobre o valor total da contratação.
+4
+Não apresentar documentação comprobatória da autenticidade 
+e regularidade do licenciamento quando solicitada pela 
+fiscalização.
+Advertência e concessão de prazo para regularização. Persistindo a 
+irregularidade, multa de 5% sobre o valor total da contratação.
+5 Não prestar esclarecimentos ou informações solicitadas pela 
+fiscalização contratual no prazo de até 3 (três) dias úteis.
+Multa de 0,2% sobre o valor total da contratação por dia útil de atraso, 
+limitada a 2%.
+6
+Não atender às solicitações relacionadas à ativação, ao 
+remanejamento ou à regularização administrativa das licenças 
+no prazo estabelecido pela Contratante.
+Multa de 1% sobre o valor total da contratação por ocorrência.
+7
+Descumprir obrigações relativas à confidencialidade, à 
+segurança da informação ou à proteção de dados 
+eventualmente aplicáveis à execução contratual.
+Aplicação das sanções previstas na Lei nº 14.133/2021, observado o 
+contraditório e a ampla defesa.
+8 Não cumprir qualquer outra obrigação contratual não citada 
+nesta tabela.
+Advertência. Em caso de reincidência ou de prejuízo à execução 
+contratual, multa de até 5% sobre o valor total da contratação.
+ 
+7.2. Nos termos do art. 19, inciso III da Instrução Normativa SGD/ME nº 94, de 2022, será efetuada a retenção ou glosa
+no pagamento, proporcional à irregularidade verificada, sem prejuízo das sanções cabíveis, nos casos em que o
+Contratado:
+7.2.1 não atingir os valores mínimos aceitáveis fixados nos critérios de aceitação, não produzir os resultados ou deixar
+de executar as atividades contratadas; ou
+7.2.2 deixar de utilizar materiais e recursos humanos exigidos para fornecimento da solução de TIC, ou utilizá-los com
+qualidade ou quantidade inferior à demandada;
+7.3. Comete infração administrativa, nos termos da Lei nº 14.133, de 2021, o Contratado que:
+a) der causa à inexecução parcial do contrato;
+b) der causa à inexecução parcial do contrato que cause grave dano à Administração ou ao funcionamento dos
+serviços públicos ou ao interesse coletivo;
+c) der causa à inexecução total do contrato;
+d) ensejar o retardamento da execução ou da entrega do objeto da contratação sem motivo justificado;
+
+
+[PÁGINA 16]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+16 de 32
+e) apresentar documentação falsa ou prestar declaração falsa durante a execução do contrato;
+f) praticar ato fraudulento na execução do contrato;
+g) comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+h) praticar ato lesivo previsto no art. 5º da Lei nº 12.846, de 1º de agosto de 2013.
+7.4. Serão aplicadas ao Contratado que incorrer nas infrações acima descritas as seguintes sanções:
+7.4.1 Advertência, quando o Contratado der causa à inexecução parcial do contrato, sempre que não se justificar a
+imposição de penalidade mais grave;
+7.4.2 Impedimento de licitar e contratar, quando praticadas as condutas descritas nas alíneas “b”, “c” e “d” do subitem
+acima, sempre que não se justificar a imposição de penalidade mais grave;
+7.4.3 Declaração de inidoneidade para licitar e contratar, quando praticadas as condutas descritas nas alíneas “e”, “f”,
+“g” e “h” do subitem acima, bem como nas alíneas “b”, “c” e “d”, que justifiquem a imposição de penalidade mais grave.
+7.4.4 Multa:
+7.4.4.1. Moratória, para a infração descrita na alínea “d”, de 0,33% (trinta e três centésimos por cento) por dia de
+atraso injustificado sobre o valor da contratação, até o limite de 30 (trinta) dias corridos.
+7.4.4.1.1. Ultrapassado o prazo de 30 (trinta) dias corridos de atraso, a Administração poderá considerar
+caracterizada a inexecução total do objeto, sem prejuízo da aplicação das demais sanções cabíveis.
+7.4.4.2. Compensatória, para as infrações descritas nas alíneas “e” a “h”, de 10% (dez por cento) a 20% (vinte por
+cento) do valor da contratação.
+7.4.4.3. Compensatória, para a inexecução total do contrato prevista na alínea “c”, de 20% (vinte por cento) do valor
+da contratação.
+7.4.4.4. Compensatória, para a infração descrita na alínea “b”, de 10% (dez por cento) a 15% (quinze por cento) do
+valor da contratação.
+7.4.4.5. Compensatória, em substituição à multa moratória para a infração descrita na alínea “d”, de 5% (cinco por
+cento) a 10% (dez por cento) do valor da contratação, quando o atraso injustificado comprometer o atendimento da
+necessidade administrativa ou tornar inútil a prestação.
+7.4.4.6. Compensatória, para a infração descrita na alínea “a”, de 0,5% (cinco décimos por cento) a 5% (cinco por
+cento) do valor da contratação.
+7.4.4.6.1. Constituem hipóteses de inexecução parcial passíveis da penalidade prevista no item anterior:
+a) fornecimento de licenças em desacordo com as especificações técnicas estabelecidas no Termo de Referência;
+b) falha na ativação das licenças fornecidas;
+c) não apresentação da documentação comprobatória da autenticidade e regularidade do licenciamento;
+d) descumprimento das obrigações de suporte administrativo previstas no contrato;
+e) descumprimento das obrigações relacionadas à confidencialidade, proteção de dados e segurança da informação,
+desde que não caracterizada infração mais grave.
+7.5. A aplicação das sanções previstas neste Termo de Referência não exclui, em hipótese alguma, a obrigação de
+reparação integral do dano causado ao Contratante.
+7.6. Todas as sanções previstas neste Termo de Referência poderão ser aplicadas cumulativamente com a multa.
+7.7. Antes da aplicação da multa será facultada a defesa do interessado no prazo de 15 (quinze) dias úteis, contado da
+data de sua intimação.
+
+
+[PÁGINA 17]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+17 de 32
+7.8. Se a multa aplicada e as indenizações cabíveis forem superiores ao valor do pagamento eventualmente devido pelo
+Contratante ao Contratado, além da perda desse valor, a diferença será cobrada judicialmente.
+7.9. A multa poderá ser recolhida administrativamente no prazo máximo de 30 (trinta) dias, a contar da data do
+recebimento da comunicação enviada pela autoridade competente.
+7.10. A aplicação das sanções realizar-se-á em processo administrativo que assegure o contraditório e a ampla defesa ao
+Contratado, observando-se o procedimento previsto no caput e parágrafos do art. 158 da Lei nº 14.133, de 2021, para as
+penalidades de impedimento de licitar e contratar e de declaração de inidoneidade para licitar ou contratar.
+7.10.1 Para a garantia da ampla defesa e contraditório, as notificações serão enviadas eletronicamente para os
+endereços de e-mail informados na proposta comercial, bem como os cadastrados pela empresa no SICAF.
+7.10.2 Os endereços de e-mail informados na proposta comercial e/ou cadastrados no SICAF serão considerados de
+uso contínuo da empresa, não cabendo alegação de desconhecimento das comunicações a eles comprovadamente
+enviadas.
+7.11. Na aplicação das sanções serão considerados:
+7.11.1 a natureza e a gravidade da infração cometida;
+7.11.2 as peculiaridades do caso concreto;
+7.11.3 as circunstâncias agravantes ou atenuantes;
+7.11.4 os danos que dela provierem para o Contratante; e
+7.11.5 a implantação ou o aperfeiçoamento de programa de integridade, conforme normas e orientações dos órgãos de
+controle.
+7.12. Os atos previstos como infrações administrativas na Lei nº 14.133, de 2021, ou em outras leis de licitações e
+contratos da Administração Pública que também sejam tipificados como atos lesivos na Lei nº 12.846, de 2013, serão
+apurados e julgados conjuntamente, nos mesmos autos, observados o rito procedimental e autoridade competente
+definidos na referida Lei.
+7.13. A personalidade jurídica do Contratado poderá ser desconsiderada sempre que utilizada com abuso do direito para
+facilitar, encobrir ou dissimular a prática dos atos ilícitos previstos neste Termo de Referência ou para provocar confusão
+patrimonial, e, nesse caso, todos os efeitos das sanções aplicadas à pessoa jurídica serão estendidos aos seus
+administradores e sócios com poderes de administração, à pessoa jurídica sucessora ou à empresa do mesmo ramo com
+relação de coligação ou controle, de fato ou de direito, com o Contratado, observados, em todos os casos, o contraditório,
+a ampla defesa e a obrigatoriedade de análise jurídica prévia.
+7.14. O Contratante deverá, no prazo máximo de 15 (quinze) dias úteis, contado da data de aplicação da sanção,
+informar e manter atualizados os dados relativos às sanções por ela aplicadas, para fins de publicidade no Cadastro
+Nacional de Empresas Inidôneas e Suspensas (CEIS) e no Cadastro Nacional de Empresas Punidas (CNEP), instituídos
+no âmbito do Poder Executivo Federal.
+7.14.1 As penalidades serão obrigatoriamente registradas no SICAF.
+7.15. As sanções de impedimento de licitar e contratar e declaração de inidoneidade para licitar ou contratar são
+passíveis de reabilitação na forma do art. 163 da Lei nº 14.133, de 2021.
+7.16. Os débitos do Contratado para com a Administração Contratante, resultantes de multa administrativa e/ou
+indenizações, não inscritos em dívida ativa, poderão ser compensados, total ou parcialmente, com os créditos devidos
+pelo referido órgão decorrentes deste mesmo contrato ou de outros contratos administrativos que o Contratado possua
+com o mesmo órgão ora Contratante, na forma da Instrução Normativa SEGES/ME nº 26, de 13 de abril de 2022.
+
+
+[PÁGINA 18]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+18 de 32
+8. CRITÉRIOS DE MEDIÇÃO E DE PAGAMENTO
+ 
+IAL – ÍNDICE DE ATENDIMENTO À ENTREGA DAS LICENÇAS
+Tópico Descrição
+Finalidade Verificar o cumprimento do prazo de disponibilização e ativação das licenças contratadas.
+Meta a cumprir Entrega e ativação de 100% das licenças no prazo estabelecido no Termo de Referência.
+Instrumento de medição Ordem de Serviço, documentação de ativação das licenças, evidências emitidas pelo fabricante e registros 
+da fiscalização contratual.
+Forma de acompanhamento Verificação, pela equipe de fiscalização, da data de recebimento da Ordem de Serviço e da data efetiva de 
+disponibilização das licenças.
+Periodicidade Medição única, realizada durante o recebimento do objeto.
+Mecanismo de cálculo IAL = (QLE / QLT) × 100
+Onde IAL = Índice de Atendimento à Entrega das Licenças; QLE = quantidade de licenças entregues dentro do 
+prazo; QLT = quantidade total de licenças contratadas.
+Início de vigência A partir da emissão da Ordem de Serviço.
+Faixas de glosa
+IAL = 100%: sem glosa.
+Atraso de até 5 dias corridos: glosa de 2% sobre o valor contratado.
+Atraso superior a 5 e até 10 dias corridos: glosa de 5%.
+Atraso superior a 10 dias corridos: glosa de 10%, sem prejuízo da aplicação de outras sanções cabíveis.
+ 
+8.2. Será indicada a retenção ou glosa no pagamento, proporcional à irregularidade verificada, sem prejuízo das sanções
+cabíveis, caso se constate que a Contratada:
+8.2.1 não disponibilizou as licenças contratadas no prazo estabelecido;
+8.2.2 forneceu quantidade inferior à contratada;
+8.2.3 forneceu licenças incompatíveis com as especificações constantes deste Termo de Referência;
+8.2.4 deixou de comprovar a regularidade e autenticidade do licenciamento fornecido;
+8.2.5 deixou de atender às exigências de ativação e vinculação das licenças à organização institucional da Contratante.
+8.3. A aplicação de glosa não afasta a possibilidade de aplicação das penalidades previstas na Lei nº 14.133/2021 e no
+contrato, quando caracterizado descumprimento contratual.
+8.4. A aferição da execução contratual para fins de pagamento considerará os seguintes critérios:
+
+
+[PÁGINA 19]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+19 de 32
+8.4.1 Disponibilização de 4 (quatro) licenças Adobe Creative Cloud VIP Teams, na modalidade e quantitativos previstos
+na contratação;
+8.4.2 Ativação das licenças na organização institucional indicada pela Contratante;
+8.4.3 Disponibilização dos direitos de uso, atualizações, correções de segurança e funcionalidades previstas pelo
+fabricante;
+8.4.4 Comprovação da autenticidade e regularidade das licenças fornecidas;
+8.4.5 Cumprimento integral dos prazos estabelecidos para entrega e ativação do objeto.
+Recebimento
+8.5. O objeto será recebido provisoriamente no prazo de até 5 (cinco) dias úteis, pelos fiscais técnico e administrativo,
+mediante termos detalhados, quando verificado o cumprimento das exigências de caráter técnico e administrativo.
+8.6. O prazo para recebimento provisório será contado do recebimento da comunicação formal de ativação encaminhada
+pela Contratada, acompanhada do relatório de fornecimento das licenças solicitadas na Ordem de Serviço, sem
+necessidade de apresentação de Nota Fiscal nesta etapa.
+8.7. O fiscal técnico do contrato realizará o recebimento provisório do objeto do contrato mediante termo detalhado que
+comprove o cumprimento das exigências de caráter técnico.
+8.8. O fiscal administrativo do contrato realizará o recebimento provisório do objeto do contrato mediante termo detalhado
+que comprove o cumprimento das exigências de caráter administrativo.
+8.9. Para efeito do recebimento provisório, será considerado o relatório de disponibilização e ativação das licenças. O
+faturamento somente poderá ocorrer após o recebimento definitivo.
+8.10. Na medição única do objeto:
+8.10.1 o fiscal técnico do contrato deverá apurar o resultado das avaliações da execução do objeto e, se for o caso, a
+análise do desempenho e qualidade da prestação dos serviços realizados em consonância com os indicadores
+previstos no ato convocatório, que poderá resultar no redimensionamento de valores a serem pagos à contratada,
+registrando em relatório a ser encaminhado ao gestor do contrato;
+8.11. Será considerado como ocorrido o recebimento provisório com a entrega do termo detalhado ou, em havendo mais
+de um a ser feito, com a entrega do último.
+8.12. O Contratado fica obrigado a reparar, corrigir, remover ou substituir, às suas expensas, no todo ou em parte, o
+objeto em que se verificarem vícios, defeitos ou incorreções empregados, cabendo à fiscalização não atestar a última e
+/ou única medição de serviços até que sejam sanadas todas as eventuais pendências que possam vir a ser apontadas no
+recebimento provisório.
+8.13. A fiscalização não efetuará o ateste da última e/ou única medição de serviços até que sejam sanadas todas as
+eventuais pendências que possam vir a ser apontadas no recebimento provisório.
+8.14. O recebimento provisório também ficará sujeito, quando cabível, à conclusão de todos os testes de campo e à
+entrega dos Manuais e Instruções exigíveis.
+8.15. Os serviços poderão ser rejeitados, no todo ou em parte, quando em desacordo com as especificações constantes
+neste Termo de Referência e na proposta, sem prejuízo da aplicação das penalidades.
+8.16. Os serviços serão recebidos definitivamente no prazo de até 15 (quinze) dias úteis, contados do recebimento
+provisório, por servidor ou comissão designada pela autoridade competente, após a verificação da qualidade e
+quantidade do serviço e consequente aceitação mediante termo detalhado, obedecendo os seguintes procedimentos:
+8.16.1 Emitir documento comprobatório da avaliação realizada pelos fiscais técnico e administrativo, no cumprimento
+de obrigações assumidas pelo Contratado, com menção ao seu desempenho na execução contratual, baseado em
+indicadores objetivamente definidos e aferidos, e a eventuais penalidades aplicadas, devendo constar do cadastro de
+atesto de cumprimento de obrigações, conforme regulamento.
+
+
+[PÁGINA 20]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+20 de 32
+8.16.2 Realizar a análise dos relatórios e de toda a documentação apresentada pela fiscalização e, caso haja
+irregularidades que impeçam a liquidação e o pagamento da despesa, indicar as cláusulas contratuais pertinentes,
+solicitando ao Contratado, por escrito, as respectivas correções;
+8.16.3 Emitir Termo Detalhado para efeito de recebimento definitivo dos serviços prestados, com base nos relatórios e
+documentações apresentadas; e
+8.16.4 Comunicar a empresa para que emita a Nota Fiscal ou Fatura, com o valor exato dimensionado pela fiscalização.
+8.16.5 Enviar a documentação pertinente ao setor de contratos para a formalização dos procedimentos de liquidação e
+pagamento, no valor dimensionado pela fiscalização e gestão.
+8.17. No caso de controvérsia sobre a execução do objeto, quanto à dimensão, qualidade e quantidade, deverá ser
+observado o teor do art. 143 da Lei nº 14.133, de 2021, comunicando-se à empresa para emissão de Nota Fiscal quanto
+à parcela incontroversa da execução do objeto, para efeito de liquidação e pagamento.
+8.18. Nenhum prazo de recebimento ocorrerá enquanto pendente a solução, pelo Contratado, de inconsistências
+verificadas na execução do objeto ou no instrumento de cobrança.
+8.19. O recebimento provisório ou definitivo não excluirá a responsabilidade civil pela solidez e pela segurança do serviço
+nem a responsabilidade ético-profissional pela perfeita execução do contrato.
+Pagamento
+8.20. O pagamento será efetuado em parcela única, após o recebimento definitivo do objeto e a apresentação da
+respectiva Nota Fiscal ou Fatura.
+8.21. O pagamento ficará condicionado à comprovação da efetiva disponibilização e ativação das licenças contratadas,
+bem como ao cumprimento das demais obrigações contratuais.
+8.22. Eventuais glosas decorrentes de atraso na entrega ou ativação das licenças serão aplicadas sobre o valor da Nota
+Fiscal, observados os percentuais definidos no item 8.1, sem prejuízo das demais sanções administrativas cabíveis.
+Liquidação
+8.23. Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo de dez dias úteis para fins de
+liquidação, na forma desta seção, prorrogáveis por igual período, nos termos do art. 7º, §3º da Instrução Normativa
+SEGES/ME nº 77/2022.
+8.24. O prazo de que trata o item anterior será reduzido à metade, mantendo-se a possibilidade de prorrogação, nos
+casos de contratações decorrentes de despesas cujos valores não ultrapassem o limite de que trata o inciso II do art. 75
+da Lei nº 14.133, de 2021.
+8.25. Para fins de liquidação, o setor competente deve verificar se a Nota Fiscal ou Fatura apresentada expressa os
+elementos necessários e essenciais do documento, tais como: I) o prazo de validade; II) a data da emissão; III) os dados
+do contrato e do órgão contratante; IV) o período respectivo de execução do contrato; V) o valor a pagar; e VI) eventual
+destaque do valor de retenções tributárias cabíveis.
+8.26. Havendo erro na apresentação da Nota Fiscal/Fatura, ou circunstância que impeça a liquidação da despesa, esta
+ficará sobrestada até que o Contratado providencie as medidas saneadoras, reiniciando-se o prazo após a comprovação
+da regularização da situação, sem ônus ao Contratante.
+8.27. A Nota Fiscal ou Fatura deverá ser obrigatoriamente acompanhada da comprovação da regularidade fiscal,
+constatada por meio de consulta on-line ao SICAF ou, na impossibilidade de acesso ao referido Sistema, mediante
+consulta aos sítios eletrônicos oficiais ou à documentação mencionada no art. 68 da Lei nº 14.133/2021.
+8.28. A Administração deverá realizar consulta ao SICAF para:
+8.28.1 verificar a manutenção das condições de habilitação exigidas;
+8.28.2 identificar possível razão que impeça a participação em licitação/contratação no âmbito do órgão ou entidade,
+tais como a proibição de contratar com a Administração ou com o Poder Público, bem como ocorrências impeditivas
+indiretas.
+
+
+[PÁGINA 21]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+21 de 32
+8.29. Constatando-se, junto ao SICAF, a situação de irregularidade do Contratado, será providenciada sua notificação,
+por escrito, para que, no prazo de 5 (cinco) dias úteis, regularize sua situação ou, no mesmo prazo, apresente sua
+defesa. O prazo poderá ser prorrogado uma vez, por igual período, a critério do Contratante.
+8.30. Não havendo regularização ou sendo a defesa considerada improcedente, o Contratante deverá comunicar aos
+órgãos responsáveis pela fiscalização da regularidade fiscal quanto à inadimplência do Contratado, bem como quanto à
+existência de pagamento a ser efetuado, para que sejam acionados os meios pertinentes e necessários para garantir o
+recebimento de seus créditos.
+8.31. Persistindo a irregularidade, o Contratante deverá adotar as medidas necessárias à rescisão contratual nos autos
+do processo administrativo correspondente, assegurada ao Contratado a ampla defesa.
+8.32. Havendo a efetiva execução do objeto, os pagamentos serão realizados normalmente, até que se decida pela
+rescisão do contrato, caso o Contratado não regularize sua situação junto ao SICAF.
+Prazo de pagamento
+8.33. O pagamento será efetuado no prazo máximo de até dez dias úteis, contados da finalização da liquidação da
+despesa, conforme seção anterior, nos termos da Instrução Normativa SEGES/ME nº 77, de 2022.
+8.34. No caso de atraso pelo Contratante, os valores devidos ao Contratado serão atualizados monetariamente entre o
+termo final do prazo de pagamento até a data de sua efetiva realização, mediante aplicação do índice IPCA/IBGE de
+correção monetária.
+Forma de pagamento
+8.35. O pagamento será realizado por meio de ordem bancária, para crédito em banco, agência e conta corrente
+indicados pelo Contratado.
+8.36. Será considerada data do pagamento o dia em que constar como emitida a ordem bancária para pagamento.
+8.37. Quando do pagamento, será efetuada a retenção tributária prevista na legislação aplicável.
+8.37.1 Independentemente do percentual de tributo inserido na planilha, quando houver, serão retidos na fonte, quando
+da realização do pagamento, os percentuais estabelecidos na legislação vigente.
+8.38. O Contratado regularmente optante pelo Simples Nacional, nos termos da Lei Complementar nº 123, de 2006, não
+sofrerá a retenção tributária quanto aos impostos e contribuições abrangidos por aquele regime. No entanto, o
+pagamento ficará condicionado à apresentação de comprovação, por meio de documento oficial, de que faz jus ao
+tratamento tributário favorecido previsto na referida Lei Complementar.
+Antecipação de pagamento
+8.39. Não será admitida antecipação de pagamento. O pagamento somente será realizado após a ativação integral das
+licenças, o recebimento definitivo e a liquidação regular da despesa.
+Cessão de crédito
+8.40. A cessão de crédito dependerá de prévia e expressa aprovação da Contratante.
+8.40.1 A eficácia da cessão de crédito perante a Administração ficará condicionada à celebração de termo aditivo ao
+contrato administrativo.
+8.40.2 Além da manutenção das condições de habilitação da Contratada cedente, a formalização da cessão e a
+realização dos pagamentos ficarão condicionadas à regularidade fiscal e trabalhista da cessionária e à comprovação de
+que ela não se encontra impedida de contratar com o Poder Público ou de receber benefícios ou incentivos fiscais ou
+creditícios.
+8.40.3 O crédito devido à cessionária será exatamente aquele que seria destinado à Contratada pela execução do
+objeto, permanecendo válidas todas as defesas, exceções, glosas, multas, compensações e demais condições
+aplicáveis ao pagamento.
+
+
+[PÁGINA 22]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+22 de 32
+8.40.4 A cessão de crédito não afetará a execução do objeto, que permanecerá sob a responsabilidade integral da
+Contratada.
+8.41. O disposto nesta seção não afetará as operações de crédito previstas na Instrução Normativa SEGES/MGI nº 82,
+de 21 de fevereiro de 2025, que permanecerão regidas por suas disposições específicas.
+Reajuste
+8.42. Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano contado da data do orçamento
+estimado, em 17 de setembro de 2026.
+8.43. Após o interregno de um ano, e independentemente de pedido do Contratado, os preços iniciais serão reajustados,
+mediante a aplicação, pelo Contratante, do Índice de Custos de Tecnologia da Informação - ICTI, mantido pela Fundação
+Instituto de Pesquisa Econômica Aplicada - IPEA, exclusivamente para as obrigações iniciadas e concluídas após a
+ocorrência da anualidade.
+8.44. O reajuste deverá observar o Preço Máximo de Compra de Item de TIC — PMC-TIC vigente para o identificador
+SGD AD-014 e não poderá resultar em valor superior ao limite estabelecido no Catálogo de Soluções de TIC aplicável.
+8.45. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será contado a partir dos efeitos
+financeiros do último reajuste.
+8.46. No caso de atraso ou não divulgação do(s) índice (s) de reajustamento, o Contratante pagará ao Contratado a
+importância calculada pela última variação conhecida, liquidando a diferença correspondente tão logo seja(m) divulgado
+(s) o(s) índice(s) definitivo(s).
+8.47. Nas aferições finais, o(s) índice(s) utilizado(s) para reajuste será(ão), obrigatoriamente, o(s) definitivo(s).
+8.48. Caso o(s) índice(s) estabelecido(s) para reajustamento venha(m) a ser extinto(s) ou de qualquer forma não possa
+(m) mais ser utilizado(s), será(ão) adotado(s), em substituição, o(s) que vier(em) a ser determinado(s) pela legislação
+então em vigor.
+8.49. Na ausência de previsão legal quanto ao índice substituto, as partes elegerão novo índice oficial, para
+reajustamento do preço do valor remanescente, por meio de termo aditivo.
+8.50. O reajuste será realizado por apostilamento.
+8.51. Não haverá repactuação, por não se tratar de serviço com dedicação exclusiva ou predominância de mão de obra.
+ 
+9. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR E FORMA DE 
+FORNECIMENTO
+ 
+Forma de seleção e critério de julgamento da proposta
+9.1. O fornecedor será selecionado por meio de contratação direta, na forma eletrônica, com fundamento no art. 75,
+inciso II, da Lei nº 14.133/2021 e na Instrução Normativa SEGES/ME nº 67/2021, mediante adoção do critério de
+julgamento pelo menor preço global do item.
+9.2. A contratação direta fica condicionada à confirmação de que o valor total estimado e o somatório das despesas
+realizadas no exercício pela unidade gestora com objetos da mesma natureza não ultrapassam o limite legal vigente, de
+modo a afastar eventual fracionamento indevido da despesa.
+9.3. Caso não seja confirmado o enquadramento previsto no subitem anterior, deverá ser adotado o procedimento
+competitivo legalmente cabível, permanecendo inalteradas as especificações técnicas e as demais condições deste
+Termo de Referência.
+
+
+[PÁGINA 23]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+23 de 32
+Regime de Execução
+9.4. O regime de execução do contrato será por empreitada por preço global, considerando que o objeto possui escopo,
+quantitativo e prazo previamente definidos, sendo a remuneração devida em função da entrega integral do objeto
+contratado e do atendimento aos requisitos estabelecidos neste Termo de Referência.
+Exigências de habilitação
+9.5. Para fins de habilitação, deverá o interessado comprovar os seguintes requisitos:
+Habilitação jurídica
+9.6. Pessoa física: cédula de identidade (RG) ou documento equivalente que, por força de lei, tenha validade para fins de
+identificação em todo o território nacional;
+9.7. Empresário individual: inscrição no Registro Público de Empresas Mercantis, a cargo da Junta Comercial da
+respectiva sede;
+9.8. Microempreendedor Individual - MEI: Certificado da Condição de Microempreendedor Individual - CCMEI, cuja
+aceitação ficará condicionada à verificação da autenticidade no sítio https://www.gov.br/empresas-e-negocios/pt-br
+/empreendedor;
+9.9. Sociedade empresária, sociedade limitada unipessoal – SLU ou sociedade identificada como empresa individual de
+responsabilidade limitada - EIRELI: inscrição do ato constitutivo, estatuto ou contrato social no Registro Público de
+Empresas Mercantis, a cargo da Junta Comercial da respectiva sede, acompanhada de documento comprobatório de
+seus administradores;
+9.10. Sociedade empresária estrangeira: portaria de autorização de funcionamento no Brasil, publicada no Diário Oficial
+da União e arquivada na Junta Comercial da unidade federativa onde se localizar a filial, agência, sucursal ou
+estabelecimento, a qual será considerada como sua sede, conforme Instrução Normativa DREI/ME n.º 77, de 18 de
+março de 2020.
+9.11. Sociedade simples: inscrição do ato constitutivo no Registro Civil de Pessoas Jurídicas do local de sua sede,
+acompanhada de documento comprobatório de seus administradores;
+9.12. Filial, sucursal ou agência de sociedade simples ou empresária: inscrição do ato constitutivo da filial, sucursal ou
+agência da sociedade simples ou empresária, respectivamente, no Registro Civil das Pessoas Jurídicas ou no Registro
+Público de Empresas Mercantis onde opera, com averbação no Registro onde tem sede a matriz;
+9.13. Sociedade cooperativa: ata de fundação e estatuto social, com a ata da assembleia que o aprovou, devidamente
+arquivado na Junta Comercial ou inscrito no Registro Civil das Pessoas Jurídicas da respectiva sede, além do registro de
+que trata o art. 107 da Lei nº 5.764, de 16 de dezembro 1971.
+9.14. Consórcio de empresas: contrato de consórcio devidamente arquivado no Registro Civil das Pessoas Jurídicas ou
+no Registro Público de Empresas Mercantis (art. 279 da Lei nº 6.404, de 15 de dezembro de 1976) ou compromisso
+público ou particular de constituição, subscrito pelos consorciados, com a indicação da empresa líder, responsável por
+sua representação perante a Administração (art. 15, caput, I e II, da Lei nº 14.133, de 2021).
+9.15. Não será exigido ato de autorização para o exercício da atividade. Contudo, a licitante deverá comprovar, quando
+solicitado pela Administração, sua condição de revendedora, distribuidora, parceira comercial ou canal autorizado do
+fabricante, ou apresentar documentação que demonstre a regularidade da origem das licenças fornecidas.
+9.16. Os documentos apresentados deverão estar acompanhados de todas as alterações ou da consolidação respectiva.
+Habilitação fiscal, social e trabalhista
+9.17. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas ou no Cadastro de Pessoas Físicas, conforme o
+caso;
+9.18. Prova de regularidade fiscal perante a Fazenda Nacional, mediante apresentação de certidão expedida
+conjuntamente pela Secretaria da Receita Federal do Brasil (RFB) e pela Procuradoria-Geral da Fazenda Nacional
+(PGFN), referente a todos os créditos tributários federais e à Dívida Ativa da União (DAU) por elas administrados,
+
+
+[PÁGINA 24]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+24 de 32
+inclusive aqueles relativos à Seguridade Social, nos termos da Portaria Conjunta nº 1.751, de 02 de outubro de 2014, do
+Secretário da Receita Federal do Brasil e da Procuradora-Geral da Fazenda Nacional.
+9.19. Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+9.20. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, mediante a apresentação de certidão
+negativa ou positiva com efeito de negativa, nos termos do Título VII-A da Consolidação das Leis do Trabalho, aprovada
+pelo Decreto-Lei nº 5.452, de 1º de maio de 1943;
+9.21. Prova de inscrição no cadastro de contribuintes Distrital ou Municipal relativo ao domicílio ou sede do fornecedor,
+pertinente ao seu ramo de atividade e compatível com o objeto contratual;
+9.22. Prova de regularidade com a Fazenda Distrital ou Municipal do domicílio ou sede do fornecedor, relativa à atividade
+em cujo exercício contrata ou concorre;
+9.23. Caso o fornecedor seja considerado isento dos tributos relacionados ao objeto contratual, deverá comprovar tal
+condição mediante a apresentação de declaração da Fazenda respectiva do seu domicílio ou sede, ou outra equivalente,
+na forma da lei.
+9.24. O fornecedor enquadrado como microempreendedor individual que pretenda auferir os benefícios do tratamento
+diferenciado previstos na Lei Complementar n. 123, de 2006, estará dispensado da prova de inscrição nos cadastros de
+contribuintes estadual e municipal.
+Qualificação Econômico-Financeira
+9.25. certidão negativa de insolvência civil expedida pelo distribuidor do domicílio ou sede do interessado, caso se trate
+de pessoa física, desde que admitida a sua participação na licitação/contratação, ou de sociedade simples;
+9.26. certidão negativa de falência expedida pelo distribuidor da sede do fornecedor;
+9.27. balanço patrimonial, demonstração de resultado de exercício e demais demonstrações contábeis dos 2 (dois)
+últimos exercícios sociais, já exigíveis e apresentados na forma da lei, comprovando, índices de Liquidez Geral (LG),
+Liquidez Corrente (LC), e Solvência Geral (SG) superiores a 1 (um), obtidos por meio da aplicação das seguintes
+fórmulas:
+LG = Ativo Circulante + Realizável a Longo Prazo
+Passivo Circulante + Passivo Não Circulante
+SG = Ativo Total
+Passivo Circulante + Passivo Não Circulante
+LC = Ativo Circulante
+Passivo Circulante
+ 
+9.28. Caso o fornecedor apresente resultado igual ou inferior a 1 (um) em qualquer dos índices previstos no item anterior,
+poderá ser exigida a comprovação de patrimônio líquido mínimo correspondente a 10% (dez por cento) do valor total
+estimado da contratação, equivalente a R$ 4.081,66 (quatro mil oitenta e um reais e sessenta e seis centavos).
+9.29. As empresas constituídas há menos de 2 (dois) anos apresentarão as demonstrações contábeis relativas ao último
+exercício social exigível.
+9.30. As empresas criadas no exercício financeiro da contratação deverão cumprir as exigências de habilitação e poderão
+substituir as demonstrações contábeis pelo balanço de abertura.
+9.31. O atendimento dos índices econômicos deverá ser comprovado por declaração assinada por profissional
+legalmente habilitado na área contábil.
+
+
+[PÁGINA 25]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+25 de 32
+Qualificação Técnica
+9.32. Não será exigida inscrição em conselho profissional, por não existir entidade profissional competente com atribuição
+específica para o fornecimento do objeto.
+9.33. O fornecedor deverá comprovar que possui condições de fornecer licenças autênticas e regulares do Adobe
+Creative Cloud VIP Teams, mediante apresentação, quando solicitada, de pelo menos um dos seguintes documentos:
+9.33.1 declaração, certificado ou documento emitido pelo fabricante ou distribuidor autorizado;
+9.33.2 comprovação de cadastro como canal, parceiro ou revendedor autorizado;
+9.33.3 documento que demonstre a cadeia legítima de fornecimento das licenças; ou
+9.33.4 consulta verificável em página oficial do fabricante ou do distribuidor.
+9.34. A comprovação prevista no item anterior poderá ser apresentada por ocasião da proposta, durante diligência ou
+antes da formalização do instrumento contratual, conforme definido no aviso de contratação direta.
+9.35. A proposta técnica ou comercial deverá identificar expressamente:
+9.35.1 o fabricante Adobe;
+9.35.2 o produto Adobe Creative Cloud;
+9.35.3 o plano VIP Teams;
+9.35.4 a quantidade de 4 (quatro) licenças nominais;
+9.35.5 o prazo de subscrição de 24 (vinte e quatro) meses;
+9.35.6 a possibilidade de gerenciamento centralizado pela ANSN;
+9.35.7 a disponibilização de atualizações durante toda a vigência; e
+9.35.8 o canal de suporte técnico.
+9.36. A Administração poderá exigir atestado ou declaração de capacidade técnica emitido por pessoa jurídica de direito
+público ou privado que demonstre experiência anterior no fornecimento de licenças ou subscrições de softwares similares.
+9.37. Não será exigido quantitativo mínimo de licenças no atestado, considerando o reduzido quantitativo e a natureza
+padronizada do objeto.
+9.38. Os atestados poderão ser apresentados em nome da matriz ou da filial do fornecedor.
+9.39. Será admitido o somatório de atestados para comprovação da experiência exigida.
+9.40. O fornecedor deverá disponibilizar as informações necessárias à confirmação da legitimidade dos atestados,
+incluindo, quando solicitado, cópia do contrato, endereço atualizado do contratante e informações sobre a execução do
+objeto.
+9.41. Não serão aceitas licenças compartilhadas, acadêmicas, individuais, usadas, irregulares, provenientes de mercado
+não autorizado ou vinculadas permanentemente à conta da Contratada.
+Disposições gerais sobre habilitação
+9.42. Quando permitida a participação na licitação/contratação de empresas estrangeiras que não funcionem no País, as
+exigências de habilitação serão atendidas mediante documentos equivalentes, inicialmente apresentados em tradução
+livre.
+9.43. Na hipótese de o fornecedor ser empresa estrangeira que não funcione no País, para assinatura do contrato ou da
+ata de registro de preços ou do aceite do instrumento equivalente, os documentos exigidos para a habilitação serão
+traduzidos por tradutor juramentado no País e apostilados nos termos do disposto no Decreto nº 8.660, de 29 de janeiro
+de 2016, ou de outro que venha a substituí-lo, ou consularizados pelos respectivos consulados ou embaixadas.
+
+
+[PÁGINA 26]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+26 de 32
+9.44. Não serão aceitos documentos de habilitação com indicação de CNPJ/CPF diferentes, salvo aqueles legalmente
+permitidos.
+9.45. Se o fornecedor for a matriz, todos os documentos deverão estar em nome da matriz, e se o fornecedor for a filial,
+todos os documentos deverão estar em nome da filial, exceto para atestados de capacidade técnica, e no caso daqueles
+documentos que, pela própria natureza, comprovadamente, forem emitidos somente em nome da matriz.
+9.46. Serão aceitos registros de CNPJ de fornecedor matriz e filial com diferenças de números de documentos
+pertinentes ao CND e ao CRF/FGTS, quando for comprovada a centralização do recolhimento dessas contribuições.
+9.47. A Administração poderá realizar diligências para esclarecer ou complementar informações relativas aos
+documentos apresentados, vedada a inclusão posterior de documento que deveria comprovar condição inexistente na
+data da apresentação da proposta.
+Documentação complementar para cooperativas
+9.48. Caso admitida a participação de cooperativas, será exigida a seguinte documentação complementar:
+9.48.1 A relação dos cooperados que atendem aos requisitos técnicos exigidos para a contratação e que executarão o
+contrato, com as respectivas atas de inscrição e a comprovação de que estão domiciliados na localidade da sede da
+cooperativa, respeitado o disposto nos arts. 4º, inciso XI, 21, inciso I e 42, §§2º a 6º da Lei n. 5.764, de 1971;
+9.48.2 A declaração de regularidade de situação do contribuinte individual – DRSCI, para cada um dos cooperados
+indicados;
+9.48.3 A comprovação do capital social proporcional ao número de cooperados necessários à prestação do serviço;
+9.48.4 O registro previsto na Lei n. 5.764, de 1971, art. 107;
+9.48.5 A comprovação de integração das respectivas quotas-partes por parte dos cooperados que executarão o
+contrato;
+9.48.6 Os seguintes documentos para a comprovação da regularidade jurídica da cooperativa:
+9.48.6.1. ata de fundação;
+9.48.6.2. estatuto social com a ata da assembleia que o aprovou;
+9.48.6.3. regimento dos fundos instituídos pelos cooperados, com a ata da assembleia;
+9.48.6.4. editais de convocação das três últimas assembleias gerais extraordinárias;
+9.48.6.5. três registros de presença dos cooperados que executarão o contrato em assembleias gerais ou nas
+reuniões seccionais;
+9.48.6.6. ata da sessão que os cooperados autorizaram a cooperativa a contratar o objeto da contratação; e
+9.48.6.7. última auditoria contábil-financeira da cooperativa, conforme dispõe o art. 112 da Lei n. 5.764, de 1971, ou
+uma declaração, sob as penas da lei, de que tal auditoria não foi exigida pelo órgão fiscalizador.
+10. ESTIMATIVAS DO VALOR DA CONTRATAÇÃO
+ 
+10.1. O custo total estimado da contratação, correspondente ao valor máximo aceitável, é de R$ 40.816,64 (quarenta mil oitocentos e dezesseis reais e 
+, conforme os valores unitários apresentados na tabela constante do item 1.1 deste Termo de Referência.sessenta e quatro centavos)
+10.2. O valor estimado compreende o fornecimento de , identificador SGD 4 (quatro) licenças nominais do Adobe Creative Cloud VIP Teams AD-014
+, pelo período de , conforme a seguinte composição:24 (vinte e quatro) meses
+10.2.1. valor unitário máximo por licença: ;R$ 10.204,16 (dez mil duzentos e quatro reais e dezesseis centavos)
+
+
+[PÁGINA 27]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+27 de 32
+10.2.2. quantidade: ; e4 (quatro) licenças
+10.2.3. valor total máximo: .R$ 40.816,64 (quarenta mil oitocentos e dezesseis reais e sessenta e quatro centavos)
+10.3. A estimativa foi elaborada com base no Preço Máximo de Compra de Item de TIC — PMC-TIC previsto no Catálogo de Soluções de TIC para o 
+identificador SGD AD-014 e deverá ser confirmada pela pesquisa de preços juntada ao processo administrativo.
+10.4. O valor estimado não possui caráter sigiloso e poderá ser divulgado no aviso de contratação direta e nos demais documentos do procedimento.
+10.5. Os valores estimados incluem todos os custos necessários ao fornecimento integral da solução, tais como tributos, encargos, ativação, 
+configuração, suporte, atualizações, manutenção do direito de uso e demais despesas necessárias durante os 24 (vinte e quatro) meses da subscrição.
+10.6. A proposta deverá apresentar os valores unitário e total, não podendo ultrapassar o valor máximo estimado, o PMC-TIC vigente para o 
+identificador SGD AD-014 ou o preço de mercado apurado no processo, prevalecendo o menor limite aplicável.
+10.7. Não se aplicam a esta contratação as disposições relativas ao critério de maior desconto, ao orçamento sigiloso, ao Sistema de Registro de Preços 
+ou à repactuação de preços.
+11. ADEQUAÇÃO ORÇAMENTÁRIA
+ 
+11.1. As despesas decorrentes da presente contratação correrão à conta de recursos específicos consignados no
+Orçamento Geral da União e destinados à Autoridade Nacional de Segurança Nuclear — ANSN.
+11.2. A classificação orçamentária completa, incluindo gestão, unidade, fonte de recursos, programa de trabalho,
+elemento de despesa e plano interno, será indicada pelo setor competente antes da emissão da nota de empenho e da
+assinatura do contrato ou instrumento equivalente.
+11.3. A indicação da dotação orçamentária específica fica postergada para o momento da formalização da contratação,
+após a certificação da disponibilidade de recursos suficientes para suportar o valor total estimado de R$ 40.816,64
+(quarenta mil oitocentos e dezesseis reais e sessenta e quatro centavos).
+11.4. Antes da formalização da contratação, a autoridade competente deverá confirmar a compatibilidade da despesa
+com o planejamento institucional, com o Plano de Contratações Anual e com os créditos orçamentários disponíveis.
+11.5. Caso a execução, eventual reajuste ou prorrogação produza efeitos financeiros em exercícios subsequentes, as
+dotações correspondentes serão indicadas após a aprovação da respectiva Lei Orçamentária Anual e a liberação dos
+créditos necessários, mediante apostilamento.
+11.6. A eventual prorrogação da contratação ficará condicionada à demonstração da disponibilidade orçamentária, da
+vantajosidade econômica e da compatibilidade do preço com o PMC-TIC vigente para o identificador SGD AD-014.
+ 
+
+
+[PÁGINA 28]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+28 de 32
+12. DISPOSIÇÕES FINAIS
+12.1. As informações contidas neste Termo de Referência não são classificadas como sigilosas, inclusive o custo total
+estimado da contratação, fixado em R$ 40.816,64 (quarenta mil oitocentos e dezesseis reais e sessenta e quatro
+centavos).
+12.2. Os dados pessoais, as credenciais, as configurações institucionais e as informações relacionadas à segurança da
+solução eventualmente constantes do processo deverão receber tratamento adequado, conforme a legislação aplicável.
+12.3. Os casos omissos serão decididos pela Contratante conforme as disposições da Lei nº 14.133/2021, da Instrução
+Normativa SGD/ME nº 94/2022 e das demais normas federais aplicáveis e, subsidiariamente, conforme a Lei nº 8.078
+/1990 — Código de Defesa do Consumidor — e os princípios gerais dos contratos.
+ 
+ 
+ 
+13. ANEXO I
+ANEXO — REGRAS APLICÁVEIS AO INSTRUMENTO SUBSTITUTIVO AO CONTRATO
+Contratação de pequeno valor — art. 95, inciso I, da Lei nº 14.133/2021 e Orientação Normativa AGU nº 84, de 17 de maio de 2024
+1. FORMALIZAÇÃO DA CONTRATAÇÃO
+1.1. O fornecedor selecionado terá o prazo de 5 (cinco) dias úteis, contado da data de sua convocação, para aceitar a Nota de Empenho, a Autorização de 
+Fornecimento ou outro instrumento equivalente ao contrato, sob pena de perda do direito à contratação, sem prejuízo das sanções cabíveis.
+1.2. O prazo poderá ser prorrogado uma única vez, por igual período, mediante solicitação justificada do fornecedor e aceita pela Administração.
+1.3. O aceite do instrumento equivalente implica o reconhecimento de que:
+1.3.1. o referido instrumento substitui o termo de contrato, sendo-lhe aplicáveis as disposições da Lei nº 14.133/2021;
+1.3.2. a Contratada se vincula à sua proposta, à Autorização da Contratação Direta, ao Aviso de Dispensa Eletrônica, ao Termo de Referência e aos 
+respectivos anexos; e
+1.3.3. as obrigações previstas no Termo de Referência permanecerão exigíveis durante toda a vigência da contratação.
+1.4. O objeto compreende o fornecimento de 4 (quatro) licenças nominais do Adobe Creative Cloud VIP Teams, identificador SGD AD-014, pelo 
+período de 24 (vinte e quatro) meses.
+1.5. O valor total máximo da contratação é de R$ 40.816,64 (quarenta mil oitocentos e dezesseis reais e sessenta e quatro centavos).
+2. VIGÊNCIA E PRORROGAÇÃO
+2.1. A contratação terá vigência de 24 (vinte e quatro) meses, contados da data de ativação integral das licenças, devidamente registrada pela fiscalização.
+2.2. A ativação das 4 (quatro) licenças deverá ocorrer no prazo máximo de 5 (cinco) dias úteis, contado do recebimento da Autorização de Fornecimento 
+e das informações necessárias.
+2.3. A contratação poderá ser prorrogada por períodos sucessivos de 24 (vinte e quatro) meses, até o limite total de 10 (dez) anos, conforme os arts. 106 e 
+107 da Lei nº 14.133/2021.
+2.4. A prorrogação ficará condicionada à demonstração de que:
+2.4.1. a continuidade da solução permanece necessária;
+2.4.2. as condições e os preços permanecem vantajosos para a Administração;
+2.4.3. o preço permanece compatível com o mercado e com o PMC-TIC vigente para o identificador SGD AD-014;
+
+
+[PÁGINA 29]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+29 de 32
+2.4.4. existe disponibilidade orçamentária;
+2.4.5. a Contratada mantém as condições de habilitação;
+2.4.6. não existem impedimentos legais ou registros impeditivos no Cadin; e
+2.4.7. a execução contratual foi considerada satisfatória pela fiscalização.
+2.5. A Contratada não possui direito subjetivo à prorrogação.
+2.6. A prorrogação deverá ser formalizada mediante termo aditivo ou instrumento formal equivalente, antes do encerramento da vigência.
+2.7. A contratação não poderá ser prorrogada quando a Contratada estiver submetida às sanções de impedimento de licitar e contratar ou de declaração 
+de inidoneidade, observada a abrangência de cada penalidade.
+3. OBRIGAÇÕES DA CONTRATANTE
+3.1. São obrigações da Contratante:
+3.1.1. exigir o cumprimento de todas as obrigações assumidas pela Contratada;
+3.1.2. fornecer os dados da organização institucional, do administrador e dos 4 (quatro) usuários que receberão as licenças;
+3.1.3. disponibilizar as informações e os acessos administrativos estritamente necessários à ativação, sem compartilhamento de senhas pessoais;
+3.1.4. receber o objeto nos prazos e nas condições estabelecidas no Termo de Referência;
+3.1.5. verificar a ativação, a autenticidade, a quantidade, o plano contratado e o período de vigência das licenças;
+3.1.6. notificar a Contratada, por escrito, sobre falhas, irregularidades, interrupções, licenças divergentes ou quaisquer desconformidades, estabelecendo 
+prazo para correção;
+3.1.7. acompanhar e fiscalizar a execução da contratação;
+3.1.8. efetuar o pagamento após a ativação integral, o recebimento definitivo e a regular liquidação da despesa;
+3.1.9. aplicar as sanções previstas na legislação e no Termo de Referência, quando cabíveis;
+3.1.10. comunicar ao órgão de representação judicial da Advocacia-Geral da União os casos de descumprimento que exijam adoção de medidas judiciais; 
+e
+3.1.11. decidir expressamente sobre as solicitações e reclamações relacionadas à execução da contratação, ressalvados os requerimentos manifestamente 
+impertinentes ou protelatórios.
+3.1.11.1. As solicitações serão decididas no prazo de até 1 (um) mês, contado da conclusão da instrução do requerimento, admitida prorrogação motivada 
+por igual período.
+3.1.12. Os pedidos de restabelecimento do equilíbrio econômico-financeiro serão decididos no prazo de até 1 (um) mês, contado da apresentação de toda 
+a documentação necessária, admitida prorrogação motivada por igual período.
+3.2. A Contratante não responderá por compromissos assumidos pela Contratada com terceiros nem por danos causados a terceiros em decorrência de 
+atos da Contratada, de seus empregados, representantes, prepostos ou fornecedores.
+4. OBRIGAÇÕES DA CONTRATADA
+4.1. A Contratada deverá cumprir todas as obrigações previstas no Termo de Referência e neste Anexo, assumindo os riscos e as despesas decorrentes da 
+execução do objeto, especialmente:
+4.1.1. fornecer 4 (quatro) licenças autênticas e regulares do Adobe Creative Cloud VIP Teams, identificador SGD AD-014;
+4.1.2. ativar integralmente as licenças no prazo máximo de 5 (cinco) dias úteis;
+4.1.3. vincular as licenças à organização ou conta institucional indicada pela ANSN, preservando a titularidade e o controle administrativo da 
+Contratante;
+4.1.4. assegurar que cada licença seja nominal e destinada a um usuário específico, vedado o compartilhamento de credenciais;
+4.1.5. manter o direito de uso, as atualizações e o suporte durante os 24 (vinte e quatro) meses da subscrição;
+
+
+[PÁGINA 30]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+30 de 32
+4.1.6. apresentar comprovantes de autenticidade, quantidade, plano, período de vigência e regularidade das licenças;
+4.1.7. não fornecer licenças individuais, acadêmicas, compartilhadas, usadas, irregulares ou vinculadas permanentemente à conta da Contratada;
+4.1.8. comprovar, quando solicitado, que é fabricante, distribuidor, parceiro ou canal autorizado ou que possui cadeia legítima de fornecimento do 
+produto;
+4.1.9. comunicar à Contratante, com antecedência mínima de 24 (vinte e quatro) horas, qualquer fato que possa comprometer o prazo de ativação ou a 
+continuidade da solução;
+4.1.10. atender às determinações regulares emitidas pelo fiscal, pelo gestor ou pela autoridade competente;
+4.1.11. corrigir, regularizar ou substituir, sem custos adicionais, as licenças que apresentem falhas, irregularidades ou divergências, no prazo máximo de 
+5 (cinco) dias úteis ou em prazo menor fixado pela fiscalização em situação urgente;
+4.1.12. restabelecer imediatamente o acesso quando ocorrer interrupção imputável à Contratada ou ao licenciamento fornecido;
+4.1.13. responsabilizar-se pelos vícios, falhas e danos decorrentes da execução do objeto, sem que a fiscalização da Contratante reduza sua 
+responsabilidade;
+4.1.14. manter, durante toda a vigência, as condições de habilitação e qualificação exigidas;
+4.1.15. apresentar, quando não for possível verificar a regularidade no SICAF, as certidões de regularidade fiscal, trabalhista, previdenciária e perante o 
+FGTS;
+4.1.16. responsabilizar-se pelas obrigações trabalhistas, previdenciárias, fiscais, comerciais e tributárias decorrentes da contratação;
+4.1.17. cumprir as reservas legais de cargos destinadas às pessoas com deficiência, aos reabilitados da Previdência Social e aos aprendizes;
+4.1.18. guardar sigilo sobre as informações obtidas durante a execução;
+4.1.19. tratar os dados pessoais exclusivamente para fins de ativação, gerenciamento e suporte das licenças, observando a Lei nº 13.709/2018;
+4.1.20. adotar medidas técnicas e administrativas adequadas para proteger os dados, os acessos e as informações institucionais;
+4.1.21. comunicar à Contratante, no prazo máximo de 24 (vinte e quatro) horas, qualquer incidente de segurança ou suspeita de comprometimento 
+relacionada à solução;
+4.1.22. não copiar, divulgar, comercializar ou utilizar dados, arquivos e informações institucionais para finalidade diferente da execução da contratação;
+4.1.23. arcar com todos os tributos, encargos, custos de ativação, suporte, atualizações e demais despesas necessárias à execução integral;
+4.1.24. comunicar alterações promovidas pelo fabricante que possam afetar o nome comercial, as funcionalidades, o licenciamento ou a continuidade da 
+solução;
+4.1.25. não substituir o plano, o modelo de licenciamento ou o período contratado sem prévia autorização da Contratante;
+4.1.26. não utilizar trabalho infantil, forçado ou em condições degradantes, observando integralmente as normas de proteção ao trabalho; e
+4.1.27. receber e dar tratamento adequado às denúncias de discriminação, violência ou assédio relacionadas à execução da contratação.
+5. EXTINÇÃO DA CONTRATAÇÃO
+5.1. A contratação será extinta com o término do prazo de vigência, salvo se houver prorrogação formalizada tempestivamente.
+5.2. A contratação poderá ser extinta antes do prazo, sem ônus para a Contratante, quando não houver créditos orçamentários para sua continuidade ou 
+quando for demonstrado que a contratação deixou de ser vantajosa.
+5.2.1. Na hipótese prevista no item anterior, a extinção antecipada ocorrerá, preferencialmente, na próxima data de aniversário da contratação, 
+assegurado prazo mínimo de 2 (dois) meses para ciência formal da Contratada, observada a regra do art. 183 da Lei nº 14.133/2021.
+5.3. A contratação poderá ser extinta antes da data de aniversário, com os eventuais ônus legalmente cabíveis para a Contratante, conforme o art. 138, § 
+2º, da Lei nº 14.133/2021.
+5.4. A contratação poderá ser extinta antes do prazo por qualquer dos motivos previstos no art. 137 da Lei nº 14.133/2021 ou de forma consensual, 
+assegurados o contraditório e a ampla defesa.
+5.4.1. Aplicam-se à extinção as disposições dos arts. 138 e 139 da Lei nº 14.133/2021.
+
+
+[PÁGINA 31]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+31 de 32
+5.4.2. A alteração social ou a modificação da finalidade ou da estrutura da Contratada não ensejará a extinção quando não comprometer sua capacidade 
+de executar o objeto.
+5.4.2.1. Caso a operação societária implique mudança da pessoa jurídica contratada, deverá ser formalizado instrumento adequado para a alteração 
+subjetiva.
+5.5. O termo de extinção será precedido, sempre que possível, de:
+5.5.1. balanço dos eventos contratuais cumpridos ou parcialmente cumpridos;
+5.5.2. relação dos pagamentos realizados e dos valores eventualmente devidos; e
+5.5.3. apuração de indenizações, glosas e multas.
+5.6. A extinção não impedirá o reconhecimento de eventual desequilíbrio econômico-financeiro, quando devidamente comprovado, hipótese em que 
+poderá ser concedida indenização por meio de termo próprio.
+5.7. A contratação poderá ser extinta caso seja constatado que a Contratada mantém vínculo de natureza técnica, comercial, econômica, financeira, 
+trabalhista ou civil com dirigente da Contratante ou com agente público que tenha atuado na contratação, fiscalização ou gestão, ou que seja seu cônjuge, 
+companheiro ou parente até o terceiro grau.
+6. CASOS OMISSOS
+6.1. Os casos omissos serão decididos pela Contratante, de acordo com as disposições da Lei nº 14.133, de 1º de abril de 2021, da Instrução Normativa 
+SGD/ME nº 94, de 23 de dezembro de 2022, e das demais normas federais aplicáveis às contratações de soluções de Tecnologia da Informação e 
+Comunicação — TIC e, subsidiariamente, no que couber, pela Lei nº 8.078, de 11 de setembro de 1990 — Código de Defesa do Consumidor — e pelos 
+princípios gerais dos contratos.
+7. ALTERAÇÕES
+7.1. As alterações da contratação serão regidas pelos arts. 124 e seguintes da Lei nº 14.133/2021.
+7.2. A Contratada ficará obrigada a aceitar, nas mesmas condições, os acréscimos ou as supressões necessários, até o limite de 25% (vinte e cinco por 
+cento) do valor inicial atualizado da contratação.
+7.3. As supressões resultantes de acordo entre as partes poderão ultrapassar o limite de 25% (vinte e cinco por cento) do valor inicial atualizado.
+7.4. As alterações deverão ser formalizadas mediante termo aditivo ou instrumento equivalente, submetido à análise jurídica prévia quando legalmente 
+exigida.
+7.4.1. Em situação de justificada necessidade de antecipação dos efeitos da alteração, sua formalização deverá ocorrer no prazo máximo de 1 (um) mês.
+7.5. Os registros que não caracterizem alteração da contratação poderão ser realizados por apostilamento, dispensada a celebração de termo aditivo, 
+conforme o art. 136 da Lei nº 14.133/2021.
+8. FORO
+8.1. Fica eleito o Foro da Justiça Federal, Seção Judiciária do Rio de Janeiro, para dirimir os litígios decorrentes da execução da contratação que não 
+puderem ser resolvidos por conciliação ou por meios administrativos, conforme o art. 92, § 1º, da Lei nº 14.133/2021.
+14. ANEXO II
+TERMO DE CIÊNCIA E CONCORDÂNCIA
+Por meio deste instrumento, a pessoa jurídica identificada e qualificada no campo de assinatura abaixo, na condição de , declara que está Contratada
+ciente e concorda integralmente com as disposições, condições, especificações e obrigações previstas no , no Aviso de Contratação Direta Termo de 
+, no instrumento substitutivo ao contrato e nos demais anexos relativos à Dispensa Eletrônica promovida pela Autoridade Nacional de Referência
+Segurança Nuclear — ANSN.
+A Contratada declara, ainda, estar ciente de que o objeto da contratação compreende o fornecimento de 4 (quatro) licenças nominais do Adobe 
+, identificador SGD , pelo período de , pelo valor total constante da proposta aceita, Creative Cloud VIP Teams AD-014 24 (vinte e quatro) meses
+limitado ao valor máximo estimado de .R$ 40.816,64 (quarenta mil oitocentos e dezesseis reais e sessenta e quatro centavos)
+
+
+[PÁGINA 32]
+Câmara Nacional de Modelos de Licitações e Contratos da Consultoria-Geral da União
+Modelo de Termo de Referência – Aquisições – Licitação e Contratação Direta - Lei nº 14.133, de 2021
+Aprovado pela Secretaria de Gestão e Inovação
+Identidade visual pela Secretaria de Gestão e Inovação
+Atualização: DEZ/2025.
+32 de 32
+A Contratada compromete-se a cumprir integralmente as obrigações assumidas, incluindo a ativação das licenças, a manutenção do direito de uso, as 
+atualizações, o suporte e as demais condições estabelecidas nos documentos da contratação.
+Por fim, responsabiliza-se, sob as penas da lei, pela veracidade, autenticidade e legitimidade das informações, declarações e documentos apresentados 
+durante o procedimento de contratação e durante toda a execução do objeto.
+Rio de Janeiro/RJ, data da assinatura eletrônica.
+ 
+ 
+Razão social da Contratada: ______________________________________
+CNPJ: __________________________________________________________
+Nome do representante legal: ___________________________________
+Cargo: _________________________________________________________
+Assinatura do representante legal
+ 
+15. Responsáveis
+Todas as assinaturas eletrônicas seguem o horário oficial de Brasília e fundamentam-se no §3º do Art. 4º do Decreto nº 10.543, de 13 de novembro de 
+.2020
+ 
+ 
+ 
+ 
+GUILHERME DUTRA GONZAGA JAIME
+Responsável pela contratação direta
+ 
+ 

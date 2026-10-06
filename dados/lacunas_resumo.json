@@ -1,0 +1,513 @@
+[
+  {
+    "tipo": "edital",
+    "termo": "1Password",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "AWS",
+    "totalDeclarado": 41,
+    "coletados": 41,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Acrobat",
+    "totalDeclarado": 23,
+    "coletados": 23,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Acronis",
+    "totalDeclarado": 1,
+    "coletados": 1,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Agisoft",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "AltoQi",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Alura",
+    "totalDeclarado": 2,
+    "coletados": 2,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Asana",
+    "totalDeclarado": 2,
+    "coletados": 2,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Atlas.ti",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Autodesk",
+    "totalDeclarado": 17,
+    "coletados": 17,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Avast",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Azure",
+    "totalDeclarado": 6,
+    "coletados": 6,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Bentley",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Canva Pro",
+    "totalDeclarado": 16,
+    "coletados": 16,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "CapCut",
+    "totalDeclarado": 7,
+    "coletados": 7,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Check Point",
+    "totalDeclarado": 2,
+    "coletados": 2,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Citrix",
+    "totalDeclarado": 2,
+    "coletados": 2,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Claude Team",
+    "totalDeclarado": 4,
+    "coletados": 4,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "ClickUp",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Clicksign",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Commvault",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Copilot",
+    "totalDeclarado": 5,
+    "coletados": 5,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Copilot Studio",
+    "totalDeclarado": 1,
+    "coletados": 1,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Creative Cloud",
+    "totalDeclarado": 22,
+    "coletados": 22,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "CrowdStrike",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Cursor",
+    "totalDeclarado": 111,
+    "coletados": 111,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Datadog",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "DeepSeek",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Docker",
+    "totalDeclarado": 11,
+    "coletados": 11,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Dropbox",
+    "totalDeclarado": 2,
+    "coletados": 2,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Dynamics",
+    "totalDeclarado": 1,
+    "coletados": 1,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Eberick",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Elastic",
+    "totalDeclarado": 199,
+    "coletados": 199,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Elementor",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "EndNote",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Enscape",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Global Mapper",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Google Cloud",
+    "totalDeclarado": 5,
+    "coletados": 5,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Hotmart",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "HubSpot",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "IA generativa",
+    "totalDeclarado": 5,
+    "coletados": 5,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Kahoot",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "LastPass",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "LinkedIn Learning",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Lovable",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Lumion",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "MATLAB",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Malwarebytes",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Manus",
+    "totalDeclarado": 38,
+    "coletados": 38,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "McAfee",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Mentimeter",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Microsoft",
+    "totalDeclarado": 102,
+    "coletados": 102,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Microsoft 365",
+    "totalDeclarado": 17,
+    "coletados": 17,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Minitab",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Miro",
+    "totalDeclarado": 60,
+    "coletados": 60,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Monday",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "NVivo",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "NordVPN",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Norton",
+    "totalDeclarado": 12,
+    "coletados": 12,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "NotebookLM",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Nutanix",
+    "totalDeclarado": 2,
+    "coletados": 2,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Oracle Cloud",
+    "totalDeclarado": 2,
+    "coletados": 2,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Orçafascio",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Padlet",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Palo Alto",
+    "totalDeclarado": 44,
+    "coletados": 44,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Panda",
+    "totalDeclarado": 11,
+    "coletados": 11,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Photoshop",
+    "totalDeclarado": 4,
+    "coletados": 4,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Pipefy",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Pix4D",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Postman",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Power Apps",
+    "totalDeclarado": 1,
+    "coletados": 1,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Power Automate",
+    "totalDeclarado": 102,
+    "coletados": 102,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Project",
+    "totalDeclarado": 3,
+    "coletados": 3,
+    "falhas": []
+  }
+]

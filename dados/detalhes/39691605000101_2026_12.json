@@ -1,0 +1,66 @@
+{
+  "id": "39691605000101-1-000012/2026",
+  "consultadoEm": "2026-10-06T16:54:56.167540-03:00",
+  "falhas": [
+    {
+      "campo": "compra",
+      "erro": "'>=' not supported between instances of 'str' and 'int'"
+    }
+  ],
+  "itens": [
+    {
+      "numeroItem": 1,
+      "descricao": "Consignações Taxa de administração de crédito consignado sendo o critério de julgamento será pela menor Taxa de Administração oferecida para Solução integrada de inteligência atuarial, operacionalização e plataforma tecnológica SaaS para gestão da carteira de crédito consignado do OSTRASPREV. Os lances serão ofertados na plataforma como valor unitário e global são referentes a taxa de administração cobrada. O licitante que ofertar R$ 0,21 na fase de lances, estará ofertando a taxa de administração de 0,21%.",
+      "materialOuServico": "S",
+      "materialOuServicoNome": "Serviço",
+      "valorUnitarioEstimado": 0.21,
+      "valorTotal": 0.21,
+      "quantidade": 1.0,
+      "unidadeMedida": "UNIDADE",
+      "orcamentoSigiloso": false,
+      "itemCategoriaId": 3,
+      "itemCategoriaNome": "Não se aplica",
+      "patrimonio": null,
+      "codigoRegistroImobiliario": null,
+      "criterioJulgamentoId": 2,
+      "criterioJulgamentoNome": "Maior desconto",
+      "situacaoCompraItem": 1,
+      "situacaoCompraItemNome": "Em andamento",
+      "tipoBeneficio": 4,
+      "tipoBeneficioNome": "Sem benefício",
+      "incentivoProdutivoBasico": false,
+      "dataInclusao": "2026-09-22T15:17:13",
+      "dataAtualizacao": "2026-09-22T15:21:15",
+      "temResultado": false,
+      "imagem": 0,
+      "aplicabilidadeMargemPreferenciaNormal": false,
+      "aplicabilidadeMargemPreferenciaAdicional": false,
+      "percentualMargemPreferenciaNormal": null,
+      "percentualMargemPreferenciaAdicional": null,
+      "ncmNbsCodigo": null,
+      "ncmNbsDescricao": null,
+      "catalogo": null,
+      "categoriaItemCatalogo": null,
+      "catalogoCodigoItem": null,
+      "informacaoComplementar": null,
+      "tipoMargemPreferencia": null,
+      "exigenciaConteudoNacional": false
+    }
+  ],
+  "arquivos": [
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/39691605000101/compras/2026/12/arquivos/1",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/39691605000101/compras/2026/12/arquivos/1",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-09-22T15:17:14",
+      "cnpj": "39691605000101",
+      "anoCompra": 2026,
+      "sequencialCompra": 12,
+      "sequencialDocumento": 1,
+      "titulo": "EDITAL final.pdf",
+      "tipoDocumentoNome": "Edital",
+      "tipoDocumentoDescricao": "Edital",
+      "tipoDocumentoId": 2
+    }
+  ]
+}

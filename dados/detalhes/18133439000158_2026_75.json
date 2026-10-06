@@ -1,0 +1,136 @@
+{
+  "id": "18133439000158-1-000075/2026",
+  "consultadoEm": "2026-10-06T16:55:25.345900-03:00",
+  "falhas": [],
+  "itens": [
+    {
+      "numeroItem": 1,
+      "descricao": "Manutenção de Relógios de Ponto Manutenção de Relógios de Ponto",
+      "materialOuServico": "S",
+      "materialOuServicoNome": "Serviço",
+      "valorUnitarioEstimado": 2955.19,
+      "valorTotal": 35462.28,
+      "quantidade": 12.0,
+      "unidadeMedida": "UNIDADE",
+      "orcamentoSigiloso": false,
+      "itemCategoriaId": 3,
+      "itemCategoriaNome": "Não se aplica",
+      "patrimonio": null,
+      "codigoRegistroImobiliario": null,
+      "criterioJulgamentoId": 1,
+      "criterioJulgamentoNome": "Menor preço",
+      "situacaoCompraItem": 1,
+      "situacaoCompraItemNome": "Em andamento",
+      "tipoBeneficio": 1,
+      "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+      "incentivoProdutivoBasico": false,
+      "dataInclusao": "2026-10-06T13:11:08",
+      "dataAtualizacao": "2026-10-06T13:12:10",
+      "temResultado": false,
+      "imagem": 0,
+      "aplicabilidadeMargemPreferenciaNormal": false,
+      "aplicabilidadeMargemPreferenciaAdicional": false,
+      "percentualMargemPreferenciaNormal": null,
+      "percentualMargemPreferenciaAdicional": null,
+      "ncmNbsCodigo": null,
+      "ncmNbsDescricao": null,
+      "catalogo": null,
+      "categoriaItemCatalogo": null,
+      "catalogoCodigoItem": null,
+      "informacaoComplementar": null,
+      "tipoMargemPreferencia": null,
+      "exigenciaConteudoNacional": false
+    }
+  ],
+  "arquivos": [
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/18133439000158/compras/2026/75/arquivos/1",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/18133439000158/compras/2026/75/arquivos/1",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-06T13:11:09",
+      "cnpj": "18133439000158",
+      "anoCompra": 2026,
+      "sequencialCompra": 75,
+      "sequencialDocumento": 1,
+      "titulo": "EDital.pdf",
+      "tipoDocumentoNome": "Edital",
+      "tipoDocumentoDescricao": "Edital",
+      "tipoDocumentoId": 2
+    }
+  ],
+  "compra": {
+    "valorTotalEstimado": 35462.28,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "18133439000158-1-000075/2026",
+    "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98497505000242026",
+    "linkProcessoEletronico": "https://www.gov.br/compras/pt-br",
+    "anoCompra": 2026,
+    "sequencialCompra": 75,
+    "numeroCompra": "24",
+    "processo": "087/2026",
+    "orgaoEntidade": {
+      "cnpj": "18133439000158",
+      "razaoSocial": "MUNICIPIO DE PEDRA DO ANTA",
+      "poderId": "N",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Minas Gerais",
+      "ufSigla": "MG",
+      "municipioNome": "Pedra do Anta",
+      "codigoUnidade": "984975",
+      "nomeUnidade": "PREFEITURA MUNICIPAL DE PEDRA DO ANTA - MG",
+      "codigoIbge": "3148806"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 3,
+    "modoDisputaNome": "Aberto-Fechado",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "Contratação de empresa especializada na locação de relógios de ponto, com disponibilização de software para atender ás demandas de diversos setores da Secretaria Municipal de Saúde de Pedra do Anta/MG",
+    "informacaoComplementar": null,
+    "srp": false,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 2,
+        "nome": "Municipal",
+        "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-06T13:11:09"
+      },
+      {
+        "codigo": 3,
+        "nome": "Estadual",
+        "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-06T13:11:09"
+      },
+      {
+        "codigo": 4,
+        "nome": "Federal",
+        "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-06T13:11:09"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-06T13:11:08",
+    "dataAberturaProposta": "2026-10-07T08:00:00",
+    "dataEncerramentoProposta": "2026-10-22T08:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-06T13:11:08",
+    "dataAtualizacao": "2026-10-06T13:11:08",
+    "dataAtualizacaoGlobal": "2026-10-06T13:12:10",
+    "usuarioNome": "Compras.gov.br"
+  }
+}

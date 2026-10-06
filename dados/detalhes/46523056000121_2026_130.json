@@ -1,0 +1,136 @@
+{
+  "id": "46523056000121-1-000130/2026",
+  "consultadoEm": "2026-10-06T16:55:24.486065-03:00",
+  "falhas": [],
+  "itens": [
+    {
+      "numeroItem": 1,
+      "descricao": "Organização de arquivo Contratação de empresa especializada para fornecimento de licença mensal de sistema de arquivamento digital, para indexação de documentos existentes e organização do Arquivo Central do Município Suzano.",
+      "materialOuServico": "S",
+      "materialOuServicoNome": "Serviço",
+      "valorUnitarioEstimado": 11483136.4,
+      "valorTotal": 11483136.4,
+      "quantidade": 1.0,
+      "unidadeMedida": "UNIDADE",
+      "orcamentoSigiloso": false,
+      "itemCategoriaId": 3,
+      "itemCategoriaNome": "Não se aplica",
+      "patrimonio": null,
+      "codigoRegistroImobiliario": null,
+      "criterioJulgamentoId": 1,
+      "criterioJulgamentoNome": "Menor preço",
+      "situacaoCompraItem": 1,
+      "situacaoCompraItemNome": "Em andamento",
+      "tipoBeneficio": 5,
+      "tipoBeneficioNome": "Não se aplica",
+      "incentivoProdutivoBasico": false,
+      "dataInclusao": "2026-10-05T14:06:27",
+      "dataAtualizacao": "2026-10-05T14:07:28",
+      "temResultado": false,
+      "imagem": 0,
+      "aplicabilidadeMargemPreferenciaNormal": false,
+      "aplicabilidadeMargemPreferenciaAdicional": false,
+      "percentualMargemPreferenciaNormal": null,
+      "percentualMargemPreferenciaAdicional": null,
+      "ncmNbsCodigo": null,
+      "ncmNbsDescricao": null,
+      "catalogo": null,
+      "categoriaItemCatalogo": null,
+      "catalogoCodigoItem": null,
+      "informacaoComplementar": null,
+      "tipoMargemPreferencia": null,
+      "exigenciaConteudoNacional": false
+    }
+  ],
+  "arquivos": [
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/46523056000121/compras/2026/130/arquivos/1",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/46523056000121/compras/2026/130/arquivos/1",
+      "tipoDocumentoId": 2,
+      "titulo": "PE 069-2026 (Compra.Gov 166-2026) - Contratacao de empresa especializada em arquivamento digital - ComprasGov.pdf",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-05T14:06:28",
+      "cnpj": "46523056000121",
+      "anoCompra": 2026,
+      "sequencialCompra": 130,
+      "sequencialDocumento": 1,
+      "tipoDocumentoNome": "Edital",
+      "tipoDocumentoDescricao": "Edital"
+    }
+  ],
+  "compra": {
+    "valorTotalEstimado": 11483136.4,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 1,
+    "orcamentoSigilosoDescricao": "Compra sem sigilo",
+    "numeroControlePNCP": "46523056000121-1-000130/2026",
+    "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98715105001662026",
+    "linkProcessoEletronico": null,
+    "anoCompra": 2026,
+    "sequencialCompra": 130,
+    "numeroCompra": "166",
+    "processo": "7746/2026",
+    "orgaoEntidade": {
+      "cnpj": "46523056000121",
+      "razaoSocial": "MUNICIPIO DE SUZANO",
+      "poderId": "N",
+      "esferaId": "M"
+    },
+    "unidadeOrgao": {
+      "ufNome": "São Paulo",
+      "ufSigla": "SP",
+      "municipioNome": "Suzano",
+      "codigoUnidade": "987151",
+      "nomeUnidade": "PREFEITURA MUNICIPAL DE SUZANO - SP",
+      "codigoIbge": "3552502"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 1,
+    "modoDisputaNome": "Aberto",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "Contratação de empresa especializada para fornecimento de licença mensal de sistema de arquivamento digital, para indexação de documentos existentes e organização do Arquivo Central do Município Suzano.",
+    "informacaoComplementar": "PREGÃO ELETRÔNICO Nº 069/2026",
+    "srp": false,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 2,
+        "nome": "Municipal",
+        "descricao": "Recurso orçamentário municipal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-05T14:06:28"
+      },
+      {
+        "codigo": 3,
+        "nome": "Estadual",
+        "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-05T14:06:28"
+      },
+      {
+        "codigo": 4,
+        "nome": "Federal",
+        "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-10-05T14:06:28"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-10-05T14:06:27",
+    "dataAberturaProposta": "2026-10-06T09:00:00",
+    "dataEncerramentoProposta": "2026-10-21T09:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-10-05T14:06:27",
+    "dataAtualizacao": "2026-10-05T14:06:27",
+    "dataAtualizacaoGlobal": "2026-10-05T14:07:28",
+    "usuarioNome": "Compras.gov.br"
+  }
+}

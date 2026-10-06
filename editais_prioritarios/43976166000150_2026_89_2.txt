@@ -1,0 +1,585 @@
+
+[PÁGINA 1]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+1/ 13 
+TERMO DE REFERÊNCIA 
+CONTRATAÇÃO DE LICENÇAS CORPORATIVAS DE INTELIGÊNCIA 
+ARTIFICIAL – CHATGPT BUSINESS 
+1. DO OBJETO 
+ 
+1.1. Contratação de empresa especializada para o fornecimento continuado de 30 (trinta) 
+licenças/assentos Standard do ChatGPT Business , mediante cessão temporária do direito de 
+uso de solução de inteligência artificial generativa disponibilizada em ambiente SaaS – Software 
+as a Service, pelo período de 12 (doze) meses. 
+ 
+Item Descrição Quantidade Unidade Vigência 
+1 ChatGPT Business – assento Standard 30 licença/usuário 12 meses 
+ 
+1.2. A contratação compreende a disponibilização, ativação e manutenção dos 30 assentos 
+durante todo o período contratado, inclusive administração institucional dos usuários, 
+atualizações ordinariamente incorporadas ao plano e suporte necessário à ativação e ao 
+licenciamento. 
+1.3. Não integram o objeto assentos Premium, contratação autônoma de API, créditos 
+adicionais, recargas, upgrades, consumo extraordinário faturável ou outras funcionalidades 
+sujeitas a cobrança adicional não expressamente autorizadas pela Administração. 
+ 
+2. DA JUSTIFICATIVA E DA NECESSIDADE 
+ 
+2.1. A contratação destina-se a disponibilizar ferramenta institucional de inteli gência artificial 
+para apoio às atividades de pesquisa, análise, organização, síntese, elaboração e revisão  
+documental, planejamento de contratações, estruturação de dados, pesquisas técnicas e 
+administrativas e consolidação de informações. 
+2.2. A solução pretende proporcionar maior celeridade e padronização documental, redução de 
+retrabalho, fortalecimento do planejamento das contratações, aprimoramento das pesqui sas, 
+maior capacidade de análise de documentos e melhor aproveitamento do tempo dos servidores. 
+2.3. A ferramenta terá caráter exclusivamente auxiliar e não substituirá decisã o administrativa, 
+manifestação jurídica, responsabilidade técnica ou contábil, atividade de gestão ou fiscalização, 
+avaliação clínica, elaboração de projetos ou cálculos de engenharia, ART/RRT ou qualquer  
+atribuição reservada a agente ou profissional legalmente habilitado. 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 2]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+2/ 13 
+2.4. Todo conteúdo relevante produzido com auxílio da ferramenta deverá ser submetido à  
+conferência e validação humana antes de sua utilização administrativa. 
+ 
+3. DA NATUREZA DA CONTRATAÇÃO 
+ 
+3.1. O objeto caracteriza-se como serviço continuado de tecnologia da informação e 
+comunicação, consistente na cessão temporária do direito de uso de software disponibilizado em 
+ambiente de nuvem, sem dedicação exclusiva de mão de obra. 
+3.2. Não será adotado Sistema de Registro de Preços, considerando que o quantitativo é 
+determinado e a necessidade consiste na disponibilização contínua dos acessos durante a 
+vigência contratual. 
+ 
+4. DOS QUANTITATIVOS E DA DISTRIBUIÇÃO 
+ 
+4.1. Os 30 assentos serão inicialmente destinados às seguintes unidades: 
+ 
+Departamento/Setor Quantidade 
+Departamento de Compras e Licitações 7 
+Procuradoria 4 
+Saúde 2 
+Informática 2 
+Engenharia 2 
+DAEMA 1 
+Educação 1 
+Urbanismo 1 
+DEDEC 1 
+Comunicação 1 
+Cultura 1 
+Esporte 1 
+Gabinete 1 
+Promoção Social 1 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 3]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+3/ 13 
+Departamento/Setor Quantidade 
+Secretaria 1 
+Convênios 1 
+Recursos Humanos 1 
+Contabilidade 1 
+TOTAL 30 
+4.2. A distribuição possui natureza administrativa e poderá ser modificada durant e a execução, 
+mediante inclusão, exclusão ou substituição de usuários, de acordo com a necessidade dos 
+Departamentos e as regras do fabricante, desde que não haja aumento do quantitativo total ou do 
+valor contratado. 
+4.3. As licenças serão individualizadas, sendo vedado o compartilhamento de credenciais entr e 
+usuários. 
+ 
+5. DOS REQUISITOS DA SOLUÇÃO 
+ 
+5.1. Os assentos deverão: 
+a) ser oficiais e legítimos; 
+b) corresponder ao plano ChatGPT Business – Standard; 
+c) ser individualizados por usuário; 
+d) permitir utilização mediante contas institucionais; 
+e) integrar ambiente corporativo administrado pelo Município; 
+f) permitir inclusão, exclusão e substituição de usuários, nos limites do plano; 
+g) manter as funcionalidades ordinariamente integrantes da categoria contratada; 
+h) contemplar as atualizações normalmente incorporadas ao produto; 
+i) permitir administração institucional dos acessos; 
+j) incluir suporte necessário à ativação e ao licenciamento; 
+k) possibilitar identificação objetiva do período de validade; e 
+l) ser disponibilizados mediante cadeia legítima de comercialização. 
+5.2. Deverão permanecer desabilitados ou depender de autorização administrativa expressa 
+todos os mecanismos que possam gerar despesas adicionais, inclusive créditos, novos assent os, 
+funcionalidades Premium, API paga, consumo extraordinário e upgrades. 
+ 
+6. DA GOVERNANÇA, SEGURANÇA DA INFORMAÇÃO E PROTEÇÃO DE DADOS 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 4]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+4/ 13 
+ 
+6.1. A utilização da solução deverá observar as normas de segurança da informação, as 
+diretrizes internas do Município e a Lei Federal nº 13.709/2018 – Lei Geral de Proteção de 
+Dados Pessoais – LGPD. 
+6.2. Os usuários deverão utilizar contas institucionais, autenticação multifator qua ndo 
+disponível e observar a vedação ao compartilhamento de senhas. 
+6.3. É vedada a inserção de senhas, tokens, chaves privadas ou outras credenciais de acesso nas 
+ferramentas de inteligência artificial. 
+6.4. O tratamento de dados pessoais deverá observar os princípios da necessidade, adequ ação, 
+minimização e segurança, com cautela reforçada em relação a dados pessoais sens íveis, 
+documentos sigilosos e informações protegidas. 
+6.5. Legislação, jurisprudência, preços, cálculos, links, documentos, especificações e demais  
+informações produzidas ou indicadas pela ferramenta deverão ser conferidos pel o usuário 
+responsável. 
+ 
+7. DO PRAZO E DAS CONDIÇÕES DE EXECUÇÃO 
+ 
+7.1. As licenças serão disponibilizadas eletronicamente. 
+7.2. A contratada deverá realizar a ativação integral das licenças no prazo  máximo de 10 (dez) 
+dias úteis, contado do recebimento da ordem de fornecimento e das informações necessárias à 
+configuração dos acessos. 
+7.3. A contratada deverá assegurar a disponibilidade dos 30 assentos pelo período integral 
+contratado, ressalvadas indisponibilidades gerais da infraestrutura do fabricante que não lhe 
+sejam imputáveis, sem prejuízo da obrigação de prestar suporte e adotar as medid as necessárias 
+à regularização. 
+7.4. As substituições de usuários deverão ser realizadas durante a vigência, quando solicit adas 
+pela Administração e permitidas pelas regras do plano, sem cobrança adicional quando não 
+houver aumento do número de assentos. 
+ 
+8. DA VIGÊNCIA 
+ 
+8.1. A vigência da contratação será de 12 (doze) meses , contados da data estabelecida no 
+instrumento contratual. 
+8.2. Por se tratar de serviço continuado, poderão ser admitidas prorrogações sucessivas, nos 
+termos dos arts. 106 e 107 da Lei Federal nº 14.133/2021, desde que previstas no instrumento e  
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 5]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+5/ 13 
+demonstradas a permanência da necessidade, a disponibilidade orçamentária, a manutenção das 
+condições exigidas da contratada e a vantajosidade da continuidade. 
+ 
+9. DO VALOR ESTIMADO 
+ 
+9.1. O valor total estimado da contratação é de R$ 63.600,00 (sessenta e três mil e seiscentos 
+reais) para o período de 12 meses. 
+ 
+Descrição Quantidade 
+Valor unitário anual 
+estimado 
+Valor total 
+estimado 
+ChatGPT Business – 
+Standard 
+30 R$ 2.120,00 R$ 63.600,00 
+ 
+9.2. O valor estimado constitui teto para a contratação e não impede a obtenção de proposta 
+mais vantajosa. 
+9.3. O preço ofertado deverá contemplar todos os custos necessários à execução integral do 
+objeto, inclusive licenciamento, ativação, intermediação comercial, suporte, tributos, encar gos, 
+emissão fiscal e demais despesas diretas ou indiretas. 
+ 
+10. DO PROCEDIMENTO E DO CRITÉRIO DE JULGAMENTO 
+ 
+10.1. A contratação poderá ser processada mediante dispensa de licitação em razão do valor , 
+com fundamento no art. 75, II, da Lei Federal nº 14.133/2021, desde que atendidas as  demais 
+condições legais aplicáveis. 
+10.2. Antes da contratação deverá ser certificada a observância do art. 75, § 1º, da Le i nº 
+14.133/2021, especialmente quanto ao somatório das despesas realizadas pela unidade gesto ra e 
+com objetos de mesma natureza e à inexistência de fracionamento indevido. 
+10.3. O critério de julgamento será o menor preço do item , condicionado ao atendimento 
+integral das especificações deste Termo de Referência. 
+10.4. Caso a atualização dos preços ou as propostas apresentadas resultem em valor 
+incompatível com o enquadramento da contratação direta, deverá ser adotado o procedimento de 
+contratação legalmente cabível. 
+ 
+11. DO PARCELAMENTO 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 6]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+6/ 13 
+ 
+11.1. O objeto será contratado em item único, correspondente às 30 licenças ChatGPT Business 
+– Standard. 
+11.2. A subdivisão por Departamento ou usuário não se mostra conveniente, pois os acessos 
+possuem especificação idêntica e deverão integrar ambiente institucional sujeito à administração 
+centralizada. 
+ 
+12. DA APRESENTAÇÃO DA PROPOSTA 
+ 
+12.1. A proposta deverá indicar, no mínimo: 
+a) identificação da solução ofertada; 
+b) categoria Standard do ChatGPT Business; 
+c) quantidade de 30 licenças; 
+d) período de 12 meses; 
+e) valor unitário e total; 
+f) prazo de ativação; 
+g) identificação e CNPJ do fornecedor; e 
+h) declaração de que o preço contempla todos os custos necessários à execução. 
+12.2. Não serão aceitas contas pessoais revendidas, contas compartilhadas, licenças 
+promocionais incompatíveis com utilização institucional ou mecanismos de fornecim ento 
+contrários às condições ordinárias do fabricante. 
+ 
+13. DA HABILITAÇÃO 
+ 
+13.1. Para fins de habilitação, o fornecedor provisoriamente classificado em prim eiro lugar 
+deverá apresentar os documentos abaixo relacionados, admitida a consulta direta pela 
+Administração aos sistemas e bases oficiais disponíveis, nos termos da Lei nº 14.133/2021. 
+ 
+13.2. Habilitação jurídica: 
+ 
+13.2.1. Comprovante de inscrição e de situação cadastral ativa no Cadastro Nacional da Pessoa 
+Jurídica – CNPJ, compatível com a atividade objeto da contratação, disponível para consul ta no 
+Portal REDESIM: Consultar/emitir comprovante de CNPJ – REDESIM. 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 7]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+7/ 13 
+13.2.2. Ato constitutivo, estatuto ou contrato social em vigor e suas alterações, ou instrumento 
+consolidado, devidamente registrado, acompanhado dos documentos de eleição ou designação 
+de seus administradores, quando aplicável. 
+13.2.3. Autorização ou licença para exercício da atividade, quando exigida pela legislação 
+específica. 
+ 
+13.3. Regularidade fiscal, social e trabalhista: 
+ 
+13.3.1. Certidão Negativa de Débitos ou Certidão Positiva com Efeitos de Negativa relati va aos 
+créditos tributários federais e à Dívida Ativa da União, inclusive contribuiçõe s previdenciárias, 
+expedida conjuntamente pela Receita Federal do Brasil e pela Procuradoria-Geral da Fazenda 
+Nacional – PGFN: Emitir CND Federal – Receita Federal/PGFN. 
+13.3.2. Certificado de Regularidade do FGTS – CRF, emitido pela Caixa Econômica Federal: 
+Consultar/emitir CRF do FGTS – CAIXA. 
+13.3.3. Certidão Negativa de Débitos Trabalhistas – CNDT ou Certidão Positiva com Efeitos de 
+Negativa, expedida pela Justiça do Trabalho: Emitir CNDT – Tribunal Superior do Trabalho. 
+13.3.4. Certidão de regularidade perante a Fazenda Estadual do domicílio ou sede do 
+fornecedor, quando pertinente à sua atividade e à natureza da contratação. Para empresa s 
+sediadas no Estado de São Paulo, poderão ser consultadas: 
+a) certidão relativa aos débitos inscritos em Dívida Ativa: Certidão de Dívida Ativa – PGE/SP; 
+b) certidão relativa aos débitos tributários não inscritos em Dívida Ativa, quando apl icável: 
+Certidão de Débitos Não Inscritos – Sefaz/SP. 
+13.3.5. Certidão Negativa ou Positiva com Efeitos de Negativa de Tributos Mobiliários 
+Municipais, expedida pelo Município do domicílio ou sede do fornecedor. Para fornecedo res 
+sediados em Américo Brasiliense/SP, a certidão poderá ser obtida pelo serviço  oficial: Certidão 
+negativa para contribuintes de Américo Brasiliense. 
+13.3.6. Comprovante de inscrição no cadastro de contribuintes municipal e, quando aplicável , 
+estadual, pertinente ao ramo de atividade e compatível com o objeto. 
+13.3.7. Declaração de cumprimento do disposto no art. 7º, XXXIII, da Constituição  Federal, 
+quanto à proibição de trabalho noturno, perigoso ou insalubre a menores de 18 anos e de 
+qualquer trabalho a menores de 16 anos, salvo na condição de aprendiz, a partir dos 14 anos. 
+13.3.8. Declaração de cumprimento das exigências legais relativas à reserva de cargos par a 
+pessoa com deficiência e para reabilitado da Previdência Social, quando aplicável. 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 8]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+8/ 13 
+13.4. O fornecedor deverá demonstrar capacidade efetiva de disponibilizar licenças legít imas 
+mediante documento do fabricante, distribuidor, parceiro, revendedor ou outra documentação  
+comercial idônea. 
+13.5. Não será exigida declaração específica de “revendedor autorizado” quando essa 
+formalidade não integrar o modelo ordinário de comercialização do fabricante, desde que a  
+legitimidade do fornecimento seja demonstrada por meio idôneo. 
+ 
+13.6. QUALIFICAÇÃO TÉCNICA 
+ 
+13.6.1. Para comprovação da capacidade técnico-operacional, o fornecedor provisoriamente 
+classificado em primeiro lugar deverá apresentar um ou mais atestados de capacidade técnica, 
+emitidos por pessoa jurídica de direito público ou privado, que comprovem a execuçã o 
+satisfatória de objeto compatível com a presente contratação. 
+13.6.2. Será considerada compatível a experiência no fornecimento, licenciamento, 
+disponibilização ou gerenciamento de licenças de software, plataformas digitais ou 
+soluções disponibilizadas em ambiente de nuvem (SaaS) de características semelhantes às do 
+objeto. 
+13.6.3. Os atestados deverão comprovar quantitativo mínimo equivalente a 15 (quinze) licenças 
+ou usuários, correspondente a 50% das 30 licenças estimadas para a contratação, nos termos 
+do art. 67, § 2º, da Lei nº 14.133/2021. 
+13.6.4. Será admitido o somatório de atestados  para atendimento do quantitativo mínimo 
+exigido, desde que os documentos apresentados permitam verificar a compatibilidade do objeto 
+e a efetiva capacidade do fornecedor. 
+13.6.5. Não será exigido que a experiência anterior tenha ocorrido com a mesma mar ca ou 
+plataforma objeto desta contratação, nem serão estabelecidas limitações quanto ao período ou ao 
+local de execução dos serviços atestados. 
+13.6.6. Os atestados deverão conter informações suficientes para identificação do emitente, do 
+fornecedor, do objeto executado e dos respectivos quantitativos, podendo a Administração 
+realizar diligências para confirmar sua autenticidade ou esclarecer informações. 
+ 
+14. DA SUBCONTRATAÇÃO 
+ 
+14.1. A utilização da infraestrutura tecnológica mantida pelo fabricante da solução não 
+caracteriza, por si só, subcontratação. 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 9]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+9/ 13 
+14.2. Não será admitida transferência integral das obrigações assumidas pela contratada perante 
+o Município. 
+ 
+15. DA GARANTIA E DA VISTORIA 
+ 
+15.1. Não será exigida garantia contratual financeira, considerando a natureza digital do ob jeto, 
+a inexistência de dedicação exclusiva de mão de obra, a facilidade de verificação da exec ução e 
+o pagamento condicionado ao regular recebimento. 
+15.2. Não será exigida vistoria prévia, por inexistir instalação física ou condição local cuj a 
+inspeção seja necessária à elaboração da proposta. 
+ 
+16. DAS OBRIGAÇÕES DA CONTRATADA 
+ 
+16.1. São obrigações da contratada: 
+a) disponibilizar os 30 assentos na categoria contratada; 
+b) assegurar a legitimidade das licenças; 
+c) realizar a ativação dentro do prazo estabelecido; 
+d) manter os acessos durante toda a vigência; 
+e) prestar suporte relacionado à ativação e ao licenciamento; 
+f) realizar substituições de usuários, quando solicitadas e tecnicamente permitidas; 
+g) comunicar alterações relevantes do produto que possam afetar a execução; 
+h) impedir cobranças adicionais não autorizadas; 
+i) emitir documentação fiscal correspondente ao objeto efetivamente fornecido; 
+j) manter as condições de habilitação durante a execução; e 
+k) observar as normas aplicáveis à proteção de dados e segurança da informação. 
+ 
+17. DAS OBRIGAÇÕES DA CONTRATANTE 
+ 
+17.1. Compete ao Município: 
+a) fornecer as informações necessárias à ativação; 
+b) indicar e administrar os usuários; 
+c) manter controle institucional das credenciais; 
+d) utilizar a plataforma de acordo com sua finalidade e regras de segurança; 
+e) fiscalizar a execução; 
+f) comunicar irregularidades à contratada; 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 10]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+10/ 13 
+g) realizar o recebimento após a verificação do cumprimento das condições contratuais; e 
+h) efetuar o pagamento após a regular liquidação da despesa. 
+ 
+18. DA GESTÃO E FISCALIZAÇÃO 
+ 
+18.1. A gestão da contratação será exercida por ANDRÉ RUI BARBOSA - Coordenador 
+18.2. A fiscalização técnica será exercida por JOSÉ ROBERTO CAVASSANI – Diretor de 
+TI. 
+18.3. A fiscalização verificará, especialmente: 
+a) quantidade e categoria dos assentos; 
+b) ativação e prazo de validade; 
+c) usuários ativos e substituições; 
+d) continuidade dos acessos; 
+e) legitimidade das licenças; 
+f) suporte disponibilizado; e 
+g) inexistência de cobranças adicionais não autorizadas. 
+18.4. A área de Informática prestará apoio nos aspectos relacionados à autenticação, s egurança, 
+controle de acessos e governança tecnológica. 
+ 
+19. DO RECEBIMENTO 
+ 
+19.1. O recebimento provisório ocorrerá após a ativação das licenças, mediante confe rência 
+inicial da quantidade, categoria, validade e funcionamento. 
+19.2. O recebimento definitivo dependerá da confirmação de: 
+a) disponibilização dos 30 assentos Standard; 
+b) regular funcionamento dos acessos; 
+c) correspondência entre a solução ofertada e a contratada; 
+d) ambiente institucional administrado pelo Município; 
+e) disponibilização pelo período contratado; e 
+f) inexistência de cobranças estranhas ao objeto. 
+19.3. Constatada desconformidade, a contratada deverá promover a regularização sem ônus 
+adicional para o Município, sem prejuízo das medidas administrativas cabíveis. 
+ 
+20. DO PAGAMENTO 
+ 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 11]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+11/ 13 
+20.1. O pagamento será efetuado em até 30 (trinta) dias após a regular liquidação da 
+despesa, observados o recebimento do objeto e a apresentação da respectiva Nota Fiscal. 
+20.2. A Nota Fiscal deverá corresponder às licenças efetivamente disponibilizadas e identificar 
+o período de assinatura. 
+20.3. Não haverá pagamento por créditos, APIs, upgrades, assentos adicionais ou 
+funcionalidades não previamente autorizadas. 
+20.4. Não será admitido pagamento antecipado anterior à disponibilização do objeto, res salvada 
+hipótese excepcional devidamente justificada e juridicamente admitida. 
+ 
+21. DO REAJUSTE 
+ 
+21.1. Os preços serão fixos e irreajustáveis durante o interregno mínimo legal. 
+21.2. Em eventual prorrogação, observado o interregno legal contado da data-base da proposta  
+ou do orçamento a que ela se referir, poderá ser aplicado o IPCA/IBGE, mediante formalização 
+e sem prejuízo da prévia demonstração da vantajosidade. 
+ 
+22. DO EQUILÍBRIO ECONÔMICO-FINANCEIRO E ALTERAÇÕES 
+ 
+22.1. Eventuais alterações contratuais observarão os arts. 124 e seguintes da Lei Federal nº 
+14.133/2021. 
+22.2. Eventual pedido de restabelecimento do equilíbrio econômico-financeiro deverá ser 
+devidamente fundamentado e acompanhado de documentação capaz de demonstrar a 
+ocorrência, a repercussão econômica e o nexo causal. 
+22.3. A alteração unilateral de tabela comercial ou de política de preços pelo fabri cante não 
+produz, isoladamente, direito automático à revisão do preço contratado. 
+ 
+23. DAS SANÇÕES 
+ 
+23.1. O descumprimento das obrigações assumidas sujeitará a contratada às sanções previ stas 
+nos arts. 155 a 163 da Lei Federal nº 14.133/2021, assegurados o contraditório e a ampla defesa. 
+23.2. Constituem situações passíveis de apuração, entre outras, a não ativação das lice nças, 
+fornecimento de categoria diversa, disponibilização de licenças irregulares, inte rrupção 
+imputável à contratada ou cobrança de valores não autorizados. 
+ 
+24. DA EXTINÇÃO 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 12]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+12/ 13 
+ 
+24.1. A extinção do contrato observará as hipóteses, condições e procedimentos previstos no s 
+arts. 137 a 139 da Lei Federal nº 14.133/2021. 
+24.2. A Administração poderá optar pela não prorrogação caso cesse a necessidade, deixe de 
+existir vantagem na continuidade, ou seja, identificada solução mais adequada ao inte resse 
+público. 
+ 
+25. DA SUSTENTABILIDADE 
+ 
+25.1. A solução possui natureza predominantemente digital e poderá contribuir para redução de 
+impressões intermediárias, tramitação e revisão eletrônica de documentos, rac ionalização 
+documental e redução de retrabalho. 
+25.2. A utilização dos assentos deverá ser acompanhada durante a execução, permitindo sua 
+redistribuição entre os usuários e unidades municipais quando necessária ao melhor 
+aproveitamento da despesa. 
+ 
+26. DO PLANEJAMENTO E DA ADEQUAÇÃO ORÇAMENTÁRIA 
+ 
+26.1. O Plano de Contratações Anual – PCA encontra-se em fase de elaboração. A presente 
+contratação deverá ser considerada no processo de consolidação do planejamento anual e 
+compatibilizada com os demais instrumentos de planejamento e orçamento do Município. 
+26.2. A formalização da contratação dependerá da existência de disponibilidade orçam entária 
+suficiente, devendo a unidade competente certificar nos autos a correspondente classificação 
+orçamentária, dotação e fonte de recursos antes da assunção da obrigação. 
+ 
+27. DA PUBLICIDADE, RASTREABILIDADE E CONTROLE 
+ 
+27.1. Deverão permanecer nos autos, conforme aplicável, o Documento de Formalização da 
+Demanda, ETP, presente Termo de Referência, Mapa de Riscos, pesquisa de preços e respectivo 
+dossiê, propostas recebidas, justificativa de preço, razão da escolha do fornecedor, document os 
+de habilitação, manifestação orçamentária, autorização da autoridade competente e instru mento 
+contratual. 
+27.2. Considerando a proximidade do valor estimado com o limite aplicável à contrat ação 
+direta, a pesquisa de preços deverá permanecer atual até a formalização. 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 13]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+13/ 13 
+27.3. Se a atualização dos preços resultar em valor incompatível com o limite legal da dispensa, 
+deverá ser revisto o procedimento de contratação, preservado o quantitativo correspondente à 
+necessidade administrativa. 
+ 
+28. DAS DISPOSIÇÕES FINAIS 
+ 
+28.1. A contratação somente será formalizada após o atendimento das condições estabelecidas 
+neste Termo de Referência e nos demais documentos da fase preparatória. 
+28.2. Eventual divergência entre a proposta apresentada e as especificações deste Termo deverá  
+ser solucionada antes da formalização, devendo ser assegurado o atendimento integral aos 
+requisitos definidos pela Administração. 
+28.3. O valor total estimado é de R$ 63.600,00 (sessenta e três mil e seiscentos reais)  para 12 
+(doze) meses , com julgamento pelo menor preço do item , sem prejuízo da análise de 
+exequibilidade e da comprovação de atendimento às especificações. 
+28.4. A execução deverá preservar a legitimidade das licenças, a gestão institucional dos  
+acessos, a segurança da informação, a proteção dos dados pessoais, a revisão humana dos 
+conteúdos produzidos e a responsabilidade funcional dos agentes públicos. 
+ 
+-- assinado eletronicamente – 
+MÁRCIO BARBIERI 
+Diretor de Administração 
+Assinado por 1 pessoa:  MARCIO BARBIERI
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147 e informe o código 4C51-61E1-A270-2147
+
+
+[PÁGINA 14]
+VERIFICAÇÃO DAS
+ASSINATURAS
+Código para verificação: 4C51-61E1-A270-2147
+Este documento foi assinado digitalmente pelos seguintes signatários nas datas indicadas:
+MARCIO BARBIERI (CPF 094.XXX.XXX-14) em 21/09/2026 10:03:51 GMT-03:00
+Papel: Parte
+Emitido por: Sub-Autoridade Certificadora 1Doc (Assinatura 1Doc)
+Para verificar a validade das assinaturas, acesse a Central de Verificação por meio do link:
+https://americobrasiliense.1doc.com.br/verificacao/4C51-61E1-A270-2147

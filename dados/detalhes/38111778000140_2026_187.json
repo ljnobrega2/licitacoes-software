@@ -1,0 +1,130 @@
+{
+  "id": "38111778000140-1-000187/2026",
+  "consultadoEm": "2026-10-06T16:54:45.716445-03:00",
+  "falhas": [],
+  "itens": [
+    {
+      "numeroItem": 1,
+      "descricao": "\"Software\" aplicação: informática, tipo: client server suite, características adicionais: antivírus corporativo, atualização contínua e su- LICENÇA DO PACOTE ADOBE CREATIVE CLOUD,\ncontendo uma coleção de mais de 20 aplicativos\ne serviços para desktop e dispositivos móveis\npara fotografia, design, vídeo, Web, por um\nperíodo de 12 meses",
+      "materialOuServico": "M",
+      "materialOuServicoNome": "Material",
+      "valorUnitarioEstimado": 0,
+      "valorTotal": 0,
+      "quantidade": 12.0,
+      "unidadeMedida": "Unidade",
+      "orcamentoSigiloso": true,
+      "itemCategoriaId": 3,
+      "itemCategoriaNome": "Não se aplica",
+      "patrimonio": null,
+      "codigoRegistroImobiliario": null,
+      "criterioJulgamentoId": 1,
+      "criterioJulgamentoNome": "Menor preço",
+      "situacaoCompraItem": 1,
+      "situacaoCompraItemNome": "Em andamento",
+      "tipoBeneficio": 1,
+      "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+      "incentivoProdutivoBasico": false,
+      "dataInclusao": "2026-09-25T10:25:26",
+      "dataAtualizacao": "2026-09-25T10:26:27",
+      "temResultado": false,
+      "imagem": 0,
+      "aplicabilidadeMargemPreferenciaNormal": false,
+      "aplicabilidadeMargemPreferenciaAdicional": false,
+      "percentualMargemPreferenciaNormal": null,
+      "percentualMargemPreferenciaAdicional": null,
+      "ncmNbsCodigo": "84714900",
+      "ncmNbsDescricao": null,
+      "catalogo": null,
+      "categoriaItemCatalogo": null,
+      "catalogoCodigoItem": null,
+      "informacaoComplementar": null,
+      "tipoMargemPreferencia": null,
+      "exigenciaConteudoNacional": false
+    }
+  ],
+  "arquivos": [
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/38111778000140/compras/2026/187/arquivos/1",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/38111778000140/compras/2026/187/arquivos/1",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-09-25T10:25:26",
+      "cnpj": "38111778000140",
+      "anoCompra": 2026,
+      "sequencialCompra": 187,
+      "sequencialDocumento": 1,
+      "titulo": "Edital - SF n 325.2026- Licenca Adobe - Assinado.pdf",
+      "tipoDocumentoNome": "Edital",
+      "tipoDocumentoDescricao": "Edital",
+      "tipoDocumentoId": 2
+    }
+  ],
+  "compra": {
+    "valorTotalEstimado": 0.0,
+    "valorTotalHomologado": null,
+    "orcamentoSigilosoCodigo": 3,
+    "orcamentoSigilosoDescricao": "Compra totalmente sigilosa",
+    "numeroControlePNCP": "38111778000140-1-000187/2026",
+    "linkSistemaOrigem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=93040405000912026",
+    "linkProcessoEletronico": "https://pbsaude.pb.gov.br/",
+    "anoCompra": 2026,
+    "sequencialCompra": 187,
+    "numeroCompra": "91",
+    "processo": "3824/2026",
+    "orgaoEntidade": {
+      "cnpj": "38111778000140",
+      "razaoSocial": "FUNDACAO PARAIBANA DE GESTAO EM SAUDE -PB  SAUDE",
+      "esferaId": "E",
+      "poderId": "E"
+    },
+    "unidadeOrgao": {
+      "ufNome": "Paraíba",
+      "ufSigla": "PB",
+      "municipioNome": "João Pessoa",
+      "codigoIbge": "2507507",
+      "codigoUnidade": "930404",
+      "nomeUnidade": "EPB-FUNDAÇÃO PARAIBANA DE GESTÃO EM SAÚDE"
+    },
+    "orgaoSubRogado": null,
+    "unidadeSubRogada": null,
+    "modalidadeId": 6,
+    "modalidadeNome": "Pregão - Eletrônico",
+    "justificativaPresencial": null,
+    "modoDisputaId": 3,
+    "modoDisputaNome": "Aberto-Fechado",
+    "tipoInstrumentoConvocatorioCodigo": 1,
+    "tipoInstrumentoConvocatorioNome": "Edital",
+    "amparoLegal": {
+      "nome": "Lei 14.133/2021, Art. 28, I",
+      "descricao": "pregão: modalidade de licitação obrigatória para aquisição de bens e serviços comuns",
+      "codigo": 1
+    },
+    "objetoCompra": "CONTRATAÇÃO DE  EMPRESA ESPECIALIZADA PARA A UTILIZAÇÃO DE 12 LICENÇAS DO  PACOTE ADOBE CREATIVE CLO",
+    "informacaoComplementar": null,
+    "srp": false,
+    "fontesOrcamentarias": [
+      {
+        "codigo": 3,
+        "nome": "Estadual",
+        "descricao": "Recurso orçamentário estadual disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-09-25T10:25:26"
+      },
+      {
+        "codigo": 4,
+        "nome": "Federal",
+        "descricao": "Recurso orçamentário federal disponível e devidamente vinculado à despesa que será realizada.",
+        "dataInclusao": "2026-09-25T10:25:26"
+      }
+    ],
+    "emendaParlamentar": null,
+    "dataPublicacaoPncp": "2026-09-25T10:25:26",
+    "dataAberturaProposta": "2026-09-28T08:00:00",
+    "dataEncerramentoProposta": "2026-10-14T09:00:00",
+    "situacaoCompraId": 1,
+    "situacaoCompraNome": "Divulgada no PNCP",
+    "existeResultado": false,
+    "dataInclusao": "2026-09-25T10:25:26",
+    "dataAtualizacao": "2026-09-25T10:25:26",
+    "dataAtualizacaoGlobal": "2026-09-25T10:26:27",
+    "usuarioNome": "Compras.gov.br"
+  }
+}

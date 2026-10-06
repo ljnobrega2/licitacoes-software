@@ -1,0 +1,680 @@
+[
+  {
+    "tipo": "edital",
+    "termo": "software",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&ordenacao=-data&pagina=2&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "subscrição",
+    "totalDeclarado": 63,
+    "coletados": 63
+  },
+  {
+    "tipo": "edital",
+    "termo": "licença",
+    "totalDeclarado": 500,
+    "coletados": 500
+  },
+  {
+    "tipo": "edital",
+    "termo": "SaaS",
+    "totalDeclarado": 145,
+    "coletados": 145
+  },
+  {
+    "tipo": "edital",
+    "termo": "Chat GPT",
+    "totalDeclarado": 1,
+    "coletados": 1
+  },
+  {
+    "tipo": "edital",
+    "termo": "OpenAI",
+    "totalDeclarado": 4,
+    "coletados": 4
+  },
+  {
+    "tipo": "edital",
+    "termo": "ChatGPT",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=ChatGPT&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "Claude",
+    "totalDeclarado": 51,
+    "coletados": 51
+  },
+  {
+    "tipo": "edital",
+    "termo": "licenciamento",
+    "totalDeclarado": 503,
+    "coletados": 503
+  },
+  {
+    "tipo": "edital",
+    "termo": "CorelDRAW",
+    "totalDeclarado": 7,
+    "coletados": 7
+  },
+  {
+    "tipo": "edital",
+    "termo": "Adobe",
+    "totalDeclarado": 33,
+    "coletados": 33
+  },
+  {
+    "tipo": "edital",
+    "termo": "Acrobat",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Acrobat&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "Office 365",
+    "totalDeclarado": 13,
+    "coletados": 13
+  },
+  {
+    "tipo": "edital",
+    "termo": "Google Workspace",
+    "totalDeclarado": 6,
+    "coletados": 6
+  },
+  {
+    "tipo": "edital",
+    "termo": "Microsoft",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Microsoft&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "Gemini",
+    "totalDeclarado": 8,
+    "coletados": 8
+  },
+  {
+    "tipo": "edital",
+    "termo": "Canva",
+    "totalDeclarado": 18,
+    "coletados": 18
+  },
+  {
+    "tipo": "edital",
+    "termo": "Autodesk",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Autodesk&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "SketchUp",
+    "totalDeclarado": 6,
+    "coletados": 6
+  },
+  {
+    "tipo": "edital",
+    "termo": "AutoCAD",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=AutoCAD&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "ArcGIS",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Windows",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Windows&tipos_documento=edital&ordenacao=-data&pagina=2&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "ESRI",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "antimalware",
+    "totalDeclarado": 2,
+    "coletados": 2
+  },
+  {
+    "tipo": "edital",
+    "termo": "antivírus",
+    "totalDeclarado": 51,
+    "coletados": 51
+  },
+  {
+    "tipo": "edital",
+    "termo": "Revit",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Revit&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "Red Hat",
+    "totalDeclarado": 8,
+    "coletados": 8
+  },
+  {
+    "tipo": "edital",
+    "termo": "Veeam",
+    "totalDeclarado": 4,
+    "coletados": 4
+  },
+  {
+    "tipo": "edital",
+    "termo": "Power BI",
+    "totalDeclarado": 23,
+    "coletados": 23
+  },
+  {
+    "tipo": "edital",
+    "termo": "VMware",
+    "totalDeclarado": 11,
+    "coletados": 11
+  },
+  {
+    "tipo": "edital",
+    "termo": "Tableau",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Qlik",
+    "totalDeclarado": 2,
+    "coletados": 2
+  },
+  {
+    "tipo": "edital",
+    "termo": "Oracle",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Oracle&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "TeamViewer",
+    "totalDeclarado": 2,
+    "coletados": 2
+  },
+  {
+    "tipo": "edital",
+    "termo": "AnyDesk",
+    "totalDeclarado": 1,
+    "coletados": 1
+  },
+  {
+    "tipo": "edital",
+    "termo": "Fortinet",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Fortinet&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "Sophos",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Sophos&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "Kaspersky",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Kaspersky&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "Bitdefender",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Zoom",
+    "totalDeclarado": 218,
+    "coletados": 218
+  },
+  {
+    "tipo": "edital",
+    "termo": "ESET",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Figma",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Notion",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Freepik",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Shutterstock",
+    "totalDeclarado": 1,
+    "coletados": 1
+  },
+  {
+    "tipo": "edital",
+    "termo": "Envato",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Perplexity",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Clicksign",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Clicksign&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "Nitro PDF",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Foxit",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "DocuSign",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Midjourney",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "Grammarly",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Grammarly&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "Atlassian",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Atlassian&tipos_documento=edital&ordenacao=-data&pagina=1&tam_pagina=100&status=recebendo_proposta']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "edital",
+    "termo": "JetBrains",
+    "totalDeclarado": 1,
+    "coletados": 1
+  },
+  {
+    "tipo": "edital",
+    "termo": "Trello",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "edital",
+    "termo": "GitLab",
+    "totalDeclarado": 1,
+    "coletados": 1
+  },
+  {
+    "tipo": "edital",
+    "termo": "Jira",
+    "totalDeclarado": 63,
+    "coletados": 63
+  },
+  {
+    "tipo": "edital",
+    "termo": "GitHub",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "software",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=ata&ordenacao=-data&pagina=3&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "subscrição",
+    "totalDeclarado": 213,
+    "coletados": 213
+  },
+  {
+    "tipo": "ata",
+    "termo": "licença",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=licen%C3%A7a&tipos_documento=ata&ordenacao=-data&pagina=2&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "ChatGPT",
+    "totalDeclarado": 2,
+    "coletados": 2
+  },
+  {
+    "tipo": "ata",
+    "termo": "Chat GPT",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "SaaS",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=SaaS&tipos_documento=ata&ordenacao=-data&pagina=2&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "OpenAI",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "Claude",
+    "totalDeclarado": 80,
+    "coletados": 80
+  },
+  {
+    "tipo": "ata",
+    "termo": "licenciamento",
+    "totalDeclarado": 720,
+    "coletados": 720
+  },
+  {
+    "tipo": "ata",
+    "termo": "Acrobat",
+    "totalDeclarado": 10,
+    "coletados": 10
+  },
+  {
+    "tipo": "ata",
+    "termo": "Adobe",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Adobe&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "CorelDRAW",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=CorelDRAW&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "Microsoft",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Microsoft&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "Office 365",
+    "totalDeclarado": 25,
+    "coletados": 25
+  },
+  {
+    "tipo": "ata",
+    "termo": "Gemini",
+    "totalDeclarado": 2,
+    "coletados": 2
+  },
+  {
+    "tipo": "ata",
+    "termo": "Canva",
+    "totalDeclarado": 13,
+    "coletados": 13
+  },
+  {
+    "tipo": "ata",
+    "termo": "Windows",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Windows&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "Google Workspace",
+    "totalDeclarado": 18,
+    "coletados": 18
+  },
+  {
+    "tipo": "ata",
+    "termo": "SketchUp",
+    "totalDeclarado": 27,
+    "coletados": 27
+  },
+  {
+    "tipo": "ata",
+    "termo": "Revit",
+    "totalDeclarado": 24,
+    "coletados": 24
+  },
+  {
+    "tipo": "ata",
+    "termo": "Autodesk",
+    "totalDeclarado": 106,
+    "coletados": 106
+  },
+  {
+    "tipo": "ata",
+    "termo": "ESRI",
+    "totalDeclarado": 2,
+    "coletados": 2
+  },
+  {
+    "tipo": "ata",
+    "termo": "AutoCAD",
+    "totalDeclarado": 67,
+    "coletados": 67
+  },
+  {
+    "tipo": "ata",
+    "termo": "antimalware",
+    "totalDeclarado": 7,
+    "coletados": 7
+  },
+  {
+    "tipo": "ata",
+    "termo": "Veeam",
+    "totalDeclarado": 15,
+    "coletados": 15
+  },
+  {
+    "tipo": "ata",
+    "termo": "ArcGIS",
+    "totalDeclarado": 2,
+    "coletados": 2
+  },
+  {
+    "tipo": "ata",
+    "termo": "Red Hat",
+    "totalDeclarado": 27,
+    "coletados": 27
+  },
+  {
+    "tipo": "ata",
+    "termo": "antivírus",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=antiv%C3%ADrus&tipos_documento=ata&ordenacao=-data&pagina=2&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "Oracle",
+    "totalDeclarado": 20,
+    "coletados": 20
+  },
+  {
+    "tipo": "ata",
+    "termo": "VMware",
+    "totalDeclarado": 25,
+    "coletados": 25
+  },
+  {
+    "tipo": "ata",
+    "termo": "Qlik",
+    "totalDeclarado": 14,
+    "coletados": 14
+  },
+  {
+    "tipo": "ata",
+    "termo": "Power BI",
+    "totalDeclarado": 16,
+    "coletados": 16
+  },
+  {
+    "tipo": "ata",
+    "termo": "Zoom",
+    "totalDeclarado": 11,
+    "coletados": 11
+  },
+  {
+    "tipo": "ata",
+    "termo": "Tableau",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Tableau&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "AnyDesk",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "TeamViewer",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=TeamViewer&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "Kaspersky",
+    "totalDeclarado": 23,
+    "coletados": 23
+  },
+  {
+    "tipo": "ata",
+    "termo": "Fortinet",
+    "totalDeclarado": 10,
+    "coletados": 10
+  },
+  {
+    "tipo": "ata",
+    "termo": "Sophos",
+    "totalDeclarado": 2,
+    "coletados": 2
+  },
+  {
+    "tipo": "ata",
+    "termo": "ESET",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=ESET&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "Bitdefender",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "Figma",
+    "totalDeclarado": 3,
+    "coletados": 3
+  },
+  {
+    "tipo": "ata",
+    "termo": "DocuSign",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "Clicksign",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "Freepik",
+    "totalDeclarado": 5,
+    "coletados": 5
+  },
+  {
+    "tipo": "ata",
+    "termo": "Envato",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "Perplexity",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "Notion",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Notion&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "Nitro PDF",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "Shutterstock",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Shutterstock&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "Grammarly",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "Foxit",
+    "totalDeclarado": 2,
+    "coletados": 2
+  },
+  {
+    "tipo": "ata",
+    "termo": "Atlassian",
+    "totalDeclarado": 3,
+    "coletados": 3
+  },
+  {
+    "tipo": "ata",
+    "termo": "Midjourney",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=Midjourney&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  },
+  {
+    "tipo": "ata",
+    "termo": "Jira",
+    "totalDeclarado": 11,
+    "coletados": 11
+  },
+  {
+    "tipo": "ata",
+    "termo": "Trello",
+    "totalDeclarado": 1,
+    "coletados": 1
+  },
+  {
+    "tipo": "ata",
+    "termo": "GitHub",
+    "totalDeclarado": 0,
+    "coletados": 0
+  },
+  {
+    "tipo": "ata",
+    "termo": "GitLab",
+    "totalDeclarado": 5,
+    "coletados": 5
+  },
+  {
+    "tipo": "ata",
+    "termo": "JetBrains",
+    "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=JetBrains&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=100']' returned non-zero exit status 56."
+  }
+]

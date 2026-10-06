@@ -1,0 +1,52 @@
+{
+  "consulta": "2026-10-06T17:02:38.385372",
+  "recuperados": 6185,
+  "abas": {
+    "Atas vigentes": 1094,
+    "Vencidas e inconsistentes": 1309,
+    "Licenças comerciais": 133,
+    "Revisar resultados": 3331,
+    "Soluções com serviços": 177,
+    "Outros softwares": 132,
+    "Duplicidades possíveis": 9
+  },
+  "itens": 1354,
+  "ufs": {
+    "PR": 40,
+    "SC": 24,
+    "MG": 60,
+    "RN": 14,
+    "CE": 17,
+    "SP": 87,
+    "RJ": 28,
+    "RS": 28,
+    "PI": 3,
+    "MT": 5,
+    "PE": 7,
+    "SE": 4,
+    "DF": 22,
+    "PB": 9,
+    "RO": 10,
+    "MA": 5,
+    "GO": 20,
+    "MS": 10,
+    "AM": 4,
+    "AP": 3,
+    "BA": 18,
+    "ES": 7,
+    "PA": 7,
+    "RR": 2,
+    "AL": 3,
+    "AC": 2,
+    "TO": 3
+  },
+  "esferas": {
+    "Federal": 72,
+    "Municipal": 255,
+    "Estadual": 84,
+    "Não se aplica": 29,
+    "Distrital": 2
+  },
+  "detalhes": 302,
+  "planilha": "/Users/lucasdejesus/Documents/licitacoes-software-2026-10-06/Licitacoes_software_Brasil_2026-10-06.xlsx"
+}

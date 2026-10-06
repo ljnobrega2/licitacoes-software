@@ -1,0 +1,2007 @@
+
+[PÁGINA 1]
+EDITAL DE PREGÃO ELETRÔNICO Nº. 08/2026
+Ampla Concorrência
+(Processo de Contratação de fornecedores n°. 26/2026)
+A CÂMARA MUNICIPAL DE LONDRINA  torna público aos interessados que realizará  
+licitação, na modalidade PREGÃO, na forma ELETRÔNICA, com o critério de julgamento 
+menor preço por grupo, nos termos da Lei nº. 14.133/2021 e do Ato da Mesa nº. 14/2023, e  
+conforme as exigências estabelecidas neste Edital e seus Anexos.
+Objeto: Contratação de empresa especializada (broker) para intermediar o fornecimento de  
+licenças de acesso a plataformas de Inteligência Artificial: Claude Team (Anthropic — Grupos 
+1 e 2), incluída a aquisição eventual de créditos de uso adicional e assentos suplementares; e  
+ChatGPT Business (OpenAI — Grupo 3).
+Valor máximo total (12 meses): R$ 120.467,96 (cento e vinte mil, quatrocentos e sessenta 
+e sete reais e noventa e seis centavos).
+Data da sessão: 16/10/2026 Horário: 13h30
+Local: Portal de Compras do Governo Federal – https://www.gov.br/compras/pt-br/
+UASG: 926708 Modo de disputa: Aberto
+Pregoeiro(a): Júlia Saragoça Bogo Equipe de Apoio: Gabriel Cazado Candreva
+Contato: Tel.: (43) 3374-1273 (Whatsapp) – Pregoeiro e/ou licitacao@cml.pr.gov.br
+Site da Licitação: https://www.cml.pr.gov.br/imprensa/licitacoes/Pregao/1/2026/26379 (onde 
+o Edital e as especificações estarão à disposição dos interessados).
+E-mail de contato: licitacao@cml.pr.gov.br
+Aviso: Para  acessar  o  certame  no  Portal  de  Compras  do  Governo  Federal  
+(https://www.gov.br/compras/pt-br), inserir o número 04/2026 para sua busca.
+Integram o presente Edital, para todos os fins e efeitos, os seguintes Anexos:
+ANEXO I: Termo de Referência;
+ANEXO II: Modelo de Proposta;
+ANEXO III: Minuta de Contrato Administrativo;
+ANEXO IV: Checklist da Documentação necessária à participação no Pregão Eletrônico.
+1. DO OBJETO
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 2]
+1.1. O objeto da presente licitação é a contratação de empresa especializada (broker) para 
+intermediar o fornecimento de licenças de acesso a plataformas de Inteligência  
+Artificial: Claude Team (Anthropic — Grupos 1 e 2), incluída a aquisição eventual  
+de créditos de uso adicional e assentos suplementares; e ChatGPT Business (OpenAI 
+— Grupo 3), para atender às necessidades da Câmara Municipal de Londrina, conforme 
+condições e exigências estabelecidas neste Edital e seus Anexos.
+1.2. O critério de julgamento adotado será o  menor  preço  por  grupo , observadas as  
+exigências contidas neste Edital e seus Anexos quanto às especificações do objeto.
+1.3. O preço máximo admitido para este certame é de R$ 120.467,96 (cento e vinte mil,  
+quatrocentos e sessenta e sete reais e noventa e seis centavos), conforme especificações 
+estabelecidas no Termo de Referência anexo a este Edital (Anexo I) e conforme descrição 
+nas tabelas abaixo:
+GRUPO 1 – Licenças Claude Team
+Item Especificação Quantidade Valor unitário 
+máximo
+Valor total 
+máximo
+1
+Assinatura anual Claude AI plano Team — 
+Standard Seat 
+(https://claude.com/pricing#team-&-
+enterprise)
+36 licenças/ano R$ 1.973,11 R$ 71.031,96
+2 Assinatura anual Claude AI plano Team — 
+Premium Seat 1 licença/ano R$ 8.700,21 R$ 8.700,21
+Subtotal Grupo 1 R$ 79.732,17
+GRUPO 2 – Provisão para despesas eventuais (créditos Claude)
+Item Especificação Quantidade Valor unitário 
+máximo
+Valor total 
+máximo
+3
+Provisão para despesas eventuais na 
+plataforma: aquisição de créditos de uso 
+adicional (usage credits) e/ou de assentos 
+adicionais pelo prazo remanescente da 
+assinatura (cobrança pró-rata da plataforma)
+25.000 unidades 
+de R$ 1,00 (um 
+real) de despesa 
+efetivada na 
+plataforma
+R$ 1,40 R$ 35.000,00
+GRUPO 3 – Licença ChatGPT Business
+Item Especificação Quantidade Valor unitário 
+máximo
+Valor total 
+máximo
+4
+Assinatura anual ChatGPT Business 
+(https://chatgpt.com/pt-BR/pricing/?
+type=team)
+3 licenças/ano R$ 1.911,93 R$ 5.735,79
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 3]
+1.4. A contratação será efetivada por meio da assinatura de Contrato Administrativo  
+(conforme minuta do Anexo III deste Edital), nos termos do item 12 deste Edital.
+1.5. A disciplina dos requisitos da contratação e das especificações técnicas dos serviços estão 
+dispostos no Termo de Referência e seus Anexos (Anexo I deste Edital) e/ou na minuta  
+do Contrato Administrativo (Anexo III deste Edital).
+1.5.1. Em caso de divergências entre as disposições deste Edital e seus Anexos e a  
+descrição do objeto no sistema Comprasnet (Compras.gov.br), prevalecerão as  
+deste Edital.
+2. DOS RECURSOS ORÇAMENTÁRIOS
+2.1. As despesas decorrentes da contratação correrão por conta de recursos do orçamento  
+vigente da Câmara Municipal de Londrina, conforme a seguinte classificação: Funcional 
+programática:  01.010.01.031.0001.2001,  Elemento  de  Despesa:  3.3.90.40.00.00  – 
+Serviços  de  Tecnologia  da  Informação  e  Comunicação  –  Pessoa  Jurídica,  
+Desdobramento: 3.3.90.40.06.00 – Locação de Software.
+3. DA PARTICIPAÇÃO NO CERTAME
+3.1. Poderão participar deste Pregão os interessados que estiverem previamente credenciados 
+no Sistema de Cadastramento Unificado de Fornecedores - SICAF e no Sistema de  
+Compras do Governo Federal (www.gov.br/compras), por meio de Certificado Digital  
+conferido pela Infraestrutura de Chaves Públicas Brasileira – ICP – Brasil.
+3.1.1. Os interessados deverão atender às condições exigidas no cadastramento no  
+SICAF até o terceiro dia útil anterior à data prevista para recebimento das propostas.
+3.2. O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas em seu  
+nome, assume como firmes e verdadeiras suas propostas e seus lances, inclusive os atos  
+praticados diretamente ou por seu representante, excluída a responsabilidade do provedor 
+do sistema ou do órgão ou entidade promotora da licitação por eventuais danos  
+decorrentes de uso indevido das credenciais de acesso, ainda que por terceiros.
+3.3. É de responsabilidade do cadastrado conferir a exatidão dos seus dados cadastrais nos  
+Sistemas relacionados no item anterior e mantê-los atualizados junto aos órgãos  
+responsáveis pela informação, devendo proceder, imediatamente, à correção ou à  
+alteração  dos  registros  tão  logo  identifique  incorreção  ou  aqueles  se  tornem  
+desatualizados.
+3.3.1. A não observância do disposto no item anterior poderá ensejar desclassificação 
+do licitante.
+3.4. Será concedido tratamento favorecido para as microempresas e empresas de pequeno  
+porte e para o microempreendedor individual - MEI, nos limites previstos da Lei  
+Complementar nº 123/2006 e do Decreto n.º 8.538/2015.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 4]
+3.5. Não poderá disputar esta licitação o interessado:
+3.5.1. Que não atenda às condições deste Edital e seus Anexos;
+3.5.2. Autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa física  
+ou jurídica, quando a licitação versar sobre serviços ou fornecimento de bens a ele 
+relacionados;
+3.5.3. Empresa responsável pela elaboração do projeto básico ou do projeto executivo, 
+ou empresa da qual o autor do projeto seja dirigente, gerente, controlador, acionista 
+ou detentor de mais de 5% (cinco por cento) do capital com direito a voto,  
+responsável técnico ou subcontratado, quando a licitação versar sobre serviços ou  
+fornecimento de bens a ela necessários;
+3.5.4. Pessoa física ou jurídica que se encontre, ao tempo da licitação, impossibilitada 
+de participar da licitação em decorrência de sanção que lhe foi imposta;
+3.5.4.1. O impedimento de que trata o item acima será também aplicado ao  
+licitante que atue em substituição a outra pessoa, física ou jurídica, com o intuito 
+de burlar a efetividade da sanção a ela aplicada, inclusive a sua controladora,  
+controlada ou coligada, desde que devidamente comprovado o ilícito ou a  
+utilização fraudulenta da personalidade jurídica do licitante.
+3.5.5. Que mantenha vínculo de natureza técnica, comercial, econômica, financeira,  
+trabalhista ou civil com dirigente do órgão ou entidade contratante ou com agente  
+público que desempenhe função na licitação ou atue na fiscalização ou na gestão do 
+contrato, ou que deles seja cônjuge, companheiro ou parente em linha reta, colateral 
+ou por afinidade, até o terceiro grau;
+3.5.6. Empresa controladora, controlada(s) ou coligada(s)s, nos termos da Lei nº  
+6.404/1976, concorrendo entre si;
+3.5.7. Pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação do  
+edital, tenha sido condenada judicialmente, com trânsito em julgado, por exploração 
+de trabalho infantil, por submissão de trabalhadores a condições análogas às de  
+escravo ou por contratação de adolescentes nos casos vedados pela legislação  
+trabalhista;
+3.5.8. Agente público do órgão ou entidade licitante.
+3.5.8.1. A vedação de que trata o item acima se estende a terceiro que auxilie a  
+condução da contratação na qualidade de integrante de equipe de apoio,  
+profissional especializado ou funcionário ou representante de empresa que preste 
+assessoria técnica.
+3.5.8.2. Não poderá participar, direta ou indiretamente, da licitação ou da  
+execução do contrato agente público do órgão ou entidade contratante, devendo 
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 5]
+ser observadas as situações que possam configurar conflito de interesses no  
+exercício ou após o exercício do cargo ou emprego, nos termos da legislação que 
+disciplina a matéria, conforme § 1º do art. 9º da Lei nº 14.133/2021.
+3.5.9. Que tenha, como sócio-gerente, administrador ou integrante de conselho,  
+servidor do Município de Londrina, por força do art. 204, I, II, III e IV da Lei  
+Municipal 4.928/1992 – Estatuto do Regime Jurídico Único dos Servidores  
+Públicos Civis do Município de Londrina – PR.
+3.5.10. Pessoas jurídicas reunidas em consórcio;
+3.5.11. Sociedades empresárias estrangeiras que não tenham representação legal no  
+Brasil com poderes expressos para receber citação e responder administrativa ou  
+judicialmente;
+3.5.12. Organizações da Sociedade Civil de Interesse Público - OSCIP, atuando nessa  
+condição.
+3.6. Ao participar do certame, os licitantes declaram-se cientes e concordam que:
+3.6.1. Os documentos apresentados durante a licitação que contenham dados pessoais 
+serão juntados ao processo administrativo, o qual possui caráter público, nos termos 
+da legislação de acesso à informação.
+3.6.2. A Câmara Municipal de Londrina utilizará os dados pessoais coletados  
+exclusivamente para as finalidades do processo licitatório e eventual contratação,  
+em conformidade com a Lei nº 13.709/2018 (LGPD).
+3.6.3. Recomenda-se que os licitantes apresentem apenas os documentos estritamente 
+necessários contendo dados pessoais, com tarjamento de informações excessivas ou 
+desnecessárias à finalidade do certame (como endereço residencial, telefone  
+pessoal, dados bancários, entre outros).
+3.6.4. O tratamento de dados pessoais pela Câmara Municipal de Londrina será  
+realizado com base no art. 7º, II (para cumprimento de obrigação legal) e/ou art. 7º, 
+III (execução de contrato) da LGPD.
+3.6.5. Em caso de dúvidas sobre o tratamento de dados pessoais, o licitante poderá  
+contatar o Encarregado de Dados da Câmara Municipal de Londrina pelo protocolo 
+oficial: https://www.cml.pr.gov.br/protocolo/LGPD.
+4. DA  APRESENTAÇÃO  DA  PROPOSTA  E  DOS  DOCUMENTOS  DE  
+HABILITAÇÃO
+4.1. A fase de habilitação sucederá as fases de apresentação de propostas e lances e de  
+julgamento.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 6]
+4.2. Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, a proposta 
+com o preço até a data e o horário estabelecidos para abertura da sessão pública.
+4.3. No cadastramento da proposta inicial, o licitante declarará, em campo próprio do sistema, 
+que:
+4.3.1. Está ciente e concorda com as condições contidas no Edital e seus Anexos.
+4.3.2. A  proposta  apresentada  compreende  a  integralidade  dos  custos  para  
+atendimento dos direitos trabalhistas assegurados na Constituição Federal, nas leis 
+trabalhistas, nas normas infralegais, nas convenções coletivas de trabalho e nos  
+termos de ajustamento de conduta vigentes na data de sua entrega em definitivo.
+4.3.3. Cumpre plenamente os requisitos de habilitação definidos no instrumento  
+convocatório;
+4.3.4. Inexiste impedimento à minha habilitação e comunicarei a superveniência de  
+ocorrência impeditiva ao órgão ou entidade contratante.
+4.3.5. Cumpre as exigências de reserva de cargos para pessoa com deficiência e para  
+reabilitado da Previdência Social, previstas em lei e em outras normas específicas.
+4.3.6. Está ciente em relação a todas as informações e condições locais para o  
+cumprimento das obrigações objeto da licitação.
+4.3.7. Não emprega menor de 18 anos em trabalho noturno, perigoso ou insalubre e  
+não emprega menor de 16 anos, salvo menor, a partir de 14 anos, na condição de  
+aprendiz, nos termos do artigo 7°, XXXIII, da Constituição;
+4.3.8. Não  possui  empregados  executando  trabalho  degradante  ou  forçado,  
+observando o disposto nos incisos III e IV do art. 1º e no inciso III do art. 5º da  
+Constituição Federal;
+4.4. O fornecedor enquadrado como microempresa ou empresa de pequeno porte deverá  
+declarar, ainda, em campo próprio do sistema eletrônico, que cumpre os requisitos  
+estabelecidos no artigo 3° da Lei Complementar nº 123/2006, estando apto a usufruir do  
+tratamento favorecido estabelecido em seus arts. 42 a 49, observado o disposto nos §§ 1º 
+ao 3º do art. 4º, da Lei n.º 14.133/2021.
+4.4.1. No item exclusivo para participação de microempresas e empresas de pequeno 
+porte, a assinalação do campo “não” impedirá o prosseguimento no certame, para  
+aquele item;
+4.4.2. Nos itens em que a participação não for exclusiva para microempresas e  
+empresas de pequeno porte, a assinalação do campo “não” apenas produzirá o efeito 
+de o licitante não ter direito ao tratamento favorecido previsto na Lei Complementar 
+nº 123/2006 mesmo que microempresa, empresa de pequeno porte ou sociedade  
+cooperativa.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 7]
+4.5. A falsidade da declaração de que trata os itens 4.3 ou 4.4 sujeitará o licitante às sanções  
+previstas na Lei nº 14.133/2021 e neste Edital.
+4.6. Os licitantes poderão retirar ou substituir a proposta anteriormente inserida no sistema,  
+até a abertura da sessão pública.
+4.7. Não haverá ordem de classificação na etapa de apresentação da proposta e dos  
+documentos de habilitação pelo licitante, o que ocorrerá somente após os procedimentos 
+de abertura da sessão pública e da fase de envio de lances.
+4.8. Serão disponibilizados para acesso público os documentos que compõem a proposta dos 
+licitantes convocados para apresentação de propostas, após a fase de envio de lances.
+4.9. Caberá ao licitante interessado em participar da licitação acompanhar as operações no  
+sistema eletrônico durante o processo licitatório e se responsabilizar pelo ônus decorrente 
+da perda de negócios diante da inobservância de mensagens emitidas pela Administração 
+ou de sua desconexão.
+4.10.O  licitante  deverá  comunicar  imediatamente  ao  provedor  do  sistema  qualquer  
+acontecimento que possa comprometer o sigilo ou a segurança, para imediato bloqueio de 
+acesso.
+5. DO PREENCHIMENTO DA PROPOSTA
+5.1. O licitante deverá registrar sua proposta mediante o preenchimento, no sistema eletrônico, 
+dos seguintes campos:
+5.1.1. Valor unitário e valor total de cada item, e valor global de cada grupo, quando  
+aplicável.
+5.1.2. Descrição dos serviços, em conformidade com o Termo de Referência.
+5.2. Todas as especificações do objeto contidas na proposta vinculam o licitante.
+5.3. A apresentação das propostas implica obrigatoriedade do cumprimento das disposições  
+nelas contidas, em conformidade com o que dispõe o Termo de Referência, assumindo o 
+proponente o compromisso de executar o objeto licitado nos seus termos, bem como de  
+fornecer os materiais, equipamentos, ferramentas e utensílios necessários, em quantidades 
+e qualidades adequadas à perfeita execução contratual, promovendo, quando requerido,  
+sua substituição.
+5.4. Nos  valores  propostos  estarão  inclusos  todos  os  custos  operacionais,  encargos  
+previdenciários, trabalhistas, tributários, comerciais e quaisquer outros que incidam direta 
+ou indiretamente na execução do objeto.
+5.4.1. Os preços ofertados, tanto na proposta inicial, quanto na etapa de lances, serão  
+de exclusiva responsabilidade do licitante, não lhe assistindo o direito de pleitear  
+qualquer alteração, sob alegação de erro, omissão ou qualquer outro pretexto.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 8]
+5.4.2. Se o regime tributário da empresa implicar o recolhimento de tributos em  
+percentuais variáveis, a cotação adequada será a que corresponde à média dos  
+efetivos recolhimentos da empresa nos últimos doze meses.
+5.4.3. Independentemente do percentual de tributo cotado, no pagamento serão retidos 
+na fonte os percentuais estabelecidos na legislação vigente.
+5.5. O prazo de validade da proposta não será inferior a 90 (noventa) dias, a contar da data de 
+sua apresentação.
+5.6. Os licitantes devem respeitar os preços máximos estabelecidos na licitação nos termos do 
+art. 27, XXI da Constituição do Estado do Paraná.
+6. DA  ABERTURA  DA  SESSÃO,  CLASSIFICAÇÃO  DAS  PROPOSTAS  E  
+FORMULAÇÃO DE LANCES
+6.1. A abertura da presente licitação dar-se-á automaticamente em sessão pública, por meio  
+de sistema eletrônico, na data, horário e local indicados neste Edital.
+6.2. Os licitantes poderão retirar ou substituir a proposta ou os documentos de habilitação,  
+quando for o caso, anteriormente inseridos no sistema, até a abertura da sessão pública.
+6.2.1. Será desclassificada a proposta que identifique o licitante.
+6.2.2. A desclassificação será sempre fundamentada e registrada no sistema, com  
+acompanhamento em tempo real por todos os participantes.
+6.2.3. A não desclassificação da proposta não impede o seu julgamento definitivo em 
+sentido contrário, levado a efeito na fase de aceitação.
+6.3. O sistema ordenará automaticamente as propostas classificadas, sendo que somente estas 
+participarão da fase de lances.
+6.4. O sistema disponibilizará campo próprio para troca de mensagens entre o Pregoeiro e os 
+licitantes.
+6.5. Iniciada a etapa competitiva, os licitantes deverão encaminhar lances exclusivamente por 
+meio de sistema eletrônico, sendo imediatamente informados do seu recebimento e do  
+valor consignado no registro.
+6.5.1. O lance deverá ser ofertado pelo valor unitário de cada item, com no máximo 
+duas casas decimais, e o critério de julgamento é o menor preço por grupo. 
+6.5.2. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado  
+para abertura da sessão e as regras estabelecidas no Edital.
+6.5.3. O licitante somente poderá oferecer lance de valor inferior ao último por ele  
+ofertado e registrado pelo sistema.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 9]
+6.5.4. O intervalo mínimo de diferença de valores entre os lances , que incidirá  
+tanto em relação aos lances intermediários quanto em relação à proposta que cobrir 
+a melhor oferta deverá ser de R$ 1,00 (um real).
+6.5.5. O licitante poderá, uma única vez, excluir seu último lance ofertado, no  
+intervalo de quinze segundos após o registro no sistema, na hipótese de lance  
+inconsistente ou inexequível.
+6.6. O procedimento seguirá o modo de disputa aberto , no qual os licitantes apresentarão  
+lances públicos e sucessivos, com prorrogações.
+6.6.1. A etapa de lances da sessão pública terá duração de dez minutos e, após isso,  
+será prorrogada automaticamente pelo sistema quando houver lance ofertado nos  
+últimos dois minutos do período de duração da sessão pública.
+6.6.2. A prorrogação automática da etapa de lances, de que trata o subitem anterior,  
+será de dois minutos e ocorrerá sucessivamente sempre que houver lances enviados 
+nesse período de prorrogação, inclusive no caso de lances intermediários.
+6.6.3. Não havendo novos lances na forma estabelecida nos itens anteriores, a sessão  
+pública encerrar-se-á automaticamente, e o sistema ordenará e divulgará os lances  
+conforme a ordem final de classificação.
+6.6.4. Definida a melhor proposta, se a diferença em relação à proposta classificada  
+em segundo lugar for de pelo menos 5% (cinco por cento), o pregoeiro, auxiliado  
+pela equipe de apoio, poderá admitir o reinício da disputa aberta, para a definição  
+das demais colocações.
+6.6.5. Após o reinício previsto no item supra, os licitantes serão convocados para  
+apresentar lances intermediários.
+6.7. Após o término dos prazos estabelecidos nos subitens anteriores, o sistema ordenará e  
+divulgará os lances segundo a ordem crescente de valores.
+6.8. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que for  
+recebido e registrado em primeiro lugar.
+6.9. Durante o transcurso da sessão pública, os licitantes serão informados, em tempo real, do 
+valor do menor lance registrado, vedada a identificação do licitante.
+6.10.No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do Pregão, o  
+sistema eletrônico poderá permanecer acessível aos licitantes para a recepção dos lances.
+6.10.1. Quando a desconexão do sistema eletrônico para o pregoeiro persistir por tempo 
+superior a dez minutos, a sessão pública será suspensa e reiniciada somente após  
+decorridas vinte e quatro horas da comunicação do fato pelo Pregoeiro aos  
+participantes, no sítio eletrônico utilizado para divulgação.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 10]
+6.11.Caso o licitante não apresente lances, concorrerá com o valor de sua proposta.
+6.12.Em relação a itens não exclusivos para participação de microempresas e empresas de  
+pequeno porte, uma vez encerrada a etapa de lances, será efetivada a verificação  
+automática, junto à Receita Federal, do porte da entidade empresarial. O sistema  
+identificará em coluna própria as microempresas e empresas de pequeno porte  
+participantes, procedendo à comparação com os valores da primeira colocada, se esta  
+for empresa de maior porte, assim como das demais classificadas, para o fim de aplicar-
+se o disposto nos arts. 44 e 45 da Lei Complementar nº 123/2006, regulamentada pelo  
+Decreto nº 8.538/2015.
+6.12.1. Nessas condições, as propostas de microempresas e empresas de pequeno porte 
+que se encontrarem na faixa de até 5% (cinco por cento) acima da melhor proposta 
+ou melhor lance serão consideradas empatadas com a primeira colocada.
+6.12.2. A melhor classificada nos termos do subitem anterior terá o direito de  
+encaminhar uma última oferta para desempate, obrigatoriamente em valor inferior  
+ao da primeira colocada, no prazo de 5 (cinco) minutos controlados pelo sistema,  
+contados após a comunicação automática para tanto.
+6.12.3. Caso a microempresa ou a empresa de pequeno porte melhor classificada desista 
+ou não se manifeste no prazo estabelecido, serão convocadas as demais licitantes  
+microempresa e empresa de pequeno porte que se encontrem naquele intervalo de  
+5% (cinco por cento), na ordem de classificação, para o exercício do mesmo direito, 
+no prazo estabelecido no subitem anterior.
+6.12.4. No caso de equivalência dos valores apresentados pelas microempresas e  
+empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos  
+subitens anteriores, será realizado sorteio entre elas para que se identifique aquela  
+que primeiro poderá apresentar melhor oferta.
+6.13.Só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre lances  
+finais da fase fechada do modo de disputa aberto e fechado.
+6.13.1. Havendo empate entre propostas ou lances, o critério de desempate será o  
+previsto no art. 60 da Lei nº 14.133/2021, nesta ordem:
+6.13.1.1. Disputa final,  hipótese  em  que os  licitantes empatados  poderão  
+apresentar nova proposta em ato contínuo à classificação;
+6.13.1.2. Avaliação do desempenho contratual prévio dos licitantes, para a qual  
+deverão preferencialmente ser utilizados registros cadastrais para efeito de atesto 
+de cumprimento de obrigações previstos nesta Lei;
+6.13.1.3. Desenvolvimento pelo licitante de ações de equidade entre homens e  
+mulheres no ambiente de trabalho, conforme regulamento;
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 11]
+6.13.1.4. Desenvolvimento pelo licitante de programa de integridade, conforme  
+orientações dos órgãos de controle.
+6.13.2. Persistindo o empate, será assegurada preferência, sucessivamente, aos bens e  
+serviços produzidos ou prestados por:
+6.13.2.1. Empresas estabelecidas no território do Estado do Paraná;
+6.13.2.2. Empresas brasileiras;
+6.13.2.3. Empresas que invistam em pesquisa e no desenvolvimento de tecnologia 
+no País;
+6.13.2.4. Empresas que comprovem a prática de mitigação, nos termos da Lei nº  
+12.187/2009.
+6.14.Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do  
+primeiro colocado permanecer acima do preço máximo, o pregoeiro poderá negociar  
+condições mais vantajosas, após definido o resultado do julgamento.
+6.14.1. A negociação poderá ser feita com os demais licitantes, segundo a ordem de  
+classificação inicialmente estabelecida, quando o primeiro colocado, mesmo após a 
+negociação, for desclassificado em razão de sua proposta permanecer acima do  
+preço máximo definido pela Administração.
+6.14.2. A negociação será realizada por meio do sistema, podendo ser acompanhada  
+pelos demais licitantes.
+6.14.3. O resultado da negociação será divulgado a todos os licitantes e anexado aos  
+autos do processo licitatório.
+6.15.Após a negociação do preço, o Pregoeiro iniciará a fase de aceitação e julgamento da  
+proposta.
+6.16.O pregoeiro solicitará ao licitante mais bem classificado que, no prazo de 2 (duas) horas, 
+envie a  proposta  em  arquivo  .pdf  adequada  ao  último  lance  ofertado  após a  
+negociação realizada (conforme modelo do Anexo II deste Edital).
+6.16.1. A proposta deverá conter declaração expressa de que a empresa possui  
+capacidade técnica e operacional para intermediar a contratação junto à empresa  
+Anthropic (Grupo 1 e item 3) e/ou OpenAI (Item 4), conforme o caso, incluindo a  
+realização de pagamentos internacionais recorrentes e eventuais (créditos e assentos 
+adicionais) e o faturamento nacional correspondente. 
+6.16.2. É facultado ao pregoeiro prorrogar o prazo estabelecido, a partir de solicitação  
+fundamentada feita no chat pelo licitante, antes de findo o prazo.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 12]
+6.16.3. Quando da convocação para envio da proposta readequada nos termos deste  
+item, também poderá ser solicitado ao licitante que encaminhe a documentação  
+complementar mencionada no item 8.2.1 deste Edital.
+6.17.Com o objetivo de tornar a análise das propostas mais eficiente, caso haja volume  
+significativo de propostas para o certame, o pregoeiro poderá solicitar, dos licitantes  
+classificados, independentemente de sua posição na ordem de classificação, o envio de  
+proposta atualizada para análise prévia de conformidade com o Termo de Referência.
+6.17.1. Os licitantes convocados deverão enviar a documentação no prazo estabelecido 
+no  Edital  e  o  não  atendimento  da  convocação  do  pregoeiro  resultará  na 
+desclassificação do licitante.
+6.17.2. A análise prévia da documentação não substitui a negociação de preços, que  
+será realizada exclusivamente com o licitante mais bem classificado dentre as  
+propostas tecnicamente válidas.
+7. DA FASE DE JULGAMENTO
+7.1. Recebida a proposta adequada à última oferta do licitante provisoriamente classificado  
+em primeiro lugar, o Pregoeiro verificará se ele atende às condições de participação no  
+certame, conforme previsto no art. 14 da Lei nº 14.133/2021, legislação correlata e no  
+item 3.5 deste Edital, especialmente quanto à existência de sanção que impeça a  
+participação no certame ou a futura contratação, mediante a consulta aos seguintes  
+cadastros:
+a) SICAF;
+b) Cadastro  Nacional  de Empresas Inidôneas e  Suspensas  -  CEIS,  
+mantido  pela  Controladoria-Geral  da  União  
+(https://portaldatransparencia.gov.br/sancoes/consulta?
+cadastro=1&ordenarPor=nomeSancionado&direcao=asc); e
+c) Cadastro Nacional de Empresas Punidas – CNEP, mantido pela  
+Controladoria-Geral  da  União  ( https://portaldatransparencia.gov.br/sancoes/consulta?
+cadastro=2&ordenarPor=nomeSancionado&direcao=asc).
+7.2. Caso conste na Consulta de Situação do licitante a existência de Ocorrências Impeditivas 
+Indiretas, o Pregoeiro diligenciará para verificar se houve fraude por parte das empresas  
+apontadas no Relatório de Ocorrências Impeditivas Indiretas. (IN nº 3/2018, art. 29,  
+caput)
+7.2.1. A tentativa de burla será verificada por meio dos vínculos societários, linhas de 
+fornecimento similares, dentre outros. (IN nº 3/2018, art. 29, §1º).
+7.2.2. O licitante será convocado para manifestação previamente a uma eventual  
+desclassificação. (IN nº 3/2018, art. 29, §2º).
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 13]
+7.2.3. Constatada a existência de sanção, o licitante será desclassificado, por falta de  
+condição de participação.
+7.3. Caso o licitante provisoriamente classificado em primeiro lugar tenha se utilizado de  
+algum tratamento favorecido às ME/EPPs, o pregoeiro verificará se faz jus ao benefício, 
+em conformidade com os itens 3.5 e 4.4 deste edital.
+7.4. Verificadas as condições de participação e de utilização do tratamento favorecido, o  
+pregoeiro examinará a proposta classificada em primeiro lugar quanto à adequação ao  
+objeto e à compatibilidade do preço em relação ao máximo estipulado para contratação  
+neste Edital e em seus anexos, observado o disposto no artigo 29 a 35 da IN SEGES nº  
+73/2022, e com o auxílio da Planilha de Custos e Formação de Preços encaminhada na  
+forma do item 6.16 deste Edital.
+7.5. Será desclassificada a proposta vencedora que:
+7.5.1. Contiver vícios insanáveis;
+7.5.2. Não obedecer às especificações técnicas contidas no Termo de Referência;
+7.5.3. Apresentar preços inexequíveis ou permanecerem acima do preço máximo  
+definido para a contratação;
+7.5.4. Não  tiverem  sua  exequibilidade  demonstrada,  quando  exigido  pela  
+Administração;
+7.5.5. Apresentar desconformidade com quaisquer outras exigências deste Edital ou  
+seus anexos, desde que insanável.
+7.6. No caso de bens e serviços em geral, é indício de inexequibilidade das propostas valores 
+inferiores a 50% (cinquenta por cento) do valor máximo fixado pela Administração.
+7.6.1. A inexequibilidade, na hipótese de que trata o item acima, só será considerada  
+após diligência do Pregoeiro, que comprove que o custo do licitante ultrapassa o  
+valor da proposta ou que inexistem custos de oportunidade capazes de justificar o  
+vulto da oferta, ou após a convocação do licitante para que comprove a  
+exequibilidade da sua proposta.
+7.6.2. O indício de inexequibilidade deste item poderá ser superado caso, dentre as  
+empresas proponentes, ao menos metade tenha seu preço final inferior a 50%  
+(cinquenta por cento) do valor máximo fixado pela Administração.
+7.7. Para fins de análise da proposta quanto ao cumprimento das especificações do objeto,  
+poderá ser colhida a manifestação escrita do setor requisitante do serviço ou da área  
+especializada no objeto.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 14]
+7.8. Encerrada a fase de julgamento, após a verificação de conformidade da proposta, o  
+Pregoeiro verificará a documentação de habilitação do licitante conforme disposições  
+deste Edital.
+8. DA FASE DE HABILITAÇÃO
+8.1. A habilitação será verificada por meio do SICAF, nos documentos por ele abrangidos e  
+somente será feita em relação ao licitante vencedor.
+8.1.1. É de responsabilidade do licitante conferir a exatidão dos seus dados cadastrais 
+no SICAF e mantê-los atualizados junto aos órgãos responsáveis pela informação,  
+devendo proceder, imediatamente, à correção ou à alteração dos registros tão logo  
+identifique incorreção ou aqueles se tornem desatualizados.
+8.1.2. A  não  observância  do  disposto  no  subitem  anterior  poderá  ensejar  
+desclassificação no momento da habilitação.
+8.2. Na falta de documento(s) no SICAF, o Pregoeiro ou Equipe de Apoio poderão verificar  
+em sítios eletrônicos oficiais de órgãos e entidades emissores de certidões, desde que seja 
+possível fazê-lo de modo imediato durante a sessão pública, sendo que tal diligência  
+constitui meio legal de prova, para fins de habilitação.
+8.2.1. Os documentos exigidos para habilitação que não estejam contemplados ou  
+estejam ausentes no SICAF e não sejam obtidos pela diligência do subitem acima  
+serão enviados por meio do sistema, em formato digital, no prazo de 2 (duas) horas, 
+contado da solicitação do pregoeiro.
+8.2.2. O prazo do subitem acima pode ser prorrogado por uma vez, a pedido,  
+devidamente fundamentado, por igual período.
+8.2.3. Somente haverá a necessidade de apresentação dos documentos originais não-
+digitais quando houver dúvida em relação à integridade do documento digital ou  
+quando a lei expressamente o exigir.
+8.3. Nos termos dos arts. 62 a 70 da Lei nº 14.133/2021, para a habilitação do licitante  
+vencedor serão exigidos os documentos relacionados nos itens seguintes:
+8.4. Para fins de habilitação jurídica, será exigido do vencedor:
+8.4.1. Se empresário individual: inscrição no Registro Público de Empresas Mercantis, 
+a cargo da Junta Comercial da respectiva sede;
+8.4.2. Se  Microempreendedor  Individual  -  MEI: Certificado da Condição de  
+Microempreendedor Individual - CCMEI, cuja aceitação ficará condicionada à  
+verificação da autenticidade no sítio https://www.gov.br/empresas-e-negocios/pt-
+br/empreendedor;
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 15]
+8.4.3. Se sociedade empresária, sociedade limitada unipessoal – SLU ou sociedade 
+identificada como empresa individual de responsabilidade limitada - EIRELI:  
+inscrição do ato constitutivo, estatuto ou contrato social no Registro Público de  
+Empresas Mercantis, a cargo da Junta Comercial da respectiva sede, acompanhada 
+de documento comprobatório de seus administradores;
+8.4.4. Se  sociedade  empresária  estrangeira :  portaria  de  autorização  de  
+funcionamento no Brasil, publicada no Diário Oficial da União e arquivada na Junta 
+Comercial da unidade federativa onde se localizar a filial, agência, sucursal ou  
+estabelecimento, a qual será considerada como sua sede, conforme Instrução  
+Normativa DREI/ME n.º 77/2020.
+8.4.5. Se sociedade simples: inscrição do ato constitutivo no Registro Civil de Pessoas 
+Jurídicas do local de sua sede, acompanhada de documento comprobatório de seus 
+administradores;
+8.4.6. Se filial, sucursal ou agência de sociedade simples ou empresária: inscrição 
+do ato constitutivo da filial, sucursal ou agência da sociedade simples ou  
+empresária, respectivamente, no Registro Civil das Pessoas Jurídicas ou no Registro 
+Público de Empresas Mercantis onde opera, com averbação no Registro onde tem  
+sede a matriz.
+8.4.7. Os documentos de constituição apresentados deverão estar acompanhados de  
+todas as alterações ou da consolidação respectiva.
+8.5. Como habilitação fiscal, social e trabalhista, serão exigidos do vencedor:
+8.5.1. Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas (CNPJ);
+8.5.2. Prova de regularidade fiscal perante a Fazenda Nacional (referente a créditos 
+tributários federais, à Dívida Ativa da União e à Seguridade Social), nos termos da 
+Portaria Conjunta nº 1.751/2014 SRFB/PGFN.
+8.5.3. Prova de regularidade com o Fundo de Garantia do Tempo de Serviço (FGTS);
+8.5.4. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho,  
+por meio da apresentação da certidão negativa ou positiva com efeitos de negativa, 
+nos termos do art. 642-A da CLT (Certidão Negativa de Débitos Trabalhistas –  
+CNDT);
+8.5.5. Prova de regularidade com a  Fazenda Estadual  do domicílio ou sede do  
+licitante;
+8.5.6. Prova de regularidade com a Fazenda Municipal  da sede ou domicílio do  
+licitante;
+8.5.7. O licitante detentor do menor preço qualificado como microempresa ou empresa 
+de pequeno porte deverá apresentar toda a documentação exigida para efeito de  
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 16]
+comprovação de regularidade fiscal, mesmo que esta apresente alguma restrição,  
+sob pena de inabilitação.
+8.6. Como Qualificação Econômico-Financeira, será exigido do vencedor:
+8.6.1. Certidão  negativa  de  falência  expedida  pelo  distribuidor  da  sede  do  
+fornecedor - Lei nº 14.133/2021 art. 69, caput, inciso II);
+8.7. Na fase de habilitação, também será verificada a prestação das declarações exigidas no  
+item 4.3 do Edital.
+8.8. Após a entrega dos documentos para habilitação, não será permitida a substituição ou a  
+apresentação de novos documentos, salvo em sede de diligência, para complementação  
+de informações acerca dos documentos já apresentados pelos licitantes e desde que  
+necessária para apurar fatos existentes à época da abertura do certame e/ou atualização de 
+documentos cuja validade tenha expirado após a data de recebimento das propostas.
+8.9. Na análise dos documentos de habilitação, o Pregoeiro poderá sanar erros ou falhas, que 
+não alterem a substância dos documentos e sua validade jurídica, mediante decisão  
+fundamentada, registrada em ata e acessível a todos, atribuindo-lhes eficácia para fins  
+de habilitação e classificação.
+8.10.Na hipótese de o licitante não atender às exigências para habilitação, o pregoeiro  
+examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, até 
+a apuração de uma proposta que atenda ao presente edital, observado o prazo disposto no 
+subitem 8.2.1.
+8.11.Somente serão disponibilizados para acesso público os documentos de habilitação do  
+licitante cuja proposta atenda ao edital de licitação, após concluídos os procedimentos de 
+que trata o subitem anterior.
+8.12.A comprovação de regularidade fiscal e trabalhista das microempresas e das empresas de 
+pequeno porte somente será exigida para efeito de contratação, e não como condição para 
+participação na licitação (art. 4º do Decreto nº 8.538/2015).
+8.13.Caso os documentos de habilitação não mencionem o prazo de validade e/ou validação,  
+será considerado o prazo de 180 (cento e oitenta) dias contados de sua emissão, exceto  
+para aqueles que o prazo seja indeterminado e/ou definido neste Edital.
+8.14.Havendo necessidade de analisar minuciosamente os documentos exigidos, o Pregoeiro  
+suspenderá a sessão, informando no chat a nova data e horário para a continuidade da  
+mesma.
+9. DOS RECURSOS
+9.1. A interposição de recurso referente ao julgamento das propostas, à habilitação ou  
+inabilitação de licitantes, à anulação ou revogação da licitação, observará o disposto no  
+art. 165 da Lei nº 14.133/2021.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 17]
+9.2. O prazo recursal é de 3 (três) dias úteis, contados da data de intimação ou de lavratura da 
+ata.
+9.3. Quando o recurso apresentado impugnar o julgamento das propostas ou o ato de  
+habilitação ou inabilitação do licitante:
+9.3.1. a intenção de recorrer deverá ser manifestada imediatamente, sob pena de  
+preclusão;
+9.3.2. o prazo para a manifestação da intenção de recorrer não será inferior a 10 (dez) 
+minutos;
+9.3.3. o prazo para apresentação das razões recursais será iniciado na data de  
+intimação ou de lavratura da ata de habilitação ou inabilitação;
+9.4. Os recursos deverão ser encaminhados em campo próprio do sistema.
+9.5. O recurso será dirigido à autoridade que tiver editado o ato ou proferido a decisão  
+recorrida, a qual poderá reconsiderar sua decisão no prazo de 3 (três) dias úteis, ou, nesse 
+mesmo prazo, encaminhar recurso para a autoridade superior, a qual deverá proferir sua  
+decisão no prazo de 10 (dez) dias úteis, contado do recebimento dos autos.
+9.6. Os recursos interpostos fora do prazo não serão conhecidos.
+9.7. O prazo para apresentação de contrarrazões ao recurso pelos demais licitantes será de 3  
+(três) dias úteis, contados da data da intimação pessoal ou da divulgação da interposição  
+do recurso, assegurada a vista imediata dos elementos indispensáveis à defesa de seus  
+interesses.
+9.8. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da decisão  
+recorrida até que sobrevenha decisão final da autoridade competente.
+9.9. O acolhimento do recurso invalida tão somente os atos insuscetíveis de aproveitamento.
+9.10.Os autos do processo permanecerão com vista franqueada aos interessados no sítio  
+eletrônico indicado no preâmbulo deste Edital.
+10. DA REABERTURA DA SESSÃO PÚBLICA
+10.1.A sessão pública poderá ser reaberta:
+10.1.1. Nas hipóteses de provimento de recurso que leve à anulação de atos anteriores  
+à realização da sessão pública precedente ou em que seja anulada a própria sessão  
+pública, situação em que serão repetidos os atos anulados e os que dele dependam.
+10.1.2. Quando houver erro na aceitação do preço melhor classificado ou quando o  
+licitante declarado vencedor não assinar o contrato, não retirar o instrumento  
+equivalente ou não comprovar a regularização fiscal e trabalhista, nos termos do art. 
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 18]
+43, §1º da LC nº 123/2006. Nessas hipóteses, serão adotados os procedimentos  
+imediatamente posteriores ao encerramento da etapa de lances.
+10.2.Todos os licitantes remanescentes deverão ser convocados para acompanhar a sessão  
+reaberta.
+10.2.1. A convocação se dará por meio do sistema eletrônico (“chat”), e-mail, ou,  
+comunicado no site oficial, de acordo com a fase do procedimento licitatório.
+10.2.2. A convocação feita por e-mail dar-se-á de acordo com os dados contidos no  
+SICAF,  sendo  responsabilidade  do  licitante  manter  seus  dados  cadastrais  
+atualizados.
+11. DA ADJUDICAÇÃO E HOMOLOGAÇÃO
+11.1.Encerradas as fases de julgamento e habilitação, e, se for o caso, exauridos os recursos  
+administrativos, o processo licitatório será encaminhado à autoridade superior para  
+adjudicar o objeto e homologar o procedimento, observado o disposto no art. 71 da Lei nº 
+14.133/2021.
+12. DA FORMALIZAÇÃO DA CONTRATAÇÃO
+12.1.Após a homologação, o licitante vencedor será convocado para assinar o Contrato  
+Administrativo no prazo de 07 (sete) dias úteis, contados a partir da data de sua  
+convocação, sob pena de decair do direito à contratação, sem prejuízo das sanções  
+previstas na Lei nº 14.133/2021 e em outras legislações aplicáveis.
+12.1.1. O prazo indicado no item anterior poderá ser prorrogado 1 (uma) vez, por igual 
+período, mediante solicitação da parte durante seu transcurso, devidamente  
+justificada, e desde que o motivo apresentado seja aceito pela Administração.
+12.2.Na hipótese de o vencedor da licitação não assinar o Contrato Administrativo no prazo e 
+nas condições estabelecidas, outro licitante poderá ser convocado, respeitada a ordem de 
+classificação, para celebrar a contratação nas condições propostas pelo licitante vencedor, 
+sem prejuízo da aplicação das sanções previstas na Lei nº 14.133/2021.
+12.3.Caso nenhum dos licitantes aceitar a contratação nos termos do item acima, a  
+Administração, observados o valor estimado e sua eventual atualização nos termos do  
+edital de licitação, poderá:
+12.3.1. Convocar  os  licitantes  remanescentes  para  negociação,  na  ordem  de  
+classificação, com vistas à obtenção de preço melhor, mesmo que acima do preço  
+do vencedor original;
+12.3.2. Adjudicar e celebrar o contrato nas condições ofertadas pelos licitantes  
+remanescentes, atendida a ordem classificatória, quando frustrada a negociação de  
+melhor condição.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 19]
+12.4.A recusa injustificada do vencedor em assinar o Contrato, ou em aceitar ou retirar o  
+instrumento equivalente no prazo estabelecido pela Administração caracterizará o  
+descumprimento total da obrigação assumida e o sujeitará às penalidades legalmente  
+estabelecidas e à imediata perda de eventual garantia de proposta em favor do órgão ou  
+entidade promotora da licitação.
+12.4.1. A regra do item acima não se aplicará aos licitantes remanescentes convocados 
+na forma do item 12.3.
+12.5.A Assinatura do Contrato pelo adjudicatário poderá se dar, alternativamente:
+12.5.1. Pela convocação para comparecer perante a Administração para a assinatura;
+12.5.2. Pelo  encaminhamento  pela  Administração  ao  adjudicatário,  mediante  
+correspondência postal com aviso de recebimento (AR) ou meio eletrônico, para  
+que seja assinada e devolvida no prazo de 07 (sete) dias úteis, a contar da data de  
+seu recebimento; ou
+12.5.3. Pelo encaminhamento do arquivo digital para assinatura por meio de certificado 
+digital  emitido  por  uma  Autoridade  Certificadora  (AC)  credenciada  na  
+Infraestrutura de Chaves Públicas Brasileira (ICP – Brasil), na forma da legislação 
+vigente  (como,  por  exemplo,  o  Assinador  Serpro,  disponível  em  
+https://www.serpro.gov.br/links-fixos-superiores/assinador-digital/assinador-
+serpro).
+13. DAS SANÇÕES ADMINISTRATIVAS.
+13.1.Comete infração administrativa, nos termos da lei, o licitante que, com dolo ou culpa:
+13.1.1. Deixar de entregar a documentação exigida para o certame ou não entregar  
+qualquer documento que tenha sido solicitado pelo/a pregoeiro/a durante o certame;
+13.1.2. Salvo em decorrência de fato superveniente devidamente justificado, não  
+mantiver a proposta em especial quando:
+13.1.2.1. Não enviar a proposta adequada ao último lance ofertado ou após a  
+negociação;
+13.1.2.2. Recusar-se a enviar o detalhamento da proposta quando exigível;
+13.1.2.3. Pedir para ser desclassificado quando encerrada a etapa competitiva; ou
+13.1.2.4. Deixar de apresentar amostra;
+13.1.2.5. Apresentar proposta ou amostra em desacordo com as especificações do 
+edital;
+13.1.3. Não celebrar o contrato ou não entregar a documentação exigida para a  
+contratação, quando convocado dentro do prazo de validade de sua proposta;
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 20]
+13.1.3.1. Recusar-se, sem justificativa, a assinar o contrato ou a ata de registro de 
+preço, ou a aceitar ou retirar o instrumento equivalente no prazo estabelecido  
+pela Administração;
+13.1.4. Apresentar declaração ou documentação falsa exigida para o certame ou prestar 
+declaração falsa durante a licitação;
+13.1.5. Fraudar a licitação;
+13.1.6. Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza, em  
+especial quando:
+13.1.6.1. Agir em conluio ou em desconformidade com a lei;
+13.1.6.2. Induzir deliberadamente a erro no julgamento;
+13.1.6.3. Apresentar amostra falsificada ou deteriorada;
+13.1.7. Praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+13.1.8. Praticar ato lesivo previsto no art. 5º da Lei n.º 12.846/2013.
+13.2.Com fundamento na Lei nº 14.133/2021, a Administração poderá, garantida a defesa  
+prévia, aplicar aos licitantes e/ou adjudicatários as seguintes sanções, sem prejuízo das  
+responsabilidades civil e criminal:
+13.2.1. Advertência por faltas leves, assim entendidas aquelas que não acarretarem  
+prejuízos significativos ao objeto da contratação;
+13.2.2. Multa compensatória sobre o valor da contratação, do grupo ou do item  
+prejudicado pela conduta do licitante, conforme os seguintes parâmetros:
+13.2.2.1. No caso das infrações indicadas nos subitens 13.1.1, 13.1.2 e 13.1.3, a  
+multa será de até 10% (dez por cento) do valor da contratação.
+13.2.2.2. No caso das infrações indicadas nos subitens 13.1.4, 13.1.5, 13.1.6,  
+13.1.7 e 13.1.8, a multa será de 20% (vinte por cento) do valor da contratação. 
+13.2.3. impedimento de licitar e contratar será aplicada ao responsável em decorrência 
+das infrações administrativas relacionadas nos itens 13.1.1., 13.1.2. 13.1.3., quando 
+não se justificar a imposição de penalidade mais grave, e impedirá o responsável de 
+licitar e contratar no âmbito da Administração Pública direta e indireta do  
+Município de Londrina, pelo prazo máximo de 3 (três) anos.
+13.2.4. declaração de inidoneidade para licitar ou contratar, enquanto perdurarem os  
+motivos determinantes da punição ou até que seja promovida sua reabilitação  
+perante a própria autoridade que aplicou a penalidade, em decorrência da prática  
+das infrações dispostas nos itens 13.1.4, 13.1.5, 13.1.6, 13.1.7, 13.1.8, bem como  
+pelas infrações administrativas previstas nos itens 13.1.1., 13.1.2. e 13.1.3. que  
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 21]
+justifiquem a imposição de penalidade mais grave que a sanção de impedimento de 
+licitar e contratar, cuja duração observará o prazo previsto no art. 156, §5º, da Lei  
+n.º 14.133/2021.
+13.3.Na aplicação das sanções serão considerados:
+13.3.1. a natureza e a gravidade da infração cometida.
+13.3.2. as peculiaridades do caso concreto;
+13.3.3. as circunstâncias agravantes ou atenuantes;
+13.3.4. os danos que dela provierem para a Administração Pública;
+13.3.5. a implantação ou o aperfeiçoamento de programa de integridade, conforme  
+normas e orientações dos órgãos de controle.
+13.4.As sanções de advertência, impedimento de licitar e contratar e declaração de  
+inidoneidade para licitar ou contratar poderão ser aplicadas, cumulativamente ou não, à  
+penalidade de multa.
+13.5.O procedimento de apuração de responsabilidade do licitante sobre as condutas indicadas 
+no item 13.1 seguirá, no que couber, o procedimento delineado na minuta do Contrato  
+Administrativo (Anexo III deste Edital).
+13.6.Aplica-se subsidiariamente ao procedimento de penalização previsto para a presente  
+Contratação, o procedimento previsto na Lei nº 14.133/2021, e analogicamente o previsto 
+na Lei nº 9.784/1999.
+13.7.As penalidades serão obrigatoriamente registradas no SICAF.
+13.8.As sanções por atos praticados no decorrer da execução do objeto estão previstas no  
+Termo de Referência e/ou no Contrato Administrativo.
+14. DA IMPUGNAÇÃO AO EDITAL E DO PEDIDO DE ESCLARECIMENTO
+14.1.Qualquer pessoa é parte legítima para impugnar este Edital por irregularidade na  
+aplicação da Lei nº 14.133/2021, devendo protocolar o pedido até 3 (três) dias úteis antes 
+da data da abertura do certame.
+14.2.A resposta à impugnação ou ao pedido de esclarecimento será divulgado em sítio  
+eletrônico oficial no prazo de até 3 (três) dias úteis, limitado ao último dia útil anterior à  
+data da abertura do certame.
+14.3.A impugnação e o pedido de esclarecimento poderão ser realizados por forma eletrônica, 
+pelos seguintes meios:
+14.3.1. Mediante  protocolo  de  documento  assinado  pelo  representante  legal,  
+acompanhado de documentação comprobatória dos poderes de representação, junto 
+ao Departamento de Documentação e Informação da Câmara Municipal de  
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 22]
+Londrina, localizado provisoriamente na Rua Marselha, n.º 185, Jardim Piza, CEP: 
+86.041-140, Londrina /PR; ou
+14.3.2. Mediante protocolo eletrônico de documento assinado pelo representante legal, 
+acompanhado de documentação comprobatória dos poderes de representação, no  
+seguinte  endereço:  https://www.cml.pr.gov.br/protocolo/Processo-de-Protocolo-
+Externo.
+14.4.Deve o licitante confirmar junto ao Pregoeiro o recebimento do pedido da impugnação.
+14.5.As impugnações e pedidos de esclarecimentos não suspendem os prazos previstos no  
+certame.
+14.5.1. A concessão de efeito suspensivo à impugnação é medida excepcional e deverá 
+ser motivada pelo agente de contratação, nos autos do processo de licitação.
+14.6.Acolhida a impugnação, será definida e publicada nova data para a realização do certame.
+14.7.As respostas aos pedidos de esclarecimentos serão divulgadas pelo sistema e vincularão  
+os participantes e a administração.
+15. DAS DISPOSIÇÕES GERAIS
+15.1.Da sessão pública do Pregão divulgar-se-á Ata no sistema eletrônico e na página do  
+processo licitatório no site da Câmara Municipal de Londrina indicado no preâmbulo  
+deste Edital.
+15.2.Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a  
+realização do certame na data marcada, a sessão será automaticamente transferida para o 
+primeiro dia útil subsequente, no mesmo horário anteriormente estabelecido, desde que  
+não haja comunicação em contrário, pelo Pregoeiro.
+15.3.Todas as referências de tempo no Edital, no Aviso de Licitação e durante a sessão pública 
+observarão o Horário de Brasília – DF.
+15.4.A homologação do resultado desta licitação não implicará direito à contratação.
+15.5.As normas disciplinadoras da licitação serão sempre interpretadas em favor da ampliação 
+da  disputa  entre  os  interessados,  desde  que  não  comprometam  o  interesse  da 
+Administração, o princípio da isonomia, a finalidade e a segurança da contratação.
+15.6.Os licitantes assumem todos os custos de preparação e apresentação de suas propostas e  
+a  Administração  não  será,  em  nenhum  caso,  responsável  por  esses  custos,  
+independentemente da condução ou do resultado do processo licitatório.
+15.7.Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir-se-á o dia do  
+início e incluir-se-á o do vencimento. Só se iniciam e vencem os prazos em dias de  
+expediente na Administração.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 23]
+15.8.O desatendimento de exigências formais não essenciais não importará o afastamento do  
+licitante, desde que seja possível o aproveitamento do ato, observados os princípios da  
+isonomia e do interesse público.
+15.9.Em caso de divergência entre disposições deste Edital e de seus Anexos ou demais peças 
+que compõem o processo, prevalecerão as deste Edital.
+15.10. O Edital e seus anexos estão disponíveis, na íntegra, no Portal Nacional de Contratações 
+Públicas (PNCP) e no endereço eletrônico indicado no preâmbulo deste edital, também,  
+podendo ser lidos e/ou obtidos na sede da Câmara Municipal de Londrina (Rua Gov.  
+Parigot de Souza, n.º 145, Centro Cívico, CEP: 86.015-903, Londrina /PR), nos dias úteis, 
+entre 13 e 18 horas, mesmo endereço e período nos quais os autos do processo  
+administrativo permanecerão com vista franqueada aos interessados.
+Londrina, datado e assinado eletronicamente.
+Éder Balbino
+Diretor Administrativo-Financeiro
+Câmara Municipal de Londrina/PR
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 24]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+TERMO DE REFERÊNCIA
+1. DO OBJETO
+1.1.  Contratação de empresa especializada (broker) para intermediar o fornecimento de licenças  
+de acesso à plataforma de inteligência artificial Claude (claude.ai), da Anthropic, na modalidade  
+Team (standard seat e premium seat Grupo 1, itens 1 e 2), com provisão para aquisição eventual  
+de créditos de uso e assentos adicionais na mesma plataforma (Grupo 2, item 3); e de licenças da  
+plataforma ChatGPT Business (chatgpt.com), da OpenAI (Grupo 3, item 4),  em sua versão  
+padrão, exatamente como disponibilizadas nos sites oficiais das desenvolvedoras, incluindo todas 
+as funcionalidades atuais e futuras que venham a ser disponibilizadas aos usuários regulares dos  
+serviços, conforme condições e exigências estabelecidas neste Termo de Referência.
+Grupo 1 – Licenças Claude Team
+Item Especificação Unidade Quant Valor 
+unitário
+Valor total
+1 Assinatura anual Claude AI Plano Team —  
+Standard  Seat  
+(https://claude.com/pricing#team-&-
+enterprise)
+licença/
+ano
+36 R$ R$
+2 Assinatura anual Claude AI plano Team —  
+Premium Seat
+licença/
+ano
+1 R$ R$
+Grupo 2 – Créditos de uso plataforma Claude
+Item Especificação Unidade Quant Valor 
+unitário
+Valor total
+3 Provisão  para  despesas  eventuais  na  
+plataforma: aquisição de créditos de uso  
+adicional (usage credits) e/ou de assentos  
+adicionais  pelo  prazo  remanescente  da  
+assinatura (cobrança pró-rata da plataforma)
+R$ 1,00 
+(um real) de 
+despesa 
+efetivada na 
+plataforma
+25.000 R$ * R$
+* Unidade de medida multiplicada pelo valor proposto (real gasto na plataforma x preço que embute a remuneração da contratada)
+Grupo 3 – Licenças ChatGPT Business
+Item Especificação Unidade Quant Valor 
+unitário
+Valor total
+4 Assinatura anual ChatGPT Business 
+(https://chatgpt.com/pt-BR/pricing/?
+type=team)
+licença/
+ano
+3 R$ R$
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 25]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+1.2. A assinatura é a padrão oferecida no site da plataforma, incluindo os modelos atuais e  
+quaisquer melhorias que vierem a ser implementadas no período da assinatura, cabendo ao broker 
+contratado intermediar a contratação e o faturamento.
+1.3. A conta/organização na plataforma é de titularidade e gestão exclusiva da Contratante, que  
+detém os perfis administrativos e realiza a criação e gestão de usuários. A Contratada atuará  
+exclusivamente como intermediária de pagamento e faturamento, sendo-lhe vedado modificar,  
+customizar ou limitar qualquer funcionalidade disponível na versão padrão da plataforma.
+1.3.1. Caso necessário e de modo a evitar que terceiros acessem a conta da Contratante, a  
+Contratada deverá fornecer os dados necessários para o paagamento na plataforma.
+1.4. Os quantitativos dos Itens 1 e 2 (Grupo 1) e item 4 serão adquiridos integralmente.
+1.5. O Item 3 constitui provisão de contratação  eventual, sob demanda , sem obrigação de  
+consumo mínimo pela Contratante, destinada a: (a) aquisição de créditos de uso adicional (usage  
+credits) na organização da Contratante na plataforma; e (b) contratação de assentos adicionais  
+(Standard ou Premium) no curso do ciclo anual, cuja cobrança pela desenvolvedora é feita de  
+forma proporcional ao período remanescente (pró-rata).
+1.5.1. Para o Item 3, a unidade de medida corresponde a R$ 1,00 (um real) de despesa  
+efetivamente realizada na plataforma em favor da organização da Contratante, conforme os  
+valores em reais exibidos pela própria plataforma no momento da compra (a plataforma  
+precifica e cobra em reais). O valor unitário proposto corresponde ao valor total a ser pago  
+à Contratada por unidade, já incluídos sua remuneração, tributos, IOF e demais custos de  
+transação.
+1.5.2. O quantitativo do Item 3 é mera estimativa, não constitui obrigação de consumo ou  
+pedido mínimo, e somente será devido pagamento pela parcela efetivamente solicitada pelo  
+Fiscal e comprovadamente efetivada na plataforma.
+1.5.3. Eventuais créditos, bonificações, descontos ou estornos concedidos diretamente pela  
+desenvolvedora (Anthropic) à organização da Contratante pertencem integralmente à  
+Contratante e poderão ser por ela utilizados, inclusive para ativação de novos assentos, sem  
+qualquer remuneração adicional à Contratada e sem necessidade de termo aditivo.
+1.6. A contratação será formalizada mediante contrato administrativo, com vigência de 12 meses,  
+podendo ser prorrogado nos termos dos artigos 106 e 107 da Lei nº 14.133/2021.
+2. DA JUSTIFICATIVA
+2.1. Dos motivos para a contratação
+2.1.1. A contratação dá continuidade e amplia o uso institucional de ferramentas de  
+Inteligência Artificial na Câmara Municipal de Londrina, iniciado com o Contrato  
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 26]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+Administrativo nº 44/2025 (Pregão Eletrônico nº 13/2025), que disponibilizou 25 licenças  
+do plano Claude Team, posteriormente ampliadas para 30 licenças ativas mediante  
+utilização de créditos concedidos pela própria desenvolvedora (decorrentes de redução do  
+preço de tabela da plataforma em 2026), sem custo adicional à Administração.
+2.1.2. Após a contratação original, fundada em experiências individuais de servidores, a  
+presente contratação apoia-se em resultados aferidos ao longo da execução contratual,  
+documentados em dois ciclos formais de avaliação conduzidos pela fiscalização (adoção  
+crescente, economia de tempo mensurada, uso objetivamente verificado no painel  
+administrativo) e em consulta formal aos departamentos que consolidou demanda superior  
+ao quantitativo atualmente ativo, conforme detalhado na Solicitação de Contratação que  
+instrui o presente processo. 
+2.1.3. A escolha da plataforma Claude (Anthropic), plano Team, mantém-se justificada pela 
+excepcional precisão e capacidade de processamento de documentos extensos, essencial ao  
+trabalho administrativo e legislativo, agora corroborada pela experiência concreta da Casa.  
+Registre-se que a ferramenta de IA já disponível a todos os servidores (Google Gemini,  
+integrado ao Google Workspace via Contrato nº 31/2024) foi avaliada pelos próprios  
+usuários como complementar, e não substituta: o padrão consolidado nas entrevistas é o  
+uso do Gemini para pesquisas gerais e transcrição de áudio, e do Claude para redação  
+técnica e jurídica, análise documental extensa e aderência a instruções — de modo que a  
+presente contratação não configura sobreposição de soluções.
+2.1.4. Do assento Premium (Item 2) : o Departamento de Informática demonstrou,  
+mediante análise técnica de registros de uso (abr–jul/2026), o atingimento recorrente dos  
+limites de sessão do assento Standard em atividades de desenvolvimento de sistemas com  
+uso intensivo da ferramenta Claude Code (limites atingidos em cerca de 15% dos dias  
+ativos no período analisado, interrompendo rotinas de desenvolvimento e automação). O  
+assento Premium, com franquia de uso 5 vezes superior, destina-se a esse perfil de uso  
+intensivo, sendo contratado inicialmente em quantidade mínima (1) para validação. 
+2.1.5. Da provisão para despesas eventuais (Item 3) : a execução do contrato anterior  
+demonstrou duas necessidades não previstas originalmente: (a) usuários intensivos  
+relataram esgotamento das franquias de uso ("rate limits") em atividades legítimas, com  
+pedidos expressos de "mais créditos" registrados nas avaliações; e (b) a ampliação do  
+quantitativo de licenças no curso do contrato (possibilitada, naquele caso, por créditos  
+concedidos pela desenvolvedora) mostrou-se instrumento eficiente de gestão. A plataforma  
+oferece mecanismo nativo e pré-pago de créditos de uso adicional (usage credits), inclusive  
+com pacotes com desconto, e permite a adição de assentos no curso do ciclo anual com  
+cobrança pró-rata. O Item 3 confere à Administração a flexibilidade de utilizar esses  
+mecanismos sem necessidade de novo procedimento licitatório ou termo aditivo, pagando  
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 27]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+apenas pelo que for efetivamente solicitado e comprovado, com remuneração da Contratada 
+previamente definida em disputa (fator em reais por real de despesa efetivada na  
+plataforma).
+2.1.6. Do plano ChatGPT Business (item 4) : a contratação de três licenças destina-se à  
+realização de projeto-piloto controlado, envolvendo o Departamento de Informática, o  
+Laboratório de Inovação e servidor designado para avaliação da ferramenta em atividades  
+administrativas. O quantitativo reduzido decorre do caráter experimental da iniciativa e  
+permitirá  avaliar,  durante  o  período  contratual,  a  aplicabilidade  institucional  das  
+funcionalidades próprias da plataforma, especialmente programação assistida, automação  
+de tarefas, pesquisa, análise e geração de documentos, planilhas, apresentações, imagens e  
+outros arquivos. A contratação não objetiva substituir nem duplicar o uso institucional do  
+Claude  Team,  mas  testar,  em  escala  limitada,  recursos  e  modos  de  trabalho  
+complementares, produzindo evidências para eventual decisão futura quanto à conveniência 
+de ampliação, manutenção ou encerramento da utilização.
+2.1.7. O papel do broker é estritamente o de viabilizar o acesso às plataformas exatamente  
+como disponibilizadas publicamente. A intermediação se faz necessária exclusivamente  
+porque as desenvolvedoras (Anthropic e OpenAI) exigem pagamento por cartão de crédito  
+e não aceitam as formas de pagamento típicas da Administração Pública brasileira. A conta  
+institucional é integralmente gerida pela Câmara, cabendo ao intermediário apenas o meio  
+de pagamento.
+2.1.8. A opção pela formalização por meio de contrato administrativo fundamenta-se na  
+necessidade de estabelecer relação jurídica duradoura com o fornecedor, garantindo a  
+continuidade do serviço e possibilitando eventuais prorrogações sem interrupção do acesso  
+às ferramentas ou necessidade de nova licitação, aspecto essencial para a manutenção dos  
+fluxos de trabalho já consolidados com o auxílio destas tecnologias.
+2.2. Critérios de desenvolvimento sustentável adotados: Considerando que se trata de serviço  
+de assinatura de opção de informática predefinido pelas especificações, não há critérios de  
+sustentabilidade a definir que influenciariam na escolha da melhor proposta.
+2.3. Do Plano Anual de Contratação: A contratação está prevista no Plano Anual de Contratação  
+da Câmara Municipal de Londrina, conforme Portaria 79/2026.
+3. DOS REQUISITOS DA CONTRATAÇÃO
+3.1. A proposta deverá conter declaração expressa de que a empresa possui capacidade técnica e  
+operacional para intermediar a contratação junto à empresa Anthropic (Grupo 1 e item 3) e/ou  
+OpenAI (Item 4), conforme o caso, incluindo a realização de pagamentos internacionais  
+recorrentes e eventuais (créditos e assentos adicionais) e o faturamento nacional correspondente.
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 28]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+4. MODELO DE EXECUÇÃO: CONDIÇÕES DE SOLICITAÇÃO, ENTREGA E 
+RECEBIMENTO DO OBJETO
+4.1. Após a assinatura do contrato, o Fiscal encaminhará a Nota de Empenho ao Contratado via e-
+mail ou via aplicativo de mensagens (WhatsApp), como forma de solicitação, informando:
+a) para os Itens 1, 2 e 4: a quantidade e tipos de licenças a serem ativadas e os dados necessários  
+para a ativação ou renovação, conforme o caso;
+b) para o Item 3: a quantidade de créditos de uso (em R$) a adquirir e/ou os assentos adicionais a  
+ativar pelo prazo remanescente.
+4.2. O prazo para ativação ou renovação das licenças (Itens 1 e 2 e 4) é de 5 (cinco) dias úteis,  
+contados do recebimento da Nota de Empenho e das informações necessárias.
+4.3. O prazo para efetivação das despesas do Item 3 é de 5 (cinco) dias úteis, contados da  
+solicitação do Fiscal, dada a natureza operacional da providência (pagamento na plataforma).
+4.4. Os prazos poderão ser prorrogados uma vez, desde que haja solicitação formal do Contratado 
+antes do término e que este demonstre a existência de fato posterior que não dependa de sua  
+vontade, mas impeça o regular cumprimento do prazo inicial.
+4.5. A vigência de cada licença anual será de 12 meses contados da sua efetiva ativação ou  
+renovação, independentemente do momento em que for solicitada dentro do período de vigência  
+do contrato. Assentos adicionais contratados pelo Item 3 vigoram pelo prazo remanescente do  
+ciclo anual da organização, conforme regras da plataforma. Créditos de uso seguem as regras de  
+validade da plataforma.
+4.6. O objeto será recebido pelo Fiscal:
+a) Provisoriamente, no prazo de até 10 dias, mediante verificação de acesso total à plataforma  
+pelos usuários indicados (Itens 1, 2 e 4) ou do efetivo lançamento dos créditos/assentos na  
+organização da Contratante (Item 3);
+b) Definitivamente, no prazo de 5 dias contados do recebimento provisório, mediante ateste na  
+Nota Fiscal pelo Fiscal.
+4.7. Para o Item 3, a Nota Fiscal deverá ser acompanhada de comprovante da despesa efetivada  
+na plataforma (fatura ou recibo emitido pela plataforma, com o valor em reais), e o valor faturado 
+corresponderá ao valor em reais comprovado multiplicado pelo valor unitário (fator) contratado.
+4.8. O prazo do recebimento definitivo ficará suspenso caso haja necessidade de correção na  
+entrega do objeto ou na Nota Fiscal apresentada, situação em que poderá ser dado recebimento  
+definitivo na parcela incontroversa, em conformidade com documento fiscal específico.
+4.9. Quanto à gestão das licenças:
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 29]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+a) A alteração de usuário (troca de e-mail associado à licença) durante a vigência da assinatura  
+seguirá as regras e limitações estabelecidas pela plataforma (Anthropic), e será operada  
+diretamente pela Contratante, titular dos perfis administrativos;
+b) A redistribuição interna de licenças entre usuários/departamentos não depende de anuência da  
+Contratada nem gera custo adicional.
+5. MODELO DE EXECUÇÃO: CONDIÇÕES DE PAGAMENTO
+5.1. A Nota Fiscal deverá ser apresentada com as seguintes informações:
+a) Se a empresa é optante pelo Simples, se for o caso;
+b) Indicação das retenções tributárias devidas, se for o caso, especialmente quanto ao IRRF,  
+conforme IN RFB nº 1234/2012 e Decreto Municipal nº 776/2023;
+c) Número e ano da Nota de Empenho;
+d) Número e ano do tipo de licitação;
+e) Número e ano do contrato e do aditivo, se for o caso.
+5.2. O pagamento será feito em até 7 (sete) dias úteis, contados do recebimento definitivo, por  
+Ordem Bancária de Crédito, mediante depósito em conta-corrente indicada pela Contratada, ou  
+por outro meio previsto na legislação vigente.
+5.3. Havendo erro na apresentação da Nota Fiscal ou circunstância que impeça a liquidação da  
+despesa, o pagamento ficará pendente desde a notificação até que a Contratada providencie as  
+medidas saneadoras.
+5.4. A Contratante poderá motivadamente adotar providências acauteladoras, inclusive retendo o  
+pagamento, como forma de prevenir a ocorrência de dano de difícil ou impossível reparação.
+5.5. Da composição do preço e sua revisão (Itens 1, 2 e 4):
+5.5.1. O valor unitário será entendido como composto por: (a) preço da assinatura anual em  
+reais, conforme exibido publicamente pela plataforma (claude.ai) na data de apresentação  
+da proposta — a plataforma precifica e cobra as assinaturas diretamente em reais; e (b)  
+valor da remuneração do broker (diferença entre o valor total proposto e o componente  
+"a").
+5.5.2. Na hipótese de alteração, pela desenvolvedora, do preço em reais exibido pela  
+plataforma — para mais ou para menos —, qualquer das partes poderá solicitar a revisão do 
+valor unitário, que será recalculado mediante substituição do componente "a" pelo novo  
+preço exibido, mantido fixo o componente "b". O pedido será instruído com comprovação  
+do preço vigente na plataforma (captura de tela e/ou fatura) e memória de cálculo.
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 30]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+5.5.3. Subsidiariamente, caso a plataforma deixe de exibir e cobrar preços em reais, o  
+componente "a" passará a ser calculado pelo preço de tabela em dólares americanos  
+multiplicado pela taxa PTAX (venda) do dia anterior ao evento, e a revisão dar-se-á  
+mediante variação superior a 10% (para mais ou para menos) da taxa PTAX (venda) em  
+relação à data do último cálculo, mantido fixo o componente "b".
+5.6. Para o Item 3, o valor unitário (R$ por R$ 1,00 de despesa na plataforma) é único e já  
+contempla remuneração da Contratada, tributos, IOF e custos de transação. Aplica-se-lhe a regra  
+subsidiária do item 5.5.3, no que couber, apenas na hipótese de a plataforma deixar de precificar  
+as compras em reais.
+6. MODELO DE EXECUÇÃO: OBRIGAÇÕES DA CONTRATANTE E DA 
+CONTRATADA
+6.1. A Contratada se obriga a:
+6.1.1. Efetuar a ativação das licenças e a efetivação das despesas do Item 3 em perfeitas  
+condições, nos prazos e conforme especificações deste Termo de Referência;
+6.1.2. Responsabilizar-se pelos vícios e danos decorrentes da execução do objeto;
+6.1.3. Realizar os pagamentos internacionais necessários para contratação e manutenção  
+das licenças e dos créditos de uso;
+6.1.4. Comunicar à Administração, no prazo máximo de 24 (vinte e quatro) horas que  
+antecede a data da entrega, os motivos que impossibilitem o cumprimento do prazo  
+previsto, com a devida comprovação;
+6.1.5. Manter, durante toda a execução do contrato, compatibilidade com as obrigações  
+assumidas;
+6.1.6. Prestar suporte básico quanto ao acesso à plataforma;
+6.1.7. Intermediar a comunicação entre a Contratante e a empresa fornecedora da  
+plataforma, quando necessário, devendo retornar com respostas das solicitações no prazo  
+máximo de 10 (dez) dias;
+6.1.8. Não transferir a terceiros, por qualquer forma, nem mesmo parcialmente, as  
+obrigações assumidas, nem subcontratar qualquer das prestações a que está obrigada,  
+exceto nas condições autorizadas no Termo de Referência;
+6.1.9. Responsabilizar-se pelas despesas de tributos, encargos trabalhistas, previdenciários,  
+fiscais, comerciais, taxas, tarifas de transação internacional (incluindo IOF e spread  
+cambial), e quaisquer outras que incidam ou venham a incidir na execução das obrigações  
+assumidas;
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 31]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+6.1.10. Utilizar o endereço de e-mail e/ou o número de telefone em aplicativo de  
+mensagens (WhatsApp) indicado em sua proposta ou informado no início da execução do  
+Contrato como meio oficial de comunicação com a Contratante, devendo mantê-lo  
+atualizado e apto a receber mensagens;
+6.1.11. Abster-se de acessar, utilizar ou divulgar dados, conversas e conteúdos da  
+organização da Contratante na plataforma, limitando sua atuação às funções de pagamento  
+e faturamento;
+6.1.12. Confirmar documentalmente, por ocasião da ativação das licenças, que o plano  
+contratado não utiliza os dados e conteúdos da Contratante para treinamento de modelos de  
+inteligência  artificial,  conforme  os  termos  comerciais  vigentes  da  respectiva  
+desenvolvedora;
+6.1.13. Comunicar à Contratante, em até 5 (cinco) dias úteis contados da ciência, alterações  
+relevantes promovidas pela desenvolvedora nos termos comerciais, políticas de privacidade 
+ou composição do plano contratado.
+6.2. A Contratante se obriga a:
+6.2.1. Verificar minuciosamente o funcionamento das licenças ativadas e o lançamento dos  
+créditos adquiridos;
+6.2.2. Comunicar à Contratada, por escrito, sobre imperfeições, falhas ou irregularidades  
+verificadas no objeto fornecido;
+6.2.3. Acompanhar e fiscalizar o cumprimento das obrigações da Contratada;
+6.2.4. Efetuar o pagamento à Contratada no valor, prazo e forma estabelecidos;
+6.2.5. Emitir,  explicitamente,  decisão  sobre  todas  as  solicitações  e  reclamações  
+relacionadas  à  execução  do  objeto,  ressalvados  os  requerimentos  manifestamente  
+impertinentes, meramente protelatórios ou de nenhum interesse para a boa execução do  
+contrato, nos termos do art. 123 da Lei 14.133/2021.
+6.3. As obrigações de suporte e a responsabilidade da Contratada limitam-se às matérias sob sua  
+governança (ativação, faturamento, pagamentos à plataforma e intermediação da comunicação).  
+Indisponibilidades, alterações de funcionalidades e demais características das plataformas são de  
+competência exclusiva das desenvolvedoras (Anthropic/OpenAI) e não ensejam aplicação de  
+sanções à Contratada, sem prejuízo do dever de intermediar a comunicação previsto no item  
+6.1.7.
+6.4. Na hipótese de descontinuidade do plano ou da plataforma pela desenvolvedora, sem  
+alternativa equivalente que a substitua, o contrato poderá ser extinto por acordo entre as partes,  
+sem culpa, nos termos do art. 138, II, da Lei nº 14.133/2021, pagando-se as prestações executadas 
+até a data da extinção.
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 32]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+7. MODELO DE GESTÃO DO CONTRATO: DA FISCALIZAÇÃO DA 
+CONTRATAÇÃO
+7.1. A fiscalização da contratação será exercida por representante da Câmara Municipal de  
+Londrina, ao qual competirá acompanhar e orientar a execução do objeto.
+7.2. A fiscalização será exercida pelo(a) servidor(a) Luiz Fernando Moraes Marendaz, lotado no  
+Departamento de Suprimentos e Patrimônio.
+7.3. O servidor responsável pela fiscalização poderá ser substituído por ato do Gerente do  
+respectivo departamento ou despacho do Diretor-Geral, devendo a alteração, em qualquer caso,  
+ser formalmente comunicada à Contratada e à Gestão do Contrato.
+7.4. Ao Fiscal do contrato ficam designadas as seguintes atribuições:
+7.4.1. Somente solicitar prestações da Contratada mediante o envio da Nota de Empenho  
+correspondente;
+7.4.2. Acompanhar e orientar a execução do objeto, determinando o que for necessário para 
+a regularização das faltas ou dos defeitos observados;
+7.4.3. Receber provisória e definitivamente o objeto, verificando a correção dos valores  
+apontados na Nota Fiscal/Fatura, antes de remetê-la ao Departamento Financeiro para  
+pagamento;
+7.4.4. Anotar em registro próprio todas as ocorrências relacionadas com a execução,  
+indicando a data e o nome dos envolvidos;
+7.4.5. Controlar os saldos e quantitativos já executados e/ou já empenhados, a empenhar ou  
+a executar, bem como os já efetivamente pagos do Contrato;
+7.4.6. Comunicar ao Gestor do Contrato caso identifique faltas ou defeitos na execução  
+aptas a causar a instauração de procedimento administrativo para aplicação de penalidade.
+7.5. A fiscalização de que trata esta cláusula não exclui nem reduz a responsabilidade da  
+Contratada, inclusive perante terceiros, por qualquer irregularidade, ainda que resultante de  
+imperfeições técnicas, vícios redibitórios, ou emprego de material inadequado ou de qualidade  
+inferior e, na ocorrência desta, não implica em corresponsabilidade da Contratante ou de seus  
+agentes e prepostos, de conformidade com o art. 120 da Lei nº 14.133/2021.
+7.6. Após o recebimento definitivo do objeto, o Fiscal encaminhará ao Gestor relatório indicando  
+a finalização do contrato, as eventuais ocorrências e incidentes, bem como a(s) Nota(s) Fiscal(is)  
+com o recebimento definitivo.
+7.7. A Gestora do Contrato será indicada no instrumento de contrato vinculado à presente  
+contratação.
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 33]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+7.8. A Gestora do contrato tomará providências para a formalização de processo administrativo  
+de responsabilização para fins de aplicação de sanções, a ser conduzido pela comissão de que  
+trata o art. 158 da Lei nº 14.133/2021.
+8. MODELO DE GESTÃO DO CONTRATO: DAS INFRAÇÕES CONTRATUAIS E 
+SANÇÕES ADMINISTRATIVAS
+8.1. Nos termos do art. 155 da Lei 14.133/2021, a Contratada, ao descumprir quaisquer das  
+cláusulas ou condições do presente Termo de Referência, ficará sujeita às penalidades previstas  
+no art. 156 da referida Lei, observando-se o direito ao contraditório e à ampla defesa.
+8.2. À Contratada poderão ser aplicadas as seguintes sanções:
+8.2.1. Advertência por faltas leves, assim entendidas aquelas que não acarretarem prejuízos  
+significativos ao objeto da contratação.
+8.2.2. Multa:
+8.2.2.1. Moratória de 1% (um por cento) por dia de atraso injustificado na ativação  
+das licenças (Itens 1, 2 e 4) ou na efetivação das despesas do Item 3, calculada sobre  
+o valor da Nota de Empenho ou valor proporcional do item inadimplido, até o limite  
+de 30% (trinta por cento). O atraso superior a 30 (trinta) dias será considerado  
+inexecução total do objeto da contratação ou do respectivo item inadimplido;
+8.2.2.2. Moratória de 0,5% (cinco décimos por cento) por dia de atraso no retorno das 
+solicitações na forma prevista no item 6.1.7 deste Termo de Referência, calculada  
+sobre o valor do item inadimplido até o limite de 10% (dez por cento);
+8.2.2.3. Compensatória de até 30% (trinta por cento) sobre o valor total da  
+contratação, em caso de inexecução total do objeto, ou do valor proporcional ao item  
+inadimplido, no caso de inexecução total de itens específicos.
+8.2.3. Impedimento de licitar e contratar com a Administração direta e indireta do  
+Município de Londrina pelo prazo de até 3 (três) anos, nos casos dos incisos II, III, IV, V,  
+VI e VII do caput do art. 155 da Lei nº 14.133/2021, quando não se justificar a imposição  
+de penalidade mais grave.
+8.2.4. Declaração de inidoneidade para licitar ou contratar com a Administração Pública  
+direta e indireta de todos os entes federativos, pelo prazo mínimo de 3 (três) anos e máximo 
+de 6 (seis) anos, nos casos dos incisos VIII, IX, X, XI e XII do caput do art. 155 da Lei nº  
+14.133/2021 e nos casos citados no subitem anterior que justifiquem a imposição de sanção  
+mais grave.
+8.3. A penalidade de multa pode ser aplicada cumulativamente com as demais sanções.
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 34]
+Câmara Municipal de Londrina
+Estado do Paraná
+Rua Gov. Parigot de Souza, 145 – CEP: 86015-903, Centro Cívico, Londrina/PR
+Fone: (43) 3374-1300 – E-mail: ouvidoria@cml.pr.gov.br – www.cml.pr.gov.br
+8.4. A entrega de objeto em desacordo com o Termo de Referência não descaracteriza a mora,  
+que continuará sendo contada sem interrupção até a entrega adequada do objeto.
+8.5. Não  ensejam  aplicação  de  sanções  as  matérias  de  competência  exclusiva  das  
+desenvolvedoras das plataformas, na forma do item 6.3.
+8.6. As disposições sobre o processo de apuração de responsabilidade e aplicação de sanções  
+constam da minuta do contrato decorrente deste Termo de Referência.
+Londrina, 3 de setembro de 2026.
+Luiz Fernando Moraes Marendaz
+Departamento de Suprimentos e Patrimônio
+Documento assinado digitalmente por Luiz Fernando Moraes Marendaz (082.***.***-44) em 14/09/2026 18:29
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 26091418291815419
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 35]
+ANEXO II – MODELO DE PROPOSTA
+PREGÃO ELETRÔNICO Nº 08/2026
+À Câmara Municipal de Londrina
+Identificação do Proponente:
+Razão Social:
+CNPJ:
+Endereço:
+Telefone/E-mail:
+Submetemos à apreciação de V. S.ª nossa proposta relativa à contratação de empresa 
+especializada (broker) para intermediar o fornecimento de licenças de acesso a  
+plataformas de Inteligência Artificial: Claude Team (Anthropic — Grupos 1 e 2), incluída 
+a aquisição eventual de créditos de uso adicional e assentos suplementares; e ChatGPT  
+Business (OpenAI — Grupo 3) , para atender às necessidades da Câmara Municipal de  
+Londrina, conforme especificações do Termo de Referência, nos termos abaixo:
+GRUPO 1 – Licenças Claude Team
+Item Especificação Unidade Quant. Valor unitário Valor total
+1
+Assinatura anual Claude AI plano 
+Team – Standard Seat
+(https://claude.com/
+pricing#team-&-enterprise)
+licença/ano 36 R$ R$
+2 Assinatura anual Claude AI plano 
+Team — Premium Seat licença/ano 1 R$ R$
+Valor total do Grupo 1 R$
+GRUPO 2 – Provisão para despesas eventuais (créditos Claude)
+Item Especificação Unidade Quant. Valor unitário Valor total
+3
+Provisão para despesas eventuais na 
+plataforma: aquisição de créditos de 
+uso adicional (usage credits) e/ou 
+de assentos adicionais pelo prazo 
+remanescente da assinatura 
+(cobrança pró-rata da plataforma)
+R$ 1,00 
+(um real) 
+de despesa 
+efetivada 
+na 
+plataforma
+25.000 R$ R$
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 36]
+GRUPO 3 – Licenças ChatGPT Business
+Item Especificação Unidade Quant. Valor unitário Valor total
+4
+Assinatura anual ChatGPT Business
+(https://chatgpt.com/pt-BR/
+pricing/?type=team)
+licença/ano 3 R$ R$
+Nota ao proponente: cada Grupo será julgado e adjudicado de forma independente. A Proponente deverá  
+preencher o(s) valor(es) apenas do(s) Grupo(s) em que apresentar proposta.
+O valor total da proposta (soma do(s) Grupo(s) ofertado(s) por esta Proponente) é de R$  
+_________ (valor por extenso).
+1. A validade desta proposta é de _______ [mínimo 90] dias.
+2. Nos valores informados já estão incluídos todos os encargos e tributos incidentes na  
+contratação, além de eventuais despesas de deslocamento e outras necessárias ao cumprimento 
+integral do objeto da contratação.
+3. A Proponente declara que está ciente de todas as informações, prazos e serviços a serem  
+prestados, conforme Termo de Referência e seus Anexos.
+_______________________________________
+[data e assinatura]
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 37]
+ANEXO III – MINUTA DE CONTRATO ADMINISTRATIVO
+CONTRATO ADMINISTRATIVO N.º [Nº A DEFINIR]/2026
+PREGÃO ELETRÔNICO N.º 8/2026
+PROCESSO DE CONTRATAÇÃO DE FORNECEDORES N.º 26/2026
+Objeto: Contratação de empresa especializada (broker) para intermediar o fornecimento de  
+licenças de acesso a plataformas de Inteligência Artificial: Claude Team (Anthropic — Grupos 
+1 e 2), incluída a aquisição eventual de créditos de uso adicional e assentos suplementares; e  
+ChatGPT Business (OpenAI — Grupo 3).
+Valor: R$ ___________ .
+Vigência: 12 (doze) meses, contados de sua publicação no Portal Nacional de Contratações  
+Públicas – PNCP.
+A CÂMARA MUNICIPAL DE LONDRINA, inscrita no CNPJ sob o n.º  
+78.316.064/0001-93, com sede na Rua Gov. Parigot de Souza, 145, Centro Cívico, CEP n.º  
+86.015-903, no Município de Londrina – PR, neste ato representado por seu presidente,  
+vereador [A DEFINIR], doravante denominada Contratante; e a empresa [RAZÃO SOCIAL  
+DA CONTRATADA A DEFINIR], inscrita no CNPJ sob o n.º [A DEFINIR], com sede em [A 
+DEFINIR], neste ato representada por [A DEFINIR], doravante denominada Contratada,  
+considerando o que consta no processo de contratação de fornecedores em epígrafe, e em  
+observância às disposições da Lei n.º 14.133/2021 e demais legislações aplicáveis, resolvem  
+celebrar o presente termo de contrato, decorrente do Pregão Eletrônico n.º [Nº A  
+DEFINIR]/2026, mediante as cláusulas e condições a seguir enunciadas.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 38]
+1. CLÁUSULA PRIMEIRA – DO OBJETO E DO VALOR DO CONTRATO
+1.1. O objeto do presente instrumento é a contratação de empresa especializada (broker) para 
+intermediar o fornecimento de licenças de acesso a plataformas de Inteligência Artificial: 
+Claude Team (Anthropic — Grupos 1 e 2), incluída a aquisição eventual de créditos de  
+uso adicional e assentos suplementares; e ChatGPT Business (OpenAI — Grupo 3); para 
+atender às necessidades da Câmara Municipal de Londrina, conforme especificações e  
+quantidades estabelecidas no presente instrumento, no edital do Pregão Eletrônico n.º [Nº 
+A DEFINIR]/2026 e em seus anexos.
+1.1.1. As especificações do objeto, os prazos e condições para sua execução, as  
+obrigações da Contratante e da Contratada, as condições de pagamento e as sanções 
+administrativas aplicáveis no curso da execução contratual estão dispostos no termo 
+de referência (anexo I do edital de Pregão Eletrônico n.º [Nº A DEFINIR]/2026).
+1.2. O valor total do objeto é de R$ [preço], composto conforme tabela abaixo:
+GRUPO 1 – Licenças Claude Team
+Item Especificação Quantidade
+Valor 
+unitário 
+(por 
+licença)
+Valor 
+total
+1
+Assinatura anual Claude AI plano Team — 
+Standard Seat 
+(https://claude.com/pricing#team-&-
+enterprise)
+36 
+licenças/ano R$ R$
+2 Assinatura anual Claude AI plano Team — 
+Premium Seat 1 licença/ano R$ R$
+Subtotal Grupo 1 R$
+GRUPO 2 – Provisão para despesas eventuais (créditos Claude)
+Item Especificação Quantidade
+Valor 
+unitário 
+(por 
+licença)
+Valor 
+total
+3
+Provisão para despesas eventuais na 
+plataforma: aquisição de créditos de uso 
+adicional (usage credits) e/ou de assentos 
+adicionais pelo prazo remanescente da 
+assinatura (cobrança pró-rata da plataforma)
+25.000 
+unidades de 
+R$ 1,00 (um 
+real) de 
+despesa 
+efetivada na 
+plataforma
+R$ R$
+GRUPO 3 – Licença ChatGPT Business
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 39]
+Item Especificação Quantidade
+Valor 
+unitário 
+(por 
+licença)
+Valor 
+total
+4
+Assinatura anual ChatGPT Business 
+(https://chatgpt.com/pt-BR/pricing/?
+type=team)
+3 
+licenças/ano R$ R$
+1.3. Vinculam esta contratação, independentemente de transcrição:
+1.3.1. O termo de referência (anexo I do Edital de Pregão Eletrônico n.º [Nº A  
+DEFINIR]/2026);
+1.3.2. O edital da licitação (Pregão Eletrônico n.º [Nº A DEFINIR]/2026);
+1.3.3. A proposta da Contratada;
+1.3.4. Eventuais anexos dos documentos supracitados.
+2. CLÁUSULA SEGUNDA – DOS RECURSOS ORÇAMENTÁRIOS
+2.1. As despesas decorrentes da contratação correrão por conta de recursos do orçamento  
+vigente da Câmara Municipal de Londrina, conforme a seguinte classificação: Funcional 
+programática: 01.010.01.031.0001.2001, Elemento de Despesa: 3.3.90.40.00.00 –  
+Serviços de Tecnologia da Informação e Comunicação – Pessoa Jurídica,  
+Desdobramento: 3.3.90.40.06.00 – Locação de Software.
+3. CLÁUSULA TERCEIRA – DA VIGÊNCIA DO CONTRATO E DE SUA  
+PRORROGAÇÃO
+3.1. O prazo de vigência desta contratação é de 12 (doze) meses, contados de sua publicação 
+no Portal Nacional de Contratações Públicas – PNCP, podendo ser prorrogado nos termos 
+dos artigos 106 e 107 da Lei nº 14.133/2021, desde que:
+3.1.1. Os serviços tenham sido prestados regularmente;
+3.1.2. A Administração mantenha interesse na realização do serviço;
+3.1.3. As condições de prestação do serviço se mantenham vantajosas;
+3.1.4. O valor do Contrato permaneça economicamente vantajoso para a  
+Administração, permitida a negociação com a Contratada;
+3.1.5. A Contratada manifeste expressamente interesse na prorrogação.
+3.1.6. Haja ateste, pela autoridade competente, de que as condições e os preços  
+permanecem vantajosos para a Administração.
+3.2. A Contratada não tem direito subjetivo à prorrogação contratual.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 40]
+3.3. O Contrato não poderá ser prorrogado quando:
+3.3.1. A Contratada tiver sido penalizado nas sanções de declaração de inidoneidade 
+ou impedimento de licitar e contratar com poder público, observadas as  
+abrangências de aplicação.
+3.3.2. A Contratada não se mantiver em compatibilidade com as obrigações  
+assumidas, envolvendo todas as condições de habilitação e qualificação exigidas na 
+licitação.
+4. CLÁUSULA QUARTA – DA EFETIVAÇÃO DA CONTRATAÇÃO E DO  
+INÍCIO DA EXECUÇÃO DOS SERVIÇOS
+4.1. A efetivação da contratação será realizada de acordo com as disposições do presente  
+instrumento e o início da execução dos serviços será solicitado mediante envio de nota de 
+empenho à Contratada, observados os prazos do item 4 do termo de referência indicado  
+no subitem 1.3.1 deste contrato.
+4.2. A nota de empenho deverá ser solicitada pelo fiscal do contrato.
+4.2.1. O valor a ser empenhado deverá constar expressamente no pedido de empenho 
+e deverá observar os preços definidos no presente instrumento.
+4.2.2. O fiscal do contrato enviará à Contratada, via e-mail ou aplicativo de mensagens 
+(WhatsApp), nota de empenho referente ao fornecimento das licenças ou à  
+efetivação das despesas do Item 3, conforme o caso.
+5. CLÁUSULA QUINTA – DOS MODELOS DE EXECUÇÃO E DE GESTÃO DO 
+CONTRATO
+5.1. O modelo de execução contratual – envolvendo a aquisição das licenças e  
+disponibilização do acesso, a efetivação das despesas do Item 3, os recebimentos  
+provisório e definitivo, as obrigações da Contratada e da Contratante, a aceitação e as  
+condições de pagamento – está disciplinado no termo de referência indicado no item 1.3.1 
+deste contrato, sem prejuízo das cláusulas específicas deste instrumento.
+5.2. O modelo de gestão contratual – envolvendo a fiscalização da contratação, as sanções  
+contratuais e as sanções administrativas aplicáveis – está disciplinado no termo de  
+referência indicado no item 1.3.1 deste contrato, sem prejuízo das cláusulas específicas  
+deste instrumento.
+6. CLÁUSULA SEXTA – DAS CONDIÇÕES DE PAGAMENTO
+6.1. O prazo para pagamento à Contratada e demais condições a ele referentes encontram-se 
+definidos no termo de referência indicado no item 1.3.1 deste contrato.
+7. CLÁUSULA SÉTIMA – DA REVISÃO E DO REAJUSTE DE PREÇOS
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 41]
+7.1. Para os Itens 1, 2, 3 e 4, o valor unitário contratado é composto por: (a) o preço da  
+assinatura anual em reais exibido publicamente pela respectiva plataforma na data de  
+apresentação da proposta; e (b) a remuneração da Contratada (diferença entre o valor total 
+proposto e o componente “a”), nos termos do item 5.5.1 do Termo de Referência.
+7.2. Na hipótese de alteração, pela desenvolvedora, do preço em reais exibido pela plataforma, 
+qualquer das partes poderá solicitar a revisão do componente “a”, mantido fixo o  
+componente “b”, na forma e condições dos itens 5.5.2 e 5.5.3 do Termo de Referência  
+(Anexo I do Edital), inclusive quanto à regra subsidiária de conversão pela taxa PTAX  
+(venda), aplicável caso a plataforma deixe de exibir e cobrar preços em reais.
+7.3. Sem prejuízo da revisão de que tratam os itens 7.1 e 7.2, o componente “b” (remuneração 
+da Contratada) dos Itens 1, 2, 3 e 4 é fixo e irreajustável no prazo de um ano contado da 
+data do orçamento estimado pela Administração (Fixação de Preço Máximo em  
+17/09/2026, conforme sequência 6 do Processo Administrativo n.º 26/2026).
+7.3.1. Após o interregno de um ano, o componente “b” será reajustado mediante a  
+aplicação, pelo Contratante, do índice ICTI (Índice de Custo da Tecnologia da  
+Informação) - IPEA, exclusivamente para as obrigações iniciadas e concluídas após 
+a ocorrência da anualidade.
+7.3.2. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será  
+contado a partir dos efeitos financeiros do último reajuste.
+7.3.3. No caso de atraso ou não divulgação do índice de reajustamento, o Contratante 
+pagará ao Contratado a importância calculada pela última variação conhecida,  
+liquidando a diferença correspondente tão logo seja divulgado o índice definitivo.
+7.3.4. Nas aferições finais, o índice utilizado para reajuste será, obrigatoriamente, o  
+definitivo.
+7.3.5. Caso o índice estabelecido para reajustamento venha a ser extinto ou de  
+qualquer forma não possa mais ser utilizado, será adotado, em substituição, o que  
+vier a ser determinado pela legislação então em vigor.
+7.3.6. Na ausência de previsão legal quanto ao índice substituto, as partes elegerão  
+novo índice oficial, para reajustamento do valor remanescente, por meio de termo 
+aditivo.
+7.4. O reajuste de preços de que trata o item 7.3.1 poderá ser concedido de ofício, na época  
+devida, independentemente de requerimento, salvo em caso de renúncia expressa.
+7.5. As alterações relativas a reajustamento e a revisão de preços de que trata esta cláusula  
+serão formalizadas via apostilamento.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 42]
+7.6. A Contratante decidirá sobre o pedido de reajuste ou de revisão de preços em até 60  
+(sessenta) dias, contados da data do requerimento da Contratada, instruído com a  
+comprovação exigida nos itens 5.5.2 e 5.5.3 do Termo de Referência, conforme o caso.
+7.6.1. O prazo referido no subitem anterior ficará suspenso enquanto a Contratada não 
+cumprir os atos ou apresentar a documentação solicitada pela Contratante para a  
+comprovação da variação dos custos.
+8. CLÁUSULA OITAVA – DAS OBRIGAÇÕES DA CONTRATADA E DA  
+CONTRATANTE
+8.1. As obrigações da Contratante e da Contratada estão previstas, respectivamente, no item 6 
+do termo de referência indicado no item 1.3.1 deste contrato.
+8.2. Todas as reclamações ou solicitações do Contratado serão encaminhadas à gestão do  
+contrato, para registro nos autos do processo de gestão e fiscalização e respondidas pela 
+Câmara Municipal de Londrina, após manifestação do fiscal e, se preciso, da Assessoria 
+Jurídica, no prazo de 60 (sessenta) dias, admitida a prorrogação pelo mesmo período,  
+desde que justificada e o Contratado seja notificado antes do esgotamento do prazo inicial.
+9. CLÁUSULA NONA – DA FISCALIZAÇÃO E DA GESTÃO DO CONTRATO
+9.1. A fiscalização será exercida pelo servidor Luiz Fernando Moraes Marendaz, lotado no  
+Departamento de Suprimentos e Patrimônio, que exercerá essa função conforme as  
+disposições do termo de referência vinculado à presente contratação e deste  
+instrumento.
+9.2. A gestora do contrato será a servidora [a designar], lotada no Departamento de  
+Suprimentos e Patrimônio.
+9.2.1. A gestão do contrato envolverá o recebimento dos relatórios de execução  
+contratual e dos apontamentos de irregularidades para apuração de responsabilidade 
+contratual, bem como a condução dos processos de aplicação de penalidade,  
+prorrogação do contrato e repactuação.
+10. CLÁUSULA  DÉCIMA  –  DAS  INFRAÇÕES  E  DAS  SANÇÕES  
+ADMINISTRATIVAS
+10.1.Nos termos do art. 155 da Lei n.º 14.133/2021, comete infração administrativa a  
+Contratada que:
+10.1.1. Der causa à inexecução parcial do contrato;
+10.1.2. Der causa à inexecução parcial do contrato que cause grave dano à  
+Administração, ao funcionamento dos serviços públicos ou ao interesse coletivo;
+10.1.3. Der causa à inexecução total do contrato;
+10.1.4. Deixar de entregar a documentação exigida para o certame;
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 43]
+10.1.5. Não mantiver a proposta, salvo em decorrência de fato superveniente  
+devidamente justificado;
+10.1.6. Não celebrar o contrato ou não entregar a documentação exigida para a  
+contratação, quando convocado dentro do prazo de validade de sua proposta;
+10.1.7. Ensejar o retardamento da execução ou da entrega do objeto da licitação sem  
+motivo justificado;
+10.1.8. Apresentar declaração ou documentação falsa exigida para o certame ou prestar 
+declaração falsa durante a licitação ou a execução do contrato;
+10.1.9. Fraudar a licitação ou praticar ato fraudulento na execução do contrato;
+10.1.10. Comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+10.1.11. Praticar atos ilícitos com vistas a frustrar os objetivos da licitação;
+10.1.12. Praticar ato lesivo previsto no art. 5º da Lei n.º 12.846/2013;
+10.1.13. Deixar de retornar as solicitações da Contratante no prazo previsto no item 6.1.7 
+do Termo de Referência.
+10.2.À Contratada poderão ser aplicadas as seguintes sanções:
+10.2.1. Advertência por faltas leves e não reincidentes, nos casos de inexecução parcial 
+do contrato, quando não se justificar a imposição de penalidade mais grave.
+10.2.2. Multa:
+10.2.2.1. Moratória de 1% (um por cento) por dia de atraso injustificado na  
+ativação das licenças (Itens 1, 2 e 4) ou na efetivação das despesas do Item 3,  
+calculada sobre o valor da nota de empenho ou valor proporcional do item  
+inadimplido, até o limite de 30% (trinta por cento). O atraso superior a 30 (trinta) 
+dias será considerado inexecução total do objeto da contratação ou do respectivo 
+item inadimplido;
+10.2.2.2. Moratória de 0,5% (cinco décimos por cento) por dia de atraso no  
+retorno das solicitações na forma prevista no item 6.1.7 do Termo de Referência, 
+calculada sobre o valor do item inadimplido, até o limite de 10% (dez por cento);
+10.2.2.3. Compensatória de até 30% (trinta por cento) sobre o valor total da  
+contratação, em caso de inexecução total do objeto, ou do valor proporcional ao 
+item inadimplido, no caso de inexecução total de itens específicos.
+10.3.A entrega de objeto em desacordo com as especificações do termo de referência não  
+descaracteriza a mora, que continuará sendo contada sem interrupção até a entrega  
+adequada do objeto.
+10.4.Na aplicação das sanções serão considerados:
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 44]
+10.4.1. A natureza e a gravidade da infração cometida;
+10.4.2. As peculiaridades do caso concreto;
+10.4.3. As circunstâncias agravantes ou atenuantes;
+10.4.4. Os danos que dela provierem para a Administração Pública;
+10.4.5. A implantação ou o aperfeiçoamento de programa de integridade, conforme  
+normas e orientações dos órgãos de controle.
+10.5.A penalidade de multa pode ser aplicada cumulativamente com as demais sanções.
+10.6.A advertência será aplicada diretamente pelo fiscal do contrato, sem a necessidade de  
+instauração de processo administrativo ou de comissão para apuração de  
+responsabilidade, cabendo recurso administrativo no prazo de 15 (quinze) dias úteis à  
+autoridade superior (Diretor-Geral), contados a partir da notificação, pelo fiscal, da  
+aplicação da advertência.
+10.6.1. Caso haja recurso contra a aplicação da advertência, a petição deverá ser  
+encaminhada à gestora para encaminhamentos processuais até a decisão do recurso 
+pelo Diretor-Geral.
+10.7.As sanções de multa, de impedimento de licitar e contratar com o Município de Londrina 
+e de declaração de inidoneidade para licitar e contratar com a Administração Pública serão 
+aplicadas mediante instauração de processo administrativo para apuração de  
+responsabilidade, conduzido por comissão processante formada por, no mínimo, 2 (dois) 
+agentes públicos, na seguinte forma:
+10.7.1. O fiscal do contrato deverá encaminhar ao(à) gestor(a) relatório acerca do  
+descumprimento contratual;
+10.7.2. Recebido o relatório, o(a) gestor(a) encaminhará para a Diretoria-Geral, para a 
+instauração do processo, e para a Presidência, para designação dos servidores,  
+escolhidos dentre os lotados na Controladoria, no Departamento de Suprimentos e 
+Patrimônio e/ou no Departamento demandante, que comporão a comissão  
+processante, respeitada a segregação de função.
+10.8.O processo administrativo tramitará da seguinte forma:
+10.8.1. O interessado será notificado sobre a abertura do processo administrativo para 
+apuração de responsabilidade, para apresentação de defesa prévia no prazo de 15  
+(quinze) dias úteis, sendo informado que, caso tenha interesse, deve indicar, desde 
+já, as provas que pretende produzir e que os autos estão disponíveis para consulta.
+10.8.2. O pedido de produção de provas será rejeitado, mediante decisão fundamentada, 
+nos casos em que for manifestamente protelatório ou irrelevante para o caso  
+concreto.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 45]
+10.8.3. Caso aceito o pedido de produção de provas, após a dilação probatória do  
+processo, deverá ser concedido novo prazo de 15 (quinze) dias úteis ao interessado 
+para alegações finais.
+10.8.4. Em seguida, a comissão processante elaborará relatório e encaminhará para  
+decisão da Diretoria-Geral em caso de arquivamento ou aplicação das penas de  
+multa e impedimento de licitar e contratar ou para a Presidência, em caso de  
+aplicação da pena de declaração de inidoneidade.
+10.9.Da decisão que aplicar a pena de multa e de impedimento de licitar com o Município de 
+Londrina, caberá recurso administrativo ao Presidente da Câmara Municipal de  
+Londrina/PR no prazo de 15 (quinze) dias úteis, contados da notificação.
+10.9.1. O recurso será dirigido ao Diretor-Geral, que terá o prazo de 5 (cinco) dias úteis 
+para reconsiderar sua decisão ou encaminhar o recurso à Presidência para decisão  
+no prazo de 20 (vinte) dias úteis.
+10.9.2. O recurso terá efeito suspensivo.
+10.10. Da decisão que aplicar a pena de declaração de inidoneidade, caberá pedido de  
+reconsideração ao Presidente no prazo de 15 (quinze) dias úteis, contados da notificação, 
+que será decidido no prazo de 20 (vinte) dias úteis.
+10.11. Transitada em julgado a decisão que aplicou a penalidade:
+10.11.1. A interessada será notificada.
+10.11.2. Será extraída portaria da decisão de aplicação da penalidade para publicação no 
+Jornal Oficial do Município (exceto no caso de advertência), cuja data será utilizada 
+como termo inicial da contagem dos efeitos.
+10.11.3. A penalidade aplicada será registrada no Sistema de Cadastramento Unificado 
+de Fornecedores – SICAF e no Cadastro de Impedidos de Licitar do Tribunal de  
+Contas do Estado do Paraná (TCE/PR).
+10.12. O prazo para pagamento da multa será de 15 (quinze) dias úteis, contados da notificação 
+da Contratada para recolhimento.
+10.13. A aplicação das sanções previstas neste contrato não exclui, em hipótese alguma, a  
+obrigação de reparação integral do dano causado à Contratante.
+10.13.1. A aplicação de multa compensatória ao Contratado não impede que a  
+Contratante busque o ressarcimento do prejuízo sofrido, caso este exceda o valor da 
+multa aplicada, na forma da parte final do parágrafo único do art. 416 do Código  
+Civil.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 46]
+10.14. Aplica-se subsidiariamente ao procedimento de penalização previsto no presente  
+contrato, o procedimento previsto na Lei n.º 14.133/2021, e, analogicamente, o previsto 
+na Lei n.º 9.784/1999.
+10.15. Não ensejam aplicação de sanções as matérias de competência exclusiva das  
+desenvolvedoras das plataformas (Anthropic e OpenAI), na forma do item 6.3 do Termo 
+de Referência.
+11. CLÁUSULA ONZE – DA EXTINÇÃO CONTRATUAL
+11.1.O contrato pode ser extinto antes de cumpridas as obrigações nele estipuladas, ou antes  
+do prazo nele fixado, por algum dos motivos previstos no artigo 137 da Lei n.º 14.133/21, 
+assegurados o contraditório e a ampla defesa, bem como amigavelmente.
+11.1.1. Nesta hipótese, aplicam-se também os artigos 138 e 139 da mesma Lei.
+11.1.2. A alteração social ou a modificação da finalidade ou da estrutura da empresa  
+não ensejará a rescisão se não restringir sua capacidade de concluir o contrato.
+11.1.2.1. Se a operação implicar mudança da pessoa jurídica Contratada, deverá 
+ser formalizado termo aditivo para alteração subjetiva.
+11.1.3. Na hipótese de descontinuidade do plano ou da plataforma pela desenvolvedora, 
+sem alternativa equivalente que a substitua, o contrato poderá ser extinto por acordo 
+entre as partes, sem culpa, nos termos do art. 138, II, da Lei nº 14.133/2021 e do  
+item 6.4 do Termo de Referência, pagando-se as prestações executadas até a data  
+da extinção.
+11.2.O termo de rescisão, sempre que possível, será precedido:
+11.2.1. Balanço dos eventos contratuais já cumpridos ou parcialmente cumpridos;
+11.2.2. Relação dos pagamentos já efetuados e ainda devidos;
+11.2.3. Indenizações e multas.
+11.3.A extinção do contrato não configura óbice para o reconhecimento do desequilíbrio  
+econômico-financeiro, hipótese em que será concedida indenização por meio de termo  
+indenizatório (art. 131, caput, da Lei n.º 14.133, de 2021).
+11.4.A Contratante poderá, nos casos em que houver necessidade de ressarcimento de  
+prejuízos causados à Administração, nos termos do inciso IV do art. 139 da Lei n.º  
+14.133/2021, reter os eventuais créditos existentes em favor da Contratada decorrentes do 
+contrato.
+11.5.O contrato poderá ser extinto caso se constate que a Contratada mantém vínculo de  
+natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente do 
+órgão ou entidade contratante ou com agente público que tenha desempenhado função na 
+licitação ou atue na fiscalização ou na gestão do contrato, ou que deles seja cônjuge,  
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 47]
+companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau (art. 
+14, inciso IV, da Lei n.º 14.133/2021).
+12. CLÁUSULA DOZE – DAS ALTERAÇÕES CONTRATUAIS
+12.1.Eventuais alterações contratuais reger-se-ão pela disciplina dos arts. 124 e seguintes da  
+Lei n.º 14.133/2021.
+12.2.A Contratada é obrigada a aceitar, nas mesmas condições contratuais, os acréscimos ou  
+supressões que se fizerem necessários, até o limite de 25% (vinte e cinco por cento) do  
+valor inicial atualizado do contrato.
+12.3.Registros que não caracterizam alteração do contrato podem ser realizados por simples  
+apostila, dispensada a celebração de termo aditivo, na forma do art. 136 da Lei n.º  
+14.133/2021.
+13. CLÁUSULA TREZE – DAS OBRIGAÇÕES PERTINENTES À LGPD
+13.1.As partes se comprometem a cumprir a Lei nº 13.709/2018 (LGPD) em todos os  
+tratamentos de dados pessoais realizados em decorrência deste Contrato, nos seguintes  
+termos:
+13.2.A Contratada somente poderá tratar dados pessoais conforme as instruções da  
+Contratante, em consonância com as finalidades do Contrato e de acordo com os  
+princípios estabelecidos no art. 6º da LGPD.
+13.3.É vedado à Contratada compartilhar com terceiros os dados pessoais obtidos em razão  
+deste Contrato, salvo nas hipóteses legalmente permitidas e com prévia autorização da  
+Contratante.
+13.4.A Contratada deverá comunicar à Contratante, no prazo de 5 (cinco) dias úteis, a  
+contratação de suboperadores que realizem tratamento de dados pessoais relacionados a 
+este Contrato.
+13.5.Ao término do Contrato, a Contratada deverá eliminar os dados pessoais tratados, salvo  
+nas hipóteses legais que permitam sua conservação, conforme art. 16 da LGPD.
+13.6.A Contratada é responsável por orientar e capacitar seus colaboradores quanto às  
+obrigações e responsabilidades decorrentes da LGPD.
+13.7.Em caso de subcontratação autorizada, a Contratada permanece integralmente  
+responsável pelo cumprimento das obrigações referentes à proteção de dados pessoais.
+13.8.A Contratante poderá, a qualquer tempo, solicitar informações ou realizar diligências para 
+verificar o cumprimento das obrigações previstas nesta cláusula.
+13.9.A Contratada deverá notificar a Contratante, no prazo máximo de 24 horas, sobre qualquer 
+incidente de segurança que possa acarretar risco ou dano relevante aos titulares dos dados.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 48]
+13.10. O descumprimento das obrigações previstas nesta cláusula poderá acarretar, sem  
+prejuízo das demais sanções administrativas, civis e penais cabíveis, a rescisão unilateral 
+do Contrato pela Contratante.
+13.11. A Contratada declara-se ciente de que o tratamento inadequado dos dados pessoais  
+poderá acarretar responsabilização nas esferas administrativa, civil e criminal, nos termos 
+previstos na LGPD e demais legislações aplicáveis.
+13.12. Sem prejuízo das obrigações desta cláusula, a Contratada observará ainda o disposto  
+nos itens 6.1.11 e 6.1.12 do Termo de Referência, quanto à vedação de acesso a dados e 
+conteúdos da organização da Contratante nas plataformas e à confirmação de que o plano 
+contratado não utiliza tais dados para treinamento de modelos de inteligência artificial.
+14. CLÁUSULA QUATORZE – DOS CASOS OMISSOS
+14.1.Os casos omissos serão decididos pela Contratante, segundo as disposições contidas na  
+Lei n.º 14.133/2021 e demais normas aplicáveis e, subsidiariamente, segundo as  
+disposições contidas na Lei n.º 8.078/1990 – Código de Defesa do Consumidor – e normas 
+e princípios gerais dos contratos.
+15. CLÁUSULA QUINZE – DA PUBLICAÇÃO
+15.1.Incumbirá à Contratante divulgar o presente instrumento no Portal Nacional de  
+Contratações Públicas (PNCP), na forma prevista no art. 94 da Lei n.º 14.133/2021, bem 
+como em seu sítio eletrônico oficial.
+16. CLÁUSULA DEZESSEIS – DO FORO
+16.1.Fica eleito o Foro da comarca de Londrina-PR para dirimir os litígios que decorrerem da 
+execução deste termo de contrato que não puderem ser compostos pela conciliação,  
+conforme art. 92, § 1º, da Lei n.º 14.133/21.
+Londrina/PR, datado e assinado eletronicamente.
+[A DEFINIR]
+Presidente da Câmara Municipal de 
+Londrina/PR
+[A DEFINIR]
+Representante Legal da Contratada
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 49]
+ANEXO IV – CHECK LIST DE DOCUMENTAÇÃO
+Esta lista não exime a empresa da obrigação de se ater às cláusulas deste Edital, servindo como 
+checklist para facilitar a entrega da documentação no certame.
+Credenciamento – Item 3 do Edital
+• Credenciamento da empresa no SICAF, encontrado no Portal de Compras do  
+Governo Federal: https://www.gov.br/compras/pt-br, por meio de certificado digital
+Proposta – Itens 4, 5 e 6 do Edital
+• Conforme item 5 do Edital, o licitante deverá registrar sua proposta mediante o  
+preenchimento, no sistema eletrônico, dos seguintes campos:
+- Valor unitário e valor total de cada item, e valor global de cada Grupo, conforme  
+estabelecido no item 1.3 do Edital.
+- Descrição dos serviços, em conformidade com o Termo de Referência.
+OBS: Conforme item 6.16 e subitens do Edital, a proposta em arquivo .pdf deverá conter 
+declaração expressa de que a empresa possui capacidade técnica e operacional para  
+intermediar a contratação junto à empresa Anthropic (Grupo 1 e item 3) e/ou OpenAI (Item 
+4), conforme o caso, incluindo a realização de pagamentos internacionais recorrentes e  
+eventuais (créditos e assentos adicionais) e o faturamento nacional correspondente.
+Habilitação – Item 8 do Edital
+O licitante poderá incluir a documentação de habilitação no SICAF. Caso não o faça e não 
+seja possível ao Pregoeiro obter os documentos faltantes na internet, nos sites dos  
+respectivos órgãos emissores no momento da sessão, o licitante será convocado a enviá-los 
+via sistema.
+Habilitação Jurídica (item 8.4)
+• Ato constitutivo, estatuto ou contrato social em vigor e atualizado (original e todas 
+as alterações ou consolidação)
+Habilitação Fiscal, Social e Trabalhista (item 8.5)
+• Comprovante de Inscrição e de Situação Cadastral – CNPJ ou CPF
+Link: https://solucoes.receita.fazenda.gov.br/servicos/cnpjreva/cnpjreva_solicitacao.asp
+• Prova de regularidade perante a Fazenda Federal e Seguridade Social  (Certidão 
+Conjunta – conforme Portaria RFB/PGFN n.º 1.751/2014)
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19
+
+
+[PÁGINA 50]
+Link: https://servicos.receitafederal.gov.br/servico/certidoes/#/home/cnpj
+• Prova de regularidade perante a Fazenda Estadual, relativos à sede ou domicílio do 
+licitante.
+Link  para  empresas  com  sede  no  Estado  do  Paraná:  
+https://cdwfazenda.paas.pr.gov.br/cdwportal/certidao/automatica
+• Prova de regularidade com a Fazenda Municipal, relativos à sede ou domicílio do 
+licitante.
+Link  para  empresas  com  sede  no  município  de  Londrina/PR:  
+https://portal.londrina.pr.gov.br/certidoes-servicos-online/certidao-negativa-unificada-e-
+certidao-positiva-de-debitos-com-efeito-de-negativa
+• Prova de regularidade relativa ao Fundo de Garantia por Tempo de Serviço  
+(FGTS).
+Link: https://consulta-crf.caixa.gov.br/consultacrf/pages/consultaEmpregador.jsf
+• Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho, por  
+meio da apresentação da certidão negativa.
+Link: http://www.tst.jus.br/certidao.
+Habilitação Econômico-Financeira (item 8.6)
+• Certidão Negativa de Falência  (item 8.6.1) expedida pelo cartório distribuidor da 
+sede do fornecedor.
+(Obs.: caso a empresa esteja em Recuperação Judicial deverá apresentar a comprovação de 
+que o respectivo plano de recuperação foi acolhido judicialmente).
+Para empresas com sede no Município de Londrina: 
+- A certidão pode ser solicitada no Cartório Distribuidor da Comarca de Londrina (Av.  
+Duque  de  Caxias,  689  -  Centro  Cívico,  Londrina/PR);  ou  por  e-mail  
+certidoesdistribuidorlondrina@gmail.com;  ou  no  site  
+https://site.distribuidorlondrina.com.br/ e, após pagamento de boleto, ser obtida sua via  
+digital em até 24 horas da solicitação 
+ Em caso de dúvida, entrar em contato com Cartório Distribuidor da Comarca de  
+Londrina: (43) 3342-1443.
+Documento assinado digitalmente por Éder Balbino (034.***.***-04) em 23/09/2026 18:49
+Para verificar sua autenticidade, acesse: https://www.cml.pr.gov.br/cer e informe o código: 2609231830148CC19

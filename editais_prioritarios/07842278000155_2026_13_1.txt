@@ -1,0 +1,3652 @@
+
+[PÁGINA 1]
+ 
+1 
+ 
+Edital Pregão Eletrônico 002/2026 
+Processo Administrativo de Compras IPB00018/2026 
+ 
+INFORMAÇÕES BÁSICAS DA LICITAÇÃO 
+Órgão Contratante: 
+ 
+Instituto de Previdência Social do Município de Betim - 
+IPREMB 
+Objeto: 
+ 
+Contratação de empresa especializada para o fornecimento 
+de 12 (doze) licenças do ChatGPT Business da OpenAI, 
+por meio de subscrição, pelo período de 12 (doze) meses, 
+incluindo serviços de intermediação de pagamento, 
+suporte técnico e gerenciamento da soluç ão, destinado ao 
+atendimento da demanda do Instituto de Previdência 
+Social do Município de Betim – IPREMB. 
+Valor estimado: 
+ 
+Valor unitário: R$ 2.136,69 (dois mil cento e trinta e seis 
+reais e sessenta e nove centavos)  
+Valor total: R$ 25.640,28 (vinte e cinco mil seiscentos e 
+quarenta reais e vinte e cinco centavos) 
+Data Final 
+Orçamentação: 
+10/08/2026 
+Data e horário de 
+abertura da sessão 
+pública: 
+07/10/2026, a partir das 09:01 horas, no Horário de 
+Brasília. 
+Sítio eletrônico: www.portaldecompraspublicas.com.br 
+Critério de julgamento: Menor preço por item solto.  
+Modo de disputa: Aberto. 
+Intervalo entre lances: R$ 1,00 (um real) entre os lances do item. 
+Licitação exclusiva para 
+ME/EPP e equiparadas: 
+Sim. 
+Dotação orçamentária: 17.01.09.122.0045.1301.4.4.90.52.1800000 
+ 
+
+[PÁGINA 2]
+ 
+2 
+ 
+O Instituto de Previdência Social do Município de Betim – IPREMB, inscrito no 
+CNPJ sob o nº 07.842.278/0001 -55, torna público a todos os interessados que será 
+realizada licitação, na modalidade PREGÃO, na forma ELETRÔNICA, nos 
+termos da Lei Federal nº 14.133/21 e demais legislações aplicáveis, de acordo com 
+as condições estabelecidas neste Edital e seus anexos. 
+ 
+O re gime legal adotado neste procedimento é aquele previsto na Lei Federal nº 
+14.133/21. 
+ 
+1. Objeto 
+ 
+1.1  Contratação de empresa especializada para o fornecimento de 12 (doze) 
+licenças do ChatGPT Business da OpenAI, por meio de subscrição, pelo período de 12 
+(doze) meses, incluindo serviços de intermediação de pagamento, suporte técnico e 
+gerenciamento da solução, destinado ao atendimento da demanda do Instituto de 
+Previdência Social do Município de Betim – IPREMB, conforme condições e 
+exigências estabelecidas neste instrumento e seus anexos. 
+1.2  A licitação será realizada em 01 item solto.  
+ 
+Item Descrição: Qnt. Un. Valor 
+Unit 
+Valor 
+Total 
+01 
+Fornecimento de licença de uso do 
+ChatGPT Business da OpenAI, por 
+meio de subscrição, com vigência de 
+12 (doze) meses, incluindo serviços de 
+intermediação de pagamento, suporte 
+técnico e gerenciamento da solução. 
+12 LICENÇAS R$ 
+2.136,69 R$ 25.640,28  
+SUBTOTAL: R$ 25.640,28 
+ 
+ 
+1.3 Havendo divergência entre as especificações deste objeto descritas do sistema e 
+as registradas no Termo de Referência (TR), prevalecerão às descrições do TR. 
+ 
+ 
+2. Despesa e recursos orçamentários 
+ 
+2.1. A despesa total com a execução do objeto desta licitação é estimada R$ 25.640,28 
+(vinte e cinco mil seiscentos e quarenta reais e vinte e oito centavos) distribuído em um 
+item, na forma indicada no Termo de Referência.  
+2.2. Os recursos necessários ao cumprimento do presente instrumento ocorrerão por 
+conta do recurso alocado na seguinte dotação orçamentária: 
+17.01.09.122.0045.2303.339040.1800000 
+ 
+ 
+
+[PÁGINA 3]
+ 
+3 
+ 
+ 
+3. Participação na licitação 
+ 
+3.1. Poderão participar deste Pregão os licitantes interessados que estiverem 
+previamente credenciados no PORTAL DE COMPRAS PÚBLICAS, este que possui o 
+domínio eletrônico www.portaldecompraspublicas.com.br. 
+3.2. É de responsabilidade do cadastrado conferi r a exatidão dos seus dados  cadastrais 
+no PORTAL DE COMPRAS PUBLICAS  e mantê -los atualizados junto  aos órgãos 
+responsáveis pela informação, devendo proceder, imediatamente, à  correção ou à 
+alteração dos registros tão logo identifique incorreção ou aqueles se tornem 
+desatualizados. 
+3.3. O licitante responsabiliza-se exclusiva e formalmente pelas transações efetuadas 
+em seu nome, assume como firmes e verdadeiras suas propostas e seus lances, inclusive 
+os atos praticados diretamente ou por seu representante, excluída a responsabilidade do 
+provedor do sistema ou do órgão ou entidade promotora da licitação por eventuais 
+danos decorrentes de uso indevido das credenciais de acesso, ainda que por terceiros. 
+3.4. É de responsabilidade do cadastrado conf erir a exatidão dos seus dados 
+cadastrais no sistema, mantê-los atualizados e proceder à correção ou à alteração sempre 
+que identifique incorreção ou eles se tornem desatualizados. 
+3.5. A não observância do disposto no item anterior poderá ensejar desclassific ação 
+ou inabilitação. 
+3.6. Será concedido tratamento favorecido para as microempresas e empresas de 
+pequeno porte, para as sociedades cooperativas mencionadas no artigo 16 da Lei 
+Federal nº 14.133/21, para o agricultor familiar, o produtor rural pessoa fís ica e para o 
+microempreendedor individual - MEI, nos limites previstos da Lei Complementar nº 
+123/06 e do art. 4º da Lei Federal nº 14.133/21. 
+3.7. Não poderão disputar esta licitação: 
+3.7.1. aquele que não atenda às condições deste Edital e seus anexos; 
+3.7.2. autor do anteprojeto, do projeto básico ou do projeto executivo, pessoa 
+física ou jurídica, quando a licitação versar sobre serviços ou fornecimento de 
+bens a ele relacionados; 
+3.7.3. empresa, isoladamente ou em consórcio, responsável pela elaboração  do 
+projeto básico ou do projeto executivo, ou empresa da qual o autor do projeto 
+seja dirigente, gerente, controlador, acionista ou detentor de mais de 5% (cinco 
+por cento) do capital com direito a voto, responsável técnico ou subcontratado, 
+quando a lici tação versar sobre serviços ou fornecimento de bens a ela 
+necessários;  
+3.7.4. pessoa física ou jurídica que se encontre, ao tempo da licitação, 
+impossibilitada de participar da licitação em decorrência de sanção que lhe foi 
+imposta; 
+3.7.5. aquele que mantenha vínculo de natureza técnica, comercial, econômica, 
+financeira, trabalhista ou civil com dirigente do órgão ou entidade contratante ou 
+com agente público que desempenhe função na licitação ou atue na fiscalização 
+ou na gestão do contrato, ou que deles seja cônjuge, companheiro ou parente em 
+linha reta, colateral ou por afinidade, até o terceiro grau; 
+
+[PÁGINA 4]
+ 
+4 
+ 
+3.7.6. empresas controladoras, controladas ou coligadas, nos termos da Lei nº 
+6.404, de 15 de dezembro de 1976, concorrendo entre si; 
+3.7.7. pessoa física ou jurídica que, nos 5 (cinco) anos anteriores à divulgação 
+do edital, tenha sido condenada judicialmente, com trânsito em julgado, por 
+exploração de trabalho infantil, por submissão de trabalhadores a condições 
+análogas às de escravo ou por contratação de  adolescentes nos casos vedados 
+pela legislação trabalhista; 
+3.7.8. agente  público do órgão ou entidade licitante; 
+3.7.9. Não poderá participar, direta ou indiretamente, da licitação ou da 
+execução do contrato agente público do órgão ou entidade contratan te, devendo 
+ser observadas as situações que possam configurar conflito de interesses no 
+exercício ou após o exercício do cargo ou emprego, nos termos da legislação que 
+disciplina a matéria, conforme § 1º do art. 9º da Lei nº 14.133, de 2021. 
+3.8. As pessoa s jurídicas reunidas em consórcio NÃO PODERÃO  participar da 
+licitação devido à baixa complexidade do objeto, o que permite a execução do objeto de 
+forma individualizada pelas empresas do rama, de modo que a reunião de empresas em 
+consórcio reduziria a competição no certame. 
+3.9. O impedimento de que trata o item 3.7.4 será também aplicado  ao licitante que 
+atue em substituição a outra pessoa, física ou jurídica, com o intuito de burlar a 
+efetividade da sanção a ela aplicada, inclusive a sua controladora, controlada ou 
+coligada, desde que devidamente comprovado o ilícito ou a utilização frau dulenta da 
+personalidade jurídica do licitante. 
+3.10. A critério da Administração e exclusivamente a seu serviço, o autor dos projetos 
+e a empresa a que se referem os itens 3.7.2 e 3.7 .3 poderão participar no apoio das 
+atividades de planejamento da contrat ação, de execução da licitação ou de gestão do 
+contrato, desde que sob supervisão exclusiva de agentes públicos do órgão ou entidade. 
+3.11. Equiparam-se aos autores do projeto as empresas integrantes do mesmo grupo 
+econômico. 
+3.12. O disposto nos itens 3.7 .2 e 3.7 .3 não impede a licitação ou a contratação de 
+serviço que inclua como encargo do contratado a elaboração do projeto básico e do 
+projeto executivo, nas contratações integradas, e do projeto executivo, nos demais 
+regimes de execução. 
+3.13. A vedação de que trata o item 3.7.8 estende-se a terceiro que auxilie a condução 
+da contratação na qualidade de integrante de equipe de apoio, profissional especializado 
+ou funcionário ou representante de empresa que preste assessoria técnica. 
+ 
+4. Apresentação da proposta e dos documentos de habilitação 
+ 
+4.1. Durante a presente licitação, a fase de habilitação ocorrerá após as fases de 
+apresentação de propostas e lances e de julgamento.  
+4.2. Os licitantes encaminharão, exclusivamente por meio do sistema eletrônico, a 
+proposta com o preço, conforme o critério de julgamento adotado neste Edital, até a data 
+e o horário estabelecidos para abertura da sessão pública. 
+4.3.  O licitante deverá realizar o preenchimento, no sistema eletrônico, dos seguintes 
+campos: 
+
+[PÁGINA 5]
+ 
+5 
+ 
+ 4.3.1.  Valor unitário e total para o item solto.  
+ 4.3.2. Descrição detalhada do objeto, contendo as informações similares à 
+especificação do Termo de Referência, indicando, no que for aplicável, o modelo prazo 
+de validade ou de garantia, número do registro ou inscrição do bem no órgão 
+competente, quando for o caso; 
+ 4.3.3.  Todas as especificações do objeto contidas na proposta vinculam a 
+CONTRATADA. 
+4.4. No cadastramento da proposta inicial, o licitante deverá assinar as seguintes 
+Declarações:  
+3.4.1 Declaração de conhecimento do Edital: Declaro que estou ciente e concordo 
+com as condições contidas no edital e seus anexos, bem como de que 
+cumpro plenamente os requisitos de habilitação definidos no edital.  
+3.4.2 Declaração de reserva de cargos: Declaro cumpr ir as exigências de reserva 
+de cargos para pessoa com deficiência e para reabilitado da Previdência 
+Social, previstas em lei e em outras normas específicas.  
+3.4.3 Declaração de proposta econômica: Sob pena de desclassificação, declaro 
+que minhas propostas econô micas compreendem a integralidade dos custos 
+para atendimento dos direitos trabalhistas assegurados na Constituição 
+Federal, nas leis trabalhistas, nas normas infralegais, nas convenções 
+coletivas de trabalho e nos termos de ajustamento de conduta vigentes  na 
+data de entrega das propostas.  
+3.4.4 Declaração de Não -Emprego de menores : Declaro para fins do inciso 
+XXXIII do artigo 7° da Constituição Federal, com redação dada pela 
+Emenda Constitucional, nº 20/98, que não emprega menores de dezoito anos 
+em trabalho no turno, perigoso ou insalubre e de que qualquer trabalho a 
+menores de 16 anos.  
+3.4.5 Declaração de Não -Emprego de trabalho degradante : Declaro não possuir 
+em sua cadeia produtiva, empregados executando trabalho degradante ou 
+forçado, nos termos do inciso III e I V do art.1º e no inciso III do art.5º da 
+Constituição Federal.  
+3.4.6 Declaração de Acessibilidade: Declaro que, conforme disposto no art. 93 da 
+Lei nº 8.213, de 24 de julho de 1991, estou ciente do cumprimento da 
+reserva de cargos prevista em lei para pessoa co m deficiência ou para 
+reabilitado da Previdência Social e que, se aplicado ao número de 
+funcionários da minha empresa, atendo às regras de acessibilidade previstas 
+na legislação.  
+3.4.7 Declaração de Inexistência de Fato Superveniente : Declaro sob as penas da 
+lei, que até a presente data inexistem fatos impeditivos para sua habilitação 
+no presente processo licitatório, ciente da obrigatoriedade de declarar 
+ocorrências posteriores. 
+ 
+4.5. O licitante organizado em cooperativa deverá declarar, ainda, que cumpre os 
+requisitos estabelecidos no artigo 16 da Lei nº 14.133/21. 
+4.6. O fornecedor enquadrado como microempresa, empresa de pequeno porte ou 
+sociedade cooperativa deverá declarar, ainda, em campo próprio do sistema eletrônico, 
+
+[PÁGINA 6]
+ 
+6 
+ 
+que cumpre os requisitos estabelecid os no artigo 3° da Lei Complementar nº 123 /06, 
+estando apto a usufruir do tratamento favorecido estabelecido em seus arts. 42 a 49, 
+observado o disposto nos §§ 1º ao 3º do art. 4º, da Lei n.º 14.133/21. 
+4.6.1. no item exclusivo para participação de microem presas e empresas de 
+pequeno porte, a assinalação do campo “não” impedirá o prosseguimento no 
+certame, para aquele item; 
+4.6.2. nos itens em que a participação não for exclusiva para microempresas e 
+empresas de pequeno porte, a assinalação do campo “não” a penas produzirá o 
+efeito de o licitante não ter direito ao tratamento favorecido previsto na Lei 
+Complementar nº 123, de 2006, mesmo que microempresa, empresa de pequeno 
+porte ou sociedade cooperativa.  
+4.7. A falsidade da declaração de que trata os itens 4.3 a 4 .5 sujeitará o licitante às 
+sanções previstas na Lei nº 14.133, de 2021, e neste Edital. 
+4.8. Os licitantes poderão retirar ou substituir a proposta até a abertura da sessão 
+pública. 
+4.9. Não haverá ordem de classificação na etapa de apresentação da  proposta e dos 
+documentos de habilitação pelo licitante, o que ocorrerá somente após os procedimentos 
+de abertura da sessão pública e da fase de envio de lances. 
+4.10. Serão disponibilizados para acesso público os documentos que compõem a 
+proposta dos licitantes convocados para apresentação de propostas, após a fase de envio 
+de lances. 
+4.11. Desde que disponibilizada a funcionalidade no sistema, o licitante poderá 
+parametrizar o seu valor final mínimo ou o seu percentual de desconto máximo quando 
+do cadastramento da proposta. 
+4.12. O valor final mínimo  parametrizado na forma do item 4 .10 possuirá caráter 
+sigiloso para os demais fornecedores e para o órgão ou entidade promotora da licitação, 
+podendo ser disponibilizado estrita e permanentemente aos órg ãos de controle externo e 
+interno. 
+4.13. Caberá ao licitante interessado em participar da licitação acompanhar as 
+operações no sistema eletrônico durante o processo licitatório e se responsabilizar pelo 
+ônus decorrente da perda de negócios diante da inobservância de mensagens emitidas 
+pela Administração ou de sua desconexão. 
+4.14. O licitante deverá comunicar imediatamente ao provedor do sistema qualquer 
+acontecimento que possa comprometer o sigilo ou a segurança, pa ra imediato bloqueio 
+de acesso. 
+ 
+5. Preenchimento da proposta 
+ 
+5.1. O licitante deverá fazer em campo próprio do sistema eletrônico a descrição 
+detalhada do produto ofertado ou colocar a expressão "de acordo com o edital". 
+5.2. Todas as especificações do objeto contidas na proposta vinculam o licitante. 
+5.3. Nos valores propostos estarão inclusos todos os custos operacionais, encargos 
+previdenciários, trabalhistas, tributários, comerciais e quaisquer outros que incidam 
+direta ou indiretamente na execução do objeto. 
+
+[PÁGINA 7]
+ 
+7 
+ 
+5.4. Os preços ofertados, tan to na proposta inicial, quanto na etapa de lances, serão 
+de exclusiva responsabilidade do licitante, não lhe assistindo o direito de pleitear 
+qualquer alteração, sob alegação de erro, omissão ou qualquer outro pretexto. 
+5.5. Independentemente do percentual  de tributo inserido na planilha, no pagamento 
+serão retidos na fonte os percentuais estabelecidos na legislação vigente. 
+5.6. A apresentação das propostas implica obrigatoriedade do cumprimento das 
+disposições nelas contidas, em conformidade com o que dis põe o Termo de Referência, 
+assumindo o proponente o compromisso de executar o objeto licitado nos seus termos, 
+bem como de fornecer os materiais, equipamentos, ferramentas e utensílios necessários, 
+em quantidades e qualidades adequadas à perfeita execução contratual, promovendo, 
+quando requerido, sua substituição. 
+5.7. O prazo de validade da proposta não será inferior a 60 (sessenta) dias, a contar 
+da data de sua apresentação. 
+ 
+6. Abertura da sessão, classificação das propostas e formulação de lances 
+ 
+6.1. A abertura da presente licitação ocorrerá na data, horário e local indicados neste 
+Edital, em sessão pública por meio de sistema eletrônico.  
+6.2. Os licitantes poderão retirar ou substituir a proposta ou os documentos de 
+habilitação, quando for o caso, an teriormente inseridos no sistema, até a abertura da 
+sessão pública. 
+6.2.1. Será desclassificada a proposta que identifique o licitante. 
+6.2.2. A desclassificação será sempre fundamentada e registrada no sistema, 
+com acompanhamento em tempo real por todos os participantes. 
+6.2.3. A não desclassificação da proposta não impede o seu julgamento 
+definitivo em sentido contrário, levado a efeito na fase de aceitação. 
+6.3. O sistema ordenará automaticamente as propostas classificadas, sendo que 
+somente estas participarão da fase de lances. 
+6.4. O sistema disponibilizará campo próprio para troca de mensagens entre o 
+Pregoeiro e os licitantes. 
+6.5. Iniciada a etapa competitiva, os licitantes deverão encaminhar lances 
+exclusivamente por meio de sistema eletrônico, sendo imediatamente informados do seu 
+recebimento e do valor consignado no registro. 
+6.5.1 Durante a fase de lances, o pregoeiro poderá excluir, justificadamente, 
+lance cujo valor seja manifestamente inexequível. 
+6.6. O lance deverá ser ofertado pelo valor total do próprio item 01.  
+6.7. Os licitantes poderão oferecer lances sucessivos, observando o horário fixado 
+para abertura da sessão e as regras estabelecidas no Edital. 
+6.8. O licitante somente poderá oferecer lance de valor inferior ou percentual de 
+desconto superior ao último por ele ofertado e registrado pelo sistema, conforme critério 
+de julgamento definido na capa deste Edital. 
+6.9. O intervalo mínimo de diferença de valores ou percentuais entre os lances, 
+aplicável tanto aos lances intermediários quanto à proposta destinada a superar a melhor 
+oferta, será aquele definido na capa deste Edital. 
+
+[PÁGINA 8]
+ 
+8 
+ 
+6.10. O procedimento seguirá de acordo com o modo de disputa adotado, conforme 
+definido na capa deste Edital. 
+6.11. Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa 
+“aberto”, os licitantes apresentarão lances públicos e sucessivos, com prorrogações. 
+6.11.1. A etapa de lances da sessão pública terá duração de dez minutos e, após 
+isso, será prorrogada automaticamente pelo si stema quando houver lance 
+ofertado nos últimos dois minutos do período de duração da sessão pública. 
+6.11.2. A prorrogação automática da etapa de lances, de que trata o subitem 
+anterior, será de dois minutos e ocorrerá sucessivamente sempre que houver 
+lances enviados nesse período de prorrogação, inclusive no caso de lances 
+intermediários. 
+6.11.3. Não havendo novos lances na forma estabelecida nos itens anteriores, a 
+sessão pública encerrar -se-á automaticamente, e o sistema ordenará e divulgará 
+os lances conforme a ordem final de classificação. 
+6.11.4. Definida a melhor proposta, se a diferença em relação à proposta 
+classificada em segundo lugar for de pelo menos 5% (cinco por cento), o 
+pregoeiro, auxiliado pela equipe de apoio, poderá admitir o reinício da disputa 
+aberta, para a definição das demais colocações. 
+6.11.5. Após o reinício previsto no item supra, os licitantes serão convocados 
+para apresentar lances intermediários. 
+6.12. Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa 
+“aberto e fechado”, os licitantes apresentarão lances públicos e sucessivos, com lance 
+final e fechado.  
+6.12.1. A etapa de lances da sessão pública terá duração inicial de quinze 
+minutos. Após esse prazo, o sistema encaminhará aviso de fechamento imin ente 
+dos lances, após o que transcorrerá o período de até dez minutos, aleatoriamente 
+determinado, findo o qual será automaticamente encerrada a recepção de lances. 
+6.12.2. Encerrado o prazo previsto no subitem anterior, o sistema abrirá 
+oportunidade para que o autor da oferta de valor mais baixo e os das ofertas com 
+preços até 10% (dez por cento) superiores àquela possam ofertar um lance final e 
+fechado em até cinco minutos, o qual será sigiloso até o encerramento deste 
+prazo. 
+6.12.3. No procedimento de qu e trata o subitem supra, o licitante poderá optar 
+por manter o seu último lance da etapa aberta, ou por ofertar melhor lance. 
+6.12.4. Não havendo pelo menos três ofertas nas condições definidas neste item, 
+poderão os autores dos melhores lances subsequentes, na ordem de classificação, 
+até o máximo de três, oferecer um lance final e fechado em até cinco minutos, o 
+qual será sigiloso até o encerramento deste prazo. 
+6.12.5. Após o término dos prazos estabelecidos nos itens anteriores, o sistema 
+ordenará e divulgará os lances segundo a ordem crescente de valores. 
+6.13. Caso seja adotado para o envio de lances no pregão eletrônico o modo de disputa 
+“fechado e aberto”, poderão participar da etapa aberta somente os licitantes que 
+apresentarem a proposta de menor pr eço/ maior percentual de desconto e os das 
+propostas até 10% (dez por cento) superiores/inferiores àquela, em que os licitantes 
+
+[PÁGINA 9]
+ 
+9 
+ 
+apresentarão lances públicos e sucessivos, até o encerramento da sessão e eventuais 
+prorrogações.  
+6.13.1. Não havendo pelo meno s 3 (três) propostas nas condições definidas no 
+item 6.13, poderão os licitantes que apresentaram as três melhores propostas, 
+consideradas as empatadas, oferecer novos lances sucessivos. 
+6.13.2. A etapa de lances da sessão pública terá duração de dez minutos e, após 
+isso, será prorrogada automaticamente pelo sistema quando houver lance 
+ofertado nos últimos dois minutos do período de duração da sessão pública. 
+6.13.3. A prorrogação automática da etapa de lances, de que trata o subitem 
+anterior, será de dois minutos e ocorrerá sucessivamente sempre que houver 
+lances enviados nesse período de prorrogação, inclusive no caso de lances 
+intermediários. 
+6.13.4. Não havendo novos lances na forma estabelecida nos itens anteriores, a 
+sessão pública encerrar -se-á automaticamente, e o sistema ordenará e divulgará 
+os lances conforme a ordem final de classificação. 
+6.13.5. Definida a melhor proposta, se a diferença em relação à proposta 
+classificada em segundo lugar for de pelo menos 5% (cinco por cento), o 
+pregoeiro, auxiliado pela equipe de apoio, poderá admitir o reinício da disputa 
+aberta, para a definição das demais colocações. 
+6.13.6. Após o reinício previsto no subitem supra, os licitantes serão convocados 
+para apresentar lances intermediários.   
+6.14. Após o tér mino dos prazos estabelecidos nos subitens anteriores, o sistema 
+ordenará e divulgará os lances segundo a ordem crescente de valores. 
+6.15. Não serão aceitos dois ou mais lances de mesmo valor, prevalecendo aquele que 
+for recebido e registrado em primeiro lugar.  
+6.16. Durante o transcurso da sessão pública, os licitantes serão informados, em tempo 
+real, do valor do menor lance registrado, vedada a identificação do licitante.  
+6.17. No caso de desconexão com o Pregoeiro, no decorrer da etapa competitiva do 
+Pregão, o sistema eletrônico poderá permanecer acessível aos licitantes para a recepção 
+dos lances.  
+6.18. Quando a desconexão do sistema eletrônico para o pregoeiro persistir por t empo 
+superior a dez minutos, a sessão pública será suspensa e reiniciada somente após a 
+comunicação do fato pelo Pregoeiro aos participantes, no sítio eletrônico utilizado para 
+divulgação. 
+6.19. Caso o licitante não apresente lances, concorrerá com o valor de sua proposta. 
+6.20. Em relação a itens não exclusivos para participação de microempresas e 
+empresas de pequeno porte, uma vez encerrada a etapa de lances, será efetivada a 
+verificação automática, junto à Receita Federal, do porte da entidade empresarial.  
+6.20.1. Nessas condições, as propostas de microempresas e empresas de pequeno porte 
+que se encontrarem na faixa de até 5% (cinco por cento) acima da melhor proposta ou 
+melhor lance serão consideradas empatadas com a primeira colocada. 
+6.20.2. A melhor classificada nos termos do subitem anterior terá o direito de 
+encaminhar uma última oferta para desempate, obrigatoriamente em valor 
+inferior ao da primeira colocada, no prazo de 5 (cinco) minutos controlados pelo 
+sistema, contados após a comunicação automática para tanto. 
+
+[PÁGINA 10]
+ 
+10 
+ 
+6.20.3. Caso a microempresa ou a empresa de pequeno porte melhor classificada 
+desista ou não se manifeste no prazo estabelecido, serão convocadas as demais 
+licitantes microempresa e empresa de pequeno porte que se encontrem naquele 
+intervalo de 5% (cinco por cento), na ordem de classificação, para o exercício do 
+mesmo direito, no prazo estabelecido no subitem anterior. 
+6.20.4. No caso de equivalência dos valores apresentados pelas microempresas e 
+empresas de pequeno porte que se encontrem nos intervalos estabelecidos nos 
+subitens anteriores, será realizado sorteio entre elas para que se identifique 
+aquela que primeiro poderá apresentar melhor oferta. 
+6.21. Só poderá haver empate entre propostas iguais (não seguidas de lances), ou entre 
+lances finais da fase fechada do modo de disputa aberto e fechado.  
+6.21.1. Havendo eventual empate entre propostas ou lances, o critério de 
+desempate será aquele previsto no art. 60 da Lei nº 14.133, de 2021, nesta 
+ordem: 
+6.21.1.1. disputa final, hipótese em que os licitantes empatados 
+poderão apresentar nova proposta em ato contínuo à classificação; 
+6.21.1.2. avaliação do desempenho contratual prévio dos licitantes, 
+para a qual deverão preferencialmente ser utilizados registros cadastrais 
+para efeito de atesto de cumprimento de obrigações previstos na Lei nº 
+14.133, de 2021; 
+6.21.1.3. desenvolvimento pelo licitante de ações de equidade entre 
+homens e mulheres no ambiente de trabalho, conforme regulamento; 
+6.21.1.4. desenvolvimento pelo licitante de programa de 
+integridade, conforme orientações dos órgãos de controle. 
+6.21.2. Persistindo o empate, será assegurada  preferência, sucessivamente, aos 
+bens e serviços produzidos ou prestados por:  
+6.21.2.1. empresas estabelecidas no território do Estado ou do 
+Distrito Federal do órgão ou entidade da Administração Pública estadual 
+ou distrital licitante ou, no caso de lic itação realizada por órgão ou 
+entidade de Município, no território do Estado em que este se localize;  
+6.21.2.2. empresas brasileiras; 
+6.21.2.3. empresas que invistam em pesquisa e no desenvolvimento 
+de tecnologia no País; 
+6.21.2.4. empresas que comprovem a prática de mitigação, nos 
+termos da Lei nº 12.187, de 29 de dezembro de 2009. 
+6.22. Caso os critérios anteriores não sejam suficientes para o desempate, será 
+realizado o sorteio. 
+6.23. Na aplicação dos critérios de desempate serão observadas as disposiçõ es da 
+Portaria IPREMB nº 344, de 01 de julho de 2025 , que dispõe sobre os critérios de 
+desempate entre duas ou mais propostas, nos termos da Lei Federal nº 14.133, de 1º de 
+abril de 2021, no âmbito do instituto de previdência social do município de Betim 
+(IPREMB). 
+6.24. Encerrada a etapa de envio de lances da sessão pública, na hipótese da proposta do 
+primeiro colocado permanecer acima do preço máximo ou inferior ao desconto definido 
+
+[PÁGINA 11]
+ 
+11 
+ 
+para a contratação, o pregoeiro poderá negociar valores mais vantajosos, após definido o 
+resultado do julgamento. 
+6.24.1. A negociação poderá ser feita com os demais licitantes, segundo a ordem 
+de classificação inicialmente estabelecida, quando o primeiro colocado, mesmo 
+após a negociação, for desclassificado em razão de sua pro posta permanecer 
+acima do preço máximo definido pela Administração. 
+6.24.2. A negociação será realizada por meio do sistema, podendo ser 
+acompanhada pelos demais licitantes. 
+6.24.3. O resultado da negociação será divulgado a todos os licitantes e anexado 
+aos autos do processo licitatório. 
+6.24.4. O pregoeiro solicitará ao licitante mais bem classificado que, no prazo 
+mínimo de 02 (duas) horas, envie a proposta adequada ao último lance ofertado 
+após a negociação realizada, acompanhada, se for o caso, dos documentos 
+complementares, quando necessários à confirmação daqueles exigidos neste 
+Edital e já apresentados.  
+6.24.5. É facultado ao pregoeiro prorrogar o prazo estabelecido, a partir de 
+solicitação fundamentada feita no chat pelo licitante, antes de findo o prazo. 
+6.25. Após a negociação do preço, o Pregoeiro iniciará a fase de acei tação e 
+julgamento da proposta. 
+ 
+7. Fase de julgamento 
+ 
+7.1. Encerrada a etapa de negociação, o pregoeiro verificará se o licitante 
+provisoriamente classificado em primeiro lugar atende às condições de participação no 
+certame, conforme previsto no art. 14 da Lei Federal nº 14.133/21, legislação correlata e 
+no item 4.6 do edital, especialmente quanto à existência de sanção que impeça a 
+participação no certame ou a futura contratação, mediante a consulta aos seguintes 
+cadastros: 
+a) SICAF; 
+b) Cadastro Nacional de Empresas Inidôneas e Suspensas - CEIS, mantido pela 
+Controladoria-Geral da União 
+(https://www.portaltransparencia.gov.br/sancoes/ceis); e  
+c) Cadastro Nacional de E mpresas Punidas – CNEP, mantido pela 
+Controladoria-Geral da União 
+(https://www.portaltransparencia.gov.br/sancoes/cnep).  
+d) Cadastro Nacional de Empresas Punidas – CNEP, mantido pela 
+Controladoria-Geral da União 
+(https://www.portaltransparencia.gov.br/sancoes/cnep). 
+e) Cadastro Nacional de Condenações Cíveis por Atos de Improbidade 
+Administrativa, mantido pelo Conselho Nacional de Justiça 
+(https://www.cnj.jus.br/improbidade_adm/consultar_requerido.php); 
+f) Lista de inidôneos mantida pelo Tribunal de Contas da União – TCU. 
+7.1.1. Para a consulta de fornecedores pessoa jurídica poderá haver a 
+substituição das consu ltas das alíneas “c”, “d”, “e” e “f” pela Consulta 
+Consolidada de Pessoa Jurídica do TCU (https://certidoes-apf.apps.tcu.gov.br/ 
+
+[PÁGINA 12]
+ 
+12 
+ 
+7.2. A consulta aos cadastros previstos nas alíneas “c”, “d”, e “e” tamb ém será 
+realizada em nome do sócio majoritário da empresa fornecedora, por força do artigo 12 
+da Lei nº 8.429, de 1992, que prevê, dentre as sanções impostas ao responsável pela 
+prática de ato de improbidade administrativa, a proibição de contratar com o P oder 
+Público, inclusive por intermédio de pessoa jurídica da qual seja sócio majoritário. 
+7.3. Na hipótese de inversão das fases de habilitação e julgamento, caso atendidas as 
+condições de participação, será iniciado o procedimento de habilitação. 
+7.4. Caso o licitante provisoriamente classificado em primeiro lugar tenha se 
+utilizado de algum tratamento favorecido às ME/EPPs, o pregoeiro verificará se faz jus 
+ao benefício. 
+7.5. Verificadas as condições de participação e de utilização do tratamento 
+favorecido, o pregoeiro examinará a proposta classificada em primeiro lugar quanto à 
+adequação ao objeto e à compatibilidade do preço em relação ao máximo estipulado 
+para contratação neste Edital e em seus anexos. 
+7.6. Será desclassificada a proposta vencedora que:  
+7.6.1. contiver vícios insanáveis; 
+7.6.2. não obedecer às especificações técnicas contidas no Termo de 
+Referência; 
+7.6.3. apresentar preços inexequíveis ou permanecerem acima do preço 
+máximo definido para a contratação; 
+7.6.4. não tiverem sua exequibilidade demonstrada, quando exigido pela 
+Administração; 
+7.6.5. apresentar desconformidade com quaisquer outras exigências deste Edital 
+ou seus anexos, desde que insanável. 
+7.7. No caso de bens e serviços em geral,  é indício de inexequibilidade das propostas 
+valores inferiores a 50% (cinquenta por cento) do valor orçado pela Administração. 
+7.7.1. A inexequibilidade, na hipótese de que trata o caput, só será considerada 
+após diligência do pregoeiro, que comprove: 
+7.7.1.1. que o custo do licitante ultrapassa o valor da proposta; e 
+7.7.1.2. inexistirem custos de oportunidade capazes de justificar o 
+vulto da oferta. 
+7.8. Erros no preenchimento da planilha não constituem motivo para a 
+desclassificação da proposta. A plani lha poderá  ser ajustada pelo fornecedor, no pra o 
+indicado pelo sistema, desde que não haja majoração do preço e que se comprove que 
+este é o bastante para arcar com todos os custos da contratação; 
+7.8.1. O ajuste de que trata este item se limita a sanar erros ou falhas que não 
+alterem a substância das propostas. 
+7.9. Se o mesmo licitante vencer tanto a cota reservada quanto a cota principal, a 
+contratação ocorrerá em um único instrumento e pelo menor preço obtido. 
+7.10. No caso de não haver vencedor para a cota reservada, esta poderá ser adjudicada 
+ao vencedor da cota principal ou, diante de sua recusa, aos licitantes remanescentes, 
+desde que pratiquem o preço do primeiro colocado da cota principal 
+7.11. No caso de não haver vencedor para a cota principal, esta poderá ser adjudicada ao 
+vencedor da cota reservada ou, diante de sua recusa, aos licitantes remanescentes, desde 
+que pratiquem o preço do primeiro colocado da cota reservada. 
+
+[PÁGINA 13]
+ 
+13 
+ 
+8. Fase de habilitação 
+ 
+8.1. Para fins de habilitação, deverá o licitante comprovar os seguintes requisitos: 
+ 
+Habilitação jurídica 
+ 
+8.2. Pessoa física:  cédula de identidade (RG) ou documento equivalente que, por 
+força de lei, tenha validade para fins de identificação em todo o território nacional; 
+8.3. Empresário individual: inscrição no Registro Público de Empresas Mercantis, 
+a cargo da Junta Comercial da respectiva sede;  
+8.4. Microempreendedor Individual - MEI: Certificado da Condição de 
+Microempreendedor Individual - CCMEI;  
+8.5. Sociedade empresária, sociedade limitada unipesso al – SLU ou sociedade 
+identificada como empresa individual de responsabilidade limitada - EIRELI: 
+inscrição do ato constitutivo, estatuto ou contrato social no Registro Público de 
+Empresas Mercantis, a cargo da Junta Comercial da respectiva sede, acompanha da de 
+documento comprobatório de seus administradores; 
+8.6. Sociedade simples: inscrição do ato constitutivo no Registro Civil de Pessoas 
+Jurídicas do local de sua sede, acompanhada de documento comprobatório de seus 
+administradores; 
+8.7. Filial, sucursal ou agência de sociedade simples ou empresária:  inscrição do 
+ato constitutivo da filial, sucursal ou agência da sociedade simples ou empresária, 
+respectivamente, no Registro Civil das Pessoas Jurídicas ou no Registro Público de 
+Empresas Mercantis onde opera, com averbação no Registro onde tem sede a matriz; 
+8.8.     Cooperativa: Ata de fundação, Estatuto social em vigor com a ata da assembleia 
+que o aprovou, devidamente arquivado na Junta Comercial ou inscrito no Registro Civil 
+das Pessoas Jurídicas da resp ectiva sede, bem como o registro na Organização das 
+Cooperativas Brasileiras ou na entidade estadual, se houver, conforme art. 107 da Lei 
+Federal nº 5.764/1971. 
+8.9. Os documentos apresentados deverão estar acompanhados de todas as alterações 
+ou da consolidação respectiva. 
+ 
+Habilitação fiscal, social e trabalhista 
+ 
+8.9. Comprovante de inscrição e de situação cadastral do CNPJ ou no CPF;  
+8.10. Prova da inscrição no cadastro de contribuintes estadual e/ou municipal, se 
+houver, relativo ao domicílio ou  sede da licitante, pertinente ao seu ramo de atividade e 
+compatível com o objeto contratual; 
+8.11. Prova de regularidade com a Fazenda Pública Federal e a Seguridade Social, 
+mediante apresentação de Certidão de Débitos Relativos a Tributos Federais e à Dí vida 
+Ativa da União;  
+8.12. Prova de regularidade com a Fazenda Pública Estadual do domicílio ou da sede da 
+licitante, por meio de certidão emitida pelo órgão estadual competente; 
+8.13. Comprovante de regularidade com a Fazenda Pública Municipal do domicíl io ou 
+da sede da licitante, por meio de certidão emitida pelo órgão municipal competente; 
+
+[PÁGINA 14]
+ 
+14 
+ 
+8.14. Comprovante de regularidade com o Fundo de Garantia por Tempo de Serviço - 
+FGTS;  
+8.15. Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho;  
+8.16. Não serão aceitos pelo(a) pregoeiro(a) documentos que comprovem a regularidade 
+fiscal de apenas parte dos tributos de competência do ente federado. 
+8.17. Serão aceitas pelo(a) pregoeiro(a) certidões negativas ou positivas com efeito de 
+negativas para o atendimento das exigências relativas à regularidade fiscal e trabalhista. 
+8.18. O fornecedor enquadrado como microempreendedor individual que pretenda 
+auferir os benefícios do tratamento diferenciado previstos na Lei Complementar n. 123, 
+de 2006, estará dispensado da prova de inscrição nos cadastros de contribuintes estadual 
+e municipal. 
+ 
+Qualificação Econômico-Financeira 
+8.19. A qualificação econômico-financeira somente será exigida se prevista no termo 
+de referência. 
+Qualificação Técnica 
+ 
+8.20. A qualificação técnica somente será exigida se prevista no termo de referência. 
+ 
+Disposições gerais de habilitação 
+ 
+8.21. A documentação exigida para fins de habilitação jurídica, fiscal, social e 
+trabalhista e econômico -ﬁnanceira, poderá ser substituída pelo registro cadast ral no 
+SICAF. 
+8.22. Quando permitida a participação de consórcio de empresas, a habilitação 
+técnica, quando exigida, será feita por meio do somatório dos quantitativos de cada 
+consorciado e, para efeito de habilitação econômico-financeira, quando exigida, será 
+observado o somatório dos valores de cada consorciado. 
+8.23. Os documentos exigidos para fins de habilitação poderão ser substituídos por 
+registro cadastral emitido por órgão ou entidade pública, desde que o regis tro tenha sido 
+feito em obediência ao disposto na Lei nº 14.133/2021. 
+8.24. Somente haverá a necessidade de comprovação do preenchimento de requisitos 
+mediante apresentação dos documentos originais não -digitais quando houver dúvida em 
+relação à integridade do documento digital ou quando a lei expressamente o exigir. 
+8.25. A verificação pelo pregoeiro, em sítios eletrônicos oficiais de órgãos e entidades 
+emissores de certidões constitui meio legal de prova, para fins de habilitação. 
+8.25.1. Os documentos exi gidos para habilitação que não estejam contemplados 
+no Sicaf serã o enviados por meio do sistema ou por meio do e -mail 
+compras@ipremb.betim.mg.gov.br em formato digital, no prazo mínimo de 2 
+(duas) horas , prorrogável por igual período, contado da solicitação do 
+Pregoeiro. 
+ 8.25.2. É facultado ao pregoeiro prorrogar o prazo estabelecido no subitem 
+anterior, a partir de solicitação fundamentada feita no chat ou no e -mail pelo 
+licitante, antes de findo o prazo. 
+
+[PÁGINA 15]
+ 
+15 
+ 
+8.26. É de responsabilidade do licitante conferir a exatidão dos seus dados cadastrais e 
+mantê-los atualizados junto aos órgãos responsáveis pela informação, devendo 
+proceder, imediatamente, à correção ou à alteração dos registros tão logo identifique 
+incorreção ou aqueles se tornem desatualizados. 
+8.27.1. A não observância do disposto no item anterior poderá ensejar a 
+inabilitação. 
+8.27. A verificação da habilitação somente será feita em relação ao licitante vencedor. 
+8.28. Na hipótese de o licitante não atender às exigências para habilitação, o pregoeiro 
+examinará a proposta subsequente e assim sucessivamente, na ordem de classificação, 
+até a apuração de uma proposta que atenda ao presente edital, observado o prazo 
+disposto no subitem 8.26.1. 
+8.29. Somente serão disponibilizados para acesso público os documentos de 
+habilitação do licitante cuja proposta atenda ao edital de licitação, após concluídos os 
+procedimentos de que trata o item anterior. 
+8.30. Quando a fase de habilitação anteceder a de julgamento e já tiver sido encerrada, 
+não caberá exclusão de licitante por motivo relacionado à habilitação, salvo em razão de 
+fatos supervenientes ou só conhecidos após o julgamento. 
+9. Do Termo de Contrato ou Instrumento Equivalente 
+9.1. Após a adjudicação e homologação, em sendo realizada a contratação, será firmado  
+Termo de Contrato. 
+9.2. O fornecedor deverá comparecer ao IPREMB, se convocado, para a assinatura do  
+contrato, dentro do prazo de 05 (cinco) dias úteis, a contar da data de sua convocação, 
+sob pena de decair do direito à contratação, sem prejuízo das sa nções previstas neste 
+Edital de Pregão. 
+9.2.1. A critério do IPREMB, o Termo d e Contrato poderá ser assinado 
+eletronicamente através da utilização de certificado digital emitido por 
+autoridade certificadora no padrão ICP-Brasil. 
+9.2.2 O prazo previsto para assinatura do contrato poderá ser prorrogado 01 
+(uma) vez, por igual período, por solicitação justificada do fornecedor e aceita 
+pelo IPREMB: 
+9.2.3 Para autorizar a assinatura, poderá ser solicitada documentação essencial 
+para firmar o vínculo contratual, por exemplo: garantia contratual, licenças e 
+outros, definidos em convocação própria. 
+9.3. O valor a ser atribuído ao contrato será aquele resultante da proposta vencedora. 
+9.4. Na assinatura do contrato, será exigida a comprovação das condições de habilitação 
+e contratação consignadas neste aviso, que deverão ser mantidas pelo fornecedor 
+durante a vigência do contrato. 
+ 
+10. Reajuste 
+ 
+10.1. Os preços ofertados pelos licitantes serão considerados fixos e irreajustáveis pelo 
+prazo de 1 2 (doze) meses, contado da data do orçamento estimado  que consta na capa 
+deste Edital, não sendo admitida qualquer atualização, acréscimo ou revisão no período. 
+10.2. Expirado o prazo refe rido no item anterior, poderá ser admitido reajuste dos 
+preços, desde que transcorrido interstício mínimo de 12 (doze) meses, aplicando -se a 
+
+[PÁGINA 16]
+ 
+16 
+ 
+variação acumulada do Índice Nacional de Preços ao Consumidor Amplo – IPCA, ou de 
+outro índice oficial que venha a substituí-lo, limitado às obrigações que venham a ser 
+iniciadas e concluídas após a data em que se completar o referido interregno. 
+10.3. Para os reajustes subsequentes, o prazo mínimo de 12 (doze) meses será contado a 
+partir da data dos efeitos financeiros do último reajuste concedido. 
+10.4. A atualização dos preços, quando cabível, será formalizada por apostilamento ou 
+documento equivalente, no âmbito do processo administrativo, dispensada a celebração 
+de contrato ou termo aditivo, em conformidade com a Lei Federal nº 14.133/2021. 
+10.5. O reajuste de preços será aplicável nos termos da legislação vigente, com base na 
+variação do Índice de Preços ao Consumidor Amplo (IPCA) ou outro índice que venha 
+a substituí-lo, sempre que houver previsão contratual para tal. Contudo, em se tratando 
+de contrato de pronta entrega e entrega única, não haverá reajuste, visto que não há 
+termo contratual específico ou prazos que justifiquem a correção dos valores acordados. 
+ 
+11. Recursos 
+ 
+11.1. A interposição de recurso referente ao julgamento das propostas, à habilitação 
+ou inabilitação de licitantes, à anulação ou revogação da licitação, observará o disposto 
+no art. 165 da Lei Federal nº 14.133/21. 
+11.2. O prazo recursal é de 3 (três) dias útei s, contados da data de intimação ou de 
+lavratura da ata. 
+11.3. Quando o recurso apresentado impugnar o julgamento das propostas ou o ato de 
+habilitação ou inabilitação do licitante: 
+11.3.1. a intenção de recorrer deverá ser manifestada imediatamente no sistema, 
+sob pena de preclusão, não podendo o prazo para tal manifestação ser inferior a  
+10 (dez) minutos;  
+11.3.2. o prazo para apresentação das razões recursais será iniciado na data de 
+intimação ou de lavratura da ata de habilitação ou inabilitação; 
+11.4. Os recursos deverão ser encaminhados em campo próprio do sistema. 
+11.5. O recurso será dirigido à autoridade que tiver editado o ato ou proferido a 
+decisão recorrida, a qual poderá reconsiderar sua decisão no prazo de 3 (três) dias úteis, 
+ou, nesse mesmo p razo, encaminhar recurso para a autoridade superior, a qual deverá 
+proferir sua decisão no prazo de 10 (dez) dias úteis, contado do recebimento dos autos. 
+11.6. Os recursos interpostos fora do prazo não serão conhecidos.  
+11.7. O prazo para apresentação de  contrarrazões ao recurso pelos demais licitantes 
+será de 3 (três) dias úteis, contados da data da intimação pessoal ou da divulgação da 
+interposição do recurso, assegurada a vista imediata dos elementos indispensáveis à 
+defesa de seus interesses. 
+11.8. O recurso e o pedido de reconsideração terão efeito suspensivo do ato ou da 
+decisão recorrida até que sobrevenha decisão final da autoridade competente.  
+11.9. O acolhimento do recurso invalida tão somente os atos insuscetíveis de 
+aproveitamento.  
+11.10. Os autos do processo permanecerão com vis ta franqueada aos interessados 
+poderá ser requisitada via e -mail: compras@ipremb.betim.mg.gov.br ou pessoalmente 
+na sede do Instituto de Previdência Social do Município de Betim, no horário de 09:00 
+
+[PÁGINA 17]
+ 
+17 
+ 
+às 16:00, constante no endereço: Praça José Lino da Silva, 144 - 8º Andar - Brasiléia, 
+Betim - MG, 32600-308. 
+ 
+12. Infrações Administrativas e Sanções  
+ 
+12.1. Comete infração administrativa, nos termos da lei, o licitante que, com dolo ou 
+culpa:  
+12.1.1. deixar de entregar a documentação exigida para o certame ou não 
+entregar qualquer documento que tenha sido solicitado pelo pregoeiro durante o 
+certame; 
+12.1.2. salvo em decorrência de fato superveniente  devidamente justificado, não 
+mantiver a proposta; 
+12.1.3. não celebrar o contrato ou não entregar a documentação exigida para a 
+contratação, quando convocado dentro do prazo de validade de sua proposta; 
+12.1.3.1. recusar-se, sem justificativa, a assinar o contrato ou a ata 
+de registro de preço, ou a aceitar ou retirar o instrumento equivalente no 
+prazo estabelecido pela Administração; 
+12.1.4. apresentar declaração ou documentação falsa exigida para o certame ou 
+prestar declaração falsa durante a licitação 
+12.1.5. fraudar a licitação 
+12.1.6. comportar-se de modo inidôneo ou cometer fraude de qualquer natureza, 
+em especial quando: 
+12.1.6.1. agir em conluio ou em desconformidade com a lei;  
+12.1.6.2. induzir deliberadamente a erro no julgamento;  
+12.1.6.3. apresentar amostra falsificada ou deteriorada;  
+12.1.7. praticar atos ilícitos com vistas a frustrar os objetivos da licitação 
+12.1.8. praticar ato lesivo previsto no art. 5º da Lei n.º 12.846/13. 
+12.2. Com fulcro na Lei nº 14.133/21, a Administração poderá, garantida a prévia 
+defesa, aplicar aos licitantes e/ou adjudicatários as seguintes sanções, sem prejuízo das 
+responsabilidades civil e criminal:  
+12.2.1. advertência;  
+12.2.2. multa; 
+12.2.3. impedimento de licitar e contratar e 
+12.2.4. declaração de inidoneidade para licitar ou contratar, enquanto perdurarem 
+os motivos determinantes da punição ou até que seja promovida sua reabilitação 
+perante a própria autoridade que aplicou a penalidade. 
+12.3. Na aplicação das sanções serão considerados: 
+12.3.1. a natureza e a gravidade da infração cometida. 
+12.3.2. as peculiaridades do caso concreto 
+12.3.3. as circunstâncias agravantes ou atenuantes 
+12.3.4. os danos que dela provierem para a Administração Pública 
+12.3.5. a implantação ou o aperfeiçoamento de programa de integridade, 
+conforme normas e orientações dos órgãos de controle. 
+
+[PÁGINA 18]
+ 
+18 
+ 
+12.4. A multa será recolhida em percentual de 0,5% a 30% incidente sobre o valor do 
+contrato licitado, recolhida no prazo máximo de 30 (trinta) dias úteis , a contar da 
+comunicação oficial.  
+12.4.1. Para as infrações previstas nos itens 12.1.1, 12.1.2 e 12.1.3, a multa será 
+de 0,5% a 15% do valor do contrato licitado. 
+12.4.2. Para as infrações previstas nos itens 12.1.4, 12.1.5, 12.1. 6, 12.1.7 e 
+12.1.8, a multa será de 15% a 30% do valor do contrato licitado.  
+12.5. As sanções de advertência, impedimento de licitar e contratar e declaração de 
+inidoneidade para licitar ou contratar poderão ser aplicadas, cumulativamente ou não, à 
+penalidade de multa. 
+12.6. Na aplicação da sanção de multa será facultada a d efesa do interessado no prazo 
+de 15 (quinze) dias úteis, contado da data de sua intimação. 
+12.7. A sanção de impedimento de licitar e contratar será aplicada ao responsável em 
+decorrência das infrações administrativas relacionadas nos itens 12.1.1, 12.1.2 e 12.1.3, 
+quando não se justificar a imposição de penalidade mais grave, e impedirá o responsável 
+de licitar e contratar no âmbito da Administração Pública direta e indireta do ente 
+federativo a qual pertencer o órgão ou entidade, pelo prazo máximo de 3 (três) anos. 
+12.8. Poderá ser aplicada ao responsável a sanção de declaração de inidoneidade para 
+licitar ou contratar, em decorrência da prática das infraç ões dispostas nos itens 11.1.4,  
+12.1.5, 12.1.6, 12.1.7 e 12 .1.8, bem como pelas infrações admin istrativas previstas nos 
+itens 12.1.1, 12.1.2 e 12.1.3 que justifiquem a imposição de penalidade mais grave que a 
+sanção de impedimento de licitar e contratar, cuja duração observará o prazo previsto no 
+art. 156, §5º, da Lei n.º 14.133/2021. 
+12.9. A recusa injustificada do adjudicatário em assinar o contrato ou a ata de registro 
+de preço, ou em aceitar ou retirar o instrumento equivalente no prazo estabelecido pela 
+Administração, descrita no it em 10.1.3, caracterizará o descumprimento total da 
+obrigação assumida e o sujeitará às penalidades e à imediata perda da garantia de 
+proposta em favor do órgão ou entidade promotora da licitação.  
+12.10. Caberá recurso no prazo de 15 (quinze) dias úteis da  aplicação das sanções de 
+advertência, multa e impedimento de licitar e contratar, contado da data da intimação, o 
+qual será dirigido à autoridade que tiver proferido a decisão recorrida, que, se não a 
+reconsiderar no prazo de 5 (cinco) dias úteis, encamin hará o recurso com sua motivação 
+à autoridade superior, que deverá proferir sua decisão no prazo máximo de 20 (vinte) 
+dias úteis, contado do recebimento dos autos. 
+12.11. Caberá a apresentação de pedido de reconsideração da aplicação da sanção de 
+declaração de inidoneidade para licitar ou contratar no prazo de 15 (quinze) dias úteis, 
+contado da data da intimação, e decidido no prazo máximo de 20 (vinte) dias úteis, 
+contado do seu recebimento. 
+12.12. O recurso e o pedido de reconsideração terão efeito suspen sivo do ato ou da 
+decisão recorrida até que sobrevenha decisão final da autoridade competente. 
+12.13. A aplicação das sanções previstas neste edital não exclui, em hipótese alguma, a 
+obrigação de reparação integral dos danos causados. 
+12.14. O processo de apuração e de responsabilidade para fins de aplicação de sanções 
+observará o rito estabelecido na Portaria IPREMB nº 362, de 07 de julho de 2025 , ou 
+regramento posterior que vier a lhe substituir. 
+
+[PÁGINA 19]
+ 
+19 
+ 
+ 
+13. Impugnação ao Edital e pedido de esclarecimento 
+ 
+13.1. Qualquer pessoa é parte legítima para impugnar este Edital por irregularidade na 
+aplicação da Lei nº 14.133/21, devendo protocolar o pedido até 3 (três) dias úteis antes 
+da data da abertura do certame, conforme data descrita na capa do Edital. 
+13.2. A respost a à impugnação ou ao pedido de esclarecimento será divulgado em 
+sítio eletrônico oficial no prazo de até 3 (três) dias úteis, limitado ao último dia útil 
+anterior à data da abertura do certame. 
+13.3. A impugnação e o pedido de esclarecimento poderão ser re alizados por forma 
+eletrônica, no site do IPREMB, sob domínio: www.ipremb.mg.gov.br  
+13.4. As impugnações e pedidos de esclarecimentos não suspendem os prazos 
+previstos no certame. 
+13.4.1. A concessão de efeito suspensivo à impugnação é medida excepcional e 
+deverá ser motivada pelo agente de contratação, nos autos do processo de 
+licitação.  
+13.5. Acolhida a impugnação, será definida e publicada nova data para a realização do  
+certame. 
+ 
+ 
+14. Disposições Gerais 
+ 
+14.1. Será divulgada ata da sessão pública no sistema eletrônico. 
+14.2. Não havendo expediente ou ocorrendo qualquer fato superveniente que impeça a 
+realização do certame na data marcada, a sessão será automaticamente transferida para o 
+primeiro dia útil subsequente, no mesmo horário anteriormente estabelecido, desde que 
+não haja comunicação em contrário, pelo Pregoeiro. 
+14.3. Todas as referências de tempo no Edital, no aviso e durante a sessão pública 
+observarão o horário de Brasília - DF. 
+14.4. A homologação do resultado desta licitação não implicará direito à contratação. 
+14.5. As normas disciplinadoras da licitação serão sempre interpretadas em favor da 
+ampliação da disputa entre os interessados, desde que não comprometam o interesse da 
+Administração, o princípio da isonomia, a finalidade e a segurança da contratação.  
+14.6. Os licitantes assumem todos os custos de preparação e apresentação de suas 
+propostas e a Administração não será, em nenhum caso, responsável por esses custos, 
+independentemente da condução ou do resultado do processo licitatório. 
+14.7. Na contagem dos prazos estabelecidos neste Edital e seus Anexos, excluir -se-á o 
+dia do início e incluir -se-á o do vencimento. Só se iniciam e vencem os prazos em dias 
+de expediente na Administração. 
+14.8. O desatendimento de exigências formais não essenciais não importará o 
+afastamento do licitante, desde que seja possível o aproveitamento do ato, observado os 
+princípios da isonomia e do interesse público. 
+14.9. O Edital e seus anexos estão disponíveis, na íntegra, no Portal Nacional de 
+Contratações Públicas (PNCP) e endereço eletrônico compras@ipremb.betim.mg.gov.br 
+14.10. Integram este Edital, para todos os fins e efeitos, os seguintes anexos: 
+
+[PÁGINA 20]
+ 
+20 
+ 
+14.10.1. ANEXO I - Termo de Referência 
+14.10.1.1. Apêndice do Anexo I – Minuta do Termo de Contrato 
+14.10.1.1. Apêndice do Anexo I – Estudo Técnico Preliminar 
+14.10.3. ANEXO II – Modelo para apresentação da proposta comercial 
+ 
+ 
+ 
+Betim, 21 de setembro de 2026. 
+ 
+ 
+ 
+ 
+ 
+___________________________________________ 
+Alicio Umbelino da Silva Filho 
+Presidente 
+Instituto de Previdência Social do Município de Betim – IPREMB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[PÁGINA 21]
+ 
+21 
+ 
+INSTITUTO DE PREVIDÊNCIA SOCIAL DO MUNICÍPIO DE BETIM 
+TERMO DE REFERÊNCIA 
+ 
+ 
+1. DA SUPERINTENDÊNCIA SOLICITANTE 
+1.1. A Superintendência solicitante é a Superintendência Administrativa, 
+representada por seu Assessor IX, Edimar Caetano de Souza, matrícula nº 542468-7. 
+ 
+2. DO OBJETO 
+2.1. O objeto do presente Termo de Referência é a Contratação de empresa 
+especializada p ara o fornecimento de 12 (doze) licenças do ChatGPT Business da 
+OpenAI, por meio de subscrição, pelo período de 12 (doze) meses, incluindo serviços 
+de intermediação de pagamento, suporte técnico e gerenciamento da solução, destinado 
+ao atendimento da demanda do Instituto de Previdência Social do Município de Betim – 
+IPREMB, conforme condições e exigências estabelecidas neste Termo de Referência e 
+especificações constantes da tabela abaixo. 
+Item Descrição Quan
+t. Unidade de Medida 
+01 
+Fornecimento de licença de uso do ChatGPT 
+Business da OpenAI, por meio de subscrição, 
+com vigência de 12 (doze) meses, incluindo 
+serviços de intermediação de pagamento, suporte 
+técnico e gerenciamento da solução. 
+12 LICENÇAS 
+2.2. A natureza do serviço objeto da presente contratação enquadra -se na categoria 
+de serviços comuns, nos termos do art. 6º, inciso XIII da Lei nº 14.133/2021, uma vez 
+que se trata de solução tecnológica padronizada, fornecida em formato de assinatura 
+mensal/anual, com especificações usua is no mercado, sem necessidade de 
+desenvolvimento ou customização. 
+2.3. O serviço é enquadrado como continuado tendo em vista que a utilização das 
+licenças do CHATGPT BUSINESS da OpenAI requer um fornecimento contínuo e 
+ininterrupto ao longo do tempo, garantind o o acesso constante às atualizações, suporte 
+técnico e melhorias da solução, sendo a vigência plurianual mais vantajosa 
+
+[PÁGINA 22]
+ 
+22 
+ 
+considerando a necessidade de planejamento a longo prazo, otimização de custos 
+operacionais e a manutenção da continuidade do serviço s em interrupções, além de 
+permitir a negociação de melhores condições financeiras e de suporte técnico mais 
+adequados às demandas da empresa durante o período contratual. 
+ 
+3. DA VIGÊNCIA 
+3.1. A duração da vigência será de 12 (do e) meses; 
+3.2. O contrato poderá ser pror rogado sucessivamente, até o limite de 60 (sessenta) 
+meses, nos termos do art. 107 da Lei Federal nº 14.133/2021, desde que demonstrada a 
+vantajosidade para a Administração, mantidas as condições de habilitação da contratada 
+e observados os demais requisitos legais e contratuais.  
+ 
+4. FUNDAMENTAÇÃO E JUSTIFICATIVA ACERCA DA NECESSIDADE 
+DE CONTRATAÇÃO 
+4.1. A disponibilização de solução Inteligência Artificial no âmbito do Instituto de 
+Previdência Social do Município de Betim – IPREMB configura -se como medida 
+necessária e relevante para assegurar suporte adequado às atividades administrativas, 
+técnicas e operacionais desenvolvidas pela Autarquia, considerando a crescente 
+complexidade da gestão previdenciária e o elevado volume de informações, dados e 
+documentos que demandam análise, organização e produção contínua. 
+4.2. As rotinas institucionais do IPREMB envolvem, de forma permanente, a 
+elaboração e análise de processos administrativos, atos normativos, relatórios técnicos, 
+pareceres, expedientes internos, comunicações oficiais e respostas a órgãos de controle, 
+atividades que exigem precisão, padronização, celeridade e observância às normas 
+legais e regulamentares. Nesse contexto, as soluções de Inteligência Artificial 
+apresentam-se como ferramentas estratégicas de a poio à gestão, contribuindo para a 
+otimização dos fluxos de trabalho, a melhoria da produtividade e a qualificação das 
+entregas institucionais. 
+4.3. A inexistência ou insuficiência de recursos tecnológicos adequados para apoio às 
+
+[PÁGINA 23]
+ 
+23 
+ 
+atividades intelectuais e analí ticas pode comprometer a eficiência administrativa, 
+ocasionar retrabalho, atrasos na tramitação processual e maior dispêndio de tempo e 
+recursos humanos, além de impactar negativamente a qualidade e a tempestividade dos 
+serviços prestados aos segurados e b eneficiários do regime próprio de previdência 
+social. 
+4.4. Dessa forma, a contratação pretendida visa dotar o IPREMB de ferramenta 
+tecnológica compatível com as demandas contemporâneas da Administração Pública, 
+promovendo a modernização administrativa, a racionalização de recursos, o aumento da 
+eficiência e a continuidade do serviço público, em consonância com os princípios da 
+eficiência, do planejamento, da inovação e do interesse público, bem como com as 
+disposições da Lei Federal nº 14.133/2021 e as boas prát icas de governança e gestão 
+pública. 
+ 
+5. DA DESCRIÇÃO DA SOLUÇÃO COMO UM TODO 
+5.1. A solução proposta consiste na contratação de empresa especializada para o 
+fornecimento de 12 (doze) licenças do ChatGPT Business da OpenAI, por meio de 
+subscrição, pelo período de 12 (doze) meses, contemplando o licenciamento de uso da 
+plataforma, bem como os serviços de intermediação de pagamento, suporte técnico e 
+gerenciamento da solução, de modo a atender às necessidades institucionais do Instituto 
+de Previdência Social do Munic ípio de Betim – IPREMB, proporcionando o uso de 
+ferramenta de inteligência artificial para apoio às atividades administrativas, técnicas e 
+operacionais desenvolvidas pela Autarquia. 
+5.2. O fornecimento da solução compreenderá a disponibilização de 12 (doze) 
+licenças de uso, vinculadas ao uso institucional do IPREMB, permitindo o acesso à 
+plataforma tecnológica contratada por servidores autorizados, observados os critérios de 
+controle de acesso, gestão de usuários e segurança da informação. As licenças deverão 
+possibilitar o remanejamento de usuários, conforme alterações na estrutura 
+organizacional, desligamentos ou necessidades supervenientes, sem prejuízo do 
+quantitativo contratado. 
+5.3. A solução deverá contemplar assessoramento técnico inicial, destinado a orientar 
+
+[PÁGINA 24]
+ 
+24 
+ 
+os usuários quanto à correta utilização da ferramenta, às suas funcionalidades, às boas 
+práticas de uso no contexto da Administração Pública e às limitações inerentes à 
+tecnologia, de forma a garantir o uso adequado, eficiente e alinhado às normas 
+institucionais e legais aplicáveis. 
+5.4. Deverá, ainda, ser disponibilizado suporte técnico contínuo, durante toda a 
+vigência contratual, com o objetivo de assegurar a estabilidade, a disponibilidade e o 
+adequado funcionamento da solução, bem como de prestar esclareci mentos, registrar e 
+solucionar eventuais falhas, inconsistências ou dificuldades operacionais relacionadas 
+ao uso da plataforma. 
+5.5. O acompanhamento da solução deverá ocorrer de forma permanente, permitindo 
+à Administração monitorar a utilização das licenças,  avaliar a aderência da ferramenta 
+às necessidades institucionais, promover ajustes operacionais quando necessários e 
+garantir a continuidade dos serviços, em consonância com os princípios da eficiência, 
+da economicidade e da continuidade do serviço público. 
+5.6. A solução tecnológica contratada deverá apoiar as atividades administrativas, 
+técnicas e jurídicas do IPREMB, especialmente no que se refere à elaboração, revisão e 
+padronização de documentos, à análise e sistematização de informações, à produção de 
+relatórios e ao apoio às rotinas internas, contribuindo para o aprimoramento dos fluxos 
+de trabalho, para a redução de retrabalho e para o aumento da produtividade 
+institucional. 
+5.7. Por fim, a solução deverá observar requisitos de segurança da informação e 
+proteção de dados, assegurando que o tratamento das informações institucionais ocorra 
+em ambiente controlado, com mecanismos adequados de confidencialidade, integridade 
+e disponibilidade, em conformidade com a legislação vigente e com as boas práticas de 
+governança e gestão pública.  
+ 
+6. DOS REQUISITOS DA CONTRATAÇÃO 
+6.1. A presente contratação tem por objetivo assegurar o fornecimento de 12 (doze) 
+licenças do ChatGPT Business da OpenAI , por meio de subscrição, em condições 
+compatíveis com as necessidades institucionais do Instituto de Previdência Social do 
+
+[PÁGINA 25]
+ 
+25 
+ 
+Município de Betim – IPREMB. A solução deverá atender às atividades administrativas, 
+técnicas e jurídicas da Autarquia, proporcionan do apoio à elaboração e revisão de 
+documentos, à análise de informações, à pesquisa, à automação de tarefas repetitivas e 
+ao aumento da produtividade, observados os requisitos de segurança, governança e 
+conformidade aplicáveis à utilização da ferramenta. 
+6.2. Os eventuais interessados deverão comprovar que atuam em ramo de atividade 
+compatível com o objeto da licitação, bem como deverão apresentar os  documentos 
+solicitados que comprovem sua regularidade fiscal, social e trabalhista,  nos termos do 
+art. 68 da Lei Federal nº 14.133/2021. 
+6.3. Com relação ao serviço: 
+6.3.1 O fornecimento deverá contemplar 12 (doze) licenças de uso  da plataforma, 
+destinadas exclusivamente ao IPREMB, permitindo o acesso por servidores 
+autorizados e possibilitando a substituição ou remanejam ento de usuários em casos 
+de desligamento, afastamento ou reorganização interna, sem custos adicionais. As 
+licenças deverão operar em ambiente seguro e estável, com atualização contínua, 
+manutenção preventiva e suporte adequado para garantir a continuidade dos serviços. 
+6.3.2 Deverá ser prestado assessoramento técnico inicial  aos usuários, abrangendo 
+orientações sobre a utilização da plataforma, suas funcionalidades, limites 
+operacionais e boas práticas de uso no contexto da Administração Pública. Esse 
+assessoramento deverá incluir, quando necessário, treinamentos, materiais de apoio e 
+instruções técnicas, assegurando a correta aplicação da solução nas rotinas 
+institucionais e a maximização de seus benefícios. 
+6.3.3. A solução deverá contar com suporte técnico contínuo, com atendimento ágil 
+para a resolução de falhas, inconsistências ou dúvidas operacionais, garantindo a 
+estabilidade e a confiabilidade do sistema. O suporte deverá contemplar canais 
+formais de comunicação, acompanhamento das ocorrências e solu ções tempestivas, 
+de forma a minimizar impactos nas atividades administrativas e jurídicas do 
+IPREMB. 
+6.3.4. O acompanhamento e a gestão da solução  deverão permitir monitoramento 
+
+[PÁGINA 26]
+ 
+26 
+ 
+contínuo do uso das licenças, avaliação da aderência da plataforma às necessidades 
+institucionais e ajustes operacionais quando necessários. A contratada deverá 
+fornecer relatórios periódicos que permitam à Administração ava liar o desempenho 
+da ferramenta, bem como garantir a integração eficiente das atividades internas, a 
+melhoria dos fluxos de trabalho e o cumprimento das metas institucionais. 
+6.3.5. Em termos de funcionalidades técnicas, a solução deverá possibilitar a geração 
+automatizada de conteúdos institucionais , com elevado padrão de qualidade textual, 
+clareza, coesão e adequação à linguagem administrativa. Deverá fornecer apoio à 
+redação, revisão e padronização de documentos administrativos, técnicos e jurídicos , 
+promovendo racionalização do tempo e uniformidade na comunicação institucional. 
+Além disso, a plataforma deverá automatizar atividades administrativas e 
+operacionais, especialmente aquelas de natureza repetitiva ou de apoio às atividades 
+intelectuais, contribuindo para o aumento da produtividade, organização dos fluxos 
+internos e redução de retrabalho. 
+6.3.6. A solução deverá concentrar funcionalidades em uma plataforma única, 
+promovendo integração dos processos internos  e evitando o uso de múltiplas 
+ferramentas desconectadas. O gerenciamento das licenças deverá ser flexível, 
+permitindo substituição de usuários sem custos adicionais e assegurando controle 
+institucional eficiente do acesso. 
+6.3.7. Por fim, a solução deverá observar rigorosamente critérios de seg urança da 
+informação, garantindo que todos os dados e documentos institucionais sejam 
+tratados em ambiente controlado, com mecanismos que assegurem 
+confidencialidade, integridade e disponibilidade das informações. A contratação 
+deverá respeitar as normas l egais aplicáveis à proteção de dados e estar em 
+conformidade com as boas práticas de governança e gestão pública, resguardando os 
+interesses do IPREMB e da sociedade. 
+6.3.8. A garantia contratual dos serviços prestados deverá perdurar por todo o prazo 
+de vigência do contrato, assegurando que a CONTRATADA corrija, sem qualquer 
+ônus para CONTRATANTE, eventuais falhas, defeitos ou inconsistências que 
+
+[PÁGINA 27]
+ 
+27 
+ 
+venham a surgir durante a execução do contrato. 
+6.3.9. A contratada deverá apresentar no mínimo 01 (um) atestad o de capacidade 
+técnica fornecido por pessoa jurídica de direito público ou privado, comprovando 
+que a mesma forneceu objeto de mesma natureza e compatíveis em características 
+com o objeto, atestando, inclusive, o bom desempenho e cumprimento a contento das 
+obrigações contratuais. 
+7. DAS GARANTIAS 
+7.1. Garantia da proposta: 
+7.1.1 Não haverá exigência da garantia da proposta prevista no art. 58 da Lei nº 
+14.133, de 2021. 
+7.2. Garantia da contratação: 
+7.2.1. Não haverá exigência da garantia da contratação dos artigos 96 e  seguintes da 
+Lei nº 14.133, de 2021. 
+7.3. Garantia do bem: 
+7.3.1. O prazo de garantia é aquele estabelecido na Lei nº 8.078, de 11 de setembro 
+de 1990, popularmente conhecida como “Código de defesa do Consumidor. 
+8. DO MODELO DE EXECUÇÃO DO OBJETO 
+8.1. A disponibilização das 12 (doze) licenças do ChatGPT Business da OpenAI 
+deverá ocorrer por meio eletrônico, mediante convite ou mecanismo equivalente de 
+ativação das contas de usuário, no prazo máximo de 72 (setenta e duas horas), contado 
+do recebimento da Ordem de Fornecimento ou instrumento equivalente. 
+8.2. As licenças serão distribuídas conforme a necessidade institucional do Instituto 
+de Previdência Social do Município de Betim – IPREMB, observada a seguinte previsão 
+inicial: 
+Área Quantidade de licenças 
+Assessoria Jurídica 04 
+Superintendência Administrativa 06 
+Superintendência de Benefícios  01 
+Superintendência de Controle Interno 01 
+
+[PÁGINA 28]
+ 
+28 
+ 
+Total: 12 
+8.3. O fornecimento será realizado em parcela única, compreendendo a 
+disponibilização integral das 12 (doze) licenças contratadas, observadas as 
+especificações constantes neste Termo de Referência. 
+8.4. As licenças deverão permanecer ativas durante toda a vigência contratual, 
+assegurando acesso às funcionalidades disponibilizadas pelo plano ChatGPT Business 
+da OpenAI,  bem como às atualizações, melhorias, correções e demais recursos 
+disponibilizados pelo fabricante durante a vigência da contratação. 
+8.5. A solução deverá permitir o gerenciamento centralizado das licenças, 
+possibilitando à Administração incluir, remover e substituir usuários autorizados, sem 
+custos adicionais, sempre que necessário em razão de alterações na estrutura 
+organizacional, movimentação de pessoal ou necessidade do serviço. 
+8.6. A contratada deverá disponibilizar suporte técnico durante toda a vigência 
+contratual, destinado ao esclarecimento de dúvidas, solução de incidentes relacionados 
+ao fornecimento das licenças e acompanhamento da e xecução contratual, 
+preferencialmente por meio de atendimento remoto, em língua portuguesa ou, quando 
+não disponível, em idioma estrangeiro acompanhado de meios que possibilitem a 
+adequada compreensão das orientações. 
+8.7. O suporte técnico deverá estar disponível por canais eletrônicos, tais como portal 
+de atendimento, correio eletrônico ou outros meios disponibilizados pela contratada, 
+permitindo o registro, acompanhamento e resolução das solicitações apresentadas pelo 
+IPREMB. 
+8.8. A solução deverá disponibilizar f uncionalidades compatíveis com o plano 
+ChatGPT Business da OpenAI, incluindo recursos para elaboração, revisão e 
+padronização de documentos, análise de informações, processamento de arquivos, 
+geração de conteúdo, apoio à pesquisa, navegação na internet, cr iação de assistentes 
+personalizados (GPTs), análise de dados e demais funcionalidades disponibilizadas pelo 
+fabricante durante a vigência contratual. 
+8.9. A solução deverá observar rigorosamente os requisitos de segurança da 
+
+[PÁGINA 29]
+ 
+29 
+ 
+informação, garantindo ambiente corp orativo adequado ao tratamento de informações 
+institucionais, assegurando a confidencialidade, integridade e disponibilidade dos dados 
+processados, bem como observando as disposições da Lei Federal nº 13.709, de 14 de 
+agosto de 2018 (Lei Geral de Proteção de Dados Pessoais – LGPD) e demais normas 
+aplicáveis. 
+8.10. A contratada deverá manter absoluto sigilo sobre quaisquer dados, informações, 
+documentos ou conteúdos institucionais a que tiver acesso em razão da execução 
+contratual, não podendo utilizá -los, reprodu zi-los ou divulgá -los sem autorização 
+expressa da Administração. 
+8.11. O recebimento dos serviços ocorrerá em duas etapas: 
+a) provisoriamente, de forma sumária, imediatamente após a disponibilização das 
+licenças e da verificação inicial do acesso à plataforma; 
+b) definitivamente , no prazo de até 15 (quinze) dias úteis, contados do recebimento 
+provisório, após a verificação da disponibilização integral das licenças contratadas, do 
+pleno funcionamento da plataforma, da ativação dos acessos, da regularidade dos 
+serviços de suporte técnico e do atendimento às especificações e condições 
+estabelecidas neste Termo de Referência. 
+8.12. A Contratada fica obrigada a sanar, corrigir ou regularizar, às suas expensas e 
+sem ônus para a Contratante, quaisquer falhas, defeitos, indispo nibilidades, 
+inconsistências ou desconformidades verificadas na disponibilização das licenças ou na 
+execução dos serviços contratados. 
+8.13. Os serviços poderão ser rejeitados, no todo ou em parte, quando estiverem em 
+desacordo com as especificações constantes n este Termo de Referência e na proposta 
+apresentada, sem prejuízo da aplicação das penalidades cabíveis. 
+8.14. O recebimento provisório ou definitivo não excluirá a responsabilidade civil e 
+contratual da Contratada pela perfeita execução do objeto. 
+8.15. Caso não seja possível a entrega no prazo previsto, a empresa deverá requerer, 
+motivada e tempestivamente, a prorrogação do prazo, a qual somente ocorrerá se a 
+justificativa for aceita pelo IPREMB, ressalvados as situações de caso fortuito e força 
+
+[PÁGINA 30]
+ 
+30 
+ 
+maior. 
+ 
+9. CRITÉRIOS DE MEDIÇÃO E PAGAMENTO 
+9.1. Medição: 
+9.1.1 A medição dos serviços será realizada mediante a verificação da 
+disponibilização, ativação e manutenção das 12 (doze) licenças do ChatGPT Business 
+da OpenAI, observadas as condições estabelecidas neste Termo de Referência. 
+9.1.2. A fiscalização contratual verificará a efetiva disponibilização das licenças, a 
+regularidade do acesso à plataforma, a manutenção dos serviços de suporte técnico, bem 
+como o atendimento das demais obrigações assumidas pela Contratada. 
+9.1.3. A remu neração da Contratada compreenderá todos os custos necessários à 
+execução do objeto, incluindo o fornecimento das licenças, os serviços de intermediação 
+de pagamento, suporte técnico, gerenciamento da solução, atualizações disponibilizadas 
+pelo fabricante, encargos trabalhistas, previdenciários, tributários, fiscais, comerciais e 
+demais despesas inerentes à execução contratual, não sendo devido qualquer pagamento 
+adicional. 
+9.2. Liquidação: 
+9.2.1 O pagamento somente será autorizado após o atesto da execução do o bjeto pelo 
+fiscal do contrato, mediante verificação da conformidade dos serviços prestados; 
+9.2.2. Recebida a Nota Fiscal ou documento de cobrança equivalente, correrá o prazo 
+de 05 (cinco) dias úteis para fins de liquidação da despesa, prorrogável por igu al 
+período, mediante justificativa da autoridade competente. 
+9.2.3. Para fins de liquidação, o setor competente deverá verificar se a Nota Fiscal ou 
+documento de cobrança equivalente contém os elementos necessários e essenciais, 
+especialmente: 
+a) a data de emissão; 
+b) os dados da Contratada e da Contratante; 
+
+[PÁGINA 31]
+ 
+31 
+ 
+c) o número do contrato ou instrumento equivalente; 
+d) o período de referência da prestação dos serviços; 
+e) a descrição do objeto contratado; 
+f) o valor devido; 
+g) eventual destaque das retenções tributárias cabíveis. 
+9.2.4 Havendo erro na apresentação da Nota Fiscal ou documento de cobrança 
+equivalente, ou circunstância que impeça a liquidação da despesa, esta ficará 
+sobrestada até que a Contratada providencie as medidas saneadoras, reiniciando -se o 
+prazo após a comprovação da regularização da situação, sem ônus para a 
+Contratante. 
+9.2.5 A Nota Fiscal ou documento de cobrança equivalente deverá ser acompanhada 
+da comprovação da manutenção das condições de habilitação exigidas para a 
+contratação, observado o disposto no art. 68 da Lei Federal nº 14.133/2021. 
+9.2.6. Constatada irregularidade na documentação da Contratada, será concedido o 
+prazo de 05 (cinco) dias úteis para regularização ou apresentação de defesa, podendo 
+esse prazo ser prorrogado, uma úni ca vez, por igual período, a critério da 
+Administração. 
+9.2.7. No caso de atraso pelo CONTRATANTE, os valores devidos ao 
+CONTRATADO serão atualizados monetariamente entre o termo final do prazo de 
+pagamento até a data de sua efetiva realização, mediante ap licação do índice IPCA 
+de correção monetária.  
+9.3. Prazo e forma de pagamento: 
+9.3.1 O pagamento será efetuado no prazo de até 15 (quinze) dias úteis, contados da 
+conclusão da liquidação da despesa. 
+9.3.2 No caso de atraso imputável à Contratante, os valores devidos à Contratada 
+serão atualizados monetariamente entre o termo final do prazo de pagamento e a data 
+
+[PÁGINA 32]
+ 
+32 
+ 
+de sua efetiva realização, mediante aplicação do Índice Nacional de Preços ao 
+Consumidor Amplo – IPCA. 
+9.3.3 O pagamento será realizado por meio de ordem bancária, para crédito em 
+banco, agência e conta corrente de titularidade da Contratada. 
+9.3.4 A Contratada deverá informar os dados bancários quando da assinatura do 
+contrato ou sempre que houver alteração, permanecendo responsável pela atualização 
+dessas informações perante o IPREMB. 
+9.3.5 O pagamento somente será efetuado após o recebimento definitivo do objeto, o 
+atesto da fiscalização contratual e a verificação da regularidade fiscal, trabalhist a e 
+previdenciária da Contratada, observadas as condições estabelecidas neste Termo de 
+Referência e na legislação vigente. 
+ 
+10. FORMAS E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR 
+10.1. O critério de seleção do fornecedor será concluído após efetiva pesquisa de 
+preços, juntado aos autos. Contudo, o critério de julgamento será o de menor preço. 
+10.2. As exigências de habilitação estarão previstas no instrumento convocatório. Os 
+equipamentos ofertados deverão atender integralmente às especificações técnicas 
+definidas no Termo de Referência. 
+10.3. Qualificação técnica: 
+10.3.1 As licitantes deverão anexar ao sistema, após convocação da Agente de 
+Contratação, 01 (um) ou mais atestados de capacidade técnica, relativos à 
+QUALIFICAÇÃO TÉCNICA. 
+10.3.2 O atestado deverá ser emitido por pessoa jurídica de direito público ou 
+privado, contendo a identificação desta e deverá ser expedido em nome da licitante, 
+indicando o respectivo CNPJ. 
+10.3.3 O atestado deverá comprovar que a licitante executa ou executou, de forma 
+satisfatória, o fornecimento de  licenças de software por meio de subscrição ou outra 
+modalidade compatível com o objeto da contratação, incluindo, quando aplicável, 
+serviços de suporte técnico, gerenciamento da solução ou serviços correlatos, ou, ainda, 
+
+[PÁGINA 33]
+ 
+33 
+ 
+objeto de mesma natureza e compat ível em características, complexidade tecnológica e 
+operacional com o objeto desta contratação, atestando o bom desempenho e o 
+cumprimento a contento das obrigações contratuais. 
+10.3.4 Os atestados de capacidade técnica poderão ser apresentados em nome da 
+matriz ou da filial do fornecedor. 
+ 
+11. ESTIMATIVA DO VALOR DA CONTRATAÇÃO 
+11.1.  A estimativa do valor da Contratação será concluída após efetiva pesquisa de 
+preços, juntado aos autos, e será indicada no instrumento convocatório. 
+ 
+12. DA DOTAÇÃO ORÇAMENTÁRIA 
+12.1. Os recursos necessários ao cumprimento do presente instrumento correrão por 
+conta do recurso alocado nas dotações orçamentárias indicadas no instrumento 
+convocatório. 
+ 
+13. DO PRAZO DE VALIDADE DA PROPOSTA 
+13.1.  A validade da proposta deverá ser de no mínimo 60 (sessenta) dias. 
+ 
+14. DO REAJUSTE  
+14.1. Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano 
+(12 meses), contado da data do orçamento estimado.  
+14.2. Após o interregno de doze meses, os preços iniciais poderão ser reajustados, 
+aplicando-se o Índice Nacional de Preços ao Consumidor Amplo – IPCA, 
+exclusivamente para as obrigações iniciadas e concluídas após a ocorrência do fim da 
+vigência do presente contrato, desde que o período transcorrido seja superior a doze 
+meses. 
+14.3. Nos reajustes subsequente s ao primeiro, o interregno mínimo de um ano será 
+contado a partir dos efeitos financeiros do último reajuste. 
+14.4. O reajuste será realizado por Termo de Apostilamento. 
+
+[PÁGINA 34]
+ 
+34 
+ 
+ 
+15. DAS OBRIGAÇÕES DA CONTRATADA 
+15.1.  Além das responsabilidades estabelecidas neste Termo de Refe rência, na Lei 
+Federal de Licitações e Contrato, 14.133/2021, compete à CONTRATADA. 
+15.1.1.  Manter, durante toda a vigência do contrato, todas as condições de 
+habilitação exigidas à época da contratação, apresentando os documentos 
+comprobatórios sempre que solicitado pela CONTRATANTE. 
+15.1.2.  Emitir Nota Fiscal ou Fatura em nome da CONTRATANTE, de forma 
+discriminada, legível, sem rasuras e em conformidade com o prazo, as quantidades, 
+as especificações e o local estabelecidos neste Termo de Referência. 
+15.1.3. Responsabilizar-se pela qualidade, quantidade e regularidade do serviço 
+fornecido, garantindo o cumprimento integral das obrigações contratuais. 
+15.1.5. Prestar todos os esclarecimentos técnicos ou administrativos solicitados pela 
+CONTRATANTE, de forma clara, concisa e lógica, respondendo prontamente às 
+reclamações ou questionamentos, inclusive àqueles provenientes do fiscal do 
+processo administrativo. 
+15.1.6. Comunicar ao CONTRATANTE, com antecedência mínima de 48 (quarenta 
+e oito) horas da data prevista para a prestação do objeto, os motivos que 
+impossibilitem o cumprimento do prazo estipulado, apresentando a devida 
+comprovação. 
+15.2.  Apresentar as seguintes regularidades: 
+15.2.1. Certificado de Regularidade do Fundo de Garantia por Tempo de Serviço 
+– FGTS, fornecido pela CEF – Caixa Econômica Federal; 
+15.2.2. Certidão Negativa de Débitos Trabalhistas – CNDT; 
+15.2.3. Certidão de Débitos Relativos a Créditos Tributários Federais e à D ívida 
+Ativa da União; 
+15.2.4. Certidão de Débitos Relativos a Créditos Tributários Estaduais e à Dívida 
+Ativa do Estado; 
+15.2.5. Certidão de Débitos Relativos a Créditos Tributários Municipais e à 
+Dívida Ativa do Município. 
+
+[PÁGINA 35]
+ 
+35 
+ 
+15.3. Obedecer às instruções, normas, diretrizes e pro cedimentos estabelecidos pela 
+CONTRATANTE para o adequado fornecimento do objeto, apresentando as 
+informações e documentos que comprovem o fiel cumprimento das obrigações 
+pactuadas. 
+15.4. Reparar, corrigir, remover, reconstruir ou substituir, total ou parcialmen te e às 
+suas expensas, o objeto em que se verifiquem vícios, defeitos, incorreções ou falhas 
+técnicas, ainda que sob fiscalização da CONTRATANTE. 
+15.5. Estudar e avaliar previamente as especificações técnicas e documentos 
+fornecidos pela CONTRATANTE, sendo respo nsável pela entrega e pela qualidade do 
+serviço prestado, utilizando pessoal qualificado e procedimentos técnico -
+administrativos adequados, devendo ainda alertar à CONTRATANTE sobre quaisquer 
+inconsistências técnicas eventualmente identificadas. 
+15.6. Assumir a responsabilidade por todos os encargos e tributos diretos ou indiretos 
+que incidam ou venham a incidir sobre o objeto deste Termo de Referência. 
+15.7. Resguardar a CONTRATANTE de quaisquer infrações a direitos autorais, 
+patentes, marcas, know -how, registros ou s egredos comerciais, assumindo a 
+responsabilidade integral por prejuízos, inclusive despesas, custas e honorários 
+advocatícios decorrentes de medidas judiciais ou administrativas movidas contra a 
+CONTRATANTE por tais violações. 
+15.8. Assegurar a confidencialidade  das informações, dados, fórmulas e processos 
+utilizados ou compartilhados durante a execução do contrato, tratando -os como 
+segredos comerciais e confidenciais, e utilizando -os exclusivamente para os fins 
+contratuais, vedando seu repasse ou divulgação a terceiros. 
+15.9. Entregar o objeto contratado, responsabilizando -se também pelo transporte, 
+descarregamento e integridade do item desde o seu estabelecimento até o local de 
+entrega especificado. 
+15.10. Responsabilizar-se pelos danos e prejuízos causados diretamente à 
+CONTRATANTE ou a terceiros, por dolo, culpa ou falhas na execução do contrato, 
+sem que a fiscalização ou o acompanhamento da CONTRATANTE sirvam como 
+excludente ou redutor dessa responsabilidade. 
+
+[PÁGINA 36]
+ 
+36 
+ 
+15.11. Cumprir integralmente os requisitos definidos pela Lei Federal n º 13.709/2018 – 
+Lei Geral de Proteção de Dados Pessoais (LGPD), no que diz respeito ao tratamento de 
+dados pessoais, assegurando a proteção dos direitos fundamentais de liberdade, 
+privacidade e o livre desenvolvimento da personalidade da pessoa natural. 
+15.12. Tratar os dados pessoais eventualmente coletados, armazenados, acessados, 
+processados ou de qualquer forma utilizados no âmbito da execução contratual em 
+conformidade com a Lei Federal nº 13.709/2018 – Lei Geral de Proteção de Dados 
+Pessoais (LGPD) e demais normas aplicáveis à matéria. 
+15.13. Utilizar os dados e informações disponibilizados pela CONTRATANTE 
+exclusivamente para a execução do objeto contratual, observando os princípios da 
+finalidade, adequação, necessidade, segurança, transparência, prevenção e 
+responsabilização, vedada qualquer utilização para finalidade diversa. 
+15.14. Implementar e manter medidas técnicas, administrativas e organizacionais 
+adequadas à proteção das informações e dos dados tratados durante a execução 
+contratual, prevenindo acessos não autori zados, perda, alteração, divulgação, destruição 
+ou qualquer forma de tratamento inadequado ou ilícito. 
+15.15. Comunicar formalmente à CONTRATANTE, no prazo máximo de 24 (vinte e 
+quatro) horas, a ocorrência de qualquer incidente de segurança da informação ou 
+violação de dados pessoais relacionada à execução do contrato, informando a natureza 
+do incidente, os dados potencialmente afetados, os impactos identificados, as medidas 
+adotadas para sua contenção e as providências corretivas implementadas. 
+15.16. Assegurar que seus  empregados, representantes, prepostos, colaboradores e 
+eventuais subcontratados que tenham acesso às informações da CONTRATANTE 
+estejam sujeitos ao dever de confidencialidade e recebam orientações adequadas quanto 
+às obrigações relativas à proteção de dados pessoais e à segurança da informação. 
+15.17. Reter os dados pessoais apenas pelo período necessário ao cumprimento das 
+obrigações contratuais e legais, comprometendo -se a eliminar, anonimizar ou devolver 
+os dados à CONTRATANTE ao término da relação contratual,  quando aplicável, 
+ressalvadas as hipóteses legais de guarda obrigatória. 
+
+[PÁGINA 37]
+ 
+37 
+ 
+15.18. Não compartilhar, divulgar, transferir ou disponibilizar dados, documentos ou 
+informações da CONTRATANTE a terceiros sem prévia e expressa autorização da 
+Administração, ressalvadas as hipóteses previstas em lei. 
+15.19. Responder integralmente pelos danos causados à CONTRATANTE ou a 
+terceiros decorrentes do descumprimento das obrigações relativas à proteção de dados 
+pessoais, à segurança da informação ou ao dever de confidencialidade, sem pre juízo das 
+demais sanções administrativas, civis e penais cabíveis. 
+15.20. As obrigações relativas à confidencialidade, à proteção de dados pessoais e à 
+segurança da informação permanecerão vigentes mesmo após o encerramento da 
+execução contratual, enquanto perdur ar a posse, o acesso ou o tratamento de 
+informações obtidas em razão do contrato. 
+16. DAS OBRIGAÇÕES DA CONTRATANTE 
+16.1.  Acompanhar, fiscalizar e avaliar a execução do objeto deste Termo de 
+Referência, verificando o cumprimento das obrigações assumidas pela 
+CONTRATADA. 
+16.2.  Prestar as informações e os esclarecimentos necessários à execução do objeto 
+contratual, sempre que solicitados pela CONTRATADA. 
+16.3.  Verificar, no prazo fixado, a conformidade das licenças disponibilizadas, dos 
+acessos concedidos e dos serviços p restados com as especificações constantes deste 
+Termo de Referência e da proposta da CONTRATADA, para fins de recebimento 
+provisório e definitivo. 
+16.4.  Disponibilizar à CONTRATADA as informações, os dados e as condições 
+necessárias à adequada execução do objeto, observadas as normas internas de segurança 
+da informação e de acesso aos sistemas institucionais. 
+16.5.  Comunicar, por escrito, à CONTRATADA quaisquer irregularidades 
+verificadas na disponibilização das licenças, na prestação dos serviços de suporte 
+técnico, no gerenciamento da solução ou no funcionamento da plataforma, solicitando a 
+adoção das medidas corretivas necessárias para o fiel cumprimento das obrigações 
+contratuais. 
+
+[PÁGINA 38]
+ 
+38 
+ 
+16.6.  Designar servidor ou comissão responsável pelo acompanhamento e 
+fiscalização da execução contratual, nos termos da Lei Federal nº 14.133/2021. 
+16.7.  Efetuar o pagamento à CONTRATADA na forma e nos prazos estabelecidos 
+neste Termo de Referência, após o atesto da regular execução do objeto e o 
+cumprimento das condições previstas para liquidação da despesa. 
+16.8. O CONTRATANTE não responderá por quaisquer compromissos assumidos 
+pela CONTRATADA com terceiros, ainda que vinculados à execução do contrato, nem 
+por quaisquer danos causados a terceiros em decorrência de ato, omissão, culpa ou dolo 
+da CONTRATADA, de seus empregados, prepostos ou representantes. 
+ 
+17. ACOMPANHAMENTO DO CONTRATO 
+17.1.  A gestão do contrato será exercida por servidor formalmente designado pelo 
+Presidente do Instituto de Previdência Social do Município de Betim – IPREMB, 
+mediante Portaria. 
+17.2.  A fiscalização do contrato será exercida por servidor formalmente designado 
+pelo Presidente do Instituto de Previdência Social do Município de Betim – IPREMB, 
+mediante Portaria. 
+17.3. substituição do gestor e/ou do fiscal do contrato poderá ocorrer a qualquer 
+tempo, mediante nova Portaria expedida pelo Presidente do Instituto de Previdência 
+Social do Município de Betim – IPREMB, ou por mero apostilamento. 
+ 
+18. DO MODELO DE GESTÃO E FISCALIZAÇÃO DA EXECUÇÃO DO 
+OBJETO 
+18.1.  A prestação do objeto e o cumprimento do disposto neste instrumento serão 
+fiscalizados pelo IPREMB, por intermédio da Superintendência solicitante, que 
+acompanhará a execução do serviço contratado  de acordo com o determinado, 
+controlando os prazos estabelecidos para execução do mesmo e apresentação de fatura, 
+notificando à empresa contratada a respeito de quaisquer reclamações ou solicitações, 
+observadas, em especial, as disposições dos arts. 17 a 20 do Decreto municipal nº 
+
+[PÁGINA 39]
+ 
+39 
+ 
+44.825.2023 - regulamenta NLLC e as regras dos arts. 18 a 28 da Portaria IPREMB nº 
+343, de 01 de julho de 2025. 
+ 
+19. DA SUBCONTRATAÇÃO 
+19.1.  Não será admitida a subcontratação do objeto licitatório. 
+ 
+20. DA ALTERAÇÃO SUBJETIVA 
+20.1. É admissível a fusão, cisão ou incorporação da contratada com/em outra pessoa 
+jurídica, desde que sejam observados pela nova pessoa jurídica todos os requisitos de 
+habilitação exigidos na licitação original; sejam mantidas as demais cláusulas e 
+condições do contrato; não haja prejuízo à execução do objeto pactuado e haj a a 
+anuência expressa do IPREMB à continuidade do contrato. 
+22.  DAS SANÇÕES ADMINISTRATIVAS 
+22.1.  Comete infração administrativa, nos termos da Lei Federal nº 14.133, de 2021, 
+o contratado que: 
+22.1.1. der causa à inexecução parcial do contrato; 
+22.1.2. der causa à inexecução parcial do contrato que cause grave dano à 
+Administração ou ao funcionamento dos serviços públicos ou ao interesse 
+coletivo; 
+22.1.3. der causa à inexecução total do contrato 
+22.1.4. ensejar o retardamento da execução ou da entrega do objeto da 
+contratação sem motivo justificado 
+22.1.5. apresentar documentação falsa ou prestar declaração falsa durante a 
+execução do contrato 
+22.1.6. praticar ato fraudulento na execução do contrato 
+22.1.7. comportar-se de modo inidôneo ou cometer fraude de qualquer natureza; 
+
+[PÁGINA 40]
+ 
+40 
+ 
+22.1.8. praticar ato lesivo p revisto no art. 5º da Lei Federal nº 12.846, de 1º de 
+agosto de 2013. 
+22.2.  Serão aplicadas ao contratado que incorrer nas infrações acima descritas as 
+seguintes sanções. 
+I. Advertência, quando o contratado der causa à inexecução parcial do contrato, 
+sempre que não se justificar a imposição de penalidade mais grave 
+II. Impedimento de licitar e contratar, quando praticadas as condutas descritas nos 
+subitens 22.1.2., 22.1.3. e 22.1.4  deste Termo de Referência, sempre que não se 
+justificar a imposição de penalidade mais grave 
+III. . Declaração de inidoneidade para licitar e contratar, quando praticadas as 
+condutas descritas nos subitens 22.1.5., 22.1.6., 22.1.7. e 22.1.8. acima deste 
+Termo de Referência, bem como nos subitens 22.1.2., 22.1.3. e 22.1.4. que 
+justifiquem a imposição de penalidade mais grave 
+IV. Multa de 20% (vinte por cento) sobre o valor adjudicado, acaso descumpridos os 
+prazos estabelecidos neste Termo de Referência ou de inexecução parcial da 
+obrigação assumida. 
+V. Multa de 30% (trinta por cento) sobre o valor adjudicado, em caso de 
+inexecução total da obrigação assumida. 
+22.3. A aplicação das sanções previstas neste Contrato não exclui, em hipótese 
+alguma, a obrigação de reparação integral do dano causado ao Contratante. 
+22.3.1. Todas as sanções previstas neste Contrato pode rão ser aplicadas, 
+cumulativamente, com a multa 
+22.3.2. Antes da aplicação da multa será facultada a defesa do interessado no 
+prazo de 15 (quinze) dias úteis, contado da data de sua intimação; 
+22.3.3. Se a multa aplicada e as indenizações cabíveis forem superiores ao valo r 
+do pagamento, eventualmente, devido pelo Contratante ao Contratado, além da 
+perda desse valor, a diferença será descontada da garantia prestada ou será 
+cobrada judicialmente. 
+
+[PÁGINA 41]
+ 
+41 
+ 
+22.3.4. Antes ao encaminhamento à cobrança judicial, a multa poderá ser 
+recolhida, administrativamente, no prazo máximo de 30 (trinta) dias, a contar da 
+data do recebimento da comunicação enviada pela autoridade competente. 
+22.4. A aplicação das sanções realizar-se-á em processo administrativo que assegure o 
+contraditório e a ampla defesa ao Contr atado, observando-se o procedimento previsto 
+no caput e parágrafos do art. 158 da Lei nº 14.133, de 2021, para as penalidades de 
+impedimento de licitar e contratar e de declaração de inidoneidade para licitar ou 
+contratar; 
+22.5. Na aplicação das sanções serão considerados 
+a) a natureza e a gravidade da infração cometida; 
+b) as peculiaridades do caso concreto; 
+c) as circunstâncias agravantes ou atenuantes; 
+d) os danos que dela provierem para o Contratante; 
+e) a implantação ou o aperfeiçoamento de programa de integridade, conform e 
+normas e orientações dos órgãos de controle 
+22.6. Os atos previstos como infrações administrativas na Lei Federal nº 14.133, de 
+2021, ou em outras leis de licitações e contratos da Administração Pública que também 
+sejam tipificados como atos lesivos na Lei Fed eral nº 12.846, de 2013, serão apurados e 
+julgados conjuntamente, nos mesmos autos, observados o rito procedimental e 
+autoridade competente definido na referida Lei. 
+22.7. O Contratante deverá, no prazo máximo de 15 (quinze) dias úteis, contado da 
+data de aplicação da sanção, informar e manter atualizados os dados relativos às sanções 
+por ela aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas 
+e Suspensas (Ceis) e no Cadastro Nacional de Empresas Punidas (Cnep), instituídos no 
+âmbito do Poder Executivo Federal. 
+22.8. As autoridades competentes para aplicação de sanções e o procedimento de 
+penalização estão descritos na Portaria IPREMB nº 362/2025. 
+
+[PÁGINA 42]
+ 
+42 
+ 
+23. DA PROTEÇÃO E TRANSMISSÃO DE INFORMAÇÃO, DADOS 
+PESSOAIS E/OU BASE DE DADOS 
+23.1. O Contratado obriga-se ao dever de proteção, confidencialidade e sigilo de toda 
+informação, dados pessoais e/ou base de dados a que tenha acesso, inclusive em razão 
+de licenciamento ou da operação dos programas/sistemas, nos termos da Lei nº 
+13.709/2018, suas alterações e  regulamentações posteriores, durante o cumprimento do 
+objeto descrito no presente instrumento contratual. 
+23.2. O Contratado obriga -se a implementar medidas técnicas e administrativas 
+suficientes visando a segurança, a proteção, a confidencialidade e o sigilo d e toda 
+informação, dados pessoais e/ou base de dados a que tenha acesso a fim de evitar 
+acessos não autorizados, acidentes, vazamentos acidentais ou ilícitos que causem 
+destruição, perda, alteração, comunicação ou qualquer outra forma de tratamento não 
+previstos. 
+23.3. O Contratado deve assegurar-se de que todos os seus colaboradores, consultores 
+e/ou prestadores de serviços que, no exercício das suas atividades, tenham acesso e/ou 
+conhecimento da informação e/ou dos dados pessoais, respeitem o dever de proteção,  
+confidencialidade e sigilo. 
+23.4. O Contratado não poderá utilizar -se de informação, dados pessoais e/ou base de 
+dados a que tenha acesso, para fins distintos ao cumprimento do objeto deste 
+instrumento contratual. 
+23.5. Contratado não poderá disponibilizar e/ou trans mitir a terceiros, sem prévia 
+autorização escrita do Contratante, informação, dados pessoais e/ou base de dados a que 
+tenha acesso em razão do cumprimento do objeto deste instrumento contratual. 
+23.6. O Contratado obriga -se a fornecer informação, dados pessoais e/ou base de 
+dados estritamente necessários, quando da transmissão autorizada a terceiros, durante o 
+cumprimento do objeto descrito neste instrumento contratual. 
+23.7. O Contratado fica obrigado a devolver todos os documentos, registros e cópias 
+que contenham in formação, dados pessoais e/ou base de dados a que tenha tido acesso 
+durante a execução do cumprimento do objeto deste instrumento contratual, no prazo de 
+
+[PÁGINA 43]
+ 
+43 
+ 
+30 (trinta) dias, contados da data da ocorrência de qualquer uma das hipóteses de 
+extinção do contrato , restando autorizada a conservação apenas nas hipóteses 
+legalmente previstas. 
+23.8. Ao Contratado não será permitido deter cópias ou backups de informação, dados 
+pessoais e/ou base de dados a que tenha tido acesso durante a execução do cumprimento 
+do objeto deste instrumento contratual. 
+23.9. O Contratado deverá eliminar os dados pessoais a que tiver conhecimento ou 
+posse em razão do cumprimento do objeto deste instrumento contratual tão logo não 
+haja necessidade de realizar seu tratamento. 
+23.10. O Contratado deverá notific ar, imediatamente, o Contratante no caso de 
+vazamento, perda parcial ou total de informação, dados pessoais e/ou base de dados. 
+23.11. A notificação não eximirá o Contratado das obrigações e/ou sanções que possam 
+incidir em razão da perda de informação, dados pessoais e/ou base de dados. 
+23.12. O Contratado que descumprir nos termos da Lei nº 13.709/2018, suas alterações 
+e regulamentações posteriores, durante ou após a execução do objeto descrito no 
+presente instrumento contratual, fica obrigado a assumir total responsab ilidade e ao 
+ressarcimento por todo e qualquer dano e/ou prejuízo sofrido, incluindo sanções 
+aplicadas pela autoridade competente. 
+23.13. O Contratado fica obrigado a manter preposto para comunicação com o 
+Contratante para os assuntos pertinentes à Lei nº 13.709/ 2018, suas alterações e 
+regulamentações posteriores. 
+23.14. O dever de sigilo e confidencialidade, e as demais obrigações descritas na 
+presente cláusula, permanecerão em vigor após a extinção das relações entre o 
+Contratado e o Contratante, bem como entre o Contratado e seus colaboradores, 
+subcontratados, consultores e/ou prestadores de serviços, sob pena das sanções previstas 
+na Lei nº 13.709/20 18, suas alterações e regulamentações posteriores, salvo decisão 
+judicial contrária. 
+23.15. O não cumprimento de quaisquer das obrigações descritas nesta cláusula 
+sujeitará o Contratado a processo administrativo para apuração de responsabilidade e 
+
+[PÁGINA 44]
+ 
+44 
+ 
+consequente sanção, sem prejuízo de outras cominações cíveis e penais. 
+ 
+24. DAS DISPOSIÇÕES GERAIS 
+24.1. As especificações constantes neste Termo de Referência, quando for o caso, são 
+as mínimas exigidas, ficando a critério do CONTRATADO oferecer  produtos que 
+possuam características superiores aos informados, vedada a alteração das quantidades. 
+24.2. Será competente o Foro da Comarca de Betim, MG, Estado de Minas Gerais, 
+para dirimir questões oriundas deste Termo de Contrato ou execução de eventuais 
+ajustes não resolvidos na esfera administrativa, com renúncia de qualquer outro por 
+mais privilegiado seja. 
+ 
+ 
+Betim, 03 de agosto de 2026. 
+ 
+ 
+Edimar Caetano de Souza 
+Assessor IX 
+Matrícula 542468-7 
+Instituto de Previdência Social do Município de Betim - IPREMB 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[PÁGINA 45]
+ 
+45 
+ 
+APÊNDICE AO ANEXO I 
+MINUTA TERMO DE CONTRATO Nº ___/____ 
+ 
+PROCESSO ADMINISTRATIVO DE COMPRAS Nº ___/_____ 
+MODALIDADE Nº _______ 
+ 
+O INSTITUTO DE PREVIDÊ NCIA SOCIAL DO MUNIC ÍPIO DE BETIM – 
+IPREMB, com sede à Praça José Lino da Silva nº 144, Brasiléia, Betim – MG, CEP nº 
+32.600-308, inscrito no CNPJ sob o nº  07.842.278/0001-55, neste ato representado por 
+seu Presidente, ALICIO UMBELINO DA SILVA FILHO, doravante denominado 
+CONTRATANTE, e a empresa ___________________________ inscrita no CNPJ sob 
+o nº __________, sediada na Rua _________, nº ________, _______________, CEP nº 
+_______, neste ato representado por seus Sócios Administradores, ___________, 
+inscrito no CPF sob o nº __________e, _________ inscrito no CPF sob o nº _________, 
+doravante denominado CONTRATADO, conforme atos constitutivos da empresa, nos 
+autos tendo em vista o que no Processo Administrativo de Compras nº _________, e em 
+observância às disposições da Lei Federal nº 14.133, de 1º de abril de 2021, e demais 
+legislações aplicáveis, resolvem celebrar o presente Contrato de Prestação de Serviços, 
+decorrente da ___________________________, mediante as cláusulas e condições a 
+seguir enunciadas. 
+ 
+CLÁUSULA PRIMEIRA – DO OBJETO  
+1. DO OBJETO 
+1.1. O objeto do presente Termo de Referência é a Contratação de empresa 
+especializada para o fornecimento de 12 (doze) licenças do ChatGPT Business da 
+OpenAI, por meio de subscrição, pelo período de 12 (doze) meses, incluindo serviços 
+de intermediação de pagam ento, suporte técnico e gerenciamento da solução, destinado 
+ao atendimento da demanda do Instituto de Previdência Social do Município de Betim – 
+IPREMB, conforme condições e exigências estabelecidas neste Termo de Contrato e 
+especificações constantes da tabela abaixo. 
+
+[PÁGINA 46]
+ 
+46 
+ 
+Item Descrição Quan
+t. Unidade de Medida 
+01 
+Fornecimento de licença de uso do ChatGPT 
+Business da OpenAI, por meio de subscrição, 
+com vigência de 12 (doze) meses, incluindo 
+serviços de intermediação de pagamento, suporte 
+técnico e gerenciamento da solução. 
+12 LICENÇAS 
+1.2. A natureza do serviço objeto da presente  contratação enquadra-se na categoria 
+de serviços comuns, nos termos do art. 6º, inciso XIII da Lei nº 14.133/2021, uma vez 
+que se trata de solução tecnológica padronizada, fornecida em formato de assinatura 
+mensal/anual, com especificações usuais no merca do, sem necessidade de 
+desenvolvimento ou customização. 
+1.3. O serviço é enquadrado como continuado tendo em vista que a utilização das 
+licenças do CHATGPT BUSINESS da OpenAI requer um fornecimento contínuo e 
+ininterrupto ao longo do tempo, garantindo o acesso constante às atualizações, suporte 
+técnico e melhorias da solução, sendo a vigência plurianual mais vantajosa 
+considerando a necessidade de planejamento a longo prazo, otimização de custos 
+operacionais e a manutenção da continuidade do serviço sem interrup ções, além de 
+permitir a negociação de melhores condições financeiras e de suporte técnico mais 
+adequados às demandas da empresa durante o período contratual. 
+ 
+CLÁUSULA SEGUNDA – DA VIGÊNCIA E PRORROGAÇÃO 
+2.1. A vigência do presente contrato será de 12 (do ze) meses contados a partir da 
+assinatura. 
+2.2. O contrato poderá ser prorrogado sucessivamente, até o limite de 60 (sessenta) 
+meses, nos termos do art. 107 da Lei Federal nº 14.133/2021, desde que demonstrada a 
+vantajosidade para a Administração, mantidas as condições de habilitação da contratada 
+e observados os demais requisitos legais e contratuais. 
+ 
+CLÁUSULA TERCEIRA – DO VALOR  
+3.1. O valor total da contratação é de R$ _________. 
+3.2. No valor acima estão incluídas todas as despesas ordinárias diretas e indiretas 
+decorrentes da execução do objeto, inclusive tributos e/ou impostos, encargos sociais, 
+
+[PÁGINA 47]
+ 
+47 
+ 
+trabalhistas, previdenciários, fiscais e comerciais incidentes, taxa de administração, 
+frete, seguro e outros necessários ao cumprimento integral do objeto da contratação. 
+ 
+CLÁUSULA QUARTA – DA EXECUÇÃO, GESTÃO, PRAZOS, CONDIÇÕES, 
+ENTREGA E RECEBIMENTO 
+4.1. O regime de execução contratual, os modelos de gestão e de execução, os prazos 
+e condições de entrega e conclusão, observação e recebimento do objeto estão  previstos 
+no Termo de Referência. 
+ 
+CLÁUSULA QUINTA – DA SUBCONTRATAÇÃO 
+5.1. A subcontratação somente será possível se prevista no Termo de Referência. 
+ 
+CLÁUSULA SEXTA – DO PAGAMENTO  
+6.1. O prazo para pagamento demais condições para pagamento estão previstos no 
+Termo de Referência. 
+CLÁUSULA SÉTIMA – DO REAJUSTE 
+7.1. Os preços inicialmente contratados são fixos e irreajustáveis no prazo de um ano 
+(12 meses), contado da data do orçamento estimado. 
+7.2. Após o interregno de doze meses, os preços iniciai s poderão ser reajustados, 
+aplicando-se o Índice Nacional de Preços ao Consumidor Amplo – IPCA, 
+exclusivamente para as obrigações iniciadas e concluídas após a ocorrência do fim da 
+vigência do presente contrato, desde que o período transcorrido seja superi or a doze 
+meses. 
+7.3. Nos reajustes subsequentes ao primeiro, o interregno mínimo de um ano será 
+contado a partir dos efeitos financeiros do último reajuste. 
+7.4. O reajuste será realizado por Termo de Apostilamento. 
+ 
+CLÁUSULA OITAVA – DAS OBRIGAÇÕES DO CONTRATADO 
+8.1. Além das responsabilidades estabelecidas neste Termo de Referência, na Lei 
+Federal de Licitações e Contrato, 14.133/2021, compete à CONTRATADA: 
+
+[PÁGINA 48]
+ 
+48 
+ 
+8.1.1. Manter, durante toda a vigência do contrato, todas as condições de habilitação 
+exigidas à é poca da contratação, apresentando os documentos comprobatórios sempre 
+que solicitado pela CONTRATANTE. 
+8.1.2. Emitir Nota Fiscal ou Fatura em nome da CONTRATANTE, de forma 
+discriminada, legível, sem rasuras e em conformidade com o prazo, as quantidades, as  
+especificações e o local estabelecidos neste Termo de Referência. 
+8.1.3. Responsabilizar-se pela qualidade, quantidade e regularidade do serviço 
+fornecido, garantindo o cumprimento integral das obrigações contratuais. 
+8.1.4. Prestar todos os esclareciment os técnicos ou administrativos solicitados pela 
+CONTRATANTE, de forma clara, concisa e lógica, respondendo prontamente às 
+reclamações ou questionamentos, inclusive àqueles provenientes do fiscal do processo 
+administrativo. 
+8.1.5. Comunicar ao CONTRATANTE, com antecedência mínima de 48 (quarenta e 
+oito) horas da data prevista para a prestação do objeto, os motivos que impossibilitem o 
+cumprimento do prazo estipulado, apresentando a devida comprovação. 
+8.1.6. Apresentar as seguintes regularidades. 
+8.1.6.1 Certificado de Regularidade do Fundo de Garantia por Tempo de Serviço 
+– FGTS, fornecido pela CEF – Caixa Econômica Federal; 
+8.1.6.2 Certidão Negativa de Débitos Trabalhistas – CNDT; 
+8.1.6.3. Certidão de Débitos Relativos a Créditos Tributários Federais e à Dívida 
+Ativa da União; 
+8.1.6.4. Certidão de Débitos Relativos a Créditos Tributários Estaduais e à 
+Dívida Ativa do Estado; 
+8.1.6.5. Certidão de Débitos Relativos a Créditos Tributários Muni cipais e à 
+Dívida Ativa do Município. 
+8.1.7. Obedecer às instruções, normas, diretrizes e procedimentos estabelecidos pela 
+CONTRATANTE para o adequado fornecimento do objeto, apresentando as 
+informações e documentos que comprovem o fiel cumprimento das obr igações 
+pactuadas. 
+
+[PÁGINA 49]
+ 
+49 
+ 
+8.1.8. Assumir a responsabilidade por todos os encargos e tributos diretos ou 
+indiretos que incidam ou venham a incidir sobre o objeto deste Termo de Referência. 
+8.1.9. Resguardar a CONTRATANTE de quaisquer infrações a direitos autorais,  
+patentes, marcas, know -how, registros ou segredos comerciais, assumindo a 
+responsabilidade integral por prejuízos, inclusive despesas, custas e honorários 
+advocatícios decorrentes de medidas judiciais ou administrativas movidas contra a 
+CONTRATANTE por tais violações. 
+8.1.10. Assegurar a confidencialidade das informações, dados, fórmulas e processos 
+utilizados ou compartilhados durante a execução do contrato, tratando -os como 
+segredos comerciais e confidenciais, e utilizando -os exclusivamente para os fins 
+contratuais, vedando seu repasse ou divulgação a terceiros. 
+8.1.11. Responsabilizar-se pelos danos e prejuízos causados diretamente à 
+CONTRATANTE ou a terceiros, por dolo, culpa ou falhas na execução do contrato, 
+sem que a fiscalização ou o acompanhamento da CONTRATANTE sirvam como 
+excludente ou redutor dessa responsabilidade. 
+8.1.12. Cumprir integralmente os requisitos definidos pela Lei Federal nº 
+13.709/2018 – Lei Geral de Proteção de Dados Pessoais (LGPD), no que diz respeito 
+ao tratamento de dados pess oais, assegurando a proteção dos direitos fundamentais 
+de liberdade, privacidade e o livre desenvolvimento da personalidade da pessoa 
+natural. 
+8.1.13. Tratar os dados pessoais eventualmente coletados, armazenados, acessados, 
+processados ou de qualquer forma utilizados no âmbito da execução contratual em 
+conformidade com a Lei Federal nº 13.709/2018 – Lei Geral de Proteção de Dados 
+Pessoais (LGPD) e demais normas aplicáveis à matéria. 
+8.1.14. Utilizar os dados e informações disponibilizados pela CONTRATA NTE 
+exclusivamente para a execução do objeto contratual, observando os princípios da 
+finalidade, adequação, necessidade, segurança, transparência, prevenção e 
+responsabilização, vedada qualquer utilização para finalidade diversa. 
+8.1.15. Implementar e mant er medidas técnicas, administrativas e organizacionais 
+adequadas à proteção das informações e dos dados tratados durante a execução 
+
+[PÁGINA 50]
+ 
+50 
+ 
+contratual, prevenindo acessos não autorizados, perda, alteração, divulgação, destruição 
+ou qualquer forma de tratamento inadequado ou ilícito. 
+8.1.16. Comunicar formalmente à CONTRATANTE, no prazo máximo de 24 (vinte 
+e quatro) horas, a ocorrência de qualquer incidente de segurança da informação ou 
+violação de dados pessoais relacionada à execução do contrato, informando a natu reza 
+do incidente, os dados potencialmente afetados, os impactos identificados, as medidas 
+adotadas para sua contenção e as providências corretivas implementadas. 
+8.1.17. Assegurar que seus empregados, representantes, prepostos, colaboradores e 
+eventuais s ubcontratados que tenham acesso às informações da CONTRATANTE 
+estejam sujeitos ao dever de confidencialidade e recebam orientações adequadas quanto 
+às obrigações relativas à proteção de dados pessoais e à segurança da informação. 
+8.1.18. Reter os dados pes soais apenas pelo período necessário ao cumprimento das 
+obrigações contratuais e legais, comprometendo -se a eliminar, anonimizar ou devolver 
+os dados à CONTRATANTE ao término da relação contratual, quando aplicável, 
+ressalvadas as hipóteses legais de guarda obrigatória. 
+8.1.19. Não compartilhar, divulgar, transferir ou disponibilizar dados, documentos ou 
+informações da CONTRATANTE a terceiros sem prévia e expressa autorização da 
+Administração, ressalvadas as hipóteses previstas em lei. 
+8.1.20. Responder int egralmente pelos danos causados à CONTRATANTE ou a 
+terceiros decorrentes do descumprimento das obrigações relativas à proteção de dados 
+pessoais, à segurança da informação ou ao dever de confidencialidade, sem prejuízo das 
+demais sanções administrativas, civis e penais cabíveis. 
+8.1.21. As obrigações relativas à confidencialidade, à proteção de dados pessoais e à 
+segurança da informação permanecerão vigentes mesmo após o encerramento da 
+execução contratual, enquanto perdurar a posse, o acesso ou o tratament o de 
+informações obtidas em razão do contrato. 
+ 
+CLÁUSULA NONA – DAS OBRIGAÇÕES DO CONTRATANTE 
+9.1. Além das responsabilidades estabelecidas neste Termo de Referência, na Lei 
+Federal de Licitações e Contrato, 14.133/2021, compete à CONTRATANTE: 
+
+[PÁGINA 51]
+ 
+51 
+ 
+9.1.1.  Acompanhar, fiscalizar e avaliar a execução do objeto deste Termo de 
+Contrato, verificando o cumprimento das obrigações assumidas pela 
+CONTRATADA. 
+9.1.2.  Prestar as informações e os esclarecimentos necessários à execução do objeto 
+contratual, sempre que solicitados pela CONTRATADA. 
+9.1.3. Verificar, no prazo fixado, a conformidade das licenças disponibilizadas, dos 
+acessos concedidos e dos serviços prestados com as especificações constantes deste 
+Termo de Referência e da proposta da CONTRATADA, para fins  de recebimento 
+provisório e definitivo. 
+9.1.4. Disponibilizar à CONTRATADA as informações, os dados e as condições 
+necessárias à adequada execução do objeto, observadas as normas internas de 
+segurança da informação e de acesso aos sistemas institucionais. 
+9.1.5. Comunicar, por escrito, à CONTRATADA quaisquer irregularidades 
+verificadas na disponibilização das licenças, na prestação dos serviços de suporte 
+técnico, no gerenciamento da solução ou no funcionamento da plataforma, 
+solicitando a adoção das medid as corretivas necessárias para o fiel cumprimento das 
+obrigações contratuais. 
+9.1.6. Designar servidor ou comissão responsável pelo acompanhamento e 
+fiscalização da execução contratual, nos termos da Lei Federal nº 14.133/2021. 
+9.1.7. Efetuar o pagamento à  CONTRATADA na forma e nos prazos estabelecidos 
+neste Termo de Referência, após o atesto da regular execução do objeto e o 
+cumprimento das condições previstas para liquidação da despesa. 
+9.1.8. O CONTRATANTE não responderá por quaisquer compromissos assumi dos 
+pela CONTRATADA com terceiros, ainda que vinculados à execução do contrato, 
+nem por quaisquer danos causados a terceiros em decorrência de ato, omissão, culpa 
+ou dolo da CONTRATADA, de seus empregados, prepostos ou representantes. 
+ 
+CLÁUSULA DÉCIMA – DA GARANTIA DE EXECUÇÃO  
+10.1. Não haverá exigência de garantia contratual da execução. 
+ 
+
+[PÁGINA 52]
+ 
+52 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA – DAS INFRAÇÕES E SANÇÕES 
+ADMINISTRATIVAS 
+11.1. Comete infração administrativa, nos termos da Lei Federal nº 14.133, de 2021, o 
+contratado que: 
+ 
+a) der causa à inexecução parcial do contrato; 
+b) der causa à inexecução parcial do contrato que cause grave dano à 
+Administração ou ao funcionamento dos serviços públicos ou ao interesse 
+coletivo; 
+c) der causa à inexecução total do contrato; 
+d) ensejar o  retardamento da execução ou da entrega do objeto da 
+contratação sem motivo justificado; 
+e) apresentar documentação falsa ou prestar declaração falsa durante a 
+execução do contrato; 
+f) praticar ato fraudulento na execução do contrato; 
+g) comportar-se de modo inidôneo ou cometer fraude de qualquer natureza; 
+h) praticar ato lesivo previsto no art. 5º da Lei Federal nº 12.846, de 1º de 
+agosto de 2013. 
+11.2. Serão aplicadas ao contratado que incorrer nas infrações acima descritas as 
+seguintes sanções: 
+I. Advertência, quando o contratado der causa à inexecução parcial do 
+contrato, sempre que não se justificar a imposição de penalidade mais grave; 
+II. Impedimento de licitar e contratar, quando praticadas as condutas 
+descritas nas alíneas “b”, “c” e “d” do subitem acima deste Contrato, sempre 
+que não se justificar a imposição de penalidade mais grave; 
+III.  Declaração de inidoneidade para licitar e contratar, quando 
+praticadas as condutas descritas nas alíneas “e”, “f”, “g” e “h” do subitem 
+acima deste Contrato, bem como nas alíneas “b”, “c” e “d”, que justifiquem 
+a imposição de penalidade mais grave; 
+
+[PÁGINA 53]
+ 
+53 
+ 
+IV. Multa de 20% (vinte por cento) sobre o valor adjudicado, acaso 
+descumpridos os prazos estabelecidos neste Termo de Referência ou de 
+inexecução parcial da obrigação assumida;  
+V. Multa de 30% (trinta por cento) sobre o valor adjudicado, em caso de 
+inexecução total da obrigação assumida. 
+ 
+11.3. A aplicação das sanções previstas neste Contrato não exclui, em hipótese 
+alguma, a obrigação de reparação integral do dano causado ao Contratante. 
+11.3.1. Todas as sanções previstas neste Contrato poderão ser aplicadas, 
+cumulativamente, com a multa; 
+11.3.2. Antes da aplicação da multa será facultada a defesa do interessado 
+no prazo de 15 (quinze) dias úteis, contado da data de sua intimação; 
+11.3.3. Se a multa aplicada e as indenizações cabíveis forem superiores 
+ao valor do pagamento, eventualmente, devido pelo Contratante ao 
+Contratado, além da perda desse valor, a diferença será descontada da 
+garantia prestada ou será cobrada judicialmente. 
+11.3.4. Antes ao encaminhamento à cobrança judicial, a multa poderá ser 
+recolhida, administrativamente, no prazo máximo de 30 (trinta) dias, a 
+contar da data do recebimento da comunicação enviada pela autoridade 
+competente. 
+11.4. A aplicação das sanções realizar-se-á em processo administrativo que assegure o 
+contraditório e a ampla defesa ao Contratado, observando -se o procedimento previsto 
+no caput e parágrafos do art. 158 da Lei nº 14.133, de 2021, para as penalidades de 
+impedimento de lic itar e contratar e de declaração de inidoneidade para licitar ou 
+contratar. 
+11.5. Na aplicação das sanções serão considerados: 
+ 
+a) a natureza e a gravidade da infração cometida; 
+b) as peculiaridades do caso concreto; 
+c) as circunstâncias agravantes ou atenuantes; 
+
+[PÁGINA 54]
+ 
+54 
+ 
+d) os danos que dela provierem para o Contratante; 
+e) a implantação ou o aperfeiçoamento de programa de integridade, 
+conforme normas e orientações dos órgãos de controle. 
+11.6. Os atos previstos como infrações administrativas na Lei Federal nº 14.133,  de 
+2021, ou em outras leis de licitações e contratos da Administração Pública que também 
+sejam tipificados como atos lesivos na Lei Federal nº 12.846, de 2013, serão apurados e 
+julgados conjuntamente, nos mesmos autos, observados o rito procedimental e 
+autoridade competente definido na referida Lei. 
+11.7.  O Contratante deverá, no prazo máximo de 15 (quinze) dias úteis, contado da 
+data de aplicação da sanção, informar e manter atualizados os dados relativos às sanções 
+por ela aplicadas, para fins de publicidade no Cadastro Nacional de Empresas Inidôneas 
+e Suspensas (Ceis) e no Cadastro Nacional de Empresas Punidas (Cnep), instituídos no 
+âmbito do Poder Executivo Federal. 
+ 
+CLÁUSULA DÉCIMA SEGUNDA – PROTEÇÃO DE DADOS PESSOAIS 
+12.1. O Contratado obriga -se ao dever de proteção, confidencialidade e sigilo de toda  
+informação, dados pessoais e/ou base de dados a que tenha acesso, inclusive em razão 
+de licenciamento ou da operação dos programas/sistemas, nos termos da Lei nº 
+13.709/2018, suas alterações e regulamentações posteriores, durante o cumprimento do 
+objeto descrito no presente instrumento contratual. 
+12.2. O Contratado obriga -se a implementar medidas técnicas e administrativas 
+suficientes visando a segurança, a proteção, a confidencialidade e o sigilo de toda 
+informação, dados pessoais e/ou base de dados a qu e tenha acesso a fim de evitar 
+acessos não autorizados, acidentes, vazamentos acidentais ou ilícitos que causem 
+destruição, perda, alteração, comunicação ou qualquer outra forma de tratamento não 
+previstos. 
+12.3. O Contratado deve assegurar -se de que todos  os seus colaboradores, consultores 
+e/ou prestadores de serviços que, no exercício das suas atividades, tenham acesso e/ou 
+conhecimento da informação e/ou dos dados pessoais, respeitem o dever de proteção, 
+confidencialidade e sigilo. 
+
+[PÁGINA 55]
+ 
+55 
+ 
+12.4. O Contratado não  poderá utilizar-se de informação, dados pessoais e/ou base de 
+dados a que tenha acesso, para fins distintos ao cumprimento do objeto deste 
+instrumento contratual. 
+12.5. Contratado não poderá disponibilizar e/ou transmitir a terceiros, sem prévia 
+autorização escrita do Contratante, informação, dados pessoais e/ou base de dados a que 
+tenha acesso em razão do cumprimento do objeto deste instrumento contratual. 
+12.6. O Contratado obriga-se a fornecer informação, dados pessoais e/ou base de dados 
+estritamente n ecessários, quando da transmissão autorizada a terceiros, durante o 
+cumprimento do objeto descrito neste instrumento contratual. 
+12.7. O Contratado fica obrigado a devolver todos os documentos, registros e cópias 
+que contenham informação, dados pessoais e/ ou base de dados a que tenha tido acesso 
+durante a execução do cumprimento do objeto deste instrumento contratual, no prazo de 
+30 (trinta) dias, contados da data da ocorrência de qualquer uma das hipóteses de 
+extinção do contrato, restando autorizada a con servação apenas nas hipóteses 
+legalmente previstas. 
+12.8. Ao Contratado não será permitido deter cópias ou backups de informação, dados 
+pessoais e/ou base de dados a que tenha tido acesso durante a execução do cumprimento 
+do objeto deste instrumento contratual. 
+12.9. O Contratado deverá eliminar os dados pessoais a que tiver conhecimento ou 
+posse em razão do cumprimento do objeto deste instrumento contratual tão logo não 
+haja necessidade de realizar seu tratamento. 
+12.10. O Contratado deverá notificar, imed iatamente, o Contratante no caso de 
+vazamento, perda parcial ou total de informação, dados pessoais e/ou base de dados. 
+12.11. A notificação não eximirá o Contratado das obrigações e/ou sanções que possam 
+incidir em razão da perda de informação, dados pessoais e/ou base de dados. 
+12.12. O Contratado que descumprir, nos termos da Lei nº 13.709/2018, suas alterações 
+e regulamentações posteriores, durante ou após a execução do objeto descrito no 
+presente instrumento contratual, fica obrigado a assumir total re sponsabilidade e ao 
+ressarcimento por todo e qualquer dano e/ou prejuízo sofrido, incluindo sanções 
+aplicadas pela autoridade competente. 
+
+[PÁGINA 56]
+ 
+56 
+ 
+12.13. O Contratado fica obrigado a manter preposto para comunicação com o 
+Contratante para os assuntos pertinentes à Lei nº 13.709/2018, suas alterações e 
+regulamentações posteriores. 
+12.14. O dever de sigilo e confidencialidade, e as demais obrigações descritas na 
+presente cláusula, permanecerão em vigor após a extinção das relações entre o 
+Contratado e o Contratante, b em como entre o Contratado e seus colaboradores, 
+subcontratados, consultores e/ou prestadores de serviços, sob pena das sanções previstas 
+na Lei nº 13.709/2018, suas alterações e regulamentações posteriores, salvo decisão 
+judicial contrária. 
+12.15. O não c umprimento de quaisquer das obrigações descritas nesta cláusula 
+sujeitará o Contratado a processo administrativo para apuração de responsabilidade e 
+consequente sanção, sem prejuízo de outras cominações cíveis e penais. 
+12.16. Observadas sempre as política s de privacidade e termos da OpenAI, 
+especialmente quanto à localização internacional de dados, nos termos do art. 33 da 
+LGPD” 
+ 
+ 
+CLÁUSULA DÉCIMA TERCEIRA – DA EXTINÇÃO CONTRATUAL 
+13.1. O contrato poderá ser extinto antes do prazo nele fixado, sem ônus para  o 
+Contratante, quando este não dispuser de créditos orçamentários para sua continuidade 
+ou quando entender que o contrato não mais lhe oferece vantagem. 
+13.1.2. A extinção nesta hipótese ocorrerá na próxima data de aniversário 
+do contrato, desde que haja a notificação do contratado, pelo contratante, 
+nesse sentido, com pelo menos 30 (trinta) dias de antecedência desse dia. 
+13.1.3. Caso a notificação da não -continuidade do contrato de que trata 
+este subitem ocorra com menos de 02 (dois) meses da data de aniversário, a 
+extinção contratual ocorrerá após 02 (dois) meses da data da comunicação. 
+13.2. O contrato poderá ser extinto antes de cumpridas as obrigações nele estipul adas, 
+ou antes do prazo nele fixado, por algum dos motivos previstos no artigo 137 da Lei 
+Federal nº 14.133/21, bem como, amigavelmente, assegurados o contraditório e a ampla 
+defesa. 
+
+[PÁGINA 57]
+ 
+57 
+ 
+13.3. O contrato poderá ser extinto caso se constate que o Contratado man tém vínculo 
+de natureza técnica, comercial, econômica, financeira, trabalhista ou civil com dirigente 
+do órgão ou entidade Contratante ou com agente público que tenha desempenhado 
+função na licitação ou atue na fiscalização ou na gestão do Contrato, ou que  deles seja 
+cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro 
+grau (art. 14, inciso IV, da Lei Federal n.º 14.133, de 2021). 
+ 
+CLÁUSULA DÉCIMA QUARTA – DA ADEQUAÇÃO ORÇAMENTÁRIA 
+14.1. As despesas decorrentes da presente contratação correrão à conta de recursos 
+específicos consignados no orçamento do Instituto na seguinte dotação: 
+______._______.________._____ 
+14.2. A dotação relativa aos exercícios financeiros subsequentes será indicada após 
+aprovação da Lei Orça mentária respectiva e liberação dos créditos correspondentes, 
+mediante aditivo. 
+ 
+CLÁUSULA DÉCIMA QUINTA – DOS CASOS OMISSOS 
+15.1. Os casos omissos serão decididos pelo contratante, segundo as disposições 
+contidas na Lei Federal nº 14.133, de 2021, e demais  Normas Federais aplicáveis e, 
+subsidiariamente, segundo as disposições contidas na Lei Federal nº 8.078, de 1990 
+“Código de Defesa do Consumidor” e normas e princípios gerais dos contratos. 
+ 
+CLÁUSULA DÉCIMA SEXTA – DAS ALTERAÇÕES  
+16.1. Eventuais alteraçõ es contratuais reger -se-ão pela disciplina dos arts. 124 e 
+seguintes da Lei Federal nº 14.133, de 2021. 
+16.2. O Contratado é obrigado a aceitar, nas mesmas condições contratuais, os 
+acréscimos ou supressões que se fizerem necessário, até o limite de 25% (v inte e cinco 
+por cento) do valor inicial atualizado do contrato. 
+ 
+CLÁUSULA DÉCIMA SÉTIMA – INTIMAÇÕES, NOTIFICAÇÕES E 
+COMUNICAÇÕES 
+
+[PÁGINA 58]
+ 
+58 
+ 
+17.1 A Contratada concorda em receber intimações, notificações ou qualquer forma de 
+comunicação da Contratante por meio do correio eletrônico adiante informado: 
+E-mail: ___________@______ 
+17.2 A Contratada obriga-se a informar à Contratante acerca de qualquer atualização ou 
+mudança de correio eletrônico, durante toda a vigência contratual, não se 
+responsabilizando a Contratante por prejuízos decorrentes de sua inércia. 
+ 
+CLÁUSULA DÉCIMA OITAVA – DA PUBLICAÇÃO 
+18.1. Incumbirá ao Contratante divulgar o presente instrumento no Portal Nacional de 
+Contratações Públicas (PNCP), na forma prevista no art. 94 da Lei Federal 14.133, de 
+2021, bem como no respectivo sítio oficial na Internet, em atenção ao art. 91, caput, da 
+Lei Federal n.º 14.133, de 2021. 
+ 
+CLÁUSULA DÉCIMA NONA – DA VINCULAÇÃO 
+19.1. Vinculam esta contratação, independente de transcrição: 
+19.1.1. O Termo de Referência; 
+29.1.2. O instrumento convocatório  
+19.1.3. A proposta 
+19.1.4. Eventuais anexos dos documentos supracitados. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[PÁGINA 59]
+ 
+59 
+ 
+CLÁUSULA VIGÊSIMA – DO FORO 
+20.1. Fica eleito o Foro da Comarca de Betim, Estado de Minas Gerais, para dirimir os 
+litígios que decorrerem da execução des te Contrato que não puderem ser compostos 
+pela conciliação, conforme art. 92, §1º, da Lei Federal nº 14.133/21. 
+ 
+Local e data. 
+ 
+_____________________________________________ 
+REPRESENTANTE DA CONTRATADA 
+ 
+ALICIO UMBELINO DA SILVA FILHO 
+PRESIDENTE DO IPREMB 
+ 
+TESTEMUNHAS: 
+ 
+TESTEMUNHA 01: _________________________ 
+ 
+TESTEMUNHA 02: _________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+[PÁGINA 60]
+ 
+60 
+ 
+ 
+ 
+ 
+APÊNDICE ANEXO II 
+ESTUDO TÉCNICO PRELIMINAR 06/2026 
+ 
+INFORMAÇÕES BÁSICAS 
+ 
+Informações Básicas 
+Base legal: Lei Federal nº 14.133/21 
+Categoria do objeto ☐ Bens     ☒ Serviços     ☐ Obras e serviços Especiais de 
+Engenharia    ☐ Locação de Imóveis 
+☐ Contratação ☐ Outros:  
+Observações  
+ 
+Área Requisitante 
+ 
+Superintendência Administrativa. 
+ 
+ 
+Descrição da necessidade 
+A Administração Pública possui o dever constitucional de assegurar a adequada 
+prestação dos serviços administrativos, garantindo a eficiência, a continuidade e a 
+regularidade das atividades institucionais, especialmente no âmbito de entidades como o 
+Instituto de Previdência Social do Município de Betim – IPREMB, cujas rotinas 
+envolvem processos administrativos complexos, elevado volume de informações e a 
+gestão de dados sensíveis e de caráter legal. 
+Nesse contexto, identifica -se a necessidade institucional de dispor de ferramentas 
+tecnológicas capazes de apoiar as atividades intelectuais, analíticas e administrativas 
+desenvolvidas pela Autarquia, contribuindo para a organização, produção, análise e 
+tratamento de informações essenciais à execuçã o das atribuições institucionais. A 
+crescente complexidade das demandas administrativas e normativas exige maior 
+
+[PÁGINA 61]
+ 
+61 
+ 
+agilidade, padronização e precisão na elaboração de documentos, relatórios, pareceres, 
+comunicações oficiais e demais expedientes internos. 
+A n ecessidade decorre do volume expressivo e da diversidade de informações 
+produzidas, recebidas e processadas diariamente no IPREMB, incluindo processos 
+administrativos, atos normativos, relatórios de gestão, respostas a órgãos de controle, 
+comunicações institucionais e documentos relacionados ao atendimento aos segurados e 
+beneficiários. A adequada análise e sistematização dessas informações são fundamentais 
+para garantir a continuidade das atividades, a eficiência dos fluxos de trabalho, o 
+controle interno, a rastreabilidade das decisões e a conformidade com as normas legais e 
+regulatórias aplicáveis. 
+Além disso, a utilização de recursos tecnológicos adequados permite à Autarquia 
+reduzir o retrabalho, otimizar o tempo despendido em atividades repetitivas ou 
+operacionais e mitigar riscos associados a atrasos na tramitação processual, falhas na 
+padronização de documentos e inconsistências na produção de informações. Tais 
+ferramentas contribuem para o fortalecimento da gestão administrativa, para a melhoria 
+da q ualidade das entregas institucionais e para a segurança no tratamento das 
+informações. 
+A inexistência ou insuficiência de instrumentos tecnológicos de apoio às atividades 
+administrativas e analíticas compromete a eficiência das rotinas institucionais, 
+sobrecarrega os recursos humanos disponíveis e pode impactar negativamente a 
+qualidade e a tempestividade dos serviços prestados à sociedade. Nesse sentido, a 
+identificação da presente necessidade visa assegurar que o IPREMB disponha de meios 
+adequados para o desempenho eficaz, contínuo e seguro de suas funções institucionais. 
+Dessa forma, a necessidade ora identificada consiste em dotar o IPREMB de recursos 
+tecnológicos compatíveis com as exigências contemporâneas da Administração Pública, 
+como instrumento ess encial para a operacionalização das atividades administrativas e 
+técnicas da Autarquia, promovendo eficiência, confiabilidade e qualidade na gestão da 
+
+[PÁGINA 62]
+ 
+62 
+ 
+informação, em consonância com os princípios da legalidade, do planejamento, da 
+eficiência e da continuid ade do serviço público, bem como com as disposições da Lei 
+Federal nº 14.133/2021 e com as boas práticas de governança e gestão pública. 
+Demonstração de previsão da contratação no plano de contratações anual – PCA.  
+ 
+A contratação está devidamente prevista e registrada sob o item 159 do PCA 2026. 
+ 
+Requisitos da Contratação 
+A solução deverá atender de forma integrada às atividades administrativas, técnicas e 
+jurídicas da Autarquia, promovendo eficiência operacional, padronização documental, 
+automação de processos e segurança da informação. 
+O fornecimento deverá contemplar 12 (doze) licenças de uso  da plataforma, destinadas 
+exclusivamente ao IPREMB, permitindo o acesso por servidores autorizados e 
+possibilitando a substituição ou remanejamento de usuá rios em casos de desligamento, 
+afastamento ou reorganização interna, sem custos adicionais. As licenças deverão operar 
+em ambiente seguro e estável, com atualização contínua, manutenção preventiva e 
+suporte adequado para garantir a continuidade dos serviços. 
+Deverá ser prestado assessoramento técnico inicial aos usuários, abrangendo orientações 
+sobre a utilização da plataforma, suas funcionalidades, limites operacionais e boas 
+práticas de uso no contexto da Administração Pública. Esse assessoramento deverá 
+incluir, quando necessário, treinamentos, materiais de apoio e instruções técnicas, 
+assegurando a correta aplicação da solução nas rotinas institucionais e a maximização 
+de seus benefícios. 
+A solução deverá contar com suporte técnico contínuo , com atendime nto ágil para a 
+resolução de falhas, inconsistências ou dúvidas operacionais, garantindo a estabilidade e 
+a confiabilidade do sistema. O suporte deverá contemplar canais formais de 
+
+[PÁGINA 63]
+ 
+63 
+ 
+comunicação, acompanhamento das ocorrências e soluções tempestivas, de form a a 
+minimizar impactos nas atividades administrativas e jurídicas do IPREMB. 
+O acompanhamento e a gestão da solução  deverão permitir monitoramento contínuo do 
+uso das licenças, avaliação da aderência da plataforma às necessidades institucionais e 
+ajustes o peracionais quando necessários. A contratada deverá fornecer relatórios 
+periódicos que permitam à Administração avaliar o desempenho da ferramenta, bem 
+como garantir a integração eficiente das atividades internas, a melhoria dos fluxos de 
+trabalho e o cumprimento das metas institucionais. 
+Em termos de funcionalidades técnicas, a solução deverá possibilitar a geração 
+automatizada de conteúdos institucionais , com elevado padrão de qualidade textual, 
+clareza, coesão e adequação à linguagem administrativa. Deve rá fornecer apoio à 
+redação, revisão e padronização de documentos administrativos, técnicos e jurídicos , 
+promovendo racionalização do tempo e uniformidade na comunicação institucional. 
+Além disso, a plataforma deverá automatizar atividades administrativas e operacionais, 
+especialmente aquelas de natureza repetitiva ou de apoio às atividades intelectuais, 
+contribuindo para o aumento da produtividade, organização dos fluxos internos e 
+redução de retrabalho. 
+A solução deverá concentrar funcionalidades em uma p lataforma única, promovendo 
+integração dos processos internos  e evitando o uso de múltiplas ferramentas 
+desconectadas. O gerenciamento das licenças deverá ser flexível, permitindo 
+substituição de usuários sem custos adicionais e assegurando controle instit ucional 
+eficiente do acesso. 
+Por fim, a solução deverá observar rigorosamente critérios de segurança da informação , 
+garantindo que todos os dados e documentos institucionais sejam tratados em ambiente 
+controlado, com mecanismos que assegurem confidencialidade, integridade e 
+disponibilidade das informações. A contratação deverá respeitar as normas legais 
+
+[PÁGINA 64]
+ 
+64 
+ 
+aplicáveis à proteção de dados e estar em conformidade com as boas práticas de 
+governança e gestão pública, resguardando os interesses do IPREMB e da sociedade. 
+Levantamento de Mercado 
+No contexto do planejamento da presente contratação, destinada ao fornecimento de 
+solução de inteligência artificial generativa para apoio às atividades administrativas, 
+técnicas e institucionais do Instituto de Previdência Social do Município de Betim – 
+IPREMB, foi realizado levantamento de mercado mediante análise das soluções 
+tecnológicas atualmente disponíveis, bem como de contratações similares promovidas 
+por órgãos e entidades da Administração Pública. 
+Para subsidiar a presente análise, foram consultados Estudos Técnicos Preliminares, 
+Termos de Referência, editais de licitação, contratos administrativos e demais 
+documentos correlatos, constantes às fls. 05 a 39 dos autos. 
+Os levantamentos realizados possibili taram identificar as principais soluções de 
+inteligência artificial corporativa atualmente consolidadas no mercado, permitindo a 
+avaliação comparativa sob os aspectos técnicos, operacionais, administrativos, 
+econômicos, de segurança da informação, governan ça, suporte técnico, gerenciamento 
+de usuários, capacidade de evolução tecnológica e aderência às necessidades 
+institucionais do IPREMB. 
+A análise buscou identificar solução capaz de apoiar a elaboração, revisão e 
+padronização de documentos administrativos , produção de conteúdos técnicos, 
+organização de informações, apoio à tomada de decisões, automação de atividades 
+intelectuais repetitivas e incremento da produtividade institucional, observando -se, 
+ainda, a disponibilidade de ambiente corporativo, mecanis mos de gerenciamento das 
+licenças, suporte especializado, atualização contínua da plataforma e conformidade com 
+os requisitos de segurança da informação. 
+
+[PÁGINA 65]
+ 
+65 
+ 
+Com base nos elementos levantados, foram identificadas quatro principais soluções 
+corporativas de inteligência artificial generativa atualmente disponíveis no mercado, as 
+quais passam a ser analisadas individualmente. 
+• Solução 01 – Microsoft Copilot 
+A primeira alternativa identificada consiste na utilização do Microsoft Copilot, solução 
+de inteligência artificial desenvolvida pela Microsoft e integrada ao ecossistema 
+Microsoft 365. 
+Nesse modelo, os recursos de inteligência artificial são incorporados aos aplicativos 
+corporativos da Microsoft, permitindo apoio à elaboração de documentos, planilhas, 
+apresentações, mensagens eletrônicas, organização de informações e demais atividades 
+relacionadas à produtividade dos usuários. 
+Entre os aspectos positivos da solução destaca -se sua integração nativa com o ambiente 
+Microsoft 365, permitindo utilização direta em ferramentas amplamente empregadas 
+pela Administração Pública, além da disponibilidade de mecanismos de gerenciamento 
+corporativo, segurança da informação e administração centralizada dos usuários. 
+Entretanto, verificou-se que a solução possui maior direcio namento às funcionalidades 
+inerentes ao ecossistema Microsoft, apresentando menor flexibilidade para elaboração 
+de conteúdos administrativos complexos, desenvolvimento de documentos técnicos 
+extensos e apoio especializado às atividades intelectuais quando comparada às 
+plataformas concebidas especificamente para inteligência artificial generativa. 
+Dessa forma, embora constitua solução tecnicamente viável, verificou -se que sua 
+aderência às necessidades específicas do IPREMB mostra -se parcial, sobretudo quanto  
+às atividades relacionadas à produção documental especializada. 
+• Solução 02 – Claude 
+
+[PÁGINA 66]
+ 
+66 
+ 
+A segunda alternativa identificada consiste na utilização da plataforma Claude, 
+desenvolvida pela empresa Anthropic. 
+A solução disponibiliza recursos voltados à interpre tação de documentos, elaboração de 
+conteúdos, análise textual e apoio às atividades administrativas, destacando -se pelos 
+mecanismos voltados à segurança, confiabilidade das respostas e redução de riscos 
+relacionados à geração de conteúdo. 
+Entre seus princi pais aspectos positivos destacam -se a elevada capacidade de 
+interpretação de documentos extensos, a consistência das respostas produzidas e a 
+preocupação com aspectos relacionados à governança da inteligência artificial. 
+Por outro lado, observou -se menor d isponibilidade de integrações corporativas quando 
+comparada às demais plataformas analisadas, bem como reduzida adoção em 
+contratações públicas nacionais e menor maturidade comercial no mercado brasileiro, 
+fatores que podem limitar sua utilização institucional. 
+Assim, embora apresente características técnicas relevantes, verificou -se que a solução 
+possui menor aderência às necessidades atualmente identificadas pelo IPREMB. 
+• Solução 03 – Gemini 
+A terceira alternativa identificada consiste na utilização da plataforma Gemini, 
+desenvolvida pela Google. 
+A solução disponibiliza recursos de inteligência artificial generativa integrados ao 
+ambiente Google Workspace, possibilitando apoio à elaboração de documentos, 
+pesquisa de informações, organização de conteúdos e desenvolvimento de atividades 
+administrativas. 
+
+[PÁGINA 67]
+ 
+67 
+ 
+Entre seus principais benefícios destacam -se a integração com os serviços 
+disponibilizados pela Google, a facilidade de utilização e a constante evolução 
+tecnológica promovida pelo fabricante. 
+Entretanto, verificou-se que a solução ainda apresenta menor consolidação no mercado 
+de contratações públicas destinadas ao fornecimento institucional de inteligência 
+artificial, bem como limitações relacionadas ao gerenciamento corporativo de usuários, 
+disponibilidade de suporte especializado e menor utilização em ambientes 
+administrativos quando comparada às plataformas mais difundidas. 
+Dessa forma, embora constitua alternativa tecnicamente viável, observou -se menor 
+maturidade para atendimento das necessidades específi cas identificadas no âmbito do 
+IPREMB. 
+• Solução 04 – ChatGPT Business 
+A quarta alternativa identificada consiste na utilização da plataforma ChatGPT  
+Business, solução corporativa de inteligência artificial generativa desenvolvida para 
+utilização por organizações públicas e privadas. 
+Nesse modelo, a plataforma disponibiliza ambiente corporativo destinado ao apoio às 
+atividades administrativas, técnicas  e institucionais, contemplando funcionalidades 
+voltadas à elaboração, revisão e padronização de documentos, análise de informações, 
+automação de tarefas intelectuais, gerenciamento centralizado de usuários e 
+administração das licenças corporativas. 
+Entre os aspectos positivos da solução destacam -se a elevada qualidade na produção 
+textual, a capacidade de apoio à elaboração de documentos administrativos, pareceres, 
+estudos técnicos, termos de referência, minutas, ofícios e demais instrumentos 
+produzidos pel a Administração Pública, bem como a disponibilidade de ambiente 
+corporativo com gerenciamento centralizado das licenças e suporte técnico 
+especializado. 
+
+[PÁGINA 68]
+ 
+68 
+ 
+Outro aspecto relevante refere-se à ampla adoção da plataforma pelo mercado público e 
+privado, evidenci ando elevado grau de maturidade tecnológica, constante evolução 
+funcional e ampla disponibilidade de recursos voltados ao incremento da produtividade 
+institucional. 
+Assim, verificou-se que a solução apresenta elevado nível de aderência às necessidades 
+do I PREMB, especialmente quanto ao apoio às atividades administrativas, produção 
+documental, organização de informações e otimização dos processos internos. 
+Nesse sentido, faz-se necessário um quadro comparativo das soluções identificadas para 
+fins de análise e visualização.  
+Solução  Descrição Vantagens  Desvantagens  
+Solução 01 – 
+Microsoft Copilot 
+Plataforma 
+corporativa de 
+inteligência 
+artificial integrada 
+ao Microsoft 365, 
+destinada ao apoio 
+à produtividade 
+institucional e 
+elaboração de 
+documentos. 
+• Integração nativa 
+ao Microsoft 365; 
+•Gerenciamento 
+corporativo; 
+•Recursos 
+avançados de 
+segurança; 
+• Facilidade de 
+utilização em 
+ambientes 
+Microsoft. 
+• Menor 
+flexibilidade para 
+elaboração de 
+conteúdos 
+administrativos 
+complexos; 
+• Recursos mais 
+direcionados ao 
+ecossistema 
+Microsoft; 
+•Menor 
+especialização para 
+produção 
+documental técnica. 
+Solução 02 – 
+Claude 
+Plataforma 
+corporativa de 
+• Elevada 
+capacidade 
+• Menor adoção na 
+Administração 
+
+[PÁGINA 69]
+ 
+69 
+ 
+inteligência 
+artificial voltada à 
+interpretação de 
+documentos, 
+elaboração de 
+conteúdos e análise 
+textual. 
+analítica; 
+• Segurança das 
+respostas; 
+•Boa interpretação 
+de documentos 
+extensos. 
+Pública brasileira; 
+• Integrações 
+corporativas mais 
+restritas; 
+•Menor maturidade 
+comercial no 
+mercado nacional. 
+Solução 03 – 
+Gemini 
+Plataforma de 
+inteligência 
+artificial integrada 
+ao Google 
+Workspace para 
+apoio às atividades 
+administrativas. 
+• Integração com 
+ferramentas 
+Google; 
+• Evolução 
+tecnológica 
+contínua; 
+• Facilidade de 
+utilização. 
+• Menor 
+consolidação em 
+contratações 
+públicas; 
+• Menor 
+disponibilidade de 
+suporte corporativo 
+especializado; 
+•Gerenciamento 
+institucional menos 
+robusto. 
+Solução 04 – 
+ChatGPT Business 
+Plataforma 
+corporativa de 
+inteligência 
+artificial generativa 
+destinada ao apoio 
+à elaboração de 
+documentos, 
+análise de 
+informações, 
+• Elevada qualidad e 
+na produção 
+textual; 
+• Apoio à 
+elaboração de 
+documentos 
+administrativos e 
+• Necessidade de 
+capacitação inicial 
+dos usuários; 
+• Dependência de 
+acesso à internet 
+para utilização da 
+plataforma. 
+
+[PÁGINA 70]
+ 
+70 
+ 
+automação de 
+atividades 
+intelectuais e 
+incremento da 
+produtividade 
+institucional. 
+técnicos; 
+•Gerenciamento 
+centralizado das 
+licenças; 
+•Remanejamento de 
+usuários; 
+•Suporte 
+corporativo 
+especializado; 
+• Ampla adoção 
+pelo mercado 
+público e privado; 
+• Elevada aderência 
+às necessidades do 
+IPREMB. 
+ 
+Análise de Contratações Similares  
+Além da análise técnica das soluções de inteligência artificial corporativa disponíveis no 
+mercado, procedeu-se ao levantamento de contratações similares realizadas por órgãos e 
+entidades da Administração Pública, com a finalidade de identificar as práticas 
+atualmente adotadas para atendimento de necessidades análogas,  bem como verificar o 
+grau de consolidação das soluções analisadas no mercado público. 
+Para tanto, foram consultados Estudos Técnicos Preliminares, Termos de Referência, 
+editais de licitação, contratos administrativos e demais documentos públicos relativos à 
+
+[PÁGINA 71]
+ 
+71 
+ 
+contratação de soluções de inteligência artificial destinadas ao apoio das atividade s 
+administrativas, técnicas e institucionais, constantes às fls.05 a 39 dos autos.  
+A pesquisa evidenciou que, embora existam diversas plataformas de inteligência 
+artificial generativa disponíveis no mercado, as contratações promovidas pela 
+Administração P ública convergem, em sua maioria, para a adoção de soluções 
+corporativas disponibilizadas mediante licenciamento por empresa especializada ou 
+representante comercial autorizado, responsável pelo gerenciamento das licenças, 
+suporte técnico, faturamento e demais obrigações contratuais. 
+Verificou-se, ainda, que a plataforma ChatGPT Business  tem sido a solução mais 
+frequentemente adotada nas contratações pesquisadas, demonstrando elevado grau de 
+consolidação no mercado e ampla aceitação para utilização em atividades relacionadas à 
+produção de documentos administrativos, elaboração de estudos técnicos, apoio à 
+tomada de decisões, organização de informações e incremento da produtividade 
+institucional. 
+Nesse sentido, foram identificadas, dentre outras, as seguintes contratações similares: 
+Órgão ou Entidade Objeto da 
+Contratação 
+Solução adotada Modelo de 
+Contratação 
+Prefeitura do 
+Município de São 
+Paulo 
+Contratação de 
+licenças corporativas 
+de inteligência 
+artificial para apoio às 
+atividades 
+administrativas 
+ChatGPT Pro 
+Licenciamento 
+corporativo por 
+empresa 
+especializada  
+Prefeitura de Belo 
+Horizonte 
+Fornecimento de 
+licenças corporativas 
+de inteligência 
+artificial para apoio às 
+ChatGPT Business 
+Licenciamento 
+corporativo por 
+empresa 
+especializada 
+
+[PÁGINA 72]
+ 
+72 
+ 
+atividades 
+administrativas 
+Prefeitura de 
+Brusque 
+Contratação de solução 
+de inteligência 
+artificial para 
+utilização institucional 
+ChatGPT Business 
+Licenciamento 
+corporativo por 
+empresa 
+especializada 
+ 
+Análise técnica da solução CHATGPT 
+Definida, a partir do levantamento de mercado realizado, a plataforma ChatGPT como a 
+solução tecnológica mais adequada ao atendimento das necessidades institucionais do 
+Instituto de Previdência Social do Município de Betim – IPREMB, procedeu -se à 
+análise técnica das modalidades de licenciamento disponibilizadas pela OpenAI, com o 
+objetivo de identificar aquela que apresenta maior aderência às características da 
+contratação pretendida. 
+A plataforma ChatGPT é disponibilizada em diferentes modalidades de contr atação, 
+destinadas a perfis distintos de utilização, contemplando desde usuários individuais até 
+organizações que demandam ambiente corporativo, gerenciamento centralizado de 
+usuários, mecanismos de administração das licenças e recursos específicos para 
+utilização institucional. 
+Nesse contexto, foram analisadas as modalidades ChatGPT Plus, ChatGPT Pro e 
+ChatGPT Business, considerando aspectos relacionados ao público -alvo, forma de 
+contratação, gerenciamento de usuários, administração das licenças, funcional idades 
+corporativas, escalabilidade, adequação ao uso institucional e aderência às necessidades 
+do IPREMB. 
+Dessa forma, faz-se necessário a elaboração de um quadro comparativo: 
+
+[PÁGINA 73]
+ 
+73 
+ 
+Critério ChatGPT Plus ChatGPT Pro ChatGPT Business 
+Público-alvo Usuário individual 
+Usuário individual 
+com uso intensivo 
+Organizações e 
+equipes 
+Administração 
+centralizada de 
+usuários 
+Não Não Sim 
+Gerenciamento de 
+múltiplas licenças 
+Não Não Sim 
+Inclusão e remoção 
+de usuários 
+Não Não Sim 
+Remanejamento de 
+licenças 
+Não Não Sim 
+Ambiente 
+corporativo 
+Não Não Sim 
+Escalabilidade para 
+equipes 
+Limitada Limitada Elevada 
+Adequação ao uso 
+institucional 
+Baixa Média Elevada 
+A modalidade ChatGPT Plus destina-se ao uso individual, oferecendo acesso ampliado 
+aos recursos da plataforma em re lação à versão gratuita. Embora represente evolução 
+significativa para usuários que utilizam a ferramenta de forma recorrente, não 
+disponibiliza mecanismos voltados ao gerenciamento corporativo, administração 
+centralizada de usuários ou gestão instituciona l das licenças, características 
+indispensáveis para utilização por órgãos da Administração Pública. 
+A modalidade ChatGPT Pro  também é destinada ao uso individual, sendo voltada a 
+profissionais que demandam utilização intensiva da plataforma e acesso amplia do aos 
+recursos disponibilizados pela OpenAI. Apesar de oferecer maior capacidade 
+operacional quando comparada ao plano Plus, mantém características próprias de 
+
+[PÁGINA 74]
+ 
+74 
+ 
+licenciamento individual, não contemplando funcionalidades específicas para 
+administração de eq uipes, gerenciamento centralizado de usuários, redistribuição de 
+licenças ou gestão institucional do ambiente de utilização. 
+Por sua vez, a modalidade ChatGPT Business  foi desenvolvida especificamente para 
+organizações, disponibilizando ambiente corporativ o destinado ao gerenciamento 
+centralizado das licenças, administração dos usuários, inclusão e exclusão de acessos, 
+remanejamento de licenças entre colaboradores, gerenciamento do ambiente 
+organizacional e demais recursos voltados à utilização institucional da plataforma. 
+Além dos recursos administrativos, o ChatGPT Business possibilita que a 
+Administração concentre a gestão das licenças em ambiente único, favorecendo o 
+controle da utilização da ferramenta, a organização dos usuários autorizados e a 
+racionalização da gestão contratual, aspectos compatíveis com os princípios da 
+eficiência, da economicidade e da boa governança administrativa. 
+Verifica-se, ainda, que a possibilidade de redistribuição das licenças entre servidores, 
+sem necessidade de novas aquisições, proporciona maior flexibilidade administrativa 
+durante a execução contratual, permitindo que a solução acompanhe eventuais 
+alterações na estrutura organizacional ou nas demandas dos setores da Autarquia. 
+Diante da análise técnica realizada, conclui -se que, dentre as modalidades de 
+licenciamento disponibilizadas para a plataforma ChatGPT, o plano ChatGPT Business 
+apresenta maior aderência às necessidades institucionais do Instituto de Previdência 
+Social do Município de Betim – IPREMB, por reunir recursos específicos para 
+utilização corporativa, gerenciamento centralizado das licenças, administração dos 
+usuários, maior flexibilidade operacional e funcionalidades compatíveis com o uso 
+institucional pretendido,  constituindo, portanto, a modalidade mais adequada para 
+atendimento do objeto da presente contratação. 
+Escolha da solução 
+
+[PÁGINA 75]
+ 
+75 
+ 
+A partir do levantamento de mercado realizado, da análise técnica das modalidades de 
+licenciamento da plataforma ChatGPT e das contr atações similares promovidas por 
+órgãos e entidades da Administração Pública, conclui -se que o ChatGPT Business 
+apresenta o conjunto de características técnicas, operacionais e gerenciais mais 
+compatível com as necessidades institucionais do Instituto de P revidência Social do 
+Município de Betim – IPREMB. 
+Conforme demonstrado neste Estudo Técnico Preliminar, a plataforma ChatGPT é 
+disponibilizada em diferentes modalidades de contratação, destinadas a perfis distintos 
+de utilização. A análise comparativa evid enciou que, embora os planos ChatGPT Plus e 
+ChatGPT Pro disponibilizem recursos avançados de inteligência artificial para 
+utilização individual, tais modalidades não contemplam funcionalidades específicas 
+voltadas à administração corporativa das licenças, ao gerenciamento centralizado de 
+usuários e à gestão institucional da ferramenta, características indispensáveis para a 
+utilização da solução no âmbito da Administração Pública. 
+Verificou-se que o ChatGPT Business reúne, de forma integrada, funcionalidades  
+destinadas ao apoio às atividades administrativas, analíticas e intelectuais desenvolvidas 
+pela Autarquia, contemplando recursos para elaboração, revisão e padronização de 
+documentos, organização e análise de informações, apoio à pesquisa, automação de 
+tarefas intelectuais e suporte à produção de conteúdo técnico e administrativo, 
+apresentando elevado grau de aderência às rotinas desenvolvidas pelo IPREMB. 
+A solução destaca -se, ainda, pela disponibilização de ambiente corporativo destinado à 
+utilização ins titucional, contemplando gerenciamento centralizado das licenças, 
+administração dos usuários, inclusão e exclusão de acessos, remanejamento de usuários, 
+gestão do ambiente organizacional e atualização contínua da plataforma, características 
+que favorecem a  adequada gestão da ferramenta durante toda a vigência contratual e 
+conferem maior flexibilidade à Administração. 
+
+[PÁGINA 76]
+ 
+76 
+ 
+Além da aderência técnica às necessidades identificadas, o levantamento de 
+contratações similares evidenciou que o ChatGPT Business constitui a modalidade da 
+plataforma mais frequentemente adotada por órgãos e entidades da Administração 
+Pública em contratações de objeto semelhante, demonstrando elevado grau de 
+maturidade tecnológica, ampla aceitação institucional e consolidação no mercado. 
+Sob o aspecto operacional, verifica-se que a utilização da plataforma contribuirá para a 
+otimização das atividades desempenhadas pelos servidores do IPREMB, especialmente 
+aquelas relacionadas à elaboração de documentos administrativos, técnicos e jurídicos, 
+pesquisas normativas, análise e consolidação de informações, elaboração de estudos, 
+pareceres, relatórios e demais instrumentos necessários ao desempenho das atribuiçõ es 
+institucionais da Autarquia. 
+Estimativas das quantidades 
+A estimativa do quantitativo da  presente contratação fundamenta -se na análise da 
+estrutura organizacional do Instituto de Previdência Social do Município de Betim – 
+IPREMB, bem como na avaliação do volume, da complexidade e da natureza das 
+atividades administrativas, técnicas e intelect uais atualmente desenvolvidas pela 
+Autarquia. 
+Considerou-se, de forma especial, a necessidade de apoio à elaboração, análise, revisão 
+e padronização de documentos administrativos, técnicos e jurídicos, à produção de 
+Estudos Técnicos Preliminares, Termos de  Referência, pareceres, manifestações 
+técnicas, ofícios, relatórios gerenciais, respostas a órgãos de controle, pesquisas 
+normativas e demais documentos produzidos no âmbito do Instituto. Também foram 
+consideradas as atividades relacionadas à organização, consolidação e tratamento de 
+informações, ao apoio à tomada de decisões e à execução de tarefas intelectuais 
+repetitivas, cuja automatização pode proporcionar ganhos significativos de eficiência e 
+produtividade. 
+
+[PÁGINA 77]
+ 
+77 
+ 
+Diante desse contexto, propõe -se a contrataç ão de 12 (doze) licenças corporativas da 
+plataforma ChatGPT Business , quantitativo considerado adequado, proporcional e 
+suficiente para atender às necessidades atuais do IPREMB, permitindo que os setores 
+com maior demanda por atividades intelectuais e de p rodução documental utilizem a 
+ferramenta de forma contínua e institucional, observando -se os princípios da eficiência, 
+da economicidade, do planejamento e da continuidade do serviço público. 
+Nesse sentido, estima-se a contratação do seguinte quantitativo:  
+Item Descrição  Unidade Quant. 
+01 Licença corporativa 
+da plataforma 
+ChatGPT Business, 
+destinada ao uso 
+institucional pelo 
+Instituto de 
+Previdência Social 
+do Município de 
+Betim – IPREMB. 
+Licença 12  
+Considerando as atribuições atualmente desempenhadas pelas unidades administrativas 
+da Autarquia, estima-se que a distribuição inicial das licenças ocorra da seguinte forma: 
+Local/Setor Quant. 
+Assessoria Jurídica 04 
+Superintendência Administrativa 06 
+Superintendência de Benefícios 01 
+Superintendência de Controle Interno 01 
+Total: 12 
+
+[PÁGINA 78]
+ 
+78 
+ 
+04 (quatro) licenças destinadas à Assessoria Jurídica, em ra ão do volume de análises, 
+pareceres, manifestações técnicas e documentos jurídicos, que demandam apoio às 
+funções intelectuais e analíticas; 06 (seis)  licenças des tinadas à Superintendência 
+Administrativa, considerando as rotinas de gestão, relatórios, documentos, 
+comunicações e apoio às atividades de planejamento e organi ação interna; 01 (uma) 
+licença destinada à área de Benefícios, para apoio às atividades previd enciárias; e 01 
+(uma) licença destinada ao Controle Interno, para apoio às atividades de análise, 
+acompanhamento e verificação de conformidade. 
+Ressalta-se que a distribuição acima indicada possui caráter meramente estimativo e 
+inicial, podendo ser ajustad a durante a execução contratual, conforme a demanda 
+efetiva, a reorgani ação dos fluxos internos de trabalho ou as necessidades institucionais 
+supervenientes, sem alteração do quantitativo total contratado. 
+Destaca-se, por fim, que as licenças objeto da presente contratação destinam -se 
+exclusivamente ao uso institucional do IPREMB, vinculadas às atividades da Autarquia, 
+não se caracteri ando como uso pessoal ou individuali ado, sendo o quantitativo de 12 
+(do e) licenças compatível com as necessidades iden tificadas, em conformidade com os  
+princípios do planejamento, da eficiência, da economicidade e da continuidade do 
+serviço público, nos termos da Lei Federal nº 14.133/2021. 
+Estimativa do valor da contratação 
+Para fins de estimativa do valor da presente  contratação, foi utili ada como parâmetro 
+contratação similar promovida pela Prefeitura Municipal de Brusque, por intermédio da 
+Secretaria Municipal de Administração e Gestão Estratégica, referente à Dispensa 
+Eletrônica nº 106/2025, cuja documentação encontra-se acostada à fl. 39 dos autos. 
+A contratação analisada possui objeto semelhante ao da presente demanda, 
+contemplando o fornecimento de licenças corporativas da plataforma ChatGPT 
+Business, ra ão pela qual foi considerada referência adequada para a es timativa 
+
+[PÁGINA 79]
+ 
+79 
+ 
+preliminar do valor da contratação, em observância aos princípios do planejamento, da 
+eficiência, da economicidade e da busca da proposta mais vantajosa. 
+Conforme verificado na contratação similar, o valor unitário praticado corresponde a R$ 
+2.076,00 (dois mil e setenta e seis reais) por licença corporativa. 
+Considerando a estimativa de contratação de 12 (do e) licenças corporativas da 
+plataforma ChatGPT Business, o valor global estimado para a presente contratação 
+perfa  o montante de R$ 24.912,00  (vinte e quatro mil, novecentos e do e reais), 
+conforme demonstrado no quadro a seguir: 
+Item Descrição Unidade Quantidade Valor unit. Valor total. 
+01 Licença 
+corporativa 
+da plataforma 
+ChatGPT 
+Business 
+Licença 12 
+R$ 
+2.076,00 
+R$ 
+24.912,00 
+Ressalta-se que a presente estimativa possui caráter exclusivamente preliminar e 
+destina-se a subsidiar o planejamento da contratação e a reserva dos recursos 
+orçamentários necessários à futura contratação, sendo o valor definitivo apurado na fase 
+de pesquisa de preços, e m conformidade com os critérios estabelecidos na Lei Federal 
+nº 14.133/2021 e demais normas aplicáveis. 
+Descrição da solução como um todo 
+A solução tecnológica objeto da presente contratação consiste no fornecimento de 
+licenças corporativas da plataforma ChatGPT Business, disponibilizada pela OpenAI 
+em modelo de Software como Serviço (Software as a Service – SaaS), destinada ao 
+apoio das atividades administrativas, técnicas, jurídicas e analíticas desenvolvidas no 
+âmbito do Instituto de Previdência Social do Município de Betim – IPREMB. 
+
+[PÁGINA 80]
+ 
+80 
+ 
+O ChatGPT Business é uma plataforma de inteligência artificial generativa baseada em 
+modelos avançados de linguagem natural (Large Language Models – LLMs), 
+desenvolvida para compreender comandos em linguagem natural, interpr etar 
+informações, produzir textos, revisar conteúdos, organizar dados, sintetizar informações 
+e apoiar atividades que demandem análise, pesquisa e elaboração documental. 
+A solução é disponibilizada integralmente em ambiente de computação em nuvem 
+(cloud computing), sendo acessada por meio da internet, mediante autenticação dos 
+usuários autorizados, dispensando a instalação de aplicações em equipamentos da 
+Administração, a aquisição de infraestrutura tecnológica própria, servidores dedicados 
+ou mecanismos locais de processamento da solução. 
+A contratação compreenderá o fornecimento de licenças corporativas da plataforma 
+ChatGPT Business destinadas ao uso institucional do IPREMB, permitindo o 
+gerenciamento centralizado dos usuários, a administração das licen ças, a inclusão, 
+exclusão e remanejamento de acessos, conforme as necessidades administrativas 
+verificadas durante a execução contratual. 
+A plataforma disponibiliza ambiente corporativo próprio para utilização institucional, 
+contemplando mecanismos de administração dos usuários, gerenciamento das licenças e 
+recursos destinados à utilização compartilhada da solução pelos diversos setores da 
+Autarquia, favorecendo maior controle administrativo, padronização da utilização da 
+ferramenta e organização dos acessos institucionais. 
+Entre os recursos disponibilizados pela solução destacam -se a elaboração, revisão e 
+padronização de documentos administrativos, técnicos e jurídicos; produção de textos 
+em linguagem natural; síntese e organização de informações; estrutura ção de tabelas, 
+quadros comparativos e relatórios; análise de documentos; apoio à pesquisa normativa e 
+técnica; auxílio na interpretação e consolidação de informações; bem como suporte à 
+execução de atividades intelectuais relacionadas às rotinas desenvolv idas pela 
+Administração Pública. 
+
+[PÁGINA 81]
+ 
+81 
+ 
+A plataforma permite, ainda, o processamento de documentos extensos, a manutenção 
+do contexto das interações realizadas pelos usuários, a criação de ambientes de trabalho 
+voltados às necessidades institucionais e a utilizaç ão de recursos avançados de 
+inteligência artificial voltados ao aumento da produtividade e da eficiência 
+administrativa. 
+Em razão do modelo Software como Serviço (SaaS), a solução permanece 
+permanentemente disponível em ambiente computacional em nuvem, rec ebendo 
+atualizações tecnológicas, evoluções funcionais e aprimoramentos disponibilizados pelo 
+desenvolvedor da plataforma durante toda a vigência das licenças, sem necessidade de 
+intervenções técnicas por parte do IPREMB. 
+No âmbito institucional, a platafo rma poderá ser utilizada como ferramenta de apoio à 
+elaboração de Estudos Técnicos Preliminares, Termos de Referência, pareceres 
+jurídicos, manifestações técnicas, notas técnicas, ofícios, comunicações institucionais, 
+relatórios gerenciais, pesquisas legislativas e normativas, respostas a órgãos de controle, 
+consolidação de informações administrativas, produção de conteúdos técnicos e demais 
+documentos relacionados às atividades desenvolvidas pela Autarquia. 
+A solução contempla mecanismos destinados à utili zação em ambiente corporativo, 
+permitindo a administração centralizada dos usuários e das licenças, bem como recursos 
+voltados à proteção das informações processadas, observadas as disposições da Lei 
+Federal nº 13.709, de 14 de agosto de 2018 (Lei Geral de  Proteção de Dados Pessoais – 
+LGPD), as políticas de privacidade da plataforma e as normas internas relacionadas à 
+segurança da informação adotadas pelo IPREMB. 
+A utilização da plataforma possui natureza exclusivamente assistiva, destinando -se ao 
+apoio das  atividades desempenhadas pelos servidores da Autarquia, cabendo aos 
+respectivos usuários a análise, conferência, validação e responsabilidade pelo conteúdo 
+produzido antes de sua utilização em documentos oficiais, processos administrativos ou 
+manifestações institucionais. 
+
+[PÁGINA 82]
+ 
+82 
+ 
+Justificativa para o parcelamento ou não da solução 
+O objeto em questão consiste na contratação de empresa especializada para o 
+fornecimento de solução de Inteligência Artificial, tratando -se de serviço singular que, 
+por sua própria natureza, não admite parcelamento. Não seria razoável a contratação de 
+diferentes empresas para o fornecimento de partes ou funcionalidades da solução, uma 
+vez que tal fragmentação comprometeria a integração dos sistemas, a padronização dos 
+resultados e a confiabilidade das informações geradas, além de gerar incertezas quanto à 
+responsabilidade pela execução e desempenho da solução. 
+Ademais, a contratação de múltiplos prestadores dificultaria significativamente a gestão 
+e a fiscalização do contrato, uma vez que  a centralização da solução em um único 
+contratado reduz de forma substancial o risco de falhas operacionais, incompatibilidades 
+técnicas e conflitos de responsabilidade. O parcelamento do objeto também prejudicaria 
+a economia de escala proporcionada pela concentração do serviço em um único 
+contrato, contrariando os princípios do interesse público, da eficiência e da 
+economicidade na contratação. 
+Demonstrativos dos resultados pretendidos 
+Considerando as disposições da Lei nº 14.133/2021, bem como as demais  normativas 
+aplicáveis à Administração Pública, e atendendo às necessidades operacionais do 
+Instituto de Previdência Social do Município de Betim – IPREMB, especialmente no 
+que se refere à modernização dos processos administrativos e ao aprimoramento da 
+gestão institucional, almejam-se os seguintes resultados: 
+Aprimoramento da eficiência operacional e administrativa : A contratação de 
+solução de Inteligência Artificial visa apoiar e otimizar as rotinas administrativas do 
+IPREMB, automatizando tarefas repetit ivas, auxiliando na análise de informações e 
+promovendo maior celeridade na tramitação de processos administrativos. Espera -se, 
+
+[PÁGINA 83]
+ 
+83 
+ 
+com isso, a redução de retrabalho, maior padronização de procedimentos e melhor 
+aproveitamento da força de trabalho da Autarquia. 
+Melhoria na gestão da informação e dos processos:  A utilização de solução de 
+Inteligência Artificial possibilita o tratamento estruturado de dados e documentos 
+institucionais, favorecendo a organização, a recuperação de informações e o suporte à 
+tomada de decisões. Como resultado, espera -se maior confiabilidade das informações, 
+maior rastreabilidade dos processos e fortalecimento dos mecanismos de controle 
+interno. 
+Apoio à continuidade e à qualidade dos serviços públicos:  A adoção de solução 
+tecnológica m oderna contribui para a continuidade das atividades institucionais do 
+IPREMB, reduzindo a dependência de procedimentos manuais e mitigando riscos de 
+falhas operacionais. Dessa forma, busca -se assegurar maior regularidade na prestação 
+dos serviços previdenciários e administrativos aos segurados e demais usuários. 
+Segurança da informação e conformidade normativa:  A solução de Inteligência 
+Artificial deverá observar critérios de segurança da informação e proteção de dados, 
+contribuindo para a integridade, a confidencialidade e a disponibilidade das informações 
+institucionais, em conformidade com a legislação vigent e, especialmente a Lei Geral de 
+Proteção de Dados Pessoais – LGPD. 
+Racionalização e otimização de recursos públicos:  A implementação da solução de 
+Inteligência Artificial permitirá a racionalização de recursos, com redução de custos 
+operacionais, ganho de produtividade e melhor alocação dos recursos humanos e 
+financeiros, em consonância com os princípios da eficiência, da economicidade e do 
+interesse público previstos na Lei nº 14.133/2021. 
+Providências a serem adotadas 
+ 
+
+[PÁGINA 84]
+ 
+84 
+ 
+Para a contratação de empresa especializada no fornecimento de solução de Inteligência 
+Artificial, não se fazem necessárias providências estruturais ou físicas específicas a 
+serem adotadas previamente pela Administração, uma vez que o objeto possui natureza 
+predominantemente tecnológica e lógica, não demandando instalação de equipamentos, 
+adequações de infraestrutura predial ou intervenções nos ambientes administrativos do 
+Instituto de Previdência Social do Município de Betim – IPREMB. 
+ 
+Contratações correlatas e/ou interdependentes 
+ 
+A contratação de empresa especializada para o fornecimento de solução de Inteligência 
+Artificial é autônoma, não havendo qualquer vínculo ou interdependência com outras 
+contratações correlatas no âmbito deste Instituto. 
+ 
+Possíveis impactos ambientais 
+No âmb ito da presente contratação, que se refere exclusivamente ao fornecimento de 
+licenças de software de inteligência artificial (ChatGPT Business), não se vislumbra a 
+ocorrência de impactos ambientais significativos . A solução será utilizada nos 
+equipamentos de informática já existentes na Autarquia, não demandando a aquisição de 
+novos equipamentos físicos, consumo adicional de recursos naturais, geração de 
+resíduos sólidos, emissões atmosféricas ou efluentes líquidos. 
+Eventuais impactos indiretos, como o consumo de energia elétrica pelos computadores e 
+servidores utilizados, são considerados insignificantes e não configuram risco relevante 
+ao meio ambiente. Dessa forma, não se vislumbra a necessidade de adoção de medidas 
+mitigadoras específicas , sendo a contra tação compatível com os princípios da 
+sustentabilidade e da responsabilidade socioambiental previstos na legislação vigente. 
+Análise de riscos 
+ 
+• RISCOS NA FASE DE PLANEJAMENTO DA CONTRATAÇÃO 
+ 
+
+[PÁGINA 85]
+ 
+85 
+ 
+FASE DE 
+ANÁLISE Fase de planejamento da contratação 
+RISCO 01 – Definição inadequada das especificações da solução 
+Probabilidade: ( ) Baixa     (X) Média     ( ) Alta 
+Impacto: ( ) Baixa     (X) Média     ( ) Alta 
+1. Contratação de solução que não atenda integralmente às 
+necessidades do IPREMB. 
+Identificação: Ação Preventiva Responsável 
+1. 
+Realizar levantamento de mercado, análise 
+técnica das funcionalidades e estudo 
+comparativo das soluções disponíveis. 
+Setor de 
+planejamento  
+Identificação: Ação de Contingência Responsável 
+1. 
+Revisar as especificações técnicas antes da 
+elaboração definitiva do Termo de 
+Referência. 
+Setor de 
+planejamento 
+ 
+ 
+ 
+FASE DE 
+ANÁLISE Fase de planejamento da contratação 
+RISCO 02 – Escolha de modalidade de licenciamento incompatível com as 
+necessidades institucionais 
+Probabilidade: ( ) Baixa     (X) Média     ( ) Alta 
+Impacto: ( ) Baixa     (X) Média     ( ) Alta 
+1. 
+Contratação de plano que não contemple recursos de 
+gerenciamento institucional, comprometendo a utilização 
+corporativa da solução. 
+Identificação: Ação Preventiva Responsável 
+1. 
+Realizar estudo técnico comparativo entre os 
+planos disponibilizados pela OpenAI (Plus, 
+Pro e Business), identificando aquele que 
+melhor atende às necessidades do IPREMB. 
+Setor de 
+planejamento  
+Identificação: Ação de Contingência Responsável 
+1. 
+Reavaliar a solução escolhida antes da 
+formalização da contratação, caso sejam 
+identificadas limitações técnicas relevantes. 
+Setor de 
+planejamento 
+ 
+ 
+
+[PÁGINA 86]
+ 
+86 
+ 
+ 
+FASE DE 
+ANÁLISE Fase de planejamento da contratação 
+RISCO 03– Definição inadequada do quantitativo de licenças 
+Probabilidade: ( ) Baixa     (X) Média     ( ) Alta 
+Impacto: ( ) Baixa     (X) Média     ( ) Alta 
+1. Insuficiência de licenças para atendimento das áreas estratégicas 
+ou contratação superior à necessidade administrativa. 
+Identificação: Ação Preventiva Responsável 
+1. 
+Mapear as unidades administrativas que 
+efetivamente utilizarão a solução, 
+considerando a natureza das atividades 
+desenvolvidas e a demanda institucional. 
+Setor de 
+planejamento  
+Identificação: Ação de Contingência Responsável 
+1. 
+Reavaliar a distribuição das licenças antes 
+da contratação, mantendo o quantitativo 
+compatível com as necessidades 
+identificadas. 
+Setor de 
+planejamento 
+ 
+ 
+• RISCOS NA FASE DE SELEÇÃO DO FORNECEDOR 
+ 
+ 
+FASE DE 
+ANÁLISE Fase de seleção de fornecedor 
+RISCO 04– Oferta de plano diverso do ChatGPT Business 
+Probabilidade: (X) Baixa     (  ) Média     (   ) Alta 
+Impacto: (  ) Baixa     (X) Média     (   ) Alta 
+1. Gastos excessivos ou necessidade de renegociação 
+Identificação: Ação Preventiva Setor 
+responsável 
+1. Enviar a Proposta ao Setor Demandante para 
+que se manifeste aos aspectos técnicos.  
+Agente de 
+contratação 
+Identificação: Ação de Contingência Setor 
+responsável 
+1. Desclassificar a proposta que ofertar solução 
+diferente da especificada. 
+Agente de 
+contratação 
+   
+
+[PÁGINA 87]
+ 
+87 
+ 
+ 
+ 
+FASE DE 
+ANÁLISE Fase de seleção de fornecedor 
+RISCO 05 – Fornecedor não possuir autorização ou capacidade para 
+disponibilizar licenças corporativas 
+Probabilidade: ( X ) Baixa     (   ) Média     (   ) Alta 
+Impacto: (  ) Baixa     (    ) Média     ( X ) Alta 
+1. Impossibilidade de ativação das licenças ou atraso na 
+disponibilização do ambiente corporativo. 
+Identificação: Ação Preventiva Setor 
+responsável 
+1. 
+Exigir comprovação da capacidade do 
+fornecedor para comercializar e 
+disponibilizar licenças corporativas da 
+plataforma contratada, conforme TR.  
+Agente de 
+Contratação 
+Identificação: Ação de Contingência Setor 
+responsável 
+1. Inabilitar o fornecedor ou convocar o 
+licitante subsequente. 
+Agente de 
+Contratação 
+ 
+ 
+FASE DE 
+ANÁLISE Fase de seleção de fornecedor 
+RISCO 06 – Proposta sem contemplar todos os serviços inerentes ao objeto 
+Probabilidade: ( X ) Baixa     (   ) Média     (   ) Alta 
+Impacto: (  ) Baixa     (    ) Média     ( X ) Alta 
+1. Necessidade de contratação complementar ou dificuldades na 
+execução contratual. 
+Identificação: Ação Preventiva Setor 
+responsável 
+1. 
+Informar no certame, reafirmando que a 
+proposta deverá contemplar o licenciamento, 
+suporte técnico, gerenciamento das licenças 
+e demais serviços previstos no Termo de 
+Referência. 
+Agente de 
+Contratação 
+Identificação: Ação de Contingência Setor 
+responsável 
+
+[PÁGINA 88]
+ 
+88 
+ 
+1. Desclassificar propostas que apresentem 
+fornecimento parcial do objeto. 
+Agente de 
+Contratação 
+ 
+ 
+ 
+• RISCOS NA FASE DE EXECUÇÃO DO CONTRATO 
+ 
+FASE DE 
+ANÁLISE Fase de Execução do Contrato 
+RISCO 07 – Falhas no gerenciamento das licenças institucionais 
+Probabilidade: ( X ) Baixa     (   ) Média     (   ) Alta 
+Impacto: (  ) Baixa     (    ) Média     ( X ) Alta 
+1. Existência de licenças ociosas, usuários sem acesso ou 
+utilização inadequada dos recursos contratados. 
+Identificação: Ação Preventiva Setor 
+responsável 
+1. 
+Realizar controle periódico da utilização das 
+licenças e manter atualizada a relação de 
+usuários autorizados 
+Fiscal do 
+Contrato 
+Identificação: Ação de Contingência Setor 
+responsável 
+1. 
+Promover o remanejamento das licenças 
+entre os usuários e atualizar os acessos 
+conforme a necessidade institucional. 
+Gestor do 
+Contrato 
+ 
+ 
+FASE DE 
+ANÁLISE Fase de Execução do Contrato 
+RISCO 08 – Utilização da ferramenta em desacordo com as diretrizes 
+institucionais 
+Probabilidade: ( X ) Baixa     (   ) Média     (   ) Alta 
+Impacto: (  ) Baixa     (    ) Média     ( X ) Alta 
+1. Produção de documentos com informações inconsistentes ou 
+utilização inadequada da solução pelos usuários. 
+Identificação: Ação Preventiva Setor 
+responsável 
+1. 
+Orientar os usuários quanto às boas práticas 
+de utilização da ferramenta e à necessidade 
+de validação das informações geradas antes 
+Fiscal do 
+Contrato 
+
+[PÁGINA 89]
+ 
+89 
+ 
+de sua utilização em documentos oficiais. 
+Identificação: Ação de Contingência Setor 
+responsável 
+1. 
+Reforçar as orientações aos usuários e adotar 
+medidas administrativas para corrigir 
+eventuais inconformidades identificadas. 
+Gestor do 
+Contrato 
+ 
+ 
+ 
+FASE DE 
+ANÁLISE Fase de Execução do Contrato 
+RISCO 09 – Não prestação ou prestação inadequada do suporte técnico 
+Probabilidade: ( X ) Baixa     (   ) Média     (   ) Alta 
+Impacto: (  ) Baixa     (    ) Média     ( X ) Alta 
+1. Dificuldade para solucionar falhas, dúvidas operacionais ou 
+problemas relacionados à utilização da plataforma. 
+Identificação: Ação Preventiva Setor 
+responsável 
+1. Exigir os níveis mínimos de atendimentos 
+previstos no TR.  
+Fiscal do 
+Contrato 
+Identificação: Ação de Contingência Setor 
+responsável 
+1. 
+Notificar a contratada e aplicar as 
+penalidades previstas contratualmente em 
+caso de descumprimento. 
+Gestor do 
+Contrato 
+ 
+Matriz de Risco 
+ 
+Considere-se o quadro com a matriz de Probabilidade (P) x Impacto (I) abaixo para se 
+calcular o Grau (G) do risco: 
+ Probabilidade x Impacto 
+Probabilidade  
+Alta (03) 
+03 06  
+ 
+ 
+09 
+ 
+Probabilidade 
+média (02) 
+02 
+ 
+04 
+Risco 01 
+Risco 02 
+Risco 03 
+06  
+ 
+Probabilidade  01 02 03 
+
+[PÁGINA 90]
+ 
+90 
+ 
+Baixa (01)  Risco 04 
+Risco 06 
+Risco 05 
+Risco 07 
+Risco 08 
+Risco 09 
+ 
+ Impacto baixo Impacto médio Impacto alto 
+ 
+Considerando a matriz de Probabilidade x Impacto adotada para a gestão de riscos neste 
+Estudo Técnico Preliminar, tem-se a seguinte classificação: 
+Seja G1 o grau de risco associado ao Risco 01, cuja probabilidade é média (02) e o 
+impacto é médio (2) resultando em: G1 = 2 x 2 = 04 
+Seja G2 o grau de risco correspondente ao Risco 02, com probabilidade média (02) e o 
+impacto é médio (2) resultando em: G1 = 2 x 2 = 04 
+Seja G3 o grau de risco respectivo ao Risco 03, cuja probabilidade é média (02) e o 
+impacto é médio (2) resultando em: G1 = 2 x 2 = 04 
+Seja G4 o grau de risco associado ao Risco 04, cuja probabilidade é baixa (01) e o 
+impacto é médio (02), resultando em: G4 = 1 x 2 = 02 
+Seja G5 o grau de risco correspondente ao Risco 05, cuja probabilidade é baixa (01) e o 
+impacto é alto (03), resultando em: G5 = 1 x 3 = 03. 
+Seja G6 o grau de risco respectivo ao Risco 06, cuja probabilidade é baixa (01) e o 
+impacto é médio (02), resultando em: G6 = 1 x 2 = 02. 
+Seja G7 o grau de risco associado ao Risco 07, cuja probabilidade é baixa (01) e o  
+impacto é alto (03), resultando em: G7 = 1 x 3 = 03. 
+Seja G8 o grau de risco correspondente ao Risco 08, cuja probabilidade é baixa (01) e o 
+impacto é alto (03), resultando em: G8 = 1 x 3 = 03. 
+Seja G9 o grau de risco respectivo ao Risco 09, cuja probabil idade é baixa (01) e o 
+impacto é alto (03), resultando em: G9 = 1 x 3 = 03. 
+A análise demonstra que ambos os riscos identificados são plenamente detectáveis e 
+passíveis de gestão, situando -se em níveis aceitáveis de exposição, o que não 
+compromete a viabil idade da contratação proposta. Ressalta -se, contudo, a importância 
+do monitoramento contínuo, de modo a permitir a reavaliação tempestiva das medidas 
+de mitigação, caso haja alteração no cenário de risco durante a execução contratual. 
+
+[PÁGINA 91]
+ 
+91 
+ 
+  
+Declaração de viabilidade 
+ 
+Diante do exposto, resta devidamente demonstrada a viabilidade técnica, jurídica e 
+administrativa da presente contratação, sendo esta medida necessária, oportuna e 
+adequada ao interesse público, assegurando o pleno exercício das competências 
+institucionais do IPREMB e a melhoria contínua da qualidade dos serviços prestados à 
+população segurada.  
+ 
+Ante o exposto:  
+☒ Esta equipe de planejamento declara viável esta contratação com base neste Estudo 
+Técnico Preliminar. 
+☐ Esta equipe de planejamento  declara viável com restrições  esta contratação com 
+base neste Estudo Técnico Preliminar. 
+☐ Esta equipe de planejamento declara inviável esta contratação com base neste Estudo 
+Técnico Preliminar. 
+ 
+Betim, 05 de julho de 2026. 
+ 
+ 
+Responsáveis: 
+  
+ 
+Vinicius Miranda Gonçalves 
+Assessor V 
+Matrícula 542448-5 
+Instituto de Previdência Social do Município de Betim – IPREMB 
+ 
+ 
+ 
+ 
+Edimar Caetano de Souza 
+Assessor IX 
+Matrícula 542468-7 
+Instituto de Previdência Social do Município de Betim - IPREMB 
+ANEXO II 
+
+[PÁGINA 92]
+ 
+92 
+ 
+MODELO DE PROPOSTA COMERCIAL 
+ 
+INSTITUTO DE PREVIDÊNCIA SOCIAL DO MUNICÍPIO DE BETIM 
+PROPOSTA COMERCIAL - PREGÃO ELETRÔNICO 002/2026 
+ATENÇÃO: 
+PREENCHER SOMENTE OS CAMPOS EM BRANCO 
+Dados da Empresa 
+Razão social/Nome 
+completo:   
+Nome fantasia:   
+CNPJ/CPF:   
+Endereço:   
+CEP:   
+E-mail:   
+Telefone:   
+Dados do Objeto 
+Ite
+m  Bem/Serviço Und. Qnt. Marca Preço 
+Unitário Preço Total 
+01 
+Fornecimento de licença de uso do 
+ChatGPT Business da OpenAI, por 
+meio de subscrição, com vigência de 
+12 (doze) meses, incluindo serviços 
+de intermediação de pagamento, 
+suporte técnico e gerenciamento da 
+solução. 
+LICENÇAS 12     R$ 0,00 
+TOTAL GLOBAL R$ 0,00 
+Observações importantes: Entrega única para todos os itens. 
+Declarações: 
+A presente proposta comercial está de acordo com todas condições do Pregão 
+Eletrônico n°:  0002/2026 
+A validade desta proposta é de 60 dias.      
+“Declaro, para os devidos fins, que esta empresa não se enquadra em qualquer caso de proibição 
+previsto na legislação vigente para licitar ou contratar com a Administração Pública.” 
+Local:     
+Data:         
+      
+  Representante legal da empresa   
+ 

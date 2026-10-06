@@ -1,0 +1,140 @@
+{
+  "id": "83102509000172-1-000081/2026",
+  "consultadoEm": "2026-10-06T16:55:25.662637-03:00",
+  "falhas": [
+    {
+      "campo": "compra",
+      "erro": "'>=' not supported between instances of 'str' and 'int'"
+    },
+    {
+      "campo": "compra",
+      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/83102509000172/compras/2026/81']' returned non-zero exit status 22."
+    }
+  ],
+  "itens": [
+    {
+      "numeroItem": 1,
+      "descricao": "Licença de assinatura (subscription) AutoCAD LT, versão mais recente, com suporte e atualizações, vigência de 12 meses.",
+      "materialOuServico": "S",
+      "materialOuServicoNome": "Serviço",
+      "valorUnitarioEstimado": 2587.33,
+      "valorTotal": 18111.31,
+      "quantidade": 7.0,
+      "unidadeMedida": "licença/ ano",
+      "orcamentoSigiloso": false,
+      "itemCategoriaId": 3,
+      "itemCategoriaNome": "Não se aplica",
+      "patrimonio": null,
+      "codigoRegistroImobiliario": null,
+      "criterioJulgamentoId": 1,
+      "criterioJulgamentoNome": "Menor preço",
+      "situacaoCompraItem": 1,
+      "situacaoCompraItemNome": "Em andamento",
+      "tipoBeneficio": 5,
+      "tipoBeneficioNome": "Não se aplica",
+      "incentivoProdutivoBasico": false,
+      "dataInclusao": "2026-10-05T14:55:42",
+      "dataAtualizacao": "2026-10-05T14:55:42",
+      "temResultado": false,
+      "imagem": 0,
+      "aplicabilidadeMargemPreferenciaNormal": false,
+      "aplicabilidadeMargemPreferenciaAdicional": false,
+      "percentualMargemPreferenciaNormal": null,
+      "percentualMargemPreferenciaAdicional": null,
+      "ncmNbsCodigo": null,
+      "ncmNbsDescricao": null,
+      "catalogo": null,
+      "categoriaItemCatalogo": null,
+      "catalogoCodigoItem": null,
+      "informacaoComplementar": null,
+      "tipoMargemPreferencia": null,
+      "exigenciaConteudoNacional": false
+    }
+  ],
+  "arquivos": [
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/1",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/1",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-05T14:55:43",
+      "cnpj": "83102509000172",
+      "anoCompra": 2026,
+      "sequencialCompra": 81,
+      "sequencialDocumento": 1,
+      "titulo": "Termo de Referência",
+      "tipoDocumentoNome": "Termo de Referência",
+      "tipoDocumentoDescricao": "Termo de Referência",
+      "tipoDocumentoId": 4
+    },
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/2",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/2",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-05T14:55:44",
+      "cnpj": "83102509000172",
+      "anoCompra": 2026,
+      "sequencialCompra": 81,
+      "sequencialDocumento": 2,
+      "titulo": "Autorização para Abertura de Licitação 047 2026",
+      "tipoDocumentoNome": "Edital",
+      "tipoDocumentoDescricao": "Edital",
+      "tipoDocumentoId": 2
+    },
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/3",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/3",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-05T14:55:45",
+      "cnpj": "83102509000172",
+      "anoCompra": 2026,
+      "sequencialCompra": 81,
+      "sequencialDocumento": 3,
+      "titulo": "Mapa de Preços PE 047",
+      "tipoDocumentoNome": "Outros Documentos",
+      "tipoDocumentoDescricao": "Outros Documentos",
+      "tipoDocumentoId": 16
+    },
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/4",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/4",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-05T14:55:46",
+      "cnpj": "83102509000172",
+      "anoCompra": 2026,
+      "sequencialCompra": 81,
+      "sequencialDocumento": 4,
+      "titulo": "DFD 047",
+      "tipoDocumentoNome": "Edital",
+      "tipoDocumentoDescricao": "Edital",
+      "tipoDocumentoId": 2
+    },
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/5",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/5",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-05T14:55:47",
+      "cnpj": "83102509000172",
+      "anoCompra": 2026,
+      "sequencialCompra": 81,
+      "sequencialDocumento": 5,
+      "titulo": "ETP 047",
+      "tipoDocumentoNome": "Edital",
+      "tipoDocumentoDescricao": "Edital",
+      "tipoDocumentoId": 2
+    },
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/6",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/83102509000172/compras/2026/81/arquivos/6",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-05T14:55:48",
+      "cnpj": "83102509000172",
+      "anoCompra": 2026,
+      "sequencialCompra": 81,
+      "sequencialDocumento": 6,
+      "titulo": "Edital de Pregão Eletrônico 047.2026",
+      "tipoDocumentoNome": "Edital",
+      "tipoDocumentoDescricao": "Edital",
+      "tipoDocumentoId": 2
+    }
+  ]
+}

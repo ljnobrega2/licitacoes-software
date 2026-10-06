@@ -1,0 +1,112 @@
+{
+  "id": "18404764000108-1-000070/2026",
+  "consultadoEm": "2026-10-06T16:55:29.190334-03:00",
+  "falhas": [
+    {
+      "campo": "compra",
+      "erro": "'>=' not supported between instances of 'str' and 'int'"
+    },
+    {
+      "campo": "compra",
+      "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/consulta/v1/orgaos/18404764000108/compras/2026/70']' returned non-zero exit status 22."
+    }
+  ],
+  "itens": [
+    {
+      "numeroItem": 1,
+      "descricao": "QUIOSQUE LOCALIZADO NA PRAÇA DE ESPORTES DO MUNICIPIO, CONTENDO UM AMBIENTE PARA ATENDIMENTO, UMA COZINHA COM BANCADA EM GRANITO E UMA PIA,  UM LAVABO MASCULINO E UM LAVABO FEMININO.",
+      "materialOuServico": "M",
+      "materialOuServicoNome": "Material",
+      "valorUnitarioEstimado": 1.0,
+      "valorTotal": 1.0,
+      "quantidade": 1.0,
+      "unidadeMedida": "UNIDADE",
+      "orcamentoSigiloso": false,
+      "itemCategoriaId": 3,
+      "itemCategoriaNome": "Não se aplica",
+      "patrimonio": null,
+      "codigoRegistroImobiliario": null,
+      "criterioJulgamentoId": 8,
+      "criterioJulgamentoNome": "Melhor técnica",
+      "situacaoCompraItem": 1,
+      "situacaoCompraItemNome": "Em andamento",
+      "tipoBeneficio": 4,
+      "tipoBeneficioNome": "Sem benefício",
+      "incentivoProdutivoBasico": false,
+      "dataInclusao": "2026-10-02T11:35:42",
+      "dataAtualizacao": "2026-10-02T11:35:42",
+      "temResultado": false,
+      "imagem": 0,
+      "aplicabilidadeMargemPreferenciaNormal": false,
+      "aplicabilidadeMargemPreferenciaAdicional": false,
+      "percentualMargemPreferenciaNormal": null,
+      "percentualMargemPreferenciaAdicional": null,
+      "ncmNbsCodigo": null,
+      "ncmNbsDescricao": null,
+      "catalogo": null,
+      "categoriaItemCatalogo": null,
+      "catalogoCodigoItem": null,
+      "informacaoComplementar": null,
+      "tipoMargemPreferencia": null,
+      "exigenciaConteudoNacional": false
+    }
+  ],
+  "arquivos": [
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/18404764000108/compras/2026/70/arquivos/2",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/18404764000108/compras/2026/70/arquivos/2",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-02T11:36:01",
+      "cnpj": "18404764000108",
+      "anoCompra": 2026,
+      "sequencialCompra": 70,
+      "sequencialDocumento": 2,
+      "titulo": "EDITAL_QUIOSQUE_ESPORTE.pdf",
+      "tipoDocumentoNome": "Edital",
+      "tipoDocumentoDescricao": "Edital",
+      "tipoDocumentoId": 2
+    },
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/18404764000108/compras/2026/70/arquivos/3",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/18404764000108/compras/2026/70/arquivos/3",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-02T11:36:13",
+      "cnpj": "18404764000108",
+      "anoCompra": 2026,
+      "sequencialCompra": 70,
+      "sequencialDocumento": 3,
+      "titulo": "TERMO_DE_REFERENCIA.pdf",
+      "tipoDocumentoNome": "Termo de Referência",
+      "tipoDocumentoDescricao": "Termo de Referência",
+      "tipoDocumentoId": 4
+    },
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/18404764000108/compras/2026/70/arquivos/4",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/18404764000108/compras/2026/70/arquivos/4",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-02T11:36:23",
+      "cnpj": "18404764000108",
+      "anoCompra": 2026,
+      "sequencialCompra": 70,
+      "sequencialDocumento": 4,
+      "titulo": "ETP.pdf",
+      "tipoDocumentoNome": "Estudo Técnico Preliminar",
+      "tipoDocumentoDescricao": "Estudo Técnico Preliminar",
+      "tipoDocumentoId": 7
+    },
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/18404764000108/compras/2026/70/arquivos/5",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/18404764000108/compras/2026/70/arquivos/5",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-10-02T11:36:32",
+      "cnpj": "18404764000108",
+      "anoCompra": 2026,
+      "sequencialCompra": 70,
+      "sequencialDocumento": 5,
+      "titulo": "ANEXO_I_ETP__PRACA_DE_ESPORTES.pdf",
+      "tipoDocumentoNome": "Outros Documentos",
+      "tipoDocumentoDescricao": "Outros Documentos",
+      "tipoDocumentoId": 16
+    }
+  ]
+}

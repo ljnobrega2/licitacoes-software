@@ -1,0 +1,1608 @@
+
+[PÁGINA 1]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+1/ 35 
+AVISO DE CONTRATAÇÃO DIRETA 
+DISPENSA ELETRÔNICA Nº 0042/2026 
+ 
+Item Informação 
+Unidade requisitante Departamento de Administração 
+Objeto 
+Fornecimento continuado de 30 (trinta) licenças/assentos Standard do 
+ChatGPT Business , mediante cessão temporária de direito de uso em 
+ambiente SaaS, com ativação, administração institucional dos usuários, 
+atualizações ordinárias incorporadas ao plano e suporte ao licenciamento. 
+Natureza do objeto 
+Serviço continuado de tecnologia da informação e comunicação, sem 
+dedicação exclusiva de mão de obra. 
+Critério de julgamento 
+Menor preço do item, condicionado ao atendimento integral dos 
+requisitos técnicos e de habilitação. 
+Valor máximo estimado R$ 63.600,00 (sessenta e três mil e seiscentos reais). 
+Prazo de ativação 
+Até 10 (dez) dias úteis  após a Ordem de Fornecimento e o recebimento 
+das informações necessárias à configuração dos acessos. 
+Vigência 12 (doze) meses. 
+Garantia financeira de 
+execução 
+Não será exigida. 
+Recursos orçamentários 
+Referência de dotação: 42 
+Função: 0004 Administração 
+Programa: 0008 Serviços Administrativos 
+Ação: 2008 Serviços da Administração em geral 
+Vínculo: 011100000 Recursos Próprios - geral 
+Plataforma eletrônica BNC – Bolsa Nacional de Compras – www.bnc.org.br 
+Participação 
+Exclusiva a microempresas, empresas de pequeno porte e pessoas 
+jurídicas legalmente equiparadas, ressalvadas as hipóteses legais de 
+afastamento do tratamento favorecido. 
+Datas e horários 
+Conforme eventos cadastrados e divulgados na plataforma BNC e no 
+sítio eletrônico oficial, assegurado prazo mínimo de 3 (três) dias úteis  
+para recebimento de propostas a partir da divulgação do Aviso, bem 
+como período mínimo de 6 (seis) horas para a fase de lances/disputa 
+eletrônica, observado o horário oficial de Brasília/DF. 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 2]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+2/ 35 
+O MUNICÍPIO DE AMÉRICO BRASILIENSE , por intermédio do Departamento de 
+Compras e Licitações, torna público que realizará Dispensa Eletrônica para contrataç ão de 
+serviço continuado de tecnologia da informação e comunicação, com fundamento no art. 75, 
+inciso II, da Lei Federal nº 14.133/2021, observados o art. 72, os §§ 1º e 3º do art. 75, a Lei 
+Complementar nº 123/2006, a regulamentação municipal aplicável e as demais normas 
+pertinentes. 
+ 
+1. OBJETO DA CONTRATAÇÃO DIRETA 
+ 
+1.1. Constitui objeto desta contratação o fornecimento continuado de 30 (trin ta) 
+licenças/assentos Standard do ChatGPT Business, mediante cessão temporária do direito de uso 
+de solução de inteligência artificial generativa disponibilizada em ambiente SaaS - Software as a 
+Service, pelo período de 12 (doze) meses. 
+1.2. A contratação compreende a disponibilização, ativação e manutenção dos 30 assentos, 
+administração institucional dos usuários, atualizações ordinariamente incorporadas ao pla no e 
+suporte necessário à ativação e ao licenciamento. 
+1.3. Não integram o objeto assentos Premium, API autônoma, créditos adicionais, recarga s, 
+upgrades, consumo extraordinário faturável ou qualquer funcionalidade sujeita a cobrança 
+adicional não expressamente autorizada pela Administração. 
+1.4. O preço máximo admitido é de R$ 63.600,00, correspondente ao período integral de 12 
+meses. 
+1.5. O preço ofertado deverá compreender todos os custos diretos e indiretos necessários ao  
+fornecimento integral do objeto, inclusive licenciamento, ativação, intermed iação comercial, 
+suporte, tributos, encargos, emissão fiscal e demais despesas ordinariamente nec essárias à 
+disponibilização legítima das licenças. 
+1.6. Os assentos deverão ser oficiais, legítimos, individualizados, correspondentes à categoria  
+Standard do ChatGPT Business, vinculados a contas institucionais e integrados a ambien te 
+corporativo administrado pelo Município. 
+1.7. A contratação não será parcelada entre fornecedores distintos, pois todos os acessos 
+possuem a mesma especificação e deverão integrar ambiente institucional sujeito  à 
+administração centralizada. 
+1.8. A distribuição interna dos assentos entre usuários e Departamentos pode rá ser modificada 
+pela Administração durante a vigência, sem aumento do quantitativo total ou do valo r 
+contratado, observadas as regras do plano. 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 3]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+3/ 35 
+2. DOCUMENTOS INTEGRANTES DA CONTRATAÇÃO 
+ 
+2.1. Integram esta contratação, independentemente de transcrição: 
+a) Documento de Formalização da Demanda - DFD; 
+b) Estudo Técnico Preliminar - ETP; 
+c) Termo de Referência - TR; 
+d) Mapa de Riscos; 
+e) Dossiê de Pesquisa de Preços e respectivos documentos e fontes; 
+f) este Aviso de Contratação Direta e seus anexos; 
+g) proposta final da empresa selecionada; 
+h) documentos de habilitação e comprovação da legitimidade do fornecimento; 
+i) justificativa de preço, registro de eventual negociação e razão da escolha da contratada; 
+j) autorização da contratação direta, documentos orçamentários e publicações; 
+k) Contrato Administrativo, Ordem de Fornecimento, designações de gestor e f iscal e registros 
+de execução; e 
+l) anexos e declarações destinados ao Tribunal de Contas do Estado de São Paulo - TCESP. 
+2.2. O Termo de Referência prevalecerá para definição das especificações técnicas, condi ções 
+de ativação, governança dos acessos, segurança da informação, proteção de dados, recebim ento 
+e pagamento, sem prejuízo das disposições complementares do Contrato Administrativo. 
+2.3. A documentação deverá ser interpretada de forma integrada, preservando a isonomi a, a 
+seleção da proposta mais vantajosa, a legitimidade das licenças, a continuidade dos acessos, a 
+segurança da informação e a proteção do interesse público. 
+ 
+3. CREDENCIAMENTO E ACESSO AO SISTEMA 
+ 
+3.1. Para participar da Dispensa Eletrônica, o interessado deverá estar regularmente credenciado 
+na plataforma BNC - Bolsa Nacional de Compras - www.bnc.org.br. 
+3.2. O credenciamento e a utilização da senha de acesso são de responsabilidade do fornecedor, 
+que responderá pelos atos realizados diretamente ou por seu representante no sistema eletrônico. 
+3.3. O fornecedor deverá acompanhar as operações durante todo o procedimento, inclusive  
+mensagens, solicitações de diligência, convocações, suspensões, reaberturas e demais 
+comunicações efetuadas pela Administração por meio da plataforma. 
+3.4. O desconhecimento de mensagem regularmente disponibilizada no sistema não afast ará os 
+efeitos decorrentes da comunicação. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 4]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+4/ 35 
+3.5. Informações administrativas poderão ser solicitadas ao Departamento de Compr as e 
+Licitações pelo e-mail institucional comprasdireta@americobrasiliense.sp.gov.br, sem prejuízo 
+dos canais oficiais da plataforma. 
+ 
+4. PARTICIPAÇÃO E TRATAMENTO FAVORECIDO 
+ 
+4.1. Considerado o valor estimado da contratação, a participação será exclusiva a 
+microempresas, empresas de pequeno porte e demais pessoas jurídicas legalmente equiparadas, 
+nos termos da Lei Complementar nº 123/2006, ressalvadas as hipóteses legais de afastamento do 
+tratamento favorecido. 
+4.2. Antes da publicação definitiva, o Departamento de Compras e Licitações deverá certificar a 
+não incidência das exceções legalmente aplicáveis ao tratamento exclusivo, quando cabível , 
+preservando a competitividade e a vantajosidade da contratação. 
+4.3. Para utilização do tratamento favorecido, a empresa deverá declarar e comprovar seu 
+enquadramento quando solicitado e atender aos limites legais relacionados às contrataçõ es 
+celebradas com a Administração Pública no respectivo ano-calendário. 
+4.4. Não poderão participar empresas ou pessoas que: 
+a) não atendam às condições deste Aviso e de seus anexos; 
+b) estejam impedidas ou suspensas de contratar com a Administração quando a sanção alcançar  
+a presente contratação; 
+c) estejam declaradas inidôneas para licitar ou contratar; 
+d) se enquadrem nas hipóteses de impedimento do art. 14 da Lei nº 14.133/2021; 
+e) mantenham vínculo caracterizador de conflito de interesses com agente públi co que participe 
+do procedimento, gestão ou fiscalização; 
+f) atuem em substituição a pessoa jurídica sancionada com a finalidade de cont ornar 
+impedimento; ou 
+g) estejam abrangidas por qualquer outra vedação prevista em lei. 
+4.5. A participação de consórcios ou cooperativas somente será admitida quando compatível 
+com a natureza do objeto e atendidos os requisitos legais pertinentes, sem prejuízo da 
+responsabilidade integral pela legitimidade e continuidade das licenças. 
+ 
+5. VISTORIA E CONDIÇÕES PRÉVIAS 
+ 
+5.1. Não será exigida vistoria prévia, por inexistir instalação física ou condição lo cal cuja 
+inspeção seja necessária à formulação da proposta. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 5]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+5/ 35 
+5.2. A formulação da proposta pressupõe ciência das especificações constantes do Termo  de 
+Referência, inclusive quanto à categoria do plano, quantitativo, período de 12 meses, 
+administração institucional dos usuários, prazo de ativação e vedação de cobranças adici onais 
+não autorizadas. 
+ 
+6. CADASTRAMENTO E CONTEÚDO DA PROPOSTA 
+ 
+6.1. A proposta inicial será encaminhada exclusivamente pela plataforma eletrônica dentro do 
+período nela indicado. 
+6.2. A proposta deverá abranger o fornecimento integral das 30 licenças pelo período de 12 
+meses, sendo vedada proposta parcial. 
+6.3. O preço total ofertado não poderá ultrapassar R$ 63.600,00. 
+6.4. A proposta deverá indicar, no mínimo: 
+a) identificação da solução ofertada como ChatGPT Business - assento Standard; 
+b) quantidade de 30 assentos; 
+c) vigência de 12 meses; 
+d) valor unitário anual por assento e valor total; 
+e) prazo de ativação, limitado a 10 (dez) dias úteis; 
+f) prazo de validade da proposta de, no mínimo, 60 (sessenta) dias; 
+g) identificação e CNPJ do fornecedor; 
+h) declaração de que o preço inclui todos os custos necessários ao fornecimento integral; e 
+i) dados do representante e meios de contato. 
+6.5. O fornecedor provisoriamente classificado em primeiro lugar deverá apresentar proposta 
+final ajustada ao último lance ou ao valor negociado, preservando integralmente o obj eto e 
+acompanhada dos documentos de habilitação e comprovação da legitimidade do fornecimento. 
+6.6. Erros materiais ou formais poderão ser saneados quando não alterarem a substância da 
+proposta, não importarem majoração do preço e não comprometerem a isonomia ou a 
+competitividade. 
+ 
+7. PROCEDIMENTO ELETRÔNICO, LANCES E NEGOCIAÇÃO 
+ 
+7.1. Na data e horário registrados na plataforma, será aberta a fase de disputa para apresentação 
+de lances públicos e sucessivos, observadas as regras operacionais da BNC. 
+7.2. Os lances serão formulados sobre o preço total do item e classificados em ordem crescente. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 6]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+6/ 35 
+7.3. O fornecedor que não apresentar lance durante a disputa permanecerá concorrendo pelo 
+valor de sua proposta inicial, se válida e compatível com o valor máximo. 
+7.4. Encerrada a fase competitiva, o Condutor do Processo poderá negociar com o fornecedor 
+melhor classificado para obtenção de condição mais vantajosa, especialmente redução do preço, 
+sem alteração do objeto ou dos requisitos técnicos obrigatórios. 
+7.5. A negociação será registrada no procedimento eletrônico. 
+7.6. O fornecedor melhor classificado deverá encaminhar, no prazo fixado pelo Condutor do 
+Processo, a proposta final e os documentos de habilitação e comprovação técnica solicitados. 
+7.7. Se a proposta for desclassificada ou o fornecedor for inabilitado, será examinada a proposta 
+subsequente, respeitada a ordem de classificação e assegurada nova análise objetiva. 
+ 
+8. JULGAMENTO, ACEITABILIDADE E COMPROVAÇÃO TÉCNICA 
+ 
+8.1. O julgamento observará o critério de menor preço do item entre as propostas  que atendam 
+integralmente aos requisitos do Termo de Referência e deste Aviso. 
+8.2. O valor máximo aceitável é de R$ 63.600,00. 
+8.3. O menor preço nominal não assegura a contratação se a proposta não demonstrar 
+correspondência com o ChatGPT Business - Standard, legitimidade do fornecimento, 
+quantidade de 30 assentos, período de 12 meses e demais requisitos obrigatórios. 
+8.4. O fornecedor provisoriamente classificado em primeiro lugar deverá apresent ar, quando 
+solicitado, documentação do fabricante, distribuidor, parceiro, revendedor ou outro documento 
+comercial idôneo que demonstre capacidade efetiva de disponibilização legítima das licenças. 
+8.5. Não será exigida declaração específica de revendedor autorizado quando essa formalidade 
+não integrar o modelo ordinário de comercialização do fabricante, desde que a legitim idade do 
+fornecimento seja demonstrada por meio idôneo. 
+8.6. A Administração poderá promover diligência para esclarecer ou confirmar  informação ou 
+condição existente na data própria, vedada a criação posterior de requisito material ou 
+substituição da solução por categoria incompatível com a proposta inicialmente apresentada. 
+8.7. Será desclassificada a proposta que: 
+a) contenha vício insanável; 
+b) não atenda a requisito técnico obrigatório; 
+c) permaneça acima do valor máximo após eventual negociação; 
+d) revele-se materialmente inexequível após oportunizada comprovação; 
+e) corresponda a conta pessoal revendida, conta compartilhada, licença promocional 
+incompatível, categoria diversa ou fornecimento contrário às condições ordinárias do fabricante; 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 7]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+7/ 35 
+f) condicione a execução a cobrança adicional de custo ordinariamente abrangido pel o objeto; 
+ou 
+g) apresente desconformidade insanável com o Aviso, o Termo de Referência ou os d emais 
+documentos da contratação. 
+8.8. Diante de preço significativamente reduzido ou de indício concreto de inexequibili dade ou 
+irregularidade da cadeia de fornecimento, a Administração poderá solicitar documentos 
+comerciais, notas fiscais, contratos, comprovação de descontos, cadeia de fornecimento ou 
+outros elementos idôneos que demonstrem a viabilidade da execução. 
+8.9. A existência de apenas uma proposta válida não impedirá a contratação, desde que este jam 
+demonstrados atendimento técnico, compatibilidade do preço, habilitação, regularidade  da 
+instrução e vantagem para a Administração. 
+ 
+9. HABILITAÇÃO 
+ 
+9.1. Para fins de habilitação, o fornecedor provisoriamente classificado em primeir o lugar 
+deverá apresentar os documentos abaixo relacionados, admitida a consulta direta pela 
+Administração aos sistemas e bases oficiais disponíveis, nos termos da Lei nº 14.133/2021. 
+ 
+9.2. Habilitação jurídica: 
+ 
+9.2.1. Comprovante de inscrição e de situação cadastral ativa no Cadastro Nacional da Pessoa 
+Jurídica – CNPJ, compatível com a atividade objeto da contratação, disponível para consul ta no 
+Portal REDESIM: Consultar/emitir comprovante de CNPJ – REDESIM. 
+9.2.2. Ato constitutivo, estatuto ou contrato social em vigor e suas alterações, ou instrum ento 
+consolidado, devidamente registrado, acompanhado dos documentos de eleição ou designação 
+de seus administradores, quando aplicável. 
+9.2.3. Autorização ou licença para exercício da atividade, quando exigida pela legislação 
+específica. 
+ 
+9.3. Regularidade fiscal, social e trabalhista: 
+ 
+9.3.1. Certidão Negativa de Débitos ou Certidão Positiva com Efeitos de Negativa relat iva aos 
+créditos tributários federais e à Dívida Ativa da União, inclusive contribuiçõe s previdenciárias, 
+expedida conjuntamente pela Receita Federal do Brasil e pela Procuradoria-Geral da Fazenda 
+Nacional – PGFN: Emitir CND Federal – Receita Federal/PGFN. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 8]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+8/ 35 
+9.3.2. Certificado de Regularidade do FGTS – CRF, emitido pela Caixa Econômica Federal: 
+Consultar/emitir CRF do FGTS – CAIXA. 
+9.3.3. Certidão Negativa de Débitos Trabalhistas – CNDT ou Certidão Positiva com Efeitos de 
+Negativa, expedida pela Justiça do Trabalho: Emitir CNDT – Tribunal Superior do Trabalho. 
+9.3.4. Certidão de regularidade perante a Fazenda Estadual do domicílio ou sede do fornecedor, 
+quando pertinente à sua atividade e à natureza da contratação. Para empresas sediadas no Estado 
+de São Paulo, poderão ser consultadas: 
+a) certidão relativa aos débitos inscritos em Dívida Ativa: Certidão de Dívida Ativa – PGE/SP; 
+b) certidão relativa aos débitos tributários não inscritos em Dívida Ativa, quando apl icável: 
+Certidão de Débitos Não Inscritos – Sefaz/SP. 
+9.3.5. Certidão Negativa ou Positiva com Efeitos de Negativa de Tributos Mobiliários  
+Municipais, expedida pelo Município do domicílio ou sede do fornecedor. Para fornecedo res 
+sediados em Américo Brasiliense/SP, a certidão poderá ser obtida pelo serviço  oficial: Certidão 
+negativa para contribuintes de Américo Brasiliense. 
+9.3.6. Comprovante de inscrição no cadastro de contribuintes municipal e, quando apli cável, 
+estadual, pertinente ao ramo de atividade e compatível com o objeto. 
+9.3.7. Declaração de cumprimento do disposto no art. 7º, XXXIII, da Constituição Federal, 
+quanto à proibição de trabalho noturno, perigoso ou insalubre a menores de 18 anos e de 
+qualquer trabalho a menores de 16 anos, salvo na condição de aprendiz, a partir dos 14 anos. 
+9.3.8. Declaração de cumprimento das exigências legais relativas à reserva de cargos p ara 
+pessoa com deficiência e para reabilitado da Previdência Social, quando aplicável. 
+ 
+9.4. Qualificação Técnica 
+ 
+9.4.1. Para comprovação da capacidade técnico-operacional, o fornecedor provisoriamente 
+classificado em primeiro lugar deverá apresentar um ou mais atestados de capacidade técnica, 
+emitidos por pessoa jurídica de direito público ou privado, que comprovem a execuçã o 
+satisfatória de objeto compatível com a presente contratação. 
+9.4.2. Será considerada compatível a experiência no fornecimento, licenciamento, 
+disponibilização ou gerenciamento de licenças de software, plataformas digita is ou soluções 
+disponibilizadas em ambiente de nuvem (SaaS) de características semelhantes às do objeto. 
+9.4.3. Os atestados deverão comprovar quantitativo mínimo equivalente a 15 (quinze) licenças  
+ou usuários, correspondente a 50% das 30 licenças estimadas para a contratação, nos termos do  
+art. 67, § 2º, da Lei nº 14.133/2021. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 9]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+9/ 35 
+9.4.4. Será admitido o somatório de atestados para atendimento do quantitativo mínimo exigido, 
+desde que os documentos apresentados permitam verificar a compatibilidade do obje to e a 
+efetiva capacidade do fornecedor. 
+9.4.5. Não será exigido que a experiência anterior tenha ocorrido com a mesma marca ou 
+plataforma objeto desta contratação, nem serão estabelecidas limitações quanto ao período ou ao 
+local de execução dos serviços atestados. 
+9.4.6. Os atestados deverão conter informações suficientes para identificação do emit ente, do 
+fornecedor, do objeto executado e dos respectivos quantitativos, podendo a Administração 
+realizar diligências para confirmar sua autenticidade ou esclarecer informações. 
+9.5. Documentos complementares destinados a esclarecer ou confirmar condição existente na 
+data própria poderão ser solicitados mediante diligência, sem criação posterior de r equisito 
+material. 
+9.6. Às microempresas e empresas de pequeno porte será assegurado o regime legal aplicável  à 
+regularização fiscal e trabalhista. 
+ 
+10. FORMALIZAÇÃO DA CONTRATAÇÃO 
+ 
+10.1. Concluído o procedimento, comprovados a justificativa do preço, a razão da escolha, a 
+habilitação e os demais requisitos do art. 72 da Lei nº 14.133/2021, será celebrada co ntratação 
+formal mediante Contrato Administrativo. 
+10.2. Antes da assinatura deverão estar comprovados nos autos: 
+a) certificação do atendimento ao art. 75, § 1º, da Lei nº 14.133/2021 e da inexistência de 
+fracionamento indevido; 
+b) divulgação e fase competitiva na forma do art. 75, § 3º, ou da regulamentação munici pal 
+aplicável; 
+c) compatibilidade do preço e registro da negociação, se realizada; 
+d) habilitação da futura contratada e legitimidade da cadeia de fornecimento; 
+e) disponibilidade e adequação orçamentária; 
+f) compatibilidade da contratação com o planejamento municipal, considerando que o Plano de 
+Contratações Anual - PCA encontra-se em fase de elaboração; 
+g) designação do gestor e do fiscal; 
+h) análise jurídica e autorização da autoridade competente, quando exigíveis; 
+i) consulta aos cadastros de sanções e impedimentos; e 
+j) demais providências necessárias à contratação direta. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 10]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+10/ 35 
+10.3. A recusa injustificada do fornecedor selecionado em formalizar o contrato ou manter a 
+proposta poderá ensejar perda do direito à contratação e adoção das medidas administ rativas e 
+sancionatórias cabíveis, assegurado o devido processo. 
+ 
+11. GARANTIA, SUPORTE E CONTINUIDADE 
+ 
+11.1. Não será exigida garantia financeira de execução prevista no art. 96 da Lei nº 
+14.133/2021, considerada a natureza digital do objeto, a facilidade de verificação da ativação e 
+os mecanismos de fiscalização e pagamento. 
+11.2. A contratada permanecerá responsável pela regularidade do licenciamento e pelo suporte 
+relacionado à ativação e manutenção do direito de uso durante toda a vigência. 
+11.3. A indisponibilidade geral da infraestrutura do fabricante, quando não imputável à 
+contratada, deverá ser comunicada e acompanhada, sem prejuízo da obrigação de prestar suporte 
+e adotar as providências cabíveis para restabelecimento. 
+ 
+12. EXECUÇÃO E CONDIÇÕES TÉCNICAS ESSENCIAIS 
+ 
+12.1. A ativação somente poderá ocorrer após a assinatura e eficácia do contrato,  formalização 
+das designações e emissão da Ordem de Fornecimento. 
+12.2. A contratada deverá realizar a ativação integral das 30 licenças no prazo máximo de 10  
+(dez) dias úteis, contado do recebimento da Ordem de Fornecimento e das informações  
+necessárias à configuração dos acessos. 
+12.3. Os assentos deverão corresponder à categoria Standard do ChatGPT Business, ser 
+individualizados, vinculados a contas institucionais e integrados a ambiente corporativ o 
+administrado pelo Município. 
+12.4. Deverão ser mantidas as funcionalidades ordinariamente integrantes da categori a 
+contratada e as atualizações normalmente incorporadas ao produto durante a vigência. 
+12.5. As substituições de usuários deverão ser realizadas quando solicitadas pela Admin istração 
+e permitidas pelas regras do plano, sem cobrança adicional quando não houver aumento do 
+número de assentos. 
+12.6. Deverão permanecer desabilitados ou depender de autorização administrativa expressa 
+mecanismos que possam gerar despesas adicionais, inclusive créditos, assentos adicionais, 
+funcionalidades Premium, API paga, consumo extraordinário e upgrades. 
+ 
+13. ALTERAÇÃO DO PLANO, DESCONTINUIDADE E COBRANÇAS ADICIONAIS 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 11]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+11/ 35 
+ 
+13.1. A contratada deverá comunicar imediatamente qualquer alteração comercial ou té cnica 
+relevante do produto capaz de afetar categoria, funcionalidades essenciais, administração  
+institucional, continuidade dos acessos ou preço. 
+13.2. A alteração unilateral de tabela comercial ou política de preços do fabrican te não autoriza 
+cobrança adicional ou revisão automática do preço contratado. 
+13.3. A descontinuidade ou substituição do plano durante a vigência deverá ser submeti da à 
+Administração antes de qualquer migração, preservado o interesse público e vedada solu ção 
+inferior ou cobrança adicional não formalizada. 
+13.4. Nenhuma funcionalidade, crédito, API, assento adicional ou upgrade poderá ser faturado 
+sem autorização administrativa prévia e formal. 
+ 
+14. SEGURANÇA DA INFORMAÇÃO, CONFIDENCIALIDADE E LGPD 
+ 
+14.1. A execução deverá observar a Lei Federal nº 13.709/2018 - LGPD, as normas de 
+segurança da informação e as diretrizes internas do Município, naquilo que couber às obrigações 
+da contratada. 
+14.2. A contratada deverá manter sigilo sobre informações administrativas, cadastrai s ou 
+técnicas do Município a que tiver acesso em razão da ativação ou suporte, utilizand o-as 
+exclusivamente para a execução do objeto. 
+14.3. Incidente de segurança sob responsabilidade da contratada que possa afetar credenciais 
+administrativas, dados de usuários ou a continuidade do fornecimento deverá ser comunica do 
+sem demora injustificada à Administração, com indicação das providências adotadas. 
+14.4. A gestão das credenciais dos usuários será realizada institucionalmente pelo Muni cípio, 
+sendo vedado o fornecimento de contas compartilhadas ou de credenciais pessoais de terceiros. 
+ 
+15. SUBCONTRATAÇÃO E CADEIA DE COMERCIALIZAÇÃO 
+ 
+15.1. A utilização da infraestrutura tecnológica do fabricante e a existência de distr ibuidor, 
+parceiro ou revendedor na cadeia legítima de fornecimento não caracterizam, por s i sós, 
+subcontratação do objeto. 
+15.2. Não será admitida transferência integral das obrigações assumidas pela contratada perante 
+o Município. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 12]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+12/ 35 
+15.3. A contratada permanecerá integralmente responsável pela legitimidade das licenças,  
+ativação, faturamento, suporte e cumprimento das obrigações contratuais, ainda que utilize 
+terceiros na cadeia comercial permitida. 
+ 
+16. GESTÃO, FISCALIZAÇÃO E REGISTROS 
+ 
+16.1. A gestão contratual será exercida pelo Diretor do Departamento de Administr ação, 
+atualmente ANDRÉ RUI BARBOSA, ou por servidor formalmente designado pela autor idade 
+competente. 
+16.2. A fiscalização técnica será exercida por JOSÉ ROBERTO CAVASSANI - Di retor de TI, 
+condicionada à formalização da designação. 
+16.3. A fiscalização verificará, especialmente, quantidade e categoria dos assentos, ativaç ão, 
+prazo de validade, usuários ativos e substituições, continuidade dos acessos, legit imidade das 
+licenças, suporte e inexistência de cobranças adicionais não autorizadas. 
+16.4. A área de Informática prestará apoio nos aspectos relacionados à autenticação, segurança, 
+controle de acessos e governança tecnológica. 
+16.5. A fiscalização não exclui nem reduz a responsabilidade da contratada pela regul ar 
+execução do objeto. 
+ 
+17. RECEBIMENTO E PAGAMENTO 
+ 
+17.1. O recebimento provisório ocorrerá após a ativação das licenças, mediante confe rência 
+inicial da quantidade, categoria, validade e funcionamento. 
+17.2. O recebimento definitivo dependerá da confirmação da disponibilização dos 30 assentos 
+Standard, regular funcionamento, correspondência entre a solução ofertada e a contratada, 
+ambiente institucional administrado pelo Município, validade pelo período contratado e 
+inexistência de cobranças estranhas ao objeto. 
+17.3. Constatada desconformidade, a contratada deverá promover a regularização sem ônus 
+adicional para o Município, no prazo fixado pela fiscalização e compatível com a n atureza da 
+ocorrência. 
+17.4. O pagamento será efetuado após o recebimento e a regular liquidação da despesa, 
+mediante Nota Fiscal correspondente às licenças efetivamente disponibilizadas e ao perí odo 
+contratado. 
+17.5. O prazo de pagamento será de até 30 (trinta) dias após a liquidação regular da despesa, 
+observados os procedimentos financeiros do Município e a ordem cronológica aplicável. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 13]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+13/ 35 
+17.6. Não haverá pagamento por créditos, APIs, upgrades, assentos adicionais ou 
+funcionalidades não previamente autorizadas. 
+17.7. Não será admitido pagamento anterior à efetiva disponibilização das licenças, ressal vada 
+hipótese excepcional legalmente admitida e devidamente justificada nos autos. 
+17.8. Serão efetuadas as retenções tributárias legalmente exigidas. 
+ 
+18. VIGÊNCIA, REAJUSTE E EQUILÍBRIO ECONÔMICO-FINANCEIRO 
+ 
+18.1. O contrato terá vigência de 12 (doze) meses, contados da data estabelecida no instrumento, 
+após satisfeitas as condições necessárias à sua eficácia. 
+18.2. Por se tratar de serviço continuado, poderão ser admitidas prorrogações sucessivas nos 
+termos dos arts. 106 e 107 da Lei nº 14.133/2021, desde que previstas no instrumento e 
+demonstradas a permanência da necessidade, a disponibilidade orçamentária, a manutenção das 
+condições da contratada e a vantajosidade da continuidade. 
+18.3. Os preços serão fixos e irreajustáveis durante o interregno mínimo legal. Em even tual 
+prorrogação, observado o interregno contado da data-base da proposta ou do orçamento a que 
+ela se referir, poderá ser aplicado o IPCA/IBGE, mediante formalização e pr évia demonstração 
+da vantajosidade. 
+18.4. O restabelecimento do equilíbrio econômico-financeiro dependerá da demonstração  do 
+fato gerador, superveniência, nexo causal, impacto efetivo, memória de cálculo  e 
+enquadramento legal, não sendo reconhecido automaticamente por oscilações ordinárias de  
+mercado, erro de proposta ou custos previsíveis. 
+ 
+19. INFRAÇÕES E SANÇÕES ADMINISTRATIVAS 
+ 
+19.1. Constituem infrações administrativas as condutas previstas na Lei nº 14.133/2021,  
+inclusive atraso injustificado na ativação, inexecução parcial ou total, fornecimento de categoria 
+diversa, disponibilização de licença irregular, interrupção imputável à contr atada, cobrança não 
+autorizada, documentação falsa, fraude e demais condutas tipificadas em lei. 
+19.2. Poderão ser aplicadas, mediante processo administrativo e observados contraditório, ampla 
+defesa, culpabilidade, gravidade, circunstâncias e proporcionalidade, as sanções de advert ência, 
+multa, impedimento de licitar e contratar e declaração de inidoneidade. 
+19.3. O atraso injustificado poderá sujeitar a contratada à multa moratória prevista no 
+instrumento contratual, sem prejuízo das demais consequências quando o atraso caracterizar 
+inexecução. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 14]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+14/ 35 
+19.4. A aplicação de sanção não afasta a obrigação de regularizar o objeto, reparar  danos ou 
+devolver valores indevidamente recebidos. 
+ 
+20. RECURSOS ORÇAMENTÁRIOS, PLANEJAMENTO, PUBLICIDADE E 
+CONTROLE 
+ 
+20.1. A formalização da contratação dependerá da existência de disponibilidade orçam entária 
+suficiente, devendo a unidade competente certificar nos autos a classificação orçamentária, 
+dotação e fonte de recursos antes da assunção da obrigação. 
+20.2. O Plano de Contratações Anual - PCA encontra-se em fase de elaboração. A pr esente 
+contratação deverá ser considerada no processo de consolidação do planejamento anual e 
+compatibilizada com os demais instrumentos de planejamento e orçamento do Município. 
+20.3. O Aviso, a autorização da contratação direta, o contrato e os demais atos suje itos à 
+publicidade serão divulgados nos meios legalmente exigidos, inclusive no Portal Naci onal de 
+Contratações Públicas - PNCP, nos prazos aplicáveis. 
+20.4. O processo deverá manter documentação suficiente para permitir rastreabilidade, con trole 
+interno e fiscalização do Tribunal de Contas do Estado de São Paulo e dos demais órgãos 
+competentes. 
+20.5. Considerando a proximidade do valor estimado com o limite aplicável à contrat ação 
+direta, a pesquisa de preços deverá permanecer atual até a formalização. Se a at ualização dos 
+preços resultar em valor incompatível com o limite legal da dispensa, o procedimento deverá ser 
+revisto, preservado o quantitativo correspondente à necessidade administrativa. 
+ 
+21. DISPOSIÇÕES GERAIS 
+ 
+21.1. O horário utilizado no procedimento será o oficial de Brasília. 
+21.2. A Administração poderá realizar diligências destinadas a esclarecer, compl ementar ou 
+confirmar informações e documentos, vedada a criação posterior de condição material que  
+deveria existir na data própria. 
+21.3. Falhas meramente formais ou materiais que não prejudiquem a compreensão, a isonom ia, 
+a segurança do procedimento ou a substância da proposta poderão ser saneadas. 
+21.4. A Administração poderá suspender a sessão para análise técnica, habilitação ou diligência, 
+comunicando a continuidade pela plataforma. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 15]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+15/ 35 
+21.5. Se não forem obtidas propostas aceitáveis ou fornecedores habilitados, poderão ser 
+adotadas as providências legalmente cabíveis, inclusive nova divulgação ou repetição do 
+procedimento. 
+21.6. Nenhuma disposição deste Aviso dispensa o atendimento integral ao Termo de Referência, 
+ao Mapa de Riscos e aos demais documentos integrantes da contratação. 
+21.7. A contratação somente produzirá efeitos após o cumprimento das formalidades e da 
+publicidade legalmente exigidas. 
+ 
+-- assinado eletronicamente -- 
+TEREZINHA APARECIDA VIVEIROS DE SOUZA 
+Prefeita Municipal 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 16]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+16/ 35 
+ANEXO I - TERMO DE REFERÊNCIA 
+ 
+Integra o presente Aviso o Termo de Referência relativo à contratação de 30 (trinta)  
+licenças/assentos Standard do ChatGPT Business, pelo período de 12 (doze) meses, constante 
+do respectivo Processo Administrativo e Processo de Contratação. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 17]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+17/ 35 
+ANEXO II - MODELO DE PROPOSTA COMERCIAL 
+DISPENSA ELETRÔNICA Nº 0042/2026 
+ 
+Razão social: ______________________________________________ 
+CNPJ: ______________________________________________ 
+Endereço: ______________________________________________ 
+Telefone: ______________________________________________ 
+E-mail: ______________________________________________ 
+Responsável pela proposta: ______________________________________________ 
+Objeto: fornecimento continuado de 30 (trinta) licenças/assentos Standard do ChatGPT 
+Business, conforme Termo de Referência. 
+Descrição Quantidade Valor unitário anual Valor total ofertado 
+ChatGPT Business - assento 
+Standard 
+30 
+R$ 
+__________________ 
+R$ 
+__________________ 
+Valor total por extenso: _________________________________________________ 
+Prazo de ativação: até 10 (dez) dias úteis após a Ordem de Fornecimento e o recebimento das 
+informações necessárias. 
+Vigência: 12 (doze) meses. 
+Validade da proposta: mínimo de 60 (sessenta) dias. 
+Declaramos que o preço contempla todos os custos diretos e indiretos necessários ao 
+fornecimento integral do objeto e que a solução ofertada atenderá integralmente  ao Termo de 
+Referência, inclusive quanto à legitimidade das licenças, categoria Standard, individual ização 
+dos assentos, administração institucional, suporte, atualizações ordinárias e vedação de 
+cobranças adicionais não autorizadas. 
+Banco: ______________________________________________ 
+Agência: ______________________________________________ 
+Conta: ______________________________________________ 
+Representante legal: ______________________________________________ 
+CPF: ______________________________________________ 
+Cargo: ______________________________________________ 
+Local e data: ______________________________________________ 
+Assinatura: ______________________________________________ 
+ 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 18]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+18/ 35 
+ANEXO III - DECLARAÇÕES UNIFICADAS 
+DISPENSA ELETRÔNICA Nº 0042/2026 
+ 
+A empresa ________________________________________________, inscrita no CNPJ nº 
+________________________________, por intermédio de seu representante legal, DECLARA, 
+sob as penas da lei, que: 
+a) conhece e aceita integralmente o Aviso, o Termo de Referência, o Mapa de Riscos e os  
+demais documentos integrantes da contratação; 
+b) cumpre os requisitos de habilitação e possui capacidade operacional para fornecer o objeto; 
+c) a proposta compreende todos os custos necessários ao cumprimento das obrigações; 
+d) não emprega menor em situação vedada pela Constituição Federal e pela legislação 
+trabalhista; 
+e) não utiliza trabalho forçado ou condições degradantes; 
+f) cumpre, quando aplicável, as exigências legais de reserva de cargos para pessoa com 
+deficiência e reabilitado da Previdência Social; 
+g) não se encontra impedida de licitar ou contratar com a Administração por san ção aplicável à 
+presente contratação; 
+h) não se enquadra em hipótese de impedimento ou conflito de interesses que inviabilize sua 
+participação; 
+i) fornecerá 30 licenças oficiais e legítimas do ChatGPT Business - Standar d, individualizadas e 
+compatíveis com ambiente corporativo institucional; 
+j) não utilizará contas pessoais revendidas, compartilhadas, promocionais incompatívei s ou 
+solução de categoria diversa; 
+k) demonstrará, quando solicitado, a legitimidade da cadeia de fornecimento por document o 
+idôneo; 
+l) não habilitará créditos, API, assentos adicionais, funcionalidades Premium, upgrades ou 
+cobranças extraordinárias sem autorização administrativa prévia; 
+m) observará as normas aplicáveis à segurança da informação, confidencialidade e prot eção de 
+dados na execução das obrigações que lhe couberem; 
+n) manterá o suporte ao licenciamento e a regularidade dos acessos durante toda a vigência; 
+o) manterá as condições necessárias à regular execução do contrato; e 
+p) todas as informações e documentos apresentados são verdadeiros. 
+Para fins de tratamento favorecido, declara ainda, quando aplicável, seu enquadramento co mo 
+microempresa, empresa de pequeno porte ou pessoa jurídica legalmente equiparada e o 
+atendimento aos limites legais para utilização do benefício. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 19]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+19/ 35 
+Razão social: ______________________________________________ 
+CNPJ: ______________________________________________ 
+Representante: ______________________________________________ 
+CPF: ______________________________________________ 
+Cargo: ______________________________________________ 
+Data: ______________________________________________ 
+Assinatura: ______________________________________________ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 20]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+20/ 35 
+ANEXO IV - QUADRO DE COMPROVAÇÃO DO ATENDIMENTO TÉCNICO 
+ 
+O quadro deverá acompanhar a proposta final do fornecedor provisoriamente classificado em 
+primeiro lug ar. A coluna “Evidência/observação” deverá indicar documento comercial, 
+declaração, catálogo, comprovação do canal de fornecimento ou outro elemento idôneo que 
+permita verificação objetiva. 
+Item Requisito obrigatório Atende 
+Não 
+atende 
+Evidência/observação 
+1 ChatGPT Business - assento Standard. ☐ ☐  
+2 Quantidade total de 30 assentos. ☐ ☐  
+3 Período de 12 meses. ☐ ☐  
+4 Licenças oficiais, legítimas e individualizadas. ☐ ☐  
+5 Utilização mediante contas institucionais. ☐ ☐  
+6 
+Ambiente corporativo administrado pelo 
+Município. 
+☐ ☐  
+7 
+Possibilidade de inclusão, exclusão e 
+substituição de usuários, nos limites do plano. 
+☐ ☐  
+8 
+Atualizações ordinariamente incorporadas à 
+categoria contratada. 
+☐ ☐  
+9 
+Suporte necessário à ativação e ao 
+licenciamento. 
+☐ ☐  
+10 Identificação objetiva do período de validade. ☐ ☐  
+11 Cadeia legítima de comercialização. ☐ ☐  
+12 Prazo máximo de ativação de 10 dias úteis. ☐ ☐  
+13 
+Preço incluindo todos os custos necessários ao 
+fornecimento integral e sem cobranças 
+automáticas não autorizadas. 
+☐ ☐  
+A Administração poderá realizar diligência exclusivamente para esclarecer ou conf irmar 
+requisitos previamente estabelecidos, preservados a isonomia, a objetividade e o conteúdo 
+essencial da proposta. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 21]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+21/ 35 
+ANEXO V - MINUTA DO CONTRATO ADMINISTRATIVO 
+CONTRATO ADMINISTRATIVO Nº 0085/2026 
+DISPENSA ELETRÔNICA Nº 0042/2026 
+ 
+O MUNICÍPIO DE AMÉRICO BRASILIENSE , pessoa jurídica de direito público interno, 
+inscrito no CNPJ sob nº 43.976.166/0001-50, com sede administrativa na Avenida Eugênio 
+Voltarel, nº 25, Centro, Américo Brasiliense/SP, neste ato representado pela Prefeita Municipal, 
+TEREZINHA APARECIDA VIVEIROS DE SOUZA , doravante denominado 
+CONTRATANTE, e, de outro lado, [RAZÃO SOCIAL DA EMPRESA SELECIONADA ], 
+inscrita no CNPJ sob nº [ PREENCHER APÓS A SELEÇÃO], com sede em [ PREENCHER 
+APÓS A SE LEÇÃO], neste ato representada por [ PREENCHER APÓS A SELEÇÃO ], 
+conforme documentação constante do processo, doravante denominada CONTRATADA, 
+celebram o presente Contrato Administrativo, decorrente de contratação diret a por dispensa de 
+licitação, com fundamento no art. 75, inciso II, da Lei Federal nº 14.133/2021, median te as 
+cláusulas e condições seguintes. 
+ 
+CLÁUSULA PRIMEIRA - DO OBJETO 
+ 
+1.1. Constitui objeto do presente contrato o fornecimento continuado de 30 (trinta) 
+licenças/assentos Standard do ChatGPT Business, mediante cessão temporária do direito de uso 
+em ambiente SaaS - Software as a Service, pelo período de 12 (doze) meses. 
+1.2. O objeto compreende disponibilização, ativação e manutenção dos 30 assentos, 
+administração institucional dos usuários, atualizações ordinariamente incorporadas ao pla no e 
+suporte necessário à ativação e ao licenciamento. 
+1.3. Não integram o objeto assentos Premium, API autônoma, créditos adicionais, recarga s, 
+upgrades, consumo extraordinário faturável ou qualquer funcionalidade sujeita a cobrança 
+adicional não expressamente autorizada pelo CONTRATANTE. 
+ 
+CLÁUSULA SEGUNDA - DO REGIME JURÍDICO E DO FUNDAMENTO DA 
+CONTRATAÇÃO 
+ 
+2.1. O contrato rege-se pela Lei Federal nº 14.133/2021, especialmente pelos arts. 72 e 75, 
+inciso II, pelas normas relativas aos contratos administrativos, pela regulam entação municipal 
+pertinente e pelos documentos integrantes da contratação. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 22]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+22/ 35 
+2.2. A contratação decorre de dispensa de licitação em razão do valor, condicionada à 
+certificação constante dos autos quanto ao atendimento do art. 75, § 1º, à inexistência de  
+fracionamento indevido e aos demais requisitos legais. 
+ 
+CLÁUSULA TERCEIRA - DOS DOCUMENTOS INTEGRANTES E DA ORDEM DE  
+PREVALÊNCIA 
+ 
+3.1. Integram o presente contrato, independentemente de transcrição, o DFD, ETP, Termo de 
+Referência, Mapa de Riscos, Aviso de Contratação Direta, dossiê de preços, proposta f inal da 
+CONTRATADA, documentos de habilitação, justificativa de preço, autorização da contrataç ão, 
+empenho, Ordem de Fornecimento, registros de fiscalização e os anexos destinados ao TCESP. 
+3.2. A proposta vincula a CONTRATADA naquilo que não contrariar o Termo de Referência, o 
+Aviso ou este contrato. 
+3.3. Em caso de divergência documental, deverão ser preservados os requisitos técnicos  
+mínimos, o preço selecionado, a finalidade pública e a legislação aplicável, mediante registro 
+formal da solução adotada. 
+ 
+CLÁUSULA QUARTA - DA NATUREZA, DO ITEM ÚNICO E DO NÃO 
+PARCELAMENTO 
+ 
+4.1. O objeto caracteriza-se como serviço continuado de tecnologia da informação e 
+comunicação, consistente em cessão temporária de direito de uso de software disponibil izado 
+em nuvem, sem dedicação exclusiva de mão de obra. 
+4.2. O objeto será contratado em item único, correspondente às 30 licenças ChatGPT Business - 
+Standard. 
+4.3. O não parcelamento decorre da identidade das especificações, da administração centralizada 
+do ambiente institucional e da conveniência de concentração da responsabilidade pelo 
+fornecimento. 
+ 
+CLÁUSULA QUINTA - DO VALOR 
+ 
+5.1. O valor total do contrato será de R$ [VALOR DA PROPOSTA FINAL]. 
+5.2. O valor compreende todos os custos diretos e indiretos necessários ao fornecimento integral 
+do objeto, inclusive licenciamento, ativação, intermediação comercial, suporte, t ributos, 
+encargos, emissão fiscal e margem empresarial. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 23]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+23/ 35 
+5.3. Não haverá pagamento por funcionalidade, crédito, API, upgrade, assento adicional ou 
+despesa fora do objeto sem prévia autorização e formalização legalmente cabível. 
+ 
+CLÁUSULA SEXTA - DA DOTAÇÃO ORÇAMENTÁRIA 
+ 
+6.1. As despesas correrão por conta da dotação, classificação e fonte de recursos cert ificadas 
+pela unidade competente no processo administrativo antes da formalização da contratação. 
+6.2. A execução dependerá da manutenção da disponibilidade e adequação orçamentária e do 
+correspondente empenho. 
+ 
+CLÁUSULA SÉTIMA - DA VIGÊNCIA, EFICÁCIA E PRORROGAÇÃO 
+ 
+7.1. O contrato terá vigência de 12 (doze) meses, contados da data indicada no instrumento,  
+após satisfeitas as condições necessárias à sua eficácia. 
+7.2. A eficácia dependerá da publicidade legalmente exigida, inclusive divulgação no PNCP no 
+prazo aplicável. 
+7.3. Poderão ocorrer prorrogações sucessivas nos termos dos arts. 106 e 107 da Lei nº 
+14.133/2021, desde que previstas, demonstradas a permanência da necessidade, a 
+disponibilidade orçamentária, a manutenção das condições da CONTRATADA e a 
+vantajosidade da continuidade. 
+7.4. O término da vigência não extingue obrigações de prestação de informações, reparação d e 
+danos, sigilo e demais obrigações que, por sua natureza, sobrevivam ao encerramento. 
+ 
+CLÁUSULA OITAVA - DA ORDEM DE FORNECIMENTO E DO PRAZO DE 
+ATIVAÇÃO 
+ 
+8.1. Nenhuma ativação será exigida antes da Ordem de Fornecimento. 
+8.2. A CONTRATADA deverá realizar a ativação integral das 30 licenças em até 10 ( dez) dias 
+úteis do recebimento da Ordem de Fornecimento e das informações necessárias à con figuração 
+dos acessos. 
+8.3. Eventual extensão do prazo dependerá de fato devidamente demonstrado, não imputável  à 
+CONTRATADA, e de autorização formal, sem direito automático à prorrogação. 
+ 
+CLÁUSULA NONA - DOS REQUISITOS DAS LICENÇAS 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 24]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+24/ 35 
+9.1. As licenças deverão ser oficiais, legítimas, individualizadas e correspondent es à categoria 
+Standard do ChatGPT Business. 
+9.2. Deverão permitir utilização por contas institucionais e integrar ambi ente corporativo 
+administrado pelo CONTRATANTE. 
+9.3. Deverão permitir, nos limites do plano, inclusão, exclusão e substituição de usuários, 
+manutenção das funcionalidades ordinárias, atualizações incorporadas e identificação do 
+período de validade. 
+9.4. A CONTRATADA deverá demonstrar a legitimidade da cadeia de fornecimento mediant e 
+documento idôneo quando solicitado. 
+ 
+CLÁUSULA DÉCIMA - DA ADMINISTRAÇÃO DOS ACESSOS E DA 
+REDISTRIBUIÇÃO 
+ 
+10.1. A distribuição inicial das licenças entre Departamentos e usuários será definida pelo 
+CONTRATANTE. 
+10.2. O CONTRATANTE poderá redistribuir assentos, incluir, excluir ou substituir usuár ios, 
+sem aumento do quantitativo total ou do valor contratado, observadas as regras do plano. 
+10.3. As credenciais serão individualizadas e não poderão ser compartilhadas entre usuários. 
+ 
+CLÁUSULA DÉCIMA PRIMEIRA - DAS COBRANÇAS ADICIONAIS E LIMITES DO 
+OBJETO 
+ 
+11.1. Deverão permanecer desabilitados ou depender de autorização administrativa expressa 
+mecanismos capazes de gerar despesas adicionais, inclusive créditos, assentos extras, 
+funcionalidades Premium, API paga, consumo extraordinário e upgrades. 
+11.2. Cobrança ou ativação não autorizada deverá ser imediatamente corrigida, sem ônus par a o 
+CONTRATANTE. 
+11.3. A alteração comercial do fabricante não gera direito automático à cobrança adicional ou 
+revisão do preço contratado. 
+ 
+CLÁUSULA DÉCIMA SEGUNDA - DA CONTINUIDADE E ALTERAÇÃO DO PLANO 
+ 
+12.1. A CONTRATADA deverá manter a regularidade do licenciamento durante toda a  
+vigência. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 25]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+25/ 35 
+12.2. Alteração relevante, redução de funcionalidades essenciais ou descontinuidade do plano 
+deverá ser comunicada imediatamente ao CONTRATANTE. 
+12.3. Qualquer solução sucessora ou migração dependerá de prévia avaliação e autorização 
+administrativa, vedada redução da categoria contratada ou cobrança adicional sem formalização. 
+ 
+CLÁUSULA DÉCIMA TERCEIRA - DA SEGURANÇA DA INFORMAÇÃO, 
+CONFIDENCIALIDADE E PROTEÇÃO DE DADOS 
+ 
+13.1. A CONTRATADA observará a Lei Federal nº 13.709/2018 - LGPD e as normas 
+aplicáveis de segurança da informação nas atividades sob sua responsabilidade. 
+13.2. A CONTRATADA manterá sigilo sobre dados cadastrais, administrativos ou técnicos do 
+CONTRATANTE a que tiver acesso em razão da ativação ou suporte. 
+13.3. Incidente de segurança sob responsabilidade da CONTRATADA que possa afetar 
+credenciais administrativas, dados de usuários ou continuidade do serviço deverá ser 
+comunicado sem demora injustificada, com indicação das providências adotadas. 
+13.4. A CONTRATADA não poderá utilizar informações do CONTRATANTE para final idade 
+estranha à execução contratual. 
+ 
+CLÁUSULA DÉCIMA QUARTA - DAS OBRIGAÇÕES DA CONTRATADA 
+ 
+14.1. Constituem obrigações da CONTRATADA: disponibilizar os 30 assentos na categoria 
+contratada; assegurar a legitimidade das licenças; cumprir o prazo de ativação; mant er os 
+acessos durante a vigência; prestar suporte ao licenciamento; realizar substituiçõ es de usuários 
+quando solicitadas e permitidas; comunicar alterações relevantes do produto; impedir cobranças 
+adicionais não autorizadas; emitir documentação fiscal regular; manter as condições de 
+habilitação; observar proteção de dados e segurança da informação; e fornecer documentos e 
+esclarecimentos solicitados pelos órgãos de controle. 
+14.2. A CONTRATADA responderá pelos atos de seus empregados, prepostos e terceiros  
+utilizados na cadeia comercial, sem transferência de responsabilidade ao Município. 
+ 
+CLÁUSULA DÉCIMA QUINTA - DAS OBRIGAÇÕES DO CONTRATANTE 
+ 
+15.1. Compete ao CONTRATANTE fornecer as informações necessárias à ativação; indi car e 
+administrar usuários; manter controle institucional das credenciais; fiscaliza r a execução; 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 26]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+26/ 35 
+comunicar irregularidades; realizar o recebimento; promover a liquidação e paga mento quando 
+atendidas as condições; e preservar a documentação do processo. 
+15.2. O CONTRATANTE deverá orientar seus usuários quanto ao uso institucional, segurança 
+da informação, proteção de dados e necessidade de revisão humana dos conteúdos produzidos 
+pela ferramenta. 
+ 
+CLÁUSULA DÉCIMA SEXTA - DA SUBCONTRATAÇÃO E DA CADEIA 
+COMERCIAL 
+ 
+16.1. A utilização da infraestrutura do fabricante e a participação de distrib uidor, parceiro ou 
+revendedor em cadeia legítima de comercialização não caracterizam, por si sós, subcontratação. 
+16.2. É vedada a transferência integral das obrigações assumidas pela CONTRATADA. 
+16.3. A CONTRATADA permanece integralmente responsável pela legitimidade das licenç as, 
+ativação, faturamento, suporte e cumprimento do contrato. 
+ 
+CLÁUSULA DÉCIMA SÉTIMA - DA GESTÃO E FISCALIZAÇÃO 
+ 
+17.1. Fica indicado como Gestor Contratual ANDRÉ RUI BARBOSA, condicionada a atuação 
+à formalização da designação pela autoridade competente. 
+17.2. Fica indicado como Fiscal Técnico JOSÉ ROBERTO CAVASSANI - Diretor de TI, 
+igualmente condicionado à designação formal. 
+17.3. Compete ao gestor controlar vigência, prazos, documentos administrativos, comunicações, 
+pagamentos, alterações, ocorrências e encerramento. 
+17.4. Compete ao fiscal conferir quantidade e categoria dos assentos, ativação, validad e, 
+usuários, continuidade, legitimidade das licenças, suporte, cobranças não autorizadas e emi tir 
+manifestação de recebimento e ateste. 
+17.5. A atuação da fiscalização não exclui nem reduz a responsabilidade da CONTRATADA. 
+ 
+CLÁUSULA DÉCIMA OITAVA - DOS REGISTROS DA EXECUÇÃO 
+ 
+18.1. A fiscalização manterá registros suficientes da Ordem de Fornecimento, data de ativação, 
+quantitativo e categoria dos assentos, validade, usuários administrativos, substituições,  
+ocorrências de indisponibilidade, comunicações de suporte, documentos fiscais e recebimentos. 
+18.2. Ocorrências capazes de repercutir em preço, prazo, continuidade, segurança da informação 
+ou recebimento deverão ser documentadas antes da decisão administrativa. 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 27]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+27/ 35 
+ 
+CLÁUSULA DÉCIMA NONA - DO RECEBIMENTO 
+ 
+19.1. O recebimento provisório ocorrerá após a ativação, mediante conferência da quantidade,  
+categoria, validade e funcionamento. 
+19.2. O recebimento definitivo dependerá da confirmação dos 30 assentos Standard, ambiente 
+institucional administrado pelo CONTRATANTE, período de validade contratado, regular 
+funcionamento e inexistência de cobrança estranha ao objeto. 
+19.3. Eventuais pendências serão registradas e corrigidas pela CONTRATADA no praz o fixado 
+pela fiscalização, sem custo adicional. 
+19.4. O recebimento não exclui responsabilidade por irregularidade de licenciamento ou falha 
+imputável à CONTRATADA durante a vigência. 
+ 
+CLÁUSULA VIGÉSIMA - DO FATURAMENTO E PAGAMENTO 
+ 
+20.1. O pagamento será realizado após o recebimento e a regular liquidação da despesa, 
+mediante documento fiscal correspondente às 30 licenças e ao período contratado. 
+20.2. A nota fiscal deverá identificar adequadamente o objeto e o período de assinatura. 
+20.3. O pagamento será efetuado em até 30 (trinta) dias após a liquidação regular, observados os 
+procedimentos financeiros do Município e a ordem cronológica aplicável. 
+20.4. Documento fiscal com erro, cobrança indevida ou ausência de elemento necessário poderá 
+ser devolvido para correção, interrompendo-se o processamento da parcela afetada at é 
+regularização. 
+20.5. Não haverá pagamento por créditos, API, upgrades, assentos adicionais ou funcionalidades 
+não autorizadas. 
+20.6. Serão realizadas as retenções tributárias legalmente exigidas. 
+ 
+CLÁUSULA VIGÉSIMA PRIMEIRA - DA GARANTIA FINANCEIRA E DO SUPORTE 
+ 
+21.1. Fica dispensada a garantia financeira prevista no art. 96 da Lei nº 14.133/2021, 
+considerada a natureza digital do objeto, o pagamento condicionado ao regular recebimento e os 
+mecanismos de fiscalização. 
+21.2. A dispensa não reduz a responsabilidade da CONTRATADA pela regularidade do 
+licenciamento, suporte e continuidade das obrigações durante a vigência. 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 28]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+28/ 35 
+CLÁUSULA VIGÉSIMA SEGUNDA - DA MATRIZ E ALOCAÇÃO DE RISCOS 
+ 
+22.1. O Mapa de Riscos integra o planejamento e orientará a execução e fiscalização. 
+22.2. São ordinariamente atribuídos à CONTRATADA os riscos decorrentes de forneciment o 
+irregular, atraso de ativação imputável, cobrança não autorizada, falha de suporte s ob sua 
+responsabilidade, descumprimento de sigilo e irregularidade da cadeia de comercialização. 
+22.3. São ordinariamente atribuídos ao CONTRATANTE os riscos relacionados à 
+administração interna de usuários e credenciais, utilização institucional da ferramenta e  
+validação dos conteúdos produzidos, sem prejuízo da análise concreta da causalidade. 
+22.4. Alteração ou descontinuidade geral do produto pelo fabricante será avaliada confor me 
+causa, previsibilidade, impacto e possibilidades contratuais. 
+22.5. A materialização de risco não produz direito automático a reequilíbrio, prorroga ção ou 
+indenização. 
+ 
+CLÁUSULA VIGÉSIMA TERCEIRA - DO REAJUSTE 
+ 
+23.1. Os preços serão fixos e irreajustáveis durante o interregno mínimo legal. 
+23.2. Em eventual prorrogação, observado o interregno contado da data-base da proposta ou do 
+orçamento a que ela se referir, poderá ser aplicado o IPCA/IBGE, mediante formalização e 
+prévia demonstração da vantajosidade. 
+23.3. A mera prorrogação não gera direito automático a reajuste sem observância  dos requisitos 
+legais. 
+ 
+CLÁUSULA VIGÉSIMA QUARTA - DO EQUILÍBRIO ECONÔMICO-FINANCEIRO 
+ 
+24.1. Será assegurada a manutenção do equilíbrio econômico-financeiro nas hipóteses 
+legalmente admitidas. 
+24.2. O pedido deverá demonstrar fato gerador, superveniência, nexo causal, impacto efetivo, 
+memória de cálculo e documentos comprobatórios. 
+24.3. Erro de proposta, subavaliação de custos, variações ordinárias de mercado e alt eração 
+unilateral de tabela do fabricante não geram direito automático à recomposição. 
+24.4. É vedada duplicidade de recomposição pelo mesmo fato. 
+ 
+CLÁUSULA VIGÉSIMA QUINTA - DAS ALTERAÇÕES CONTRATUAIS 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 29]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+29/ 35 
+25.1. As alterações observarão as hipóteses, limites, justificativas e procedimento s previstos na 
+Lei nº 14.133/2021. 
+25.2. Nenhuma alteração poderá descaracterizar substancialmente o objeto selecionado. 
+25.3. Funcionalidade ou serviço adicional com impacto financeiro dependerá de necessidade 
+comprovada, interesse público, disponibilidade orçamentária e formalização c abível antes de 
+sua utilização. 
+ 
+CLÁUSULA VIGÉSIMA SEXTA - DAS INFRAÇÕES, MULTAS E SANÇÕES 
+ 
+26.1. O descumprimento das obrigações sujeitará a CONTRATADA às sanções previstas na Lei 
+nº 14.133/2021, observados o contraditório e a ampla defesa. 
+26.2. Poderão ser aplicadas, conforme o caso, advertência, multa, impedimento de licitar e 
+contratar e declaração de inidoneidade. 
+26.3. O atraso injustificado na ativação poderá sujeitar a CONTRATADA à multa m oratória de 
+0,5% (meio por cento) por dia de atraso, calculada sobre o valor da obrigação afetada, limitada a 
+10% (dez por cento) da mesma base. 
+26.4. Mediante processo administrativo e observada a proporcionalidade, poderão ser aplicadas 
+multas compensatórias de 5% sobre a parcela afetada em inexecução parcial relev ante; 10% 
+sobre a obrigação afetada em descumprimento grave ou reiterado; 20% sobre o sal do 
+remanescente em abandono ou inexecução total do saldo; e até 30% do valor i nicial do contrato 
+em hipótese de excepcional gravidade legalmente caracterizada. 
+26.5. A multa moratória poderá ser convertida em compensatória quando o atraso se transformar 
+em inexecução, vedada dupla penalidade pecuniária pelo mesmo fato e fundamento. 
+26.6. A aplicação de sanção não afasta a obrigação de regularizar o objeto, reparar danos e 
+ressarcir valores devidos ao Município. 
+ 
+CLÁUSULA VIGÉSIMA SÉTIMA - DA EXTINÇÃO DO CONTRATO 
+ 
+27.1. O contrato poderá ser extinto nas hipóteses e condições previstas na Lei nº 14.133/20 21, 
+mediante motivação e observância das garantias processuais cabíveis. 
+27.2. A extinção não afasta responsabilidades já constituídas, deveres de sigilo, reparaçã o de 
+danos, devolução de valores ou prestação de informações sobre a execução. 
+27.3. A Administração adotará as providências necessárias à continuidade do serviço quando a 
+extinção ocorrer antes do término do período contratado. 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 30]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+30/ 35 
+CLÁUSULA VIGÉSIMA OITAVA - DA SUSTENTABILIDADE 
+ 
+28.1. A solução possui natureza predominantemente digital e deverá ser utilizada de modo a 
+favorecer revisão eletrônica, racionalização documental e redução de retrabalho. 
+28.2. A Administração acompanhará a utilização dos assentos e poderá redistribuí-los quando 
+constatada baixa utilização, sem aumento do quantitativo contratado. 
+ 
+CLÁUSULA VIGÉSIMA NONA - DA INTEGRIDADE E ANTICORRUPÇÃO 
+ 
+29.1. A CONTRATADA deverá observar os princípios da legalidade, moralidade, boa- fé, 
+integridade e transparência. 
+29.2. É vedada a oferta, promessa, autorização ou concessão de vantagem indevida a agent e 
+público ou terceiro. 
+29.3. A CONTRATADA deverá comunicar irregularidade relevante ou conflito de interesses de 
+que tenha conhecimento relacionado à execução. 
+29.4. Atos lesivos serão apurados na forma da legislação aplicável. 
+ 
+CLÁUSULA TRIGÉSIMA - DA PUBLICIDADE, TRANSPARÊNCIA E CONTROLE  
+EXTERNO 
+ 
+30.1. O contrato, eventuais termos e demais atos sujeitos à divulgação serão publicado s nos 
+meios legalmente exigidos. 
+30.2. A documentação da contratação permanecerá organizada no respectivo Processo 
+Administrativo e Processo de Contratação. 
+30.3. A CONTRATADA deverá fornecer documentos e esclarecimentos legitimamente 
+solicitados pelo Controle Interno, Tribunal de Contas do Estado de São Paulo e demais órgãos 
+competentes. 
+30.4. As partes reconhecem que o ajuste e sua execução estão sujeitos à fiscalização do TCESP. 
+30.5. Integram a formalização, quando aplicáveis, o Termo de Ciência e de Notificação - LC-01, 
+a Declaração de Documentos à Disposição do TCE-SP - LC-02 e as Declarações de Atualização 
+Cadastral emitidas no CadTCESP, conforme Instruções vigentes. 
+ 
+CLÁUSULA TRIGÉSIMA PRIMEIRA - DAS NOTIFICAÇÕES ADMINISTRATIVAS 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 31]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+31/ 35 
+31.1. Notificações relativas a falhas, inadimplementos, correções, prazos, cobranças, segurança , 
+sanções e demais providências serão formalizadas por meio que permita comprovação. 
+31.2. Poderá ser utilizado o sistema eletrônico oficial do Município, correio eletrônico 
+institucional ou outro meio formal definido pela Administração. 
+31.3. A CONTRATADA deverá manter atualizados seus endereços, contatos e representante. 
+ 
+CLÁUSULA TRIGÉSIMA SEGUNDA - DOS CASOS OMISSOS 
+ 
+32.1. Os casos omissos serão resolvidos com fundamento na Lei nº 14.133/2021, na 
+regulamentação municipal, no Termo de Referência, no Mapa de Riscos e nas demais normas 
+aplicáveis. 
+32.2. A eventual tolerância de uma parte em relação à outra não importará novação ou r enúncia 
+de direito. 
+32.3. A invalidade de disposição específica não prejudicará as demais cláusulas quando 
+juridicamente separáveis. 
+ 
+CLÁUSULA TRIGÉSIMA TERCEIRA - DO FORO 
+ 
+33.1. Fica eleito o Foro da Comarca de Américo Brasiliense/SP para dirimir controvérsias que 
+não possam ser solucionadas administrativamente, ressalvadas hipóteses de competência leg al 
+específica. 
+33.2. E, por estarem de acordo, as partes firmam eletronicamente o presente instrumento. 
+ 
+CONTRATANTE 
+-- assinado eletronicamente -- 
+TEREZINHA APARECIDA VIVEIROS DE SOUZA 
+Prefeita Municipal 
+ 
+CONTRATADA 
+-- assinado eletronicamente -- 
+[REPRESENTANTE DA EMPRESA SELECIONADA] 
+[CARGO/FUNÇÃO] - [RAZÃO SOCIAL] 
+ 
+ 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 32]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+32/ 35 
+ANEXO VI - TERMO DE CIÊNCIA E DE NOTIFICAÇÃO - CONTRATOS 
+TCESP - LC-01 
+ 
+CONTRATANTE: Município de Américo Brasiliense 
+CONTRATADA: [RAZÃO SOCIAL - PREENCHER APÓS SELEÇÃO] 
+CONTRATO Nº: [NUMERAÇÃO]/2026 
+PROCESSO: Processo Administrativo nº [PREENCHER] / Processo de Contratação nº 
+[PREENCHER/DECOL] 
+FORMA DE CONTRATAÇÃO:  Dispensa Eletrônica - art. 75, inciso II, da Lei nº 
+14.133/2021 
+OBJETO: Fornecimento continuado de 30 licenças/assentos Standard do ChatGPT Business 
+pelo período de 12 meses 
+Pelo presente TERMO, os responsáveis abaixo identificados declaram ciência de que o aj uste, 
+seus aditamentos e o acompanhamento de sua execução poderão ser submetidos à análise e 
+julgamento do Tribunal de Contas do Estado de São Paulo em processo eletrônico;  de que terão 
+acesso aos atos processuais mediante cadastramento regular; de que despachos e decisões  serão 
+disponibilizados e publicados pelos meios oficiais do Tribunal, produzindo os efeito s 
+processuais cabíveis; de que os dados dos responsáveis deverão estar atualizados no 
+CadTCESP; e de que compete à contratada manter atualizadas as informações cadastrais que lhe 
+digam respeito. 
+Os signatários dão-se por notificados para acompanhar os atos do processo até o julgamento 
+final e, quando cabível e de seu interesse, exercer defesa, interpor recursos e praticar os demais 
+atos processuais admitidos. 
+LOCAL E DATA: Américo Brasiliense/SP, [DATA DA ASSINATURA] 
+AUTORIDADE MÁXIMA DO ÓRGÃO/ENTIDADE 
+Nome: Terezinha Aparecida Viveiros de Souza 
+Cargo/Função: Prefeita Municipal 
+CPF: conforme Declaração de Atualização Cadastral - CadTCESP 
+Assinatura: eletrônica 
+RESPONSÁVEL PELA RATIFICAÇÃO/AUTORIZAÇÃO DA DISPENSA 
+Nome: Terezinha Aparecida Viveiros de Souza 
+Cargo/Função: Prefeita Municipal 
+CPF: conforme Declaração de Atualização Cadastral - CadTCESP 
+Assinatura: eletrônica 
+RESPONSÁVEIS QUE ASSINARAM O AJUSTE - PELO CONTRATANTE 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 33]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+33/ 35 
+Nome: Terezinha Aparecida Viveiros de Souza 
+Cargo/Função: Prefeita Municipal 
+CPF: conforme Declaração de Atualização Cadastral - CadTCESP 
+Assinatura: eletrônica 
+RESPONSÁVEIS QUE ASSINARAM O AJUSTE - PELA CONTRATADA 
+Nome: [PREENCHER APÓS SELEÇÃO/ASSINATURA] 
+Cargo/Função: [PREENCHER APÓS SELEÇÃO/ASSINATURA] 
+CPF: [PREENCHER APÓS SELEÇÃO/ASSINATURA] 
+Assinatura: [PREENCHER APÓS SELEÇÃO/ASSINATURA] 
+ORDENADOR DE DESPESAS DA CONTRATANTE 
+Nome: conforme ato efetivamente praticado 
+Cargo/Função: conforme ato 
+CPF: conforme Declaração de Atualização Cadastral - CadTCESP 
+Assinatura: eletrônica 
+GESTOR DO CONTRATO 
+Nome:  
+Cargo/Função:  
+CPF:  
+Assinatura: eletrônica 
+DEMAIS RESPONSÁVEIS - FISCALIZAÇÃO TÉCNICA 
+Nome: José Roberto Cavassani 
+Cargo/Função: Diretor de TI / Fiscal Técnico 
+CPF: conforme Declaração de Atualização Cadastral - CadTCESP 
+Assinatura: eletrônica 
+DEMAIS RESPONSÁVEIS - PROCEDIMENTO DE CONTRATAÇÃO 
+Nome: conforme agente/condutor efetivamente designado e atuante 
+Cargo/Função: conforme ato de designação 
+CPF: conforme Declaração de Atualização Cadastral - CadTCESP 
+Assinatura: eletrônica 
+Observação: deverão ser identificadas no termo definitivo as pessoas físicas que efetivamente 
+concorreram para a prática dos atos relevantes, de acordo com as Instruções vigentes do TCESP 
+e as Declarações de Atualização Cadastral correspondentes. 
+ 
+ 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 34]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+34/ 35 
+ANEXO VII - DECLARAÇÃO DE DOCUMENTOS À DISPOSIÇÃO DO TCE-SP 
+TCESP - LC-02 
+ 
+CONTRATANTE: MUNICÍPIO DE AMÉRICO BRASILIENSE 
+CNPJ Nº: 43.976.166/0001-50 
+CONTRATADA: [RAZÃO SOCIAL - PREENCHER APÓS SELEÇÃO] 
+CNPJ Nº DA CONTRATADA: [PREENCHER APÓS SELEÇÃO] 
+CONTRATO Nº: [NUMERAÇÃO]/2026 
+DATA DA ASSINATURA: [DATA EFETIVA] 
+VIGÊNCIA: 12 (doze) meses 
+OBJETO: Fornecimento continuado de 30 licenças/assentos Standard do ChatGPT Business 
+VALOR: R$ [VALOR EFETIVAMENTE CONTRATADO] 
+Declaro, na qualidade de responsável pelo Município de Américo Brasiliense, sob as penas da 
+lei, que os documentos originais relativos à contratação direta, ao contrato e à respect iva 
+execução permanecem organizados no correspondente processo administrativo, à disposição do 
+Tribunal de Contas do Estado de São Paulo, e serão encaminhados quando requisitados. 
+A documentação mantida no processo deverá compreender, conforme a efetiva aplicabilidade ao 
+objeto e sem prejuízo de outras peças exigíveis: 
+a) DFD, ETP, Termo de Referência e Mapa de Riscos; 
+b) dossiê de pesquisa de preços, memória de cálculo, fontes consultadas e documentos de 
+vantajosidade; 
+c) documentação de planejamento e disponibilidade orçamentária pertinente; 
+d) Aviso de Contratação Direta, publicações e registros da sessão eletrônica; 
+e) proposta final, habilitação e documentação que demonstre a legitimidade da cadeia de 
+fornecimento; 
+f) Contrato Administrativo, Ordem de Fornecimento, designações de gestor e fiscal; 
+g) registros de ativação, quantitativo e categoria dos assentos, validade, suporte, ocor rências e 
+fiscalização; 
+h) documentos fiscais, recebimento, liquidação e pagamento; e 
+i) eventuais termos, notificações, sanções e demais documentos relevantes da execução. 
+ 
+-- assinado eletronicamente -- 
+TEREZINHA APARECIDA VIVEIROS DE SOUZA 
+Prefeita Municipal / Responsável pela declaração 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 35]
+ 
+ 
+PREFEITURA DO MUNICÍPIO DE AMÉRICO BRASILIENSE 
+ 
+A v .  E u g e n i o  V o l t a r e l  n º  2 5  -  A m é r i c o  B r a s i l i e n s e -SP -  F o n e  ( 1 6 )  3 3 9 3 - 9 6 0 0  
+35/ 35 
+ANEXO VIII – DECLARAÇÕES DE ATUALIZAÇÃO CADASTRAL – CadTCESP 
+ 
+8.1. Deverão ser emitidas e juntadas ao processo, no momento próprio, as Declarações de 
+Atualização Cadastral do CadTCESP correspondentes às pessoas físicas responsáveis pelos atos 
+relevantes, conforme exigido pelas Instruções vigentes do Tribunal de Contas do Estado de São 
+Paulo. 
+8.2. Deverão ser conferidos, imediatamente antes da assinatura e do eventual encaminhament o 
+ao controle externo, os dados da autoridade máxima, responsável pela ratificação/autoriz ação, 
+signatários do ajuste, ordenador da despesa, gestor, fiscal e demais responsávei s que devam 
+constar do Termo de Ciência e de Notificação. 
+8.3. Os dados pessoais somente deverão ser inseridos na versão definitiva após conferência na 
+documentação funcional e no CadTCESP, evitando divergências cadastrais. 
+8.4. As Declarações de Atualização Cadastral emitidas pelo próprio sistema deverão 
+acompanhar o Termo de Ciência e de Notificação quando exigidas pelo TCESP. 
+ 
+Assinado por 1 pessoa:  TEREZINHA APARECIDA VIVEIROS DE SOUZA
+Para verificar a validade das assinaturas, acesse https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83 e informe o código FCA4-89BF-33B6-EE83
+
+
+[PÁGINA 36]
+VERIFICAÇÃO DAS
+ASSINATURAS
+Código para verificação: FCA4-89BF-33B6-EE83
+Este documento foi assinado digitalmente pelos seguintes signatários nas datas indicadas:
+TEREZINHA APARECIDA VIVEIROS DE SOUZA (CPF 181.XXX.XXX-95) em 02/10/2026 13:56:13
+GMT-03:00
+Papel: Parte
+Emitido por: Sub-Autoridade Certificadora 1Doc (Assinatura 1Doc)
+Para verificar a validade das assinaturas, acesse a Central de Verificação por meio do link:
+https://americobrasiliense.1doc.com.br/verificacao/FCA4-89BF-33B6-EE83

@@ -1,0 +1,18 @@
+# Cache bruto das consultas (regenerável pelos scripts; pesado demais para o repositório)
+dados/cache_propostas_uf/
+dados/cache_pcp/
+dados/[0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f][0-9a-f].json
+# Intermediários grandes, refeitos por triagem.py / gerar_entrega.py
+dados/triagem.json
+dados/busca_recuperada.json
+dados/fontes_*.json
+dados/*.log
+dados/.ritmo
+dados/abes.html
+dados/externo/*.cookies
+dados/externo/*.html
+dados/externo/sebrae_grid*.json
+scripts/__pycache__/
+.venv/
+.DS_Store
+dados/resultado_final.json

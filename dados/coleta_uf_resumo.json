@@ -1,0 +1,223 @@
+{
+  "consultadoEm": "2026-10-06T18:39:13.978665-03:00",
+  "unicos": 38042,
+  "candidatasObjeto": 5368,
+  "ufs": [
+    {
+      "uf": "AC",
+      "totalDeclarado": 133,
+      "paginas": 3,
+      "coletados": 133,
+      "falhas": [],
+      "unicosAcumulados": 133
+    },
+    {
+      "uf": "AL",
+      "totalDeclarado": 291,
+      "paginas": 6,
+      "coletados": 291,
+      "falhas": [],
+      "unicosAcumulados": 424
+    },
+    {
+      "uf": "AM",
+      "totalDeclarado": 243,
+      "paginas": 5,
+      "coletados": 243,
+      "falhas": [],
+      "unicosAcumulados": 667
+    },
+    {
+      "uf": "AP",
+      "totalDeclarado": 57,
+      "paginas": 2,
+      "coletados": 57,
+      "falhas": [],
+      "unicosAcumulados": 724
+    },
+    {
+      "uf": "BA",
+      "totalDeclarado": 2930,
+      "paginas": 59,
+      "coletados": 2932,
+      "falhas": [],
+      "unicosAcumulados": 3656
+    },
+    {
+      "uf": "CE",
+      "totalDeclarado": 1476,
+      "paginas": 30,
+      "coletados": 1476,
+      "falhas": [],
+      "unicosAcumulados": 5132
+    },
+    {
+      "uf": "DF",
+      "totalDeclarado": 602,
+      "paginas": 13,
+      "coletados": 602,
+      "falhas": [],
+      "unicosAcumulados": 5734
+    },
+    {
+      "uf": "ES",
+      "totalDeclarado": 638,
+      "paginas": 13,
+      "coletados": 638,
+      "falhas": [],
+      "unicosAcumulados": 6372
+    },
+    {
+      "uf": "GO",
+      "totalDeclarado": 1361,
+      "paginas": 28,
+      "coletados": 1362,
+      "falhas": [],
+      "unicosAcumulados": 7734
+    },
+    {
+      "uf": "MA",
+      "totalDeclarado": 354,
+      "paginas": 8,
+      "coletados": 354,
+      "falhas": [],
+      "unicosAcumulados": 8088
+    },
+    {
+      "uf": "MG",
+      "totalDeclarado": 5963,
+      "paginas": 120,
+      "coletados": 5965,
+      "falhas": [],
+      "unicosAcumulados": 14053
+    },
+    {
+      "uf": "MS",
+      "totalDeclarado": 459,
+      "paginas": 10,
+      "coletados": 459,
+      "falhas": [],
+      "unicosAcumulados": 14512
+    },
+    {
+      "uf": "MT",
+      "totalDeclarado": 554,
+      "paginas": 12,
+      "coletados": 554,
+      "falhas": [],
+      "unicosAcumulados": 15066
+    },
+    {
+      "uf": "PA",
+      "totalDeclarado": 612,
+      "paginas": 13,
+      "coletados": 612,
+      "falhas": [],
+      "unicosAcumulados": 15678
+    },
+    {
+      "uf": "PB",
+      "totalDeclarado": 573,
+      "paginas": 12,
+      "coletados": 573,
+      "falhas": [],
+      "unicosAcumulados": 16251
+    },
+    {
+      "uf": "PE",
+      "totalDeclarado": 1036,
+      "paginas": 21,
+      "coletados": 1036,
+      "falhas": [],
+      "unicosAcumulados": 17287
+    },
+    {
+      "uf": "PI",
+      "totalDeclarado": 473,
+      "paginas": 10,
+      "coletados": 473,
+      "falhas": [],
+      "unicosAcumulados": 17760
+    },
+    {
+      "uf": "PR",
+      "totalDeclarado": 3911,
+      "paginas": 79,
+      "coletados": 3911,
+      "falhas": [],
+      "unicosAcumulados": 21671
+    },
+    {
+      "uf": "RJ",
+      "totalDeclarado": 1534,
+      "paginas": 31,
+      "coletados": 1534,
+      "falhas": [],
+      "unicosAcumulados": 23205
+    },
+    {
+      "uf": "RN",
+      "totalDeclarado": 567,
+      "paginas": 12,
+      "coletados": 567,
+      "falhas": [],
+      "unicosAcumulados": 23772
+    },
+    {
+      "uf": "RO",
+      "totalDeclarado": 411,
+      "paginas": 9,
+      "coletados": 411,
+      "falhas": [],
+      "unicosAcumulados": 24183
+    },
+    {
+      "uf": "RR",
+      "totalDeclarado": 86,
+      "paginas": 2,
+      "coletados": 86,
+      "falhas": [],
+      "unicosAcumulados": 24269
+    },
+    {
+      "uf": "RS",
+      "totalDeclarado": 3859,
+      "paginas": 78,
+      "coletados": 3859,
+      "falhas": [],
+      "unicosAcumulados": 28128
+    },
+    {
+      "uf": "SC",
+      "totalDeclarado": 2773,
+      "paginas": 56,
+      "coletados": 2773,
+      "falhas": [],
+      "unicosAcumulados": 30901
+    },
+    {
+      "uf": "SE",
+      "totalDeclarado": 244,
+      "paginas": 5,
+      "coletados": 244,
+      "falhas": [],
+      "unicosAcumulados": 31145
+    },
+    {
+      "uf": "SP",
+      "totalDeclarado": 6470,
+      "paginas": 130,
+      "coletados": 6471,
+      "falhas": [],
+      "unicosAcumulados": 37616
+    },
+    {
+      "uf": "TO",
+      "totalDeclarado": 426,
+      "paginas": 9,
+      "coletados": 426,
+      "falhas": [],
+      "unicosAcumulados": 38042
+    }
+  ]
+}

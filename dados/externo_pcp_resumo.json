@@ -1,0 +1,270 @@
+{
+  "consultadoEm": "2026-10-06T18:04:41.321637-03:00",
+  "unicos": 78,
+  "termos": [
+    {
+      "termo": "software",
+      "totalDeclarado": 32,
+      "coletados": 32,
+      "erro": ""
+    },
+    {
+      "termo": "licença de uso",
+      "totalDeclarado": 6,
+      "coletados": 6,
+      "erro": ""
+    },
+    {
+      "termo": "licenciamento",
+      "totalDeclarado": 12,
+      "coletados": 12,
+      "erro": ""
+    },
+    {
+      "termo": "subscrição",
+      "totalDeclarado": 2,
+      "coletados": 2,
+      "erro": ""
+    },
+    {
+      "termo": "assinatura",
+      "totalDeclarado": 5,
+      "coletados": 5,
+      "erro": ""
+    },
+    {
+      "termo": "SaaS",
+      "totalDeclarado": 8,
+      "coletados": 8,
+      "erro": ""
+    },
+    {
+      "termo": "inteligência artificial",
+      "totalDeclarado": 1,
+      "coletados": 1,
+      "erro": ""
+    },
+    {
+      "termo": "ChatGPT",
+      "totalDeclarado": 2,
+      "coletados": 2,
+      "erro": ""
+    },
+    {
+      "termo": "OpenAI",
+      "totalDeclarado": 2,
+      "coletados": 2,
+      "erro": ""
+    },
+    {
+      "termo": "Claude",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Gemini",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Copilot",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Adobe",
+      "totalDeclarado": 1,
+      "coletados": 1,
+      "erro": ""
+    },
+    {
+      "termo": "Acrobat",
+      "totalDeclarado": 1,
+      "coletados": 1,
+      "erro": ""
+    },
+    {
+      "termo": "Creative Cloud",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Canva",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "CorelDRAW",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "CapCut",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Microsoft",
+      "totalDeclarado": 1,
+      "coletados": 1,
+      "erro": ""
+    },
+    {
+      "termo": "Office 365",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Microsoft 365",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Windows",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Power BI",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Google Workspace",
+      "totalDeclarado": 1,
+      "coletados": 1,
+      "erro": ""
+    },
+    {
+      "termo": "Autodesk",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "AutoCAD",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Revit",
+      "totalDeclarado": 33,
+      "coletados": 33,
+      "erro": ""
+    },
+    {
+      "termo": "SketchUp",
+      "totalDeclarado": 1,
+      "coletados": 1,
+      "erro": ""
+    },
+    {
+      "termo": "ArcGIS",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "antivírus",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Kaspersky",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "ESET",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Bitdefender",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Sophos",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Fortinet",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "firewall",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Veeam",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "VMware",
+      "totalDeclarado": 1,
+      "coletados": 1,
+      "erro": ""
+    },
+    {
+      "termo": "Oracle",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Red Hat",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "Zoom",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "TeamViewer",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "AnyDesk",
+      "totalDeclarado": 0,
+      "coletados": 0,
+      "erro": ""
+    },
+    {
+      "termo": "certificado digital",
+      "totalDeclarado": 2,
+      "coletados": 2,
+      "erro": ""
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": "46177523000109-1-000271/2026",
+  "consultadoEm": "2026-10-06T16:55:16.428996-03:00",
+  "falhas": [
+    {
+      "campo": "compra",
+      "erro": "'>=' not supported between instances of 'str' and 'int'"
+    }
+  ],
+  "itens": [
+    {
+      "numeroItem": 1,
+      "descricao": "LICENÇA USO DE SOFTWARE.\n\nDESCRIÇÃO COMPLETA:  12 Doze licenças do Creative Cloud, pacote Adobe - aplicativos de áudio, vídeo e diagramação. \nCloud teams All Apps - Ren (1 ano, 1 usuário,  governo, multilinguagem, multiplataforma, 1-9) \nModelo: plano todos os apps - aplicativos de vídeo e áudio \nFabricante: Adobe Licenças devem ser incluídas na conta de cliente VIP E2693EF69F22926E2EDA da \nrespetiva fabricante. \nNão há contrapartida.",
+      "materialOuServico": "M",
+      "materialOuServicoNome": "Material",
+      "valorUnitarioEstimado": 6598.2967,
+      "valorTotal": 79179.5604,
+      "quantidade": 12.0,
+      "unidadeMedida": "LICENÇA",
+      "orcamentoSigiloso": false,
+      "itemCategoriaId": 3,
+      "itemCategoriaNome": "Não se aplica",
+      "patrimonio": "nao_se_aplica",
+      "codigoRegistroImobiliario": "nao_se_aplica",
+      "criterioJulgamentoId": 1,
+      "criterioJulgamentoNome": "Menor preço",
+      "situacaoCompraItem": 1,
+      "situacaoCompraItemNome": "Em andamento",
+      "tipoBeneficio": 1,
+      "tipoBeneficioNome": "Participação exclusiva para ME/EPP",
+      "incentivoProdutivoBasico": false,
+      "dataInclusao": "2026-09-29T14:13:29",
+      "dataAtualizacao": "2026-09-29T14:13:29",
+      "temResultado": false,
+      "imagem": 0,
+      "aplicabilidadeMargemPreferenciaNormal": false,
+      "aplicabilidadeMargemPreferenciaAdicional": false,
+      "percentualMargemPreferenciaNormal": null,
+      "percentualMargemPreferenciaAdicional": null,
+      "ncmNbsCodigo": null,
+      "ncmNbsDescricao": null,
+      "catalogo": null,
+      "categoriaItemCatalogo": null,
+      "catalogoCodigoItem": null,
+      "informacaoComplementar": null,
+      "tipoMargemPreferencia": null,
+      "exigenciaConteudoNacional": false
+    }
+  ],
+  "arquivos": [
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/46177523000109/compras/2026/271/arquivos/1",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/46177523000109/compras/2026/271/arquivos/1",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-09-29T14:13:30",
+      "cnpj": "46177523000109",
+      "anoCompra": 2026,
+      "sequencialCompra": 271,
+      "sequencialDocumento": 1,
+      "titulo": "EDITAL____PE_73_LICENCA_USO_DE_SOFTWARE___SEICOM_assinado",
+      "tipoDocumentoNome": "Edital",
+      "tipoDocumentoDescricao": "Edital",
+      "tipoDocumentoId": 2
+    },
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/46177523000109/compras/2026/271/arquivos/2",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/46177523000109/compras/2026/271/arquivos/2",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-09-29T14:13:44",
+      "cnpj": "46177523000109",
+      "anoCompra": 2026,
+      "sequencialCompra": 271,
+      "sequencialDocumento": 2,
+      "titulo": "TR_CENSURADO___Adobe",
+      "tipoDocumentoNome": "Termo de Referência",
+      "tipoDocumentoDescricao": "Termo de Referência",
+      "tipoDocumentoId": 4
+    },
+    {
+      "uri": "https://pncp.gov.br/pncp-api/v1/orgaos/46177523000109/compras/2026/271/arquivos/3",
+      "url": "https://pncp.gov.br/pncp-api/v1/orgaos/46177523000109/compras/2026/271/arquivos/3",
+      "statusAtivo": true,
+      "dataPublicacaoPncp": "2026-09-29T14:14:11",
+      "cnpj": "46177523000109",
+      "anoCompra": 2026,
+      "sequencialCompra": 271,
+      "sequencialDocumento": 3,
+      "titulo": "SC_1941",
+      "tipoDocumentoNome": "Documento de Formalização da Demanda - DFD",
+      "tipoDocumentoDescricao": "Documento de Formalização da Demanda - DFD",
+      "tipoDocumentoId": 10
+    }
+  ]
+}

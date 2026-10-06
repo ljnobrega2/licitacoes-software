@@ -1,0 +1,1376 @@
+
+[PÁGINA 1]
+TERMO DE REFERÊNCIA
+1. DAS CONDIÇÕES GERAIS DA CONTRATAÇÃO
+1.1. Contratação de empresa para o fornecimento de 6 (seis) licenças de uso da
+solução de inteligência artificial ChatGPT Business, da OpenAI, correspondentes a
+6 (seis) acessos individualizados em ambiente institucional, pelo período de 12
+(doze) meses, com pagamento anual, destinadas ao atendimento das
+necessidades da Secretaria de Governo, Comunicação e Tecnologia de
+Araquari/SC, conforme as condições e exigências estabelecidas neste Termo de
+Referência.
+1.2. Descrição do objeto:
+1.3. O valor total estimado da contratação para o período de 12 (doze) meses
+corresponde a R$ 11.807,70 (onze mil, oitocentos e sete reais e setenta
+centavos), conforme a memória de cálculo e os parâmetros registrados no
+Formulário de Pesquisa de Preços vinculado ao processo.
+1.4. O objeto caracteriza-se como serviço comum de natureza continuada, sem
+dedicação exclusiva de mão de obra, uma vez que compreende o licenciamento e
+a disponibilização de solução de software como serviço em nuvem, cujos padrões
+de desempenho, qualidade e execução são definidos objetivamente neste Termo
+de Referência mediante especificações usuais de mercado. A natureza continuada
+decorre da necessidade de manutenção ininterrupta dos acessos durante todo o
+período contratado, sem alocação de empregados da contratada nas
+dependências da Secretaria de Governo, Comunicação e Tecnologia, nos termos
+do art. 6º, incisos XIII, XV e XVI, da Lei Federal nº 14.133/2021.
+ITEM DESCRIÇÃO/ESPECIFICAÇÃO
+UNIDADE
+DE
+MEDIDA
+Q
+T
+D
+VALOR
+UNITÁRIO
+ANUAL
+VALOR TOTAL
+ANUAL
+1
+Licença anual de uso da solução ChatGPT
+Business, da OpenAI, incluindo configuração
+inicial do ambiente institucional, ativação,
+manutenção do acesso e suporte relacionado
+ao licenciamento durante a vigência de 12
+(doze) meses.
+Licença
+anual
+6 R$ 1.967,95 R$ 11.807,70
+
+
+[PÁGINA 2]
+1.5. A vigência da contratação é de 12 (doze) meses, contada da disponibilização
+integral das 6 (seis) licenças de uso e da efetiva ativação dos respectivos acessos
+individualizados no ambiente institucional do ChatGPT Business. A prorrogação
+observa os requisitos e os limites estabelecidos na Lei Federal nº 14.133/2021,
+mediante demonstração da permanência da necessidade administrativa, da
+vantajosidade da continuidade da contratação, da compatibilidade dos preços com
+os praticados no mercado e do regular cumprimento das obrigações contratuais.
+1.6. O fornecimento não compreende desenvolvimento ou customização de
+software, integração por interface de programação de aplicações — API,
+implantação de infraestrutura local, cessão de mão de obra ou prestação de
+consultoria técnica. A contratação abrange o fornecimento de licenças legítimas de
+uso do ChatGPT Business, a configuração inicial do ambiente institucional, a
+disponibilização e a ativação dos 6 (seis) acessos individualizados, a manutenção
+da regularidade do licenciamento e dos acessos durante a vigência e o suporte
+relacionado ao licenciamento.
+2. FUNDAMENTAÇÃO E DESCRIÇÃO DA NECESSIDADE DA CONTRATAÇÃO
+2.1. Necessidade da Contratação
+A Secretaria Municipal de Governo, Comunicação e Tecnologia necessita de
+uma ferramenta institucional de inteligência artificial generativa para apoiar de forma
+contínua as atividades estratégicas, técnicas e criativas de suas Diretorias de
+Tecnologia da Informação e de Comunicação. A adoção desta solução visa otimizar as
+rotinas de trabalho integradas dessas áreas, modernizando os processos e auxiliando
+na análise de cenários para melhor atendimento das demandas do Município.
+O trabalho desenvolvido por essas unidades envolve um alto volume de
+pesquisa, estruturação de informações, planejamento, elaboração de documentos
+institucionais, além do desenvolvimento, manutenção e evolução de soluções
+tecnológicas e estratégias de comunicação. O uso da inteligência artificial permitirá
+apoiar essas etapas preparatórias, acelerando a organização de dados, a geração de
+alternativas e a capacidade de resposta das equipes, sempre mantendo a validação
+técnica e a responsabilidade final a cargo dos servidores.
+Na prática, a ferramenta será utilizada para auxiliar na concepção, revisão e
+otimização de fluxos de trabalho, conteúdos, rotinas operacionais e projetos. Ela
+
+
+[PÁGINA 3]
+desempenhará um papel fundamental na análise de cenários para melhor atendimento,
+permitindo que as equipes comparem abordagens, identifiquem as melhores práticas,
+estruturem documentações e adaptem linguagens e soluções tecnológicas para
+diferentes públicos e necessidades da administração pública.
+Para atender a essas necessidades integradas, foi definido o quantitativo de 6
+(seis) licenças, que serão distribuídas e utilizadas de forma conjunta pelas Diretorias
+de Tecnologia da Informação e de Comunicação. A utilização de acessos
+individualizados permite o uso simultâneo da ferramenta, evita o compartilhamento de
+credenciais e possibilita que os usuários desenvolvam suas atividades dentro de um
+ambiente institucional seguro e comum a ambas as áreas.
+A contratação possui caráter estritamente de apoio e não transfere à
+inteligência artificial qualquer atribuição decisória. Todo e qualquer material
+estruturado com o auxílio da ferramenta, sejam textos institucionais, documentações,
+códigos, scripts, planejamentos ou roteiros, deverá ser revisado e validado pelo
+servidor responsável antes de sua utilização, publicação ou implementação. Também
+deverão ser observadas e respeitadas as normas internas de segurança da
+informação, proteção de dados, sigilo e classificação das informações.
+As atividades descritas possuem caráter permanente e recorrente. A execução
+exclusivamente manual das etapas de pesquisa, leitura, estruturação, revisão e
+organização de informações consome parcela relevante do tempo técnico e criativo
+disponível, podendo ampliar o retrabalho, especialmente em situações que exigem
+respostas rápidas e o tratamento simultâneo de múltiplas demandas.
+A disponibilização desse ambiente institucional de inteligência artificial
+generativa busca, portanto, ampliar a produtividade e a capacidade operacional das
+equipes contempladas, padronizar procedimentos, apoiar a modernização das rotinas
+de trabalho e permitir o melhor aproveitamento dos recursos humanos disponíveis,
+liberando os profissionais para focarem na análise crítica e no planejamento
+estratégico.
+A necessidade possui caráter continuado durante o período de 12 (doze)
+meses, pois as atividades apoiadas integram a rotina ordinária das Diretorias e não
+correspondem a uma demanda isolada, excepcional ou temporária. A disponibilidade
+regular da solução garante que os 6 (seis) usuários contemplados tenham o suporte
+tecnológico necessário para o desenvolvimento de suas atribuições de forma integrada,
+
+
+[PÁGINA 4]
+ágil e eficiente.
+2.2. Justificativa Técnica para Aquisição
+A solução definida consiste no fornecimento de 6 (seis) licenças de uso da
+solução de inteligência artificial ChatGPT Business, da OpenAI, correspondentes a 6
+(seis) acessos individualizados em ambiente institucional, pelo período de 12 (doze)
+meses, com pagamento anual.
+O ChatGPT Business consiste em solução de inteligência artificial generativa
+disponibilizada como serviço em nuvem, acessível por meio das interfaces oficiais
+mantidas pela OpenAI. A interação ocorre por linguagem natural e permite ao usuário
+apresentar instruções, inserir contexto, anexar arquivos e solicitar a elaboração, a
+revisão, a comparação, a síntese, a análise ou a organização de conteúdo.
+As funcionalidades da solução apresentam correspondência com as atividades
+que fundamentam a contratação, especialmente a elaboração e a revisão de
+documentos institucionais, a pesquisa e a estruturação de informações, o apoio ao
+desenvolvimento e à manutenção de scripts e soluções tecnológicas, a organização de
+dados e rotinas de gerenciamento de sistemas e rede, bem como a concepção, a
+revisão e a otimização de roteiros, artigos e demais conteúdos de comunicação
+institucional.
+A solução é disponibilizada como serviço pronto para uso e não exige
+instalação de servidores, aquisição de equipamentos específicos, desenvolvimento ou
+customização de software, implantação de infraestrutura local, integração por API ou
+manutenção técnica da plataforma pela Secretaria. Essa forma de fornecimento
+atende à necessidade de disponibilização direta da ferramenta aos usuários, sem criar
+demanda adicional de desenvolvimento, hospedagem, atualização, monitoramento ou
+suporte de solução tecnológica interna.
+Embora a Diretoria de Tecnologia da Informação disponha de equipe técnica
+própria, essa equipe encontra-se dedicada às atribuições de sua competência, sendo
+o desenvolvimento de softwares e sites, gerenciamento de sistemas, administração da
+rede municipal e suporte técnico ao Município, não sendo viável, sob o ponto de vista
+de alocação de recursos humanos, destinar parcela desses profissionais ao
+desenvolvimento, à integração e à manutenção contínua de solução própria de
+inteligência artificial. Ademais, a hospedagem local de uma ferramenta com esse nível
+
+
+[PÁGINA 5]
+de processamento demandaria a aquisição de hardware específico para execução de
+modelos de inteligência artificial, o que representaria elevado custo financeiro com a
+compra e a atualização periódica dos equipamentos, além de significativo consumo de
+energia elétrica para sua operação contínua. A contratação de solução pronta
+concentra no fornecedor a configuração inicial do ambiente institucional, a
+disponibilização das licenças, a ativação dos 6 (seis) acessos individualizados, a
+manutenção da regularidade do licenciamento durante a vigência e o suporte
+relacionado ao licenciamento, preservando a equipe técnica da Diretoria para as
+atividades finalísticas que lhe são próprias e evitando investimento em infraestrutura
+de hardware e os custos operacionais correspondentes.
+A análise técnica considera as alternativas razoáveis para o atendimento da
+necessidade identificada:
+1. Manutenção das rotinas exclusivamente manuais e utilização de
+ferramentas convencionais: preserva a forma de execução existente, mas
+não amplia a capacidade de pesquisa, síntese, comparação, organização
+e preparação inicial dos conteúdos técnicos e de comunicação. Essa
+alternativa mantém a concentração de tempo de trabalho em tarefas
+preparatórias e repetitivas, sem proporcionar o apoio tecnológico que
+fundamenta a demanda.
+2. Utilização de ferramentas gratuitas de inteligência artificial: permite o uso
+inicial da tecnologia, mas permanece sujeita às funcionalidades, aos
+limites de utilização e às condições próprias dos planos gratuitos. Essa
+alternativa também não disponibiliza a mesma estrutura de ambiente
+institucional com administração dos usuários e proteção dos dados da
+organização oferecida pelo plano corporativo definido para a contratação,
+não apresentando condições equivalentes para a disponibilização regular,
+simultânea e administrada dos acessos aos seis usuários da Secretaria.
+3. Contratação de seis assinaturas individuais de solução pronta, como o
+ChatGPT Plus: disponibiliza recursos ampliados diretamente aos usuários
+e dispensa desenvolvimento de software e infraestrutura local. Contudo,
+cada assinatura permanece vinculada a uma conta individual e
+independente, sem a constituição de ambiente institucional comum às
+Diretorias de Tecnologia da Informação e de Comunicação. Essa
+
+
+[PÁGINA 6]
+alternativa não oferece, como estrutura própria do plano individual, a
+administração centralizada dos seis acessos nem a mesma regra
+empresarial de não utilização dos dados da organização para treinamento
+dos modelos por padrão.
+4. Contratação de ambiente institucional com administração centralizada:
+reúne os seis usuários da Secretaria em espaço de trabalho dedicado e
+permite administrar os acessos vinculados à Secretaria. A estrutura
+possibilita incluir e remover membros, organizar as funções
+administrativas do ambiente e manter cada acesso associado ao
+respectivo usuário, sem compartilhamento de credenciais. Essa
+alternativa proporciona maior controle institucional, continuidade
+administrativa e adequação ao uso conjunto e integrado pelas duas áreas.
+5. Utilização da OpenAI API ou desenvolvimento de solução própria: exige
+definição de arquitetura, desenvolvimento de interface, integração de
+sistemas, proteção de credenciais técnicas, controle de consumo,
+monitoramento, atualização e manutenção. A contratação e a cobrança
+da API são distintas das licenças de uso do ChatGPT e variam conforme
+os modelos, os recursos e o volume de processamento utilizados. Ainda
+que a Diretoria de TI possua capacidade técnica para eventual integração,
+essa alternativa desviaria a equipe de suas atribuições prioritárias de
+desenvolvimento, manutenção e gerenciamento de sistemas e rede, não
+sendo compatível com a necessidade de acesso direto e imediato por
+interface pronta, tanto pela Diretoria de TI quanto pela Diretoria de
+Comunicação.
+6. Contratação de empresa para executar as atividades técnicas e criativas
+apoiadas pela ferramenta: não atende à finalidade da demanda, pois a
+elaboração, a análise, a conferência, a validação e a aprovação dos
+documentos, scripts, roteiros e demais conteúdos permanecem
+vinculadas às atribuições e à responsabilidade dos servidores. A
+necessidade corresponde à disponibilização de apoio tecnológico direto
+aos usuários e não à transferência das atividades técnicas ou de
+comunicação para terceiros.
+
+
+[PÁGINA 7]
+Entre as alternativas avaliadas, a contratação de solução pronta em ambiente
+institucional apresenta maior aderência à necessidade concreta da Secretaria de
+Governo, Comunicação e Tecnologia. Essa alternativa combina disponibilidade direta
+aos usuários, acesso por interface oficial, utilização de arquivos, pesquisas e dados,
+ausência de infraestrutura local adicional, licenciamento com pagamento anual e
+administração dos acessos vinculados ao ambiente da organização.
+A adoção do ChatGPT Business decorre principalmente da forma de
+organização e administração dos acessos. O plano Business disponibiliza espaço de
+trabalho dedicado, no qual cada usuário ocupa uma vaga própria e a Administração
+mantém o controle dos membros vinculados ao ambiente institucional, permitindo
+incluir e remover usuários, manter os acessos associados e impedir o
+compartilhamento de credenciais entre servidores da Secretaria de Governo,
+Comunicação e Tecnologia.
+A escolha do plano Business não se fundamenta em suposta superioridade
+da qualidade dos conteúdos produzidos em relação ao plano Plus. A diferença técnica
+relevante para esta contratação está na governança dos acessos, na segurança do
+ambiente e no tratamento institucional das informações. A documentação oficial da
+OpenAI classifica o Plus como plano individual e o Business como plano destinado a
+organizações, com espaço de trabalho dedicado, controles administrativos essenciais,
+autenticação multifator (MFA), possibilidade de autenticação única por SAML SSO e
+não utilização dos dados da organização para treinamento dos modelos por padrão.
+Essas características apresentam maior adequação à contratação realizada
+por órgão público, pois as seis licenças não constituem assinaturas pessoais
+independentes. Os seis acessos permanecem reunidos em ambiente institucional
+único, sob administração definida, com identificação individual dos usuários e
+possibilidade de alteração dos membros durante a vigência, quando necessária. A
+solução também permite a utilização simultânea pelos setores contemplados, sem
+compartilhamento de contas ou credenciais.
+A regra de não utilização dos dados da organização para treinamento dos
+modelos por padrão constitui característica relevante para a escolha do ChatGPT
+Business, oferecendo tratamento mais adequado às informações técnicas,
+administrativas e de comunicação inseridas na ferramenta quando comparada aos
+planos de uso individual. Contudo, essa característica não elimina a necessidade de
+
+
+[PÁGINA 8]
+observância da Lei Geral de Proteção de Dados Pessoais, das normas de segurança
+da informação e das restrições estabelecidas neste Termo de Referência.
+O escopo da contratação não compreende integração com sistemas
+institucionais, automação de fluxos administrativos, utilização da OpenAI API,
+customização, desenvolvimento de aplicações, implantação de infraestrutura local,
+cessão de mão de obra, consultoria técnica ou tratamento de dados pessoais
+sensíveis de munícipes. A solução também não realiza decisões administrativas
+autônomas nem substitui a atuação dos servidores responsáveis, cabendo à
+Secretaria de Governo, Comunicação e Tecnologia a validação técnica e final de todo
+conteúdo produzido com o auxílio da ferramenta.
+Cada licença corresponde a 1 (um) acesso individualizado no ambiente
+institucional do ChatGPT Business. A relação de um acesso por usuário evita o
+compartilhamento de credenciais, permite a utilização simultânea da solução pelos
+usuários da secretaria e assegura que cada usuário possua acesso próprio,
+observadas as permissões e os controles administrativos disponíveis no plano.
+NOTA: A análise técnica utilizou como fontes a documentação oficial da OpenAI: Use ChatGPT, que
+descreve as capacidades de pesquisa, análise de informações, leitura de arquivos, análise de dados,
+síntese e elaboração de conteúdos; Pricing, que apresenta os planos individuais e corporativos, as
+características do ChatGPT Business e a distinção entre as licenças do ChatGPT e o uso por API; e
+Roles and workspace permissions, que descreve a estrutura de membros, vagas e funções
+administrativas do ambiente institucional. As páginas foram consultadas em 10 de agosto de 2026. A
+definição das finalidades, dos usuários e do quantitativo tem como fonte o Documento de Formalização
+de Demanda vinculado ao processo.
+2.3. Justificativa da Escolha da Solução ChatGPT Business, da OpenAI
+A indicação da solução ChatGPT Business, da OpenAI, decorre da análise de
+sua adequação às atividades administrativas, técnicas e de planejamento
+contempladas na contratação. A escolha não se fundamenta exclusivamente na
+notoriedade da fabricante, na popularidade da ferramenta ou em preferência subjetiva
+dos usuários, mas na correspondência entre os recursos disponibilizados, a forma de
+utilização pretendida e os padrões de trabalho já estruturados pela unidade
+demandante.
+O mercado disponibiliza outras soluções corporativas de inteligência artificial
+generativa, entre as quais Microsoft 365 Copilot, Google Workspace com Gemini,
+
+
+[PÁGINA 9]
+Claude Team e Perplexity Enterprise. Essas ferramentas possuem capacidades
+próprias de geração de textos, pesquisa, leitura de arquivos e análise de informações.
+A escolha do ChatGPT Business não decorre da afirmação de que as demais soluções
+são tecnicamente incapazes, mas da avaliação conjunta da amplitude funcional, da
+estrutura de licenciamento, da dependência de outros ambientes tecnológicos, do
+esforço necessário à implantação e da compatibilidade com os padrões de trabalho já
+adotados.
+O ChatGPT Business funciona como solução autônoma e pronta para uso, sem
+condicionar a utilização das funcionalidades previstas nesta contratação à aquisição
+de suíte adicional de produtividade. O acesso ocorre por interface oficial da OpenAI e
+não exige integração com correio eletrônico, sistema de armazenamento, plataforma
+de colaboração ou pacote de aplicativos de determinado fabricante. Essa
+característica apresenta aderência ao escopo definido, que não contempla integração
+com sistemas institucionais, automação de fluxos, desenvolvimento de aplicações ou
+implantação de infraestrutura local.
+O Microsoft 365 Copilot possui como característica central a integração com
+Word, Excel, PowerPoint, Outlook, Teams, SharePoint e demais aplicações do
+ecossistema Microsoft. Sua utilização completa como ferramenta de produtividade
+organizacional depende de plano qualificável do Microsoft 365 e pode envolver
+configurações adicionais para criação de agentes e utilização de dados corporativos.
+Essa integração não constitui requisito da presente contratação, uma vez que a
+necessidade está concentrada no acesso direto à inteligência artificial para elaboração
+e revisão de documentos, análise de arquivos, pesquisas, planilhas e organização de
+bases temáticas.
+O Google Workspace com Gemini também apresenta integração direta com os
+aplicativos do ecossistema Google, incluindo Gmail, Docs, Sheets, Slides, Drive e
+Meet. Seus recursos organizacionais estão vinculados às edições e às condições de
+licenciamento do Google Workspace. A contratação em análise não compreende
+aquisição ou ampliação de suíte de produtividade, migração de documentos para
+ambiente específico nem integração com os aplicativos Google, motivo pelo qual essa
+vinculação não acrescenta vantagem necessária ao atendimento do objeto.
+O Claude Team, da Anthropic, constitui alternativa tecnicamente próxima, pois
+disponibiliza ambiente para equipes, projetos com bases próprias de conhecimento,
+
+
+[PÁGINA 10]
+análise de arquivos, pesquisa e controles administrativos. O diferencial considerado
+para a escolha do ChatGPT Business está na compatibilidade com os padrões, as
+instruções e as bases documentais já estruturados no ambiente ChatGPT para as
+atividades da unidade demandante.
+A unidade demandante já desenvolve, no ChatGPT, padrões de linguagem e
+escrita administrativa, instruções para elaboração e revisão documental, modelos de
+documentos e bases temáticas formadas por arquivos específicos. Esses elementos
+representam trabalho acumulado de organização, correção e validação de
+procedimentos, que pode ser reorganizado no ambiente institucional do ChatGPT
+Business.
+A continuidade na solução permite preservar e aperfeiçoar esses padrões sem
+exigir sua reconstrução integral em plataforma diferente. A adoção de outra solução
+demandaria nova configuração das instruções, nova inserção e organização dos
+documentos, repetição das correções já realizadas e nova validação dos resultados,
+com consumo adicional de tempo dos servidores e risco de perda da uniformidade
+alcançada. Essa condição não se limita à familiaridade pessoal com a interface, mas
+corresponde à compatibilidade com padrões de trabalho e referências documentais
+efetivamente utilizados na preparação das atividades administrativas.
+O Perplexity Enterprise apresenta recursos voltados à pesquisa, à recuperação
+de informações atualizadas e à consulta de arquivos e fontes conectadas. Embora
+esses recursos sejam relevantes, a necessidade da Secretaria não se restringe à
+pesquisa. O escopo compreende a elaboração e a revisão recorrente de documentos
+administrativos, a análise de arquivos e planilhas, a manutenção de padrões
+permanentes de redação e a estruturação de agentes especializados com instruções e
+documentos próprios. O ChatGPT Business reúne essas atividades em ambiente
+único e voltado à produção continuada de conteúdos sujeitos à revisão dos servidores.
+A possibilidade de criação de agentes especializados constitui elemento
+relevante para a escolha. No ChatGPT Business, a Secretaria pode configurar agentes
+destinados a áreas ou projetos específicos, incorporando instruções permanentes,
+documentos de referência, modelos e exemplos de resultados esperados. A
+funcionalidade permite estruturar, entre outros, agente relacionado a projetos, agente
+voltado às contratações públicas, mantendo organizadas as informações necessárias
+a cada finalidade.
+
+
+[PÁGINA 11]
+Os agentes especializados permitem estabelecer padrões de linguagem
+institucional, estrutura documental, necessidade de indicação das fontes, proibição de
+criação de informações não fornecidas e obrigatoriedade de revisão humana. Essa
+configuração reduz a repetição de instruções a cada nova atividade, contribui para a
+uniformidade dos resultados e possibilita o compartilhamento dos recursos com os
+usuários autorizados no ambiente institucional, observadas as permissões definidas
+pela Administração.
+O ChatGPT Business também reúne os 6 (seis) acessos em espaço de
+trabalho institucional dedicado. Cada usuário possui acesso próprio, enquanto a
+Administração mantém o controle dos membros vinculados ao ambiente. Essa
+estrutura evita o compartilhamento de credenciais, permite a substituição de usuários
+durante a vigência e preserva os acessos sob gestão institucional.
+A contratação também apresenta menor complexidade de implantação, pois
+não exige equipe técnica para desenvolvimento, integração, hospedagem, atualização
+ou manutenção de solução própria. A configuração concentra-se na criação do
+ambiente institucional, na ativação dos acessos, na definição dos usuários e na
+organização dos agentes e documentos de referência.
+O pagamento anual por licença proporciona previsibilidade da despesa durante
+os 12 (doze) meses de utilização. A contratação não adota cobrança variável por
+tokens, requisições, volume de processamento ou desenvolvimento de integrações,
+permanecendo delimitada às seis licenças e aos limites de utilização próprios do plano
+ChatGPT Business.
+O modelo de fornecimento adotado compreende a disponibilização das
+licenças por período fechado de 12 (doze) meses, com pagamento anual após a
+ativação integral e a comprovação da vigência dos acessos. Essa condição é
+compatível com a forma de comercialização da solução e permite que o valor total da
+contratação seja previamente definido em moeda nacional, incluindo os custos de
+licenciamento, tributos, taxas, variação cambial, ativação e suporte, sem alterações do
+preço durante o período contratado.
+A indicação da solução ChatGPT Business não estabelece exclusividade de
+fornecedor. Conforme a pesquisa de mercado vinculada ao processo, diferentes
+empresas comercializam ou intermedeiam o fornecimento das licenças, realizam a
+ativação dos acessos e emitem o respectivo documento fiscal. A competição ocorre
+
+
+[PÁGINA 12]
+entre as empresas aptas a fornecer licenças legítimas e oficiais da solução nas
+condições estabelecidas neste Termo de Referência.
+A escolha da OpenAI fundamenta-se, portanto, na compatibilidade com os
+padrões de trabalho já estruturados pela unidade demandante, no aproveitamento das
+instruções e bases documentais existentes, na possibilidade de criação de agentes
+especializados sem desenvolvimento técnico, na abrangência das funcionalidades
+necessárias, na administração institucional dos seis acessos, na proteção dos dados
+da organização e na ausência de dependência de suíte adicional de produtividade.
+A indicação nominal não decorre de afirmação genérica de superioridade da
+fabricante, mas da avaliação da solução em relação ao caso concreto e aos custos
+operacionais de implantação, adaptação e continuidade. O aproveitamento do trabalho
+já desenvolvido reduz o esforço de transição, evita a reconstrução de padrões
+anteriormente validados e contribui para o início da utilização dentro do prazo
+estabelecido.
+● NOTA: A fundamentação utiliza como fontes as documentações oficiais das soluções avaliadas:
+ChatGPT Business, agentes no ambiente ChatGPT Business, Microsoft 365 Copilot, Google
+Workspace com Gemini, Claude Team, projetos e bases de conhecimento do Claude e
+Perplexity Enterprise, consultadas em 10 de agosto de 2026.
+2.4. Interesse Público
+A contratação atende ao interesse público ao ampliar a capacidade operacional
+da Secretaria de Governo, Comunicação e Tecnologia, contribuindo para maior
+eficiência na execução de atividades técnicas, administrativas e de produção. O apoio
+ao desenvolvimento e à manutenção de soluções digitais, à elaboração de scripts e
+procedimentos, à análise de documentação e à produção de conteúdos institucionais
+permite melhor aproveitamento do tempo de trabalho dos servidores.
+O ganho de eficiência nas atividades preparatórias permite direcionar maior
+parcela da capacidade operacional às tarefas que exigem análise crítica, conferência,
+planejamento, avaliação das necessidades e tomada de decisão. Esse resultado
+favorece a adequada instrução dos processos administrativos, a transparência, a
+rastreabilidade das informações e a continuidade das atividades necessárias ao
+funcionamento da Secretaria.
+
+
+[PÁGINA 13]
+Os benefícios alcançam diretamente a capacidade da Secretaria de manter e
+aperfeiçoar seus serviços digitais, sistemas, infraestrutura tecnológica e canais de
+comunicação institucional. A solução não substitui os servidores responsáveis pelas
+decisões técnicas, administrativas ou editoriais, mas atua como ferramenta de apoio
+para acelerar etapas preparatórias, ampliar a capacidade de análise e produção e
+reduzir retrabalho.
+A contratação preserva a responsabilidade dos agentes públicos sobre os
+conteúdos produzidos, as soluções técnicas propostas e as decisões adotadas. Os
+resultados gerados pela ferramenta permanecem sujeitos à análise, à conferência, à
+correção e à validação dos servidores responsáveis, assegurando que a utilização da
+inteligência artificial ocorra como recurso de apoio e permaneça subordinada ao
+interesse público, à legalidade, à segurança da informação e às finalidades
+institucionais da Secretaria Municipal de Governo, Comunicação e Tecnologia.
+2.5. Resultados Pretendidos em Termos de Economicidade e de Melhor
+Aproveitamento dos Recursos Humanos, Materiais e Financeiros Disponíveis
+A contratação busca aperfeiçoar a execução das atividades administrativas,
+técnicas e de planejamento mediante o uso de solução pronta, disponibilizada em
+ambiente institucional e dimensionada para os 6 (seis) usuários. Os resultados
+pretendidos concentram-se nos seguintes aspectos:
+1. Economicidade: redução do tempo empregado nas etapas preparatórias de
+pesquisa, estruturação inicial, revisão, comparação, síntese e organização de
+conteúdos, permitindo que as atividades sejam executadas com melhor relação
+entre os recursos utilizados e os resultados produzidos. O quantitativo limita-se
+aos usuários diretamente relacionados às finalidades da contratação e a
+vigência restringe-se ao período de 12 (doze) meses, evitando a contratação
+de acessos sem destinação previamente definida.
+2. Melhor aproveitamento dos recursos humanos: direcionamento de maior
+parcela do tempo de trabalho dos servidores às atividades que exigem análise
+crítica, conferência, validação, planejamento, decisão e controle. A solução
+presta apoio às tarefas preparatórias e repetitivas, sem substituir as atribuições
+dos agentes públicos nem afastar sua responsabilidade pela exatidão,
+legalidade e adequação dos conteúdos utilizados pela Administração.
+
+
+[PÁGINA 14]
+3. Melhor aproveitamento dos recursos materiais: utilização dos
+computadores, dispositivos e conexão com a internet já disponibilizados pela
+Administração, sem necessidade de aquisição de servidores, equipamentos
+específicos ou estrutura tecnológica adicional. A disponibilização da solução
+em nuvem também dispensa instalação, hospedagem e manutenção de
+infraestrutura local.
+4. Melhor aproveitamento dos recursos financeiros: adoção de solução pronta
+para uso, com pagamento anual correspondente às 6 (seis) licenças
+contratadas, sem custos adicionais de desenvolvimento, customização,
+integração por API, implantação ou manutenção de sistema próprio. A
+definição prévia do quantitativo, do período de utilização e da forma de
+pagamento proporciona previsibilidade da despesa e delimita financeiramente
+a contratação.
+5. Aperfeiçoamento dos resultados administrativos: melhoria da organização,
+da clareza, da coerência e da padronização dos documentos, com redução de
+retrabalho decorrente de falhas formais, divergências de estrutura ou
+necessidade de reorganização das informações. O resultado pretendido
+consiste em ampliar a capacidade de preparação e conferência dos materiais
+utilizados nos processos administrativos, preservando a revisão e a aprovação
+pelos servidores responsáveis.
+6. Continuidade e uniformidade dos padrões de trabalho: utilização de
+ambiente institucional que permite organizar instruções, documentos de
+referência e agentes especializados, favorecendo a aplicação uniforme dos
+padrões de linguagem e elaboração documental adotados pela Secretaria. A
+centralização dos seis acessos no ChatGPT Business também facilita a
+administração dos usuários e a continuidade das atividades durante a vigência.
+2.6. Justificativa para o Não Parcelamento da Contratação
+O objeto compreende o fornecimento de 6 (seis) licenças de uso do ChatGPT
+Business, correspondentes a 6 (seis) acessos individualizados vinculados ao mesmo
+ambiente institucional, com especificações, período de utilização, forma de ativação,
+suporte ao licenciamento e condições de pagamento idênticos.
+
+
+[PÁGINA 15]
+O parcelamento quantitativo não se mostra tecnicamente adequado, pois a
+solução pressupõe a organização dos seis usuários em um único espaço de trabalho
+institucional, sob administração centralizada. A divisão das licenças entre fornecedores
+distintos pode resultar em contratações, datas de ativação, períodos de utilização,
+condições comerciais e canais de suporte diferentes, além de dificultar a vinculação
+dos acessos ao mesmo ambiente institucional.
+A contratação em item único assegura a ativação conjunta das licenças, a
+uniformidade das condições de uso, a coincidência do período de vigência dos
+acessos e a concentração da responsabilidade pelo licenciamento e pelo respectivo
+suporte. Essa configuração também facilita a administração dos usuários, a
+fiscalização, o recebimento e a apuração de eventual descumprimento das obrigações
+contratuais.
+A divisão do quantitativo não apresenta benefício técnico ou econômico
+demonstrável, considerando que as seis licenças integram a mesma solução e
+possuem a mesma finalidade. O fracionamento acrescenta complexidade à execução
+e à gestão contratual sem ampliar a funcionalidade, a qualidade ou a competitividade
+do objeto.
+O não parcelamento observa o art. 47, inciso II, da Lei Federal nº 14.133/2021,
+uma vez que a divisão do objeto não se mostra tecnicamente viável nem
+economicamente vantajosa para o caso concreto. A adjudicação em item único não
+impede a competição entre as empresas aptas a fornecer licenças legítimas e oficiais
+do ChatGPT Business no mercado nacional.
+2.7. Da Previsão no Plano de Contratação Anual – PCA
+A PREENCHER. Necessário definir
+essas informações
+Comentário[Eduardo Francener1]:
+
+
+[PÁGINA 16]
+3. DESCRIÇÃO DA SOLUÇÃO COMO UM TODO CONSIDERANDO O CICLO DE
+VIDA DO OBJETO
+3.1. Solução
+3.1.1. A solução compreende o fornecimento de 6 (seis) licenças de uso do ChatGPT
+Business, da OpenAI, correspondentes a 6 (seis) acessos individualizados em
+ambiente institucional, pelo período de 12 (doze) meses, com pagamento anual.
+O fornecimento inclui a configuração inicial do ambiente institucional, a
+disponibilização e a ativação dos acessos, a manutenção da regularidade do
+licenciamento durante a vigência e o suporte relacionado à ativação, à
+vinculação dos usuários e ao licenciamento.
+3.1.2. O acesso ocorre por meio das interfaces oficiais da OpenAI, mediante
+identificação individual dos usuários indicados pela Administração. Os 6 (seis)
+acessos integram o mesmo espaço de trabalho institucional, com gestão
+centralizada dos membros e atribuição das funções administrativas disponíveis
+no plano a usuário indicado pela Administração, sem compartilhamento de
+contas, senhas ou credenciais.
+3.1.3. A contratada fornece as orientações necessárias à ativação, configura o
+ambiente institucional, vincula os acessos aos endereços eletrônicos
+informados pela Administração e apresenta a comprovação da regularidade
+das licenças. Durante a vigência, mantém a regularidade do licenciamento,
+atende às solicitações relacionadas ao fornecimento e corrige falhas de
+ativação, vinculação ou acesso que estejam sob sua responsabilidade.
+3.1.4. A Administração informa os usuários contemplados e os respectivos endereços
+eletrônicos, indica o usuário responsável pela administração do ambiente
+institucional, realiza a validação dos 6 (seis) acessos e controla sua utilização.
+A substituição de usuário durante a vigência ocorre mediante alteração do
+membro vinculado à respectiva licença, sem ampliação do quantitativo
+contratado e sem compartilhamento de credenciais.
+3.1.5. O ciclo de vida da solução compreende as seguintes etapas: emissão da
+Autorização de Fornecimento; indicação dos usuários e do responsável pela
+administração do ambiente institucional; configuração do espaço de trabalho;
+disponibilização e ativação integral dos 6 (seis) acessos em até 5 (cinco) dias
+corridos; verificação das licenças pela fiscalização; recebimento provisório e
+
+
+[PÁGINA 17]
+definitivo; pagamento anual após a ativação e o recebimento; manutenção da
+regularidade dos acessos e prestação do suporte relacionado ao licenciamento
+durante 12 (doze) meses; e encerramento ao término da vigência.
+3.1.6. O período de 12 (doze) meses é contado da disponibilização integral das
+licenças e da efetiva ativação dos respectivos acessos individualizados. A
+solução permanece vinculada ao plano ChatGPT Business durante todo o
+período, sem conversão para plano individual, redução do número de acessos
+ou substituição por plataforma distinta.
+3.1.7. Ao término da vigência, a contratada não realiza renovação automática, não
+promove nova cobrança nem mantém obrigação financeira em nome da
+Administração sem autorização formal. A continuidade da utilização depende
+de nova contratação ou de prorrogação regularmente formalizada, quando
+admitida e demonstrada sua vantajosidade.
+3.1.8. A utilização da solução permanece submetida aos termos, às políticas, às
+funcionalidades e aos limites técnicos estabelecidos pela OpenAI para o
+ChatGPT Business, sem prejuízo das características mínimas exigidas e das
+obrigações assumidas pela contratada neste Termo de Referência.
+3.2. Possíveis Impactos Ambientais
+3.2.1. A execução ocorre integralmente em meio digital e não exige entrega de
+materiais físicos, instalação de equipamentos específicos, implantação de
+servidores locais ou deslocamento técnico regular. A contratação também não
+gera descarte direto de embalagens, mídias, componentes eletrônicos ou
+outros resíduos nas dependências da Administração.
+3.2.2. Os impactos ambientais indiretos estão relacionados ao consumo de energia
+elétrica, ao processamento de dados e à infraestrutura tecnológica utilizada
+para a prestação do serviço em nuvem. Esses impactos integram a operação
+da plataforma mantida pela fabricante e não resultam da instalação de
+estrutura tecnológica adicional pela Secretaria Municipal de Governo,
+Comunicação e Tecnologia.
+3.2.3. A elaboração, a revisão, o compartilhamento e o armazenamento eletrônico
+dos conteúdos possibilitam a redução de impressões e do consumo de papel,
+tinta e demais materiais de expediente nas rotinas apoiadas. Essa utilização
+
+
+[PÁGINA 18]
+não afasta a produção ou a manutenção de documentos físicos quando
+exigidas pela legislação, pelos procedimentos administrativos ou pelas
+necessidades do processo.
+3.2.4. O encerramento das licenças não exige retirada de equipamentos, descarte de
+componentes ou destinação de resíduos pela Administração, uma vez que a
+solução é disponibilizada como serviço em nuvem e utiliza os equipamentos e
+a conexão com a internet já existentes.
+4. REQUISITOS DA CONTRATAÇÃO
+4.1. Requisitos Gerais
+4.1.1. A contratação ocorre por dispensa eletrônica em razão do valor, com
+fundamento no art. 75, II, da Lei Federal nº 14.133/2021, desde que o valor
+estimado e o somatório das despesas de mesma natureza permaneçam
+inferiores ao limite legal vigente, observados os procedimentos aplicáveis à
+contratação direta.
+4.1.2. O critério de julgamento é o menor preço global para o item único, considerado
+o valor total das 6 (seis) licenças pelo período de 12 (doze) meses.
+4.1.3. O objeto possui natureza continuada, sem dedicação exclusiva de mão de obra,
+e sua execução ocorre remotamente durante a vigência das licenças.
+4.1.4. A proposta deverá contemplar a totalidade do objeto e informar o valor unitário
+anual por licença e o valor global anual das 6 (seis) licenças, incluídos os
+tributos, os encargos, as taxas, os custos de licenciamento, a variação cambial,
+a ativação, o suporte e os demais custos diretos ou indiretos necessários à
+execução integral.
+4.1.5. A contratada deverá executar o objeto de acordo com as condições, os
+requisitos e as especificações estabelecidos neste Termo de Referência e nos
+demais documentos que integram a contratação.
+4.1.6. A contratada deverá fornecer 6 (seis) licenças legítimas, oficiais e regulares do
+ChatGPT Business, da OpenAI, correspondentes a 6 (seis) acessos
+individualizados vinculados ao mesmo ambiente institucional.
+4.1.7. A Administração não admite licenças de planos individuais, contas
+compartilhadas, credenciais pertencentes a terceiros, acessos temporários,
+
+
+[PÁGINA 19]
+versões gratuitas, licenças destinadas a outra finalidade, utilização por API ou
+acesso intermediado por plataforma não oficial.
+4.1.8. A contratada deverá disponibilizar as licenças no ambiente oficial da OpenAI e
+vincular cada acesso ao endereço eletrônico informado pela Administração,
+assegurando um acesso próprio para cada usuário.
+4.1.9. A contratada não poderá solicitar, definir, armazenar ou compartilhar as senhas
+pessoais, os códigos de autenticação ou outras credenciais dos usuários. Cada
+usuário realizará a criação ou a confirmação de sua credencial diretamente no
+ambiente oficial da OpenAI.
+4.1.10. Os 6 (seis) acessos deverão permanecer reunidos em um único ambiente
+institucional, com gestão centralizada dos membros e atribuição das funções
+administrativas disponíveis no plano ao usuário indicado pela Administração.
+4.1.11. A Administração manterá o controle administrativo do ambiente institucional
+durante toda a vigência. A participação da contratada na configuração, na
+ativação ou no suporte não lhe confere acesso administrativo permanente nem
+controle exclusivo do ambiente.
+4.2. Segurança e Proteção de Dados
+4.2.1. A contratada deverá adotar, no âmbito das atividades sob sua responsabilidade,
+medidas técnicas e administrativas adequadas para proteger os acessos contra
+uso indevido, compartilhamento de credenciais, acessos não autorizados,
+fraude, abuso e alteração indevida de perfis ou permissões, preservando a
+confidencialidade, a integridade, a disponibilidade e a autenticidade das
+informações relacionadas ao licenciamento.
+4.2.2. A contratada deverá comunicar imediatamente à Administração qualquer
+incidente de segurança do qual tenha conhecimento e que esteja relacionado à
+ativação, à vinculação, à administração ou ao suporte das licenças, informando
+os acessos afetados, os impactos identificados, as medidas de contenção
+adotadas e as providências necessárias à regularização.
+4.2.3. A contratada deverá preservar a confidencialidade das informações recebidas
+para ativação, vinculação dos usuários e suporte, limitando o tratamento ao
+estritamente necessário para a execução do objeto e observando a Lei Federal
+nº 13.709/2018.
+
+
+[PÁGINA 20]
+4.2.4. A contratada não poderá acessar, solicitar, copiar ou armazenar prompts,
+conversas, arquivos, GPTs personalizados ou conteúdos produzidos pelos
+usuários. Excepcionalmente, o acesso a informação específica somente será
+admitido quando indispensável ao atendimento solicitado pela Administração,
+mediante autorização expressa do usuário responsável e limitado ao conteúdo
+necessário à solução da ocorrência.
+4.2.5. A solução deverá assegurar que os textos, os arquivos, as instruções e os
+demais conteúdos inseridos pelos usuários no ambiente institucional não sejam
+utilizados pela OpenAI para treinamento de seus modelos por padrão,
+conforme as condições aplicáveis ao ChatGPT Business.
+4.3. Requisitos Funcionais
+4.3.1. A solução deverá disponibilizar, no mínimo:
+a) acesso pela interface web oficial e pelos aplicativos oficiais disponibilizados
+pela OpenAI para dispositivos compatíveis;
+b) interação e processamento de linguagem natural em português brasileiro;
+c) acesso aos modelos e aos recursos de inteligência artificial generativa
+incluídos no ChatGPT Business durante a vigência;
+d) elaboração, revisão, reestruturação, síntese, comparação e organização de
+textos e documentos;
+e) envio, leitura e análise de arquivos em formatos de uso corrente nas atividades
+administrativas, incluindo PDF, DOCX, XLSX, TXT, CSV e imagens,
+observados os limites técnicos do plano;
+f) análise de dados e apoio à elaboração, à organização e à revisão de planilhas;
+g) pesquisa de informações na internet, com indicação das fontes utilizadas ou
+disponibilização dos meios necessários à sua verificação;
+h) criação e utilização de GPTs personalizados, com instruções, documentos de
+referência, modelos e exemplos de resultados esperados, observados os
+recursos e os limites do plano;
+i) compartilhamento dos GPTs personalizados com usuários autorizados no
+ambiente institucional, observadas as permissões disponíveis no plano;
+j) utilização simultânea dos 6 (seis) acessos, sem compartilhamento de contas ou
+credenciais;
+
+
+[PÁGINA 21]
+k) ambiente institucional dedicado, com controles administrativos essenciais para
+gestão dos membros; e
+l) autenticação multifator — MFA e possibilidade de autenticação por SAML SSO,
+conforme as configurações e as condições aplicáveis ao ChatGPT Business.
+4.3.2. A Administração admite as atualizações gerais realizadas pela OpenAI, os
+limites de utilização próprios do ChatGPT Business e as configurações
+aplicáveis ao ambiente institucional. Essas condições não autorizam a
+substituição do plano, a redução do número de acessos, a diminuição do
+período contratado ou o fornecimento de solução diversa.
+4.4. Suporte e Continuidade
+4.4.1. A contratada deverá manter a regularidade das 6 (seis) licenças durante o
+período de 12 (doze) meses, contado da disponibilização integral e da efetiva
+ativação dos respectivos acessos.
+4.4.2. A contratada deverá substituir o usuário vinculado à licença, quando solicitado
+pela Administração, mediante remoção do membro anterior e vinculação do
+novo usuário, sem ampliação do quantitativo, compartilhamento de credenciais
+ou cobrança adicional.
+4.4.3. A contratada deverá prestar suporte remoto relacionado à ativação, à
+vinculação dos usuários, à regularidade das licenças, ao faturamento e à
+recuperação do acesso quando a ocorrência decorrer do fornecimento
+contratado.
+4.4.4. A contratada deverá disponibilizar atendimento em língua portuguesa, por
+correio eletrônico ou sistema eletrônico de chamados.
+4.4.5. A contratada deverá corrigir falha de ativação, licença inativa, vinculação
+incorreta de usuário ou irregularidade de faturamento sob sua responsabilidade
+no prazo máximo de 1 (um) dia útil, contado do recebimento da comunicação
+da fiscalização.
+4.4.6. A contratada deverá prestar orientação inicial ao usuário indicado para
+administrar o ambiente institucional, abrangendo os procedimentos de gestão
+das licenças, inclusão e remoção de membros e utilização dos controles
+administrativos disponíveis. A orientação não compreende consultoria técnica,
+desenvolvimento de solução ou capacitação sobre as atividades
+administrativas da Administração.
+
+
+[PÁGINA 22]
+4.4.7. A contratada deverá comunicar à fiscalização, assim que tomar conhecimento,
+indisponibilidade geral da plataforma, alteração das condições do plano,
+modificação dos termos de utilização ou outra ocorrência relacionada à OpenAI
+que afete a regularidade das licenças ou a continuidade dos acessos.
+4.4.8. A Administração não atribui à contratada responsabilidade por indisponibilidade
+geral da plataforma oficial, limitações aplicadas pela OpenAI a todos os
+usuários do mesmo plano, falhas nos equipamentos ou na conexão da
+Administração nem bloqueio decorrente de uso contrário às políticas da
+fabricante, desde que a contratada comprove a causa e preste o suporte
+necessário ao encaminhamento da ocorrência.
+4.4.9. Em caso de rescisão ou encerramento, a contratada deverá remover eventual
+acesso administrativo próprio e transferir à Administração o controle integral do
+ambiente institucional no prazo máximo de 5 (cinco) dias úteis, sem retenção
+de credenciais, arquivos ou informações dos usuários.
+4.4.10. A contratada não realizará renovação automática nem promoverá cobrança
+posterior ao término da vigência sem autorização formal da Administração.
+4.5. Obrigações da Administração
+4.5.1. A Administração emitirá a Autorização de Fornecimento, indicará os 6 (seis)
+usuários, informará os respectivos endereços eletrônicos e designará o
+responsável pela administração do ambiente institucional.
+4.5.2. A Administração manterá sob seu controle as credenciais dos usuários e dos
+administradores, adotará autenticação multifator quando disponível e revisará
+periodicamente os membros e as permissões do ambiente.
+4.5.3. A Administração restringirá o uso institucional da solução e não inserirá dados
+pessoais sensíveis, credenciais, senhas, chaves privadas, informações
+sigilosas ou outros conteúdos cuja inserção seja incompatível com a LGPD, as
+normas de segurança da informação ou as políticas institucionais. A utilização
+de informações anonimizadas somente será admitida quando não permitir a
+identificação direta ou indireta das pessoas.
+4.5.4. A Administração orientará os usuários quanto à conferência das fontes, à
+revisão humana dos resultados, à proteção das informações e à vedação de
+
+
+[PÁGINA 23]
+decisões administrativas autônomas baseadas exclusivamente no conteúdo
+gerado pela solução.
+4.5.5. A Administração verificará os acessos, comunicará as falhas pelos canais
+oficiais, disponibilizará as informações necessárias à solução das ocorrências e
+registrará as evidências relevantes para a fiscalização.
+4.5.6. A Administração efetuará o recebimento e o pagamento somente após a
+verificação das condições previstas neste Termo de Referência, sem prejuízo
+do acompanhamento contínuo durante os 12 (doze) meses.
+4.6. Garantia
+4.6.1. Não será exigida garantia contratual prevista no art. 96 da Lei Federal nº
+14.133/2021, considerando o valor da contratação, a natureza padronizada do objeto,
+a ativação integral das licenças antes do pagamento e a possibilidade de verificação
+individual da regularidade, do plano e do período de vigência de cada acesso.
+4.6.2. A ausência de garantia contratual não afasta a responsabilidade da contratada
+pela manutenção das 6 (seis) licenças durante todo o período de 12 (doze) meses,
+pela correção das falhas sob sua responsabilidade e pela restituição proporcional do
+valor correspondente ao período não executado quando não houver recomposição do
+acesso, sem prejuízo das sanções e das demais medidas contratuais cabíveis.
+4.7. Subcontratação
+4.7.1. É vedada a subcontratação total do objeto e a transferência da responsabilidade
+pelo fornecimento, pela ativação, pela regularidade das licenças e pelo suporte
+relacionado ao licenciamento.
+4.7.2. A utilização da infraestrutura e dos serviços mantidos pela OpenAI integra a
+natureza da solução e não caracteriza subcontratação do objeto. A contratada
+permanece integralmente responsável perante a Administração pelo cumprimento das
+obrigações assumidas.
+4.8. Vistoria
+4.8.1. Não se exige vistoria ou visita técnica, pois o fornecimento, a ativação e o
+suporte ocorrem remotamente e as condições necessárias à formulação da proposta
+estão descritas neste Termo de Referência.
+
+
+[PÁGINA 24]
+4.9. Sustentabilidade
+4.9.1. A execução adotará procedimentos eletrônicos para ativação, suporte,
+comunicações, emissão de comprovantes e faturamento, reduzindo deslocamentos,
+impressões e consumo de materiais físicos.
+4.9.2. A contratada deverá priorizar documentos digitais e evitar o envio de materiais
+impressos ou mídias físicas, salvo quando houver solicitação da Administração ou
+exigência legal.
+4.9.3. As obrigações de sustentabilidade serão aplicadas sem comprometer a
+segurança da informação, a validade documental e a continuidade do acesso
+contratado.
+5. MODELO DE EXECUÇÃO DO OBJETO
+5.1. Prazos, Local e Horário de Realização dos Serviços
+5.1.1. A contratada deverá disponibilizar e ativar as 6 (seis) licenças no prazo máximo
+de 5 (cinco) dias corridos, contado do recebimento da Autorização de
+Fornecimento;
+5.1.2. A execução inicial compreende a criação do ambiente corporativo único do
+ChatGPT Business, a configuração administrativa, a vinculação das licenças
+aos usuários indicados pela Administração e a orientação inicial necessária à
+gestão dos acessos;
+5.1.3. O período de acesso é de 12 (doze) meses, contado da efetiva ativação das 6
+(seis) licenças;
+5.1.4. A contratada deverá realizar todas as ativações na mesma data, assegurando
+período de vigência uniforme. Quando alguma licença for ativada
+posteriormente em razão de falha de disponibilização ou vinculação, o atraso
+não reduz o período individual de 12 (doze) meses contratado para o
+respectivo acesso;
+5.1.5. A disponibilização, a ativação, a orientação inicial e o suporte ocorrem
+remotamente. Os usuários acessam a solução pela internet, mediante os
+equipamentos e a conexão disponibilizados pela Administração, sem
+necessidade de instalação de infraestrutura local;
+
+
+[PÁGINA 25]
+5.1.6. Para fins de acompanhamento e fiscalização da execução, a unidade de
+referência é: Secretaria de Governo, Comunicação e Tecnologia localizada na
+Rua Coronel Almeida, 60 - Centro, Araquari/SC.
+5.1.7. O acesso à plataforma deverá permanecer disponível durante toda a vigência,
+observadas as condições gerais de disponibilidade e os limites técnicos
+aplicáveis ao plano ChatGPT Business;
+5.1.8. A contratada deverá manter suporte em língua portuguesa, por meio dos
+canais definidos neste Termo de Referência.
+5.2. Descrição Detalhada dos Métodos e Rotinas de Execução
+5.2.1. A Administração emite a Autorização de Fornecimento e encaminha à
+contratada a relação dos 6 (seis) endereços eletrônicos dos usuários, bem
+como a indicação do responsável pela administração do ambiente corporativo;
+5.2.2. A contratada deverá confirmar o recebimento da Autorização de Fornecimento
+e verificar se as informações encaminhadas são suficientes para a ativação
+das licenças.
+5.2.3. A contratada não solicitará senhas, códigos de autenticação ou outras
+credenciais pessoais dos usuários;
+5.2.4. A contratada deverá criar o ambiente corporativo oficial do ChatGPT Business,
+configurar o acesso administrativo e vincular as 6 (seis) licenças aos endereços
+eletrônicos indicados pela Administração, dentro do prazo estabelecido;
+5.2.5. Após a ativação, a contratada deverá encaminhar as instruções necessárias ao
+primeiro acesso e à gestão administrativa do ambiente, bem como prestar
+orientação inicial aos administradores indicados pela Administração;
+5.2.6. A contratada deverá comprovar, por escrito, a disponibilização das 6 (seis)
+licenças, identificando o plano contratado, os usuários vinculados, a data de
+ativação e o termo final do período de 12 (doze) meses correspondente a cada
+acesso;
+5.2.7. Os usuários indicados realizam o primeiro acesso e verificam a vinculação ao
+ambiente corporativo, a identificação do plano ChatGPT Business e a
+disponibilidade das funcionalidades contratadas. A fiscalização consolida o
+resultado da verificação das 6 (seis) licenças;
+
+
+[PÁGINA 26]
+5.2.8. A contratada deverá corrigir as falhas de ativação, vinculação ou configuração
+apontadas pela fiscalização no prazo estabelecido neste Termo de Referência
+e apresentar nova comprovação da regularidade dos acessos corrigidos;
+5.2.9. Após a validação das 6 (seis) licenças, a fiscalização realiza o recebimento
+provisório da etapa inicial. O recebimento definitivo dessa etapa ocorre após a
+confirmação do plano, do quantitativo, da vinculação dos usuários, das datas
+de início e término e da regularidade dos acessos. O recebimento da etapa
+inicial não afasta o acompanhamento das obrigações de continuidade, suporte
+e regularidade durante os 12 (doze) meses;
+5.2.10. Durante a vigência, a Administração encaminha as solicitações relacionadas à
+ativação, à vinculação, à regularidade do licenciamento e à recuperação dos
+acessos pelos canais oficiais de suporte. A contratada deverá registrar a
+solicitação, a providência adotada e a conclusão do atendimento, mantendo as
+informações disponíveis à fiscalização;
+5.2.11. A contratada deverá comunicar imediatamente à fiscalização qualquer
+indisponibilidade, alteração do plano, irregularidade de licenciamento ou
+incidente que possa comprometer a continuidade ou a segurança dos acessos,
+informando a causa identificada, os usuários afetados, as medidas adotadas e
+a previsão de regularização, quando disponível;
+5.2.12. No encerramento da vigência, a contratada deverá interromper qualquer
+cobrança relacionada às licenças e abster-se de promover renovação
+automática;
+5.2.13. A continuidade do fornecimento depende de autorização formal da
+Administração e da observância dos procedimentos legais aplicáveis à nova
+contratação ou à prorrogação contratual.
+5.3. Garantia dos Serviços
+5.3.1. A contratada deverá assegurar a regularidade das 6 (seis) licenças durante
+todo o período contratado e corrigir, sem custo adicional para a Administração,
+falhas de ativação, vinculação, configuração administrativa, cobrança,
+renovação indevida ou interrupção do acesso que decorram do fornecimento
+ou das atividades sob sua responsabilidade;
+
+
+[PÁGINA 27]
+5.3.2. A garantia compreende a recomposição do acesso, a regularização da licença
+e a adoção das providências necessárias para restabelecer as condições
+contratadas. Quando a recomposição não ocorrer no prazo estabelecido, a
+Administração aplica a glosa correspondente, caso o pagamento ainda esteja
+pendente, ou exige o ressarcimento proporcional ao período de
+indisponibilidade, caso o pagamento anual já tenha sido realizado, sem
+prejuízo das demais medidas contratuais cabíveis;
+5.3.3. A Administração não atribui à contratada responsabilidade por indisponibilidade
+geral da plataforma oficial da OpenAI, alterações ou limitações aplicadas de
+forma geral a todos os usuários do mesmo plano, falhas nos equipamentos ou
+na conexão com a internet disponibilizados pela Administração, perda de
+credenciais decorrente de ação exclusiva do usuário ou bloqueio motivado por
+utilização contrária às políticas da fabricante, desde que a contratada
+comprove a causa e cumpra as obrigações de comunicação, suporte e
+recuperação de acesso previstas neste Termo de Referência;
+5.3.4. A ocorrência de causa não imputável à contratada não afasta sua obrigação de
+acompanhar a solicitação, prestar as informações disponíveis, orientar a
+Administração quanto aos procedimentos aplicáveis e adotar as providências
+de licenciamento e suporte que estejam dentro de sua esfera de
+responsabilidade.
+6. MODELO DE GESTÃO DO CONTRATO
+6.1 Da Gestão
+6.1.1 O contrato deverá ser executado fielmente pelas partes, de acordo com as
+cláusulas avençadas e as normas da Lei nº 14.133, de 2021, e cada parte responderá
+pelas consequências de sua inexecução total ou parcial.
+6.1.2 Em caso de impedimento, ordem de paralisação ou suspensão do contrato, o
+cronograma de execução será prorrogado automaticamente pelo tempo
+correspondente, anotadas tais circunstâncias mediante simples apostila.
+6.1.3 As comunicações entre o órgão ou entidade e a contratada devem ser realizadas
+por escrito sempre que o ato exigir tal formalidade, admitindo-se o uso de mensagem
+eletrônica para esse fim.
+
+
+[PÁGINA 28]
+6.1.4 O órgão ou entidade poderá convocar o preposto da empresa para adoção de
+providências que devam ser cumpridas de imediato.
+6.1.5 Após a assinatura do contrato ou instrumento equivalente, o órgão ou entidade
+poderá convocar o representante da empresa contratada para reunião inicial para
+apresentação do plano de fiscalização, que conterá informações acerca das
+obrigações contratuais, dos mecanismos de fiscalização, das estratégias para
+execução do objeto, do plano complementar de execução da contratada, quando
+houver, do método de aferição dos resultados e das sanções aplicáveis, dentre outros.
+6.1.6 A execução do contrato deverá ser acompanhada e fiscalizada pelo(s) fiscal(is)
+do contrato, ou pelos respectivos substitutos, conforme o estabelecido na Instrução
+Normativa 003/2022.
+6.2 Atribuições do Fiscal do Contrato
+6.2.1 Acompanhar a execução do contrato, para que sejam cumpridas todas as
+condições estabelecidas no contrato, de modo a assegurar os melhores resultados
+para a Administração.
+6.2.2 Anotar no histórico de gerenciamento do contrato todas as ocorrências
+relacionadas à execução do contrato, com a descrição do que for necessário para a
+regularização das faltas ou dos defeitos observados.
+6.2.3 Identificada qualquer inexatidão ou irregularidade, emitir notificações para a
+correção da execução do contrato, determinando prazo para a correção.
+6.2.4 Informar ao gestor do contrato, em tempo hábil, a situação que demandar
+decisão ou adoção de medidas que ultrapassem sua competência, para que adote as
+medidas necessárias e saneadoras, se for o caso.
+6.2.5 No caso de ocorrências que possam inviabilizar a execução do contrato nas
+datas estabelecidas, comunicar o fato imediatamente ao gestor do contrato.
+6.2.6 Comunicar ao gestor do contrato, por meio formal, no prazo mínimo de 90
+(noventa) dias antecedentes à data de vencimento, o término do contrato sob sua
+responsabilidade, com vistas à renovação tempestiva ou à prorrogação contratual.
+6.2.7 Verificar a manutenção das condições de habilitação da contratada, acompanhar
+o empenho, o pagamento, as glosas e a formalização de apostilamentos e termos
+aditivos, solicitando documentos comprobatórios pertinentes, quando necessário.
+
+
+[PÁGINA 29]
+6.2.8 Diante de descumprimento das obrigações contratuais, atuar tempestivamente
+na solução do problema e reportar ao gestor do contrato as providências que
+ultrapassem sua competência.
+6.2.9 Observar, ainda, o disposto no artigo 13 do Decreto Municipal nº 306/2023.
+6.2.10. Fiscal do contrato: Allan de Souza, Assistente Administrativo
+6.3 Atribuições do Gestor do Contrato
+6.3.1 Coordenar a atualização do processo de acompanhamento e fiscalização do
+contrato, contendo todos os registros formais da execução no histórico de
+gerenciamento, e elaborar relatório para verificar a necessidade de adequações
+destinadas ao atendimento da finalidade da Administração.
+6.3.2 Acompanhar a manutenção das condições de habilitação da contratada para fins
+de empenho da despesa e pagamento e registrar os problemas que obstem o fluxo
+normal da liquidação e do pagamento.
+6.3.3 Acompanhar os registros realizados pelos fiscais do contrato, as ocorrências da
+execução e as medidas adotadas, informando à autoridade superior aquelas que
+ultrapassarem sua competência.
+6.3.4 Emitir documento comprobatório da avaliação realizada pelos fiscais quanto ao
+cumprimento das obrigações assumidas pela contratada, com menção ao
+desempenho e às eventuais penalidades aplicadas.
+6.3.5 Adotar providências para a formalização de processo administrativo de
+responsabilização para aplicação de sanções, nos termos do art. 158 da Lei nº
+14.133/2021, e elaborar relatório final sobre a consecução dos objetivos da
+contratação e as medidas de aprimoramento cabíveis.
+6.3.6 Observar, ainda, o disposto no artigo 11 do Decreto Municipal nº 306/2023.
+7. DOS CRITÉRIOS DE MEDIÇÃO E PAGAMENTO
+7.1 Critérios de Medição
+7.1.1 A execução é aferida pela ativação das seis licenças, pela correspondência entre
+os usuários indicados e os acessos disponibilizados, pela identificação do plano
+contratado, pelo período individual de doze meses e pela regularidade dos acessos.
+7.1.2 A contratada apresenta comprovante de ativação contendo, no mínimo, a
+identificação do usuário por endereço eletrônico, o plano disponibilizado, a data de
+
+
+[PÁGINA 30]
+ativação e a data de término da licença, sem exposição de senha ou de conteúdo da
+conta.
+7.1.3 O fiscal verifica individualmente os seis acessos. A ausência de licença, a
+ativação de plano diferente, a redução do período contratado ou a irregularidade não
+corrigida impede o recebimento da parcela correspondente.
+7.1.4 A Administração aplica retenção ou glosa proporcional à irregularidade, sem
+prejuízo das sanções cabíveis, quando a contratada não produzir os resultados
+acordados, deixar de executar obrigação ou disponibilizar acesso em quantidade ou
+qualidade inferior à contratada.
+7.2 Do Recebimento
+7.2.1 Os serviços serão recebidos provisoriamente, no prazo de 2 (dois) dias úteis,
+pelo fiscal, mediante termo detalhado, após a verificação das exigências de caráter
+técnico e administrativo, nos termos do art. 140, I, “a”, da Lei nº 14.133/2021.
+7.2.2 O prazo para a solução, pela contratada, de inconsistências na execução do
+objeto ou de saneamento da nota fiscal ou de instrumento de cobrança equivalente,
+verificadas durante a análise prévia à liquidação, não será computado para fins do
+recebimento definitivo.
+7.2.3 A contratada fica obrigada a corrigir ou substituir, às suas expensas, o acesso
+em que se verifique vício, defeito ou incorreção resultante do fornecimento.
+7.2.4 O objeto pode ser rejeitado, no todo ou em parte, quando estiver em desacordo
+com este Termo de Referência e com a proposta, sem prejuízo da aplicação das
+penalidades.
+7.2.5 O recebimento definitivo da etapa inicial ocorre no prazo de até 3 (três) dias úteis,
+contado do recebimento provisório, por servidor ou comissão designada pela
+autoridade competente, após a verificação da quantidade, do plano, da vinculação dos
+usuários, da vigência e da regularidade das licenças, mediante termo detalhado. A
+continuidade do serviço é aferida durante toda a vigência, e as ocorrências posteriores
+permanecem sujeitas a correção, glosa, restituição proporcional e sanção.
+7.2.6 No caso de controvérsia sobre a dimensão, a qualidade ou a quantidade do
+objeto, observa-se o art. 143 da Lei nº 14.133/2021 para a liquidação e o pagamento
+da parcela incontroversa.
+
+
+[PÁGINA 31]
+7.2.7 Nenhum prazo de recebimento transcorre enquanto estiver pendente a solução
+de inconsistência imputável à contratada.
+7.2.8 O recebimento provisório ou definitivo não exclui a responsabilidade civil e
+contratual pela regularidade e pela continuidade do objeto.
+7.3 Liquidação
+7.3.1 A contratada emite a Nota Fiscal após o recebimento definitivo das seis licenças
+e apresenta a documentação que comprove a manutenção das condições de
+regularidade exigidas na contratação:
+• a) certidão negativa de débitos municipais, ou certidão positiva com efeito de
+negativa;
+• b) certidão negativa de débitos estaduais, ou certidão positiva com efeito de
+negativa;
+• c) certidão negativa de débitos federais e da Dívida Ativa da União, ou certidão
+positiva com efeito de negativa;
+• d) Certificado de Regularidade do FGTS – CRF;
+• e) Certidão Negativa de Débitos Trabalhistas – CNDT.
+7.3.2 A Administração realiza consulta por meios eletrônicos para verificar a
+manutenção das condições de habilitação, especialmente antes da liquidação da
+despesa e, quando aplicável, antes da prorrogação contratual.
+7.3.3 Havendo erro na nota fiscal, no instrumento de cobrança ou circunstância que
+impeça a liquidação, o procedimento fica sobrestado até que a contratada adote as
+medidas saneadoras, reiniciando-se o prazo após a comprovação da regularização,
+sem ônus para a Administração.
+7.3.4 Para fins de liquidação, o setor competente verifica se a Nota Fiscal apresenta
+data de emissão, dados do órgão contratante, identificação do objeto, quantidade,
+período das licenças, número do empenho, valor e retenções tributárias cabíveis.
+7.3.5 As Notas Fiscais são encaminhadas eletronicamente ao setor competente para
+pagamento.
+7.4 Prazo e Forma de Pagamento
+7.4.1 O pagamento ocorre em parcela única anual, após a ativação, o recebimento
+definitivo das seis licenças e a liquidação da despesa.
+
+
+[PÁGINA 32]
+7.4.1.1. A adoção do pagamento anual decorre do modelo de comercialização
+aplicável às licenças, contratadas por período determinado de 12 (doze) meses, e
+constitui condição necessária à disponibilização integral dos acessos pelo período
+contratado. Essa forma de pagamento também permite a definição prévia do valor
+total da contratação em moeda nacional, sem alterações mensais decorrentes de
+variações cambiais ou das condições internacionais de comercialização da
+solução.
+7.4.1.2. O pagamento anual não afasta a obrigação da contratada de manter as
+licenças oficiais, regulares e ativas durante todo o período contratado, prestar o
+suporte previsto neste Termo de Referência e restituir proporcionalmente os
+valores correspondentes ao período não executado quando houver interrupção
+imputável à contratada e não ocorrer a recomposição do acesso.
+7.4.2 O pagamento é realizado no prazo máximo de 30 (trinta) dias, contado da
+conclusão da liquidação da despesa, mediante documento fiscal atestado e
+apresentação da documentação de regularidade prevista no item 7.3.
+7.4.3 O pagamento é efetuado por depósito bancário em conta corrente informada
+pela contratada, com identificação do banco, agência e número da conta.
+7.4.4 Na nota fiscal constam os dados do Município de Araquari, conforme CNPJ
+indicado na Autorização de Fornecimento, a quantidade e a descrição do item, o
+número do empenho, o número do contrato ou instrumento equivalente e os
+dados bancários.
+7.4.5 No pagamento, são efetuadas as retenções tributárias previstas na legislação
+aplicável. A contratada optante pelo Simples Nacional comprova, por documento oficial,
+o direito ao tratamento tributário favorecido.
+8. FORMA E CRITÉRIOS DE SELEÇÃO DO FORNECEDOR E REGIME DE
+EXECUÇÃO
+8.1 Forma de Seleção e Critério de Julgamento da Proposta
+8.1.1 O fornecedor será selecionado mediante dispensa eletrônica em razão do valor,
+com fundamento no art. 75, II, da Lei Federal nº 14.133/2021, com critério de
+julgamento de menor preço global e adjudicação do item único. Para fins de
+competição, a disputa incidirá sobre o valor global anual correspondente ao
+
+
+[PÁGINA 33]
+fornecimento das 6 (seis) licenças do ChatGPT Business pelo período de 12 (doze)
+meses.
+8.1.2 A proposta deverá contemplar a totalidade do objeto e apresentar a identificação
+do plano ChatGPT Business, a quantidade de 6 (seis) licenças, o período de acesso
+de 12 (doze) meses, o valor unitário anual por licença e o valor global anual da
+contratação. O preço proposto deverá incluir todos os tributos, encargos, custos de
+licenciamento, taxas, variações cambiais, despesas com ativação e suporte e demais
+custos diretos ou indiretos necessários à execução integral do objeto.
+8.1.3 A execução ocorrerá por preço global, abrangendo a disponibilização, a ativação
+e a manutenção da regularidade das 6 (seis) licenças, bem como o suporte
+relacionado ao licenciamento, durante o período de 12 (doze) meses.
+8.1.4 O pagamento será realizado anualmente, em parcela única, após a ativação das
+6 (seis) licenças, a comprovação da regularidade dos acessos e o recebimento
+definitivo do objeto, observados os critérios de medição, recebimento e pagamento
+estabelecidos neste Termo de Referência.
+8.2 Exigências de habilitação : Para fins de habilitação, o licitante deve
+comprovar os seguintes requisitos:
+8.2.1 Habilitação Jurídica :
+● Prova de registro comercial e suas alterações, no caso de empresa individual;
+● Ato constitutivo, estatuto ou contrato social e suas alterações e/ou
+consolidação em vigor, devidamente registrado, em se tratando de sociedades
+comerciais, com prova da Diretoria em exercício e, no caso de sociedades por
+ações, acompanhado de documento (ATA) de eleição de seus administradores,
+no qual deverá estar contemplado, dentre os objetos sociais, a execução de
+atividades da mesma natureza ou compatíveis com o objeto da licitação;
+● Decreto de autorização, em se tratando de empresa ou sociedade estrangeira
+em funcionamento no País, e ato de registro ou autorização para
+funcionamento expedido pelo órgão competente, quando a atividade assim o
+exigir.
+
+
+[PÁGINA 34]
+● Caso a assinatura dos documentos seja realizada por um procurador
+designado pelo proponente, deverá ser apresentada a procuração pública ou
+particular, com poderes específicos para representar o interessado.
+8.2.2 Habilitação fiscal, social e trabalhista :
+● Prova de inscrição no Cadastro Nacional de Pessoas Jurídicas do
+Ministério da Fazenda (CNPJ); com situação ativa;
+● Prova de regularidade relativa aos tributos federais e à Dívida Ativa da
+União, mediante certidão expedida conjuntamente pela Secretaria Especial
+da Receita Federal do Brasil e pela Procuradoria-Geral da Fazenda
+Nacional;
+● Prova de regularidade para com a Fazenda Estadual, da sede da
+proponente;
+● Prova de regularidade para com a Fazenda Municipal, da sede da
+proponente;
+● Fundo de Garantia por Tempo de Serviço – FGTS (Certificado de
+Regularidade do FGTS – CRF);
+● Prova de inexistência de débitos inadimplidos perante a Justiça do Trabalho,
+mediante a apresentação de Certidão Negativa de Débitos Trabalhistas –
+CNDT.
+a) A condição de Microempresa, Empresa de Pequeno Porte ou
+Microempreendedor Individual , para efeito do tratamento diferenciado
+previsto na Lei Complementar 123/2006, deverá ser comprovada mediante
+apresentação da seguinte documentação:
+● Declaração, firmada pelo representante legal da empresa, de
+enquadramento como microempresa ou empresa de pequeno porte ou
+microempreendedor individual (realizada eletronicamente no sistema do
+Portal de Compras Públicas).
+b) Em se tratando de MEI (Microempreendedor Individual):
+● Certificado do MEI obtido através do site
+http://www.portaldoempreendedor.gov.br/
+
+
+[PÁGINA 35]
+● Declaração, firmada pelo representante legal da empresa, de
+enquadramento como microempresa ou empresa de pequeno porte ou
+microempreendedor individual (realizada eletronicamente no sistema do
+Portal de Compras Públicas).
+c) O fornecedor enquadrado como microempresa, empresa de pequeno porte ou
+sociedade cooperativa deverá declarar, ainda, em campo próprio do sistema
+eletrônico, que cumpre os requisitos estabelecidos no artigo 3° da Lei
+Complementar nº 123, de 2006, estando apto a usufruir do tratamento
+favorecido estabelecido em seus arts. 42 a 49, observado o disposto nos §§ 1º
+ao 3º do art. 4º, da Lei n. º 14.133, de 2021.
+d) Nos itens em que a participação não for exclusiva para microempresas e
+empresas de pequeno porte, a não apresentação dos documentos não
+inabilitará o fornecedor, apenas produzirá o efeito de o licitante não ter direito
+ao tratamento favorecido previsto na Lei Complementar nº 123, de 2006,
+mesmo que microempresa, empresa de pequeno porte ou sociedade
+cooperativa.
+e) As Microempresas, Empresas de Pequeno Porte ou Microempreendedor
+Individual deverão apresentar toda a documentação exigida para efeito de
+comprovação de regularidade fiscal, mesmo que esta apresente alguma
+restrição, e, uma vez sendo declarada vencedora do certame, terá prazo de 5
+(cinco) dias úteis, cujo termo inicial corresponderá ao momento em que o
+proponente for declarado o vencedor do certame, prorrogáveis por igual
+período, a critério da Administração Pública, para a regularização da
+documentação, pagamento ou parcelamento do débito, e emissão de eventuais
+certidões negativas ou positivas com efeito de certidão negativa.
+f) A não regularização da documentação, no prazo fixado, implicará na
+decadência do direito à contratação, sem prejuízos das sanções previstas na
+Lei nº 14.133/21.
+8.2.3 Qualificação Econômica-Financeira : Certidão negativa de falência e
+recuperação judicial, expedida pelo distribuidor da sede da proponente.
+
+
+[PÁGINA 36]
+8.2.4 Qualificação técnica :
+a) A empresa deverá comprovar aptidão para o fornecimento do objeto desta
+contratação, por meio de apresentação de Atestado(s) ou Certidão(ões) de
+Capacidade Técnica.
+● Para fins da comprovação de que trata este subitem, os atestados
+deverão demonstrar que a empresa forneceu satisfatoriamente licenças
+ou assinaturas de software, plataformas digitais, soluções de
+inteligência artificial, soluções em nuvem ou outros serviços de natureza
+compatível com o objeto desta contratação.
+● Os atestados de capacidade técnica poderão ser apresentados em
+nome da matriz ou da filial da empresa interessada.
+● A empresa deverá disponibilizar todas as informações necessárias à
+comprovação da legitimidade dos atestados ou certidões apresentadas.
+Quando solicitado pela Administração, deverão ser apresentados a
+identificação e os dados de contato do emitente, a cópia do contrato, a
+nota fiscal, a ordem de fornecimento ou outro documento relacionado à
+execução declarada. As informações apresentadas estarão sujeitas à
+verificação de sua veracidade.
+● Será admitida a comprovação da capacidade técnica mediante um ou
+mais atestados ou certidões que, isoladamente ou somados,
+demonstrem experiência no fornecimento de objeto de natureza
+semelhante ao contratado.
+● Não será exigida comprovação de experiência anterior especificamente
+com a OpenAI, com o ChatGPT Business ou com qualquer outra marca
+ou plano determinado, desde que os documentos apresentados
+demonstrem experiência compatível com o fornecimento de licenças,
+assinaturas ou acessos a soluções digitais.
+9. ESTIMATIVAS DO VALOR DA CONTRATAÇÃO
+
+
+[PÁGINA 37]
+9.1 O custo estimado total anual da contratação é de R$ 11.807,70 (onze mil,
+oitocentos e sete reais e setenta centavos), correspondente ao fornecimento anual de
+6 (seis) licenças, conforme o quadro do item 1.2.
+9.2 As memórias de cálculo, os preços coletados, as datas das consultas e os
+parâmetros utilizados para a estimativa constam no Formulário de Pesquisa de Preços
+anexo ao processo.
+10. DA ADEQUAÇÃO ORÇAMENTÁRIA
+10.1 Previsão Orçamentária
+10.1.1 As despesas decorrentes da presente contratação correrão à conta de recursos
+específicos consignados no orçamento da Secretaria Municipal de Governo,
+Comunicação e Tecnologia. Dotação orçamentária: A PREENCHER.
+10.1.2 A despesa correrá à conta da dotação a ser indicada neste item, conforme a
+disponibilidade orçamentária e a manifestação do setor contábil vinculada ao processo.
+10.2 Esclarecimento sobre Criação ou Expansão de Ação Governamental e
+Aumento de Despesa
+10.2.1 A adequação da despesa às leis orçamentárias e sua classificação quanto aos
+arts. 16 e 17 da Lei Complementar nº 101/2000 constam da manifestação do setor
+contábil vinculada ao processo, após a definição do valor estimado e da dotação
+aplicável.
+11. SANÇÕES ADMINISTRATIVAS
+11.1 Comete infração administrativa, nos termos da Lei nº 14.133/2021, a contratada
+que:
+• a) der causa à inexecução parcial do contrato;
+• b) der causa à inexecução parcial do contrato que cause grave dano à
+Administração, ao funcionamento dos serviços públicos ou ao interesse coletivo;
+• c) der causa à inexecução total do contrato;
+• d) ensejar o retardamento da execução ou da entrega do objeto sem motivo
+justificado;
+
+
+[PÁGINA 38]
+• e) apresentar documentação falsa ou prestar declaração falsa durante a execução
+do contrato;
+• f) praticar ato fraudulento na execução do contrato;
+• g) comportar-se de modo inidôneo ou cometer fraude de qualquer natureza;
+• h) praticar ato lesivo previsto no art. 5º da Lei nº 12.846/2013.
+11.1.1 Para caracterização da inexecução, consideram-se, entre outras, as seguintes
+condutas relacionadas ao objeto:
+• a) não ativar as seis licenças no prazo estabelecido, sem justificativa aceita pela
+Administração;
+• b) fornecer plano diverso do especificado, acesso não oficial, conta compartilhada
+ou licença irregular;
+• c) reduzir o período de vigência individual contratado;
+• d) interromper licença por falha de pagamento, renovação ou regularidade
+imputável à contratada;
+• e) não corrigir falha de ativação ou de licenciamento no prazo estabelecido;
+• f) não prestar o suporte relacionado ao licenciamento;
+• g) descumprir obrigação de confidencialidade, proteção de dados, faturamento ou
+encerramento sem renovação automática.
+11.2 São aplicadas à contratada que incorrer nas infrações descritas as seguintes
+sanções:
+• advertência, quando houver inexecução parcial e não se justificar penalidade mais
+grave;
+• impedimento de licitar e contratar, nas hipóteses do art. 156, § 4º, da Lei nº
+14.133/2021;
+• declaração de inidoneidade para licitar ou contratar, nas hipóteses do art. 156, § 5º,
+da Lei nº 14.133/2021; e
+• multa moratória de 0,3% (zero vírgula três por cento) por dia de atraso injustificado
+sobre o valor da parcela inadimplida, até o limite de 5 (cinco) dias, sem prejuízo da
+multa compensatória definida no instrumento contratual.
+11.3 A aplicação das sanções não exclui a obrigação de reparação integral do dano
+causado à Administração.
+11.4 As sanções previstas podem ser aplicadas cumulativamente com a multa,
+observados a proporcionalidade e os limites legais.
+
+
+[PÁGINA 39]
+11.5 Antes da aplicação de multa, assegura-se defesa no prazo de 15 (quinze) dias
+úteis, contado da intimação.
+11.6 Se a multa e as indenizações forem superiores ao pagamento devido, a diferença
+é cobrada administrativa ou judicialmente.
+11.7 A aplicação das sanções ocorre em processo administrativo que assegura o
+contraditório e a ampla defesa, observando-se o art. 158 da Lei nº 14.133/2021 para
+impedimento e declaração de inidoneidade.
+11.8 As notificações são enviadas aos endereços eletrônicos informados na proposta
+e cadastrados no SICAF, considerados de uso contínuo da empresa.
+11.9 Na aplicação das sanções são considerados a natureza e a gravidade da infração,
+as peculiaridades do caso, as circunstâncias agravantes ou atenuantes, os danos e a
+implantação ou o aperfeiçoamento de programa de integridade.
+11.10 Os atos que também constituam atos lesivos da Lei nº 12.846/2013 são
+apurados e julgados conjuntamente, nos mesmos autos, observados o rito e a
+autoridade competente.
+11.11 A personalidade jurídica pode ser desconsiderada nas hipóteses e condições
+previstas no art. 160 da Lei nº 14.133/2021.
+11.12 A Administração informa e mantém atualizados os dados das sanções nos
+cadastros legalmente previstos, no prazo estabelecido no art. 161 da Lei nº
+14.133/2021.
+11.13 As sanções de impedimento e declaração de inidoneidade admitem reabilitação
+na forma do art. 163 da Lei nº 14.133/2021.
+11.14 Os débitos resultantes de multa e indenização podem ser compensados com
+créditos devidos à contratada, na forma da regulamentação aplicável.
+12. DAS DISPOSIÇÕES FINAIS
+12.1 A contratação disponibiliza ferramenta de apoio às rotinas técnicas,
+administrativas e de comunicação das unidades contempladas, incluindo
+desenvolvimento e revisão de softwares, sites, aplicativos e scripts, automação de
+tarefas, análise de informações técnicas, documentação, pesquisa, produção de
+roteiros, textos e demais conteúdos institucionais, nos limites definidos neste Termo de
+Referência.
+
+
+[PÁGINA 40]
+12.2 A utilização da inteligência artificial possui caráter auxiliar. Os usuários
+permanecem responsáveis pela conferência, pelos testes, pela validação e pela
+aprovação dos códigos, documentos, análises, pesquisas, conteúdos e demais
+resultados produzidos com apoio da solução.
+12.3 A Administração não insere na ferramenta dados pessoais sensíveis, informações
+protegidas por sigilo, credenciais, senhas, chaves privadas, segredos de sistemas ou
+qualquer conteúdo cujo tratamento ou compartilhamento não esteja autorizado e
+adequado à legislação, às normas internas, à segurança da informação e à finalidade
+institucional.
+12.4 A contratada observa as exigências ambientais, sociais, de segurança da
+informação, confidencialidade e proteção de dados aplicáveis ao objeto.
+12.5 Os casos omissos são resolvidos segundo a Lei Federal nº 14.133/2021, o
+Decreto Municipal nº 306/2023 e as demais normas aplicáveis. Fica eleito o foro de
+Araquari/SC para as questões que não forem solucionadas administrativamente.
+Araquari, ____ de __________________ de 2026.
+____________________________________
+A PREENCHER
+Secretaria de Governo, Comunicação e Tecnologia
+
+
+[PÁGINA 41]
+Folha de Assinatura(s) Digital(is)
+O documento foi assinado digitalmente pelo(s) seguinte(s) signatário(s) na(s) data(s) indicada(s):
+MUNICIPIO DE ARAQUARI

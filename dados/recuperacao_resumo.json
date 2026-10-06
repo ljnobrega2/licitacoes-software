@@ -1,0 +1,757 @@
+[
+  {
+    "tipo": "edital",
+    "termo": "Acrobat",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=acrobat&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "Adobe",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=adobe&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "Adobe",
+    "totalDeclarado": 33,
+    "coletados": 33,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Atlassian",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "ata",
+    "termo": "AutoCAD",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=autocad&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "AutoCAD",
+    "totalDeclarado": 18,
+    "coletados": 18,
+    "falhas": []
+  },
+  {
+    "tipo": "ata",
+    "termo": "Autodesk",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=autodesk&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "Autodesk",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=autodesk&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "CapCut",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=capcut&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "CapCut",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=capcut&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "ChatGPT",
+    "totalDeclarado": 2,
+    "coletados": 2,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "ChatGPT",
+    "totalDeclarado": 6,
+    "coletados": 6,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Clicksign",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=clicksign&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "CorelDRAW",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=coreldraw&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "ESET",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=eset&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "Fortinet",
+    "totalDeclarado": 4,
+    "coletados": 4,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Grammarly",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "ata",
+    "termo": "JetBrains",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=jetbrains&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "Kaspersky",
+    "totalDeclarado": 4,
+    "coletados": 4,
+    "falhas": []
+  },
+  {
+    "tipo": "ata",
+    "termo": "Microsoft",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=microsoft&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "Microsoft",
+    "totalDeclarado": 100,
+    "coletados": 50,
+    "falhas": [
+      {
+        "pagina": 2,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=microsoft&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=2&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "Midjourney",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "ata",
+    "termo": "Notion",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=notion&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "Oracle",
+    "totalDeclarado": 5,
+    "coletados": 5,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Revit",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=revit&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "SaaS",
+    "totalDeclarado": 191,
+    "coletados": 50,
+    "falhas": [
+      {
+        "pagina": 2,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=saas&tipos_documento=ata&ordenacao=-data&pagina=2&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 3,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=saas&tipos_documento=ata&ordenacao=-data&pagina=3&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 4,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=saas&tipos_documento=ata&ordenacao=-data&pagina=4&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "Shutterstock",
+    "totalDeclarado": 0,
+    "coletados": 0,
+    "falhas": []
+  },
+  {
+    "tipo": "edital",
+    "termo": "Sophos",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=sophos&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "StreamYard",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=streamyard&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "StreamYard",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=streamyard&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "Tableau",
+    "totalDeclarado": 2,
+    "coletados": 2,
+    "falhas": []
+  },
+  {
+    "tipo": "ata",
+    "termo": "TeamViewer",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=teamviewer&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "Windows",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=windows&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "Windows",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=windows&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "antivírus",
+    "totalDeclarado": 110,
+    "coletados": 100,
+    "falhas": [
+      {
+        "pagina": 3,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=antiv%C3%ADrus&tipos_documento=ata&ordenacao=-data&pagina=3&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "antivírus",
+    "totalDeclarado": 51,
+    "coletados": 50,
+    "falhas": [
+      {
+        "pagina": 2,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=antiv%C3%ADrus&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=2&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "assinatura de sistema",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=assinatura+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "assinatura de sistema",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=assinatura+de+sistema&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "cessão de uso",
+    "totalDeclarado": 1039,
+    "coletados": 500,
+    "falhas": [
+      {
+        "pagina": 5,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=5&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 6,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=6&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 8,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=8&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 9,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=9&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 12,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=12&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 14,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=14&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 16,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=16&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 17,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=17&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 19,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=19&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 20,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=20&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 21,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=ata&ordenacao=-data&pagina=21&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "cessão de uso",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=cess%C3%A3o+de+uso&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "inteligência artificial",
+    "totalDeclarado": 111,
+    "coletados": 100,
+    "falhas": [
+      {
+        "pagina": 3,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=intelig%C3%AAncia+artificial&tipos_documento=ata&ordenacao=-data&pagina=3&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "inteligência artificial",
+    "totalDeclarado": 75,
+    "coletados": 75,
+    "falhas": []
+  },
+  {
+    "tipo": "ata",
+    "termo": "licença",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=licen%C3%A7a&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "licença",
+    "totalDeclarado": 500,
+    "coletados": 200,
+    "falhas": [
+      {
+        "pagina": 3,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=licen%C3%A7a&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=3&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 4,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=licen%C3%A7a&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=4&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 5,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=licen%C3%A7a&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=5&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 6,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=licen%C3%A7a&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=6&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 9,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=licen%C3%A7a&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=9&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 10,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=licen%C3%A7a&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=10&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "locação de sistema",
+    "totalDeclarado": 2234,
+    "coletados": 734,
+    "falhas": [
+      {
+        "pagina": 2,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=2&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 3,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=3&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 4,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=4&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 5,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=5&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 6,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=6&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 8,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=8&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 9,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=9&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 10,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=10&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 11,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=11&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 13,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=13&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 17,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=17&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 19,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=19&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 20,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=20&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 21,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=21&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 22,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=22&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 23,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=23&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 24,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=24&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 25,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=25&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 27,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=27&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 28,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=28&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 29,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=29&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 31,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=31&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 32,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=32&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 33,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=33&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 35,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=35&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 36,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=36&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 37,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=37&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 38,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=38&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 40,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=40&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 44,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=ata&ordenacao=-data&pagina=44&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "locação de sistema",
+    "totalDeclarado": 546,
+    "coletados": 200,
+    "falhas": [
+      {
+        "pagina": 2,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=2&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 4,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=4&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 6,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=6&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 8,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=8&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 9,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=9&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 10,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=10&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 11,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=loca%C3%A7%C3%A3o+de+sistema&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=11&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "ata",
+    "termo": "software",
+    "totalDeclarado": null,
+    "coletados": 0,
+    "falhas": [
+      {
+        "pagina": 1,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=ata&ordenacao=-data&pagina=1&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  },
+  {
+    "tipo": "edital",
+    "termo": "software",
+    "totalDeclarado": 834,
+    "coletados": 334,
+    "falhas": [
+      {
+        "pagina": 2,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=2&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 4,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=4&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 5,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=5&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 6,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=6&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 9,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=9&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 10,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=10&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 12,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=12&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 13,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=13&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 14,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=14&tam_pagina=50']' returned non-zero exit status 56."
+      },
+      {
+        "pagina": 15,
+        "erro": "Command '['curl', '-fL', '--max-time', '35', '-sS', 'https://pncp.gov.br/api/search/?q=software&tipos_documento=edital&status=recebendo_proposta&ordenacao=-data&pagina=15&tam_pagina=50']' returned non-zero exit status 56."
+      }
+    ]
+  }
+]
