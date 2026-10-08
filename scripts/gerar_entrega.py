@@ -57,7 +57,7 @@ def main():
             for dest,src in [('description','objetoCompra'),('informacao_complementar','informacaoComplementar'),('data_inicio_vigencia','dataAberturaProposta'),('data_fim_vigencia','dataEncerramentoProposta'),('valor_total_estimado','valorTotalEstimado'),('situacao_id','situacaoCompraId'),('situacao_nome','situacaoCompraNome'),('link_sistema_origem','linkSistemaOrigem'),('link_processo_eletronico','linkProcessoEletronico')]:
                 r[dest]=comp.get(src)
         extra=' '.join(i.get('descricao','') for i in det.get('itens',[]) if isinstance(i,dict))
-        r['_classe'],r['_marcas']=classify(r,extra)
+        r['_classe'],r['_marcas'],r['_servicos']=classify(r,extra)
         if r['numero_controle_pncp']=='00394452000103-1-021427/2026':
             r['_classe']='Software sem marca / validar fornecimento';r['_marcas']=[]
         r['_status']=status(r)
@@ -200,7 +200,7 @@ def main():
             if r['document_type']=='edital':byorg.add((norm(r.get('orgao_nome') or ''),(r.get('data_fim_vigencia') or '')[:16]))
             if r['document_type']=='edital':bycity[(norm(r.get('municipio_nome') or ''),r.get('uf'),(r.get('data_fim_vigencia') or '')[:16])]=r['numero_controle_pncp']
         for x in json.loads((DATA/'externo_pcp.json').read_text()):
-            cl,brands=classify({'description':x.get('resumo') or ''})
+            cl,brands,_=classify({'description':x.get('resumo') or ''})
             if cl.startswith(('Fora','Curso')):continue
             try:end=dt.datetime.fromisoformat(x['dataHoraFinalPropostas'].replace('Z','+00:00')).astimezone(ZoneInfo('America/Sao_Paulo')).replace(tzinfo=None)
             except Exception:end=None
@@ -215,7 +215,7 @@ def main():
     if (DATA/'externo_sebrae.json').exists():
         seb=json.loads((DATA/'externo_sebrae.json').read_text())
         for x in seb['licitacoes']:
-            cl,brands=classify({'description':x.get('Objeto') or ''})
+            cl,brands,_=classify({'description':x.get('Objeto') or ''})
             if cl.startswith(('Fora','Curso')):continue
             ab=dtvalue(x.get('abertura'))
             st='Sessão futura — conferir edital no portal' if isinstance(ab,dt.datetime) and ab>NOW else 'Sessão já realizada; processo ainda em andamento'
@@ -246,7 +246,7 @@ def main():
     def iso(v):return v.isoformat() if isinstance(v,dt.datetime) else (v or None)
     def slim(r,full):
         v=row(r);d=r['_detalhes']
-        o={'id':v[22],'st':v[0],'cl':v[1],'mc':r['_marcas'],'org':v[3],'un':v[4],'esf':v[5],'cid':v[6],'uf':v[7],'tit':v[8],'fim':iso(v[9]),'ini':iso(v[10]),'val':v[11],'mod':v[13],'srp':bool(r.get('srp')),'obj':clean_txt(v[15],4000 if full else 320),'link':v[18],'pub':iso(v[24])}
+        o={'id':v[22],'st':v[0],'cl':v[1],'mc':r['_marcas'],'sv':r.get('_servicos',[]),'org':v[3],'un':v[4],'esf':v[5],'cid':v[6],'uf':v[7],'tit':v[8],'fim':iso(v[9]),'ini':iso(v[10]),'val':v[11],'mod':v[13],'srp':bool(r.get('srp')),'obj':clean_txt(v[15],4000 if full else 320),'link':v[18],'pub':iso(v[24])}
         if full:
             o.update({'nota':v[16],'ver':v[17],'orig':v[19] or None,'dup':v[23] or None,'manual':r['numero_controle_pncp'] in MANUAL,'info':clean_txt(r.get('informacao_complementar'),1500)})
             its=[i for i in d.get('itens',[]) if isinstance(i,dict)]

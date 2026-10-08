@@ -1,0 +1,65 @@
+interface Env {
+  OPENAI_API_KEY: string;
+  OPENAI_MODEL?: string;
+  ALLOWED_ORIGIN?: string;
+  ALLOWED_DOCUMENT_HOSTS?: string;
+}
+
+const json = (body: unknown, status = 200, origin = '') => new Response(JSON.stringify(body), {
+  status,
+  headers: { 'content-type': 'application/json; charset=utf-8', ...(origin ? { 'access-control-allow-origin': origin, vary: 'Origin' } : {}) },
+});
+
+function allowedOrigin(request: Request, env: Env) {
+  const origin = request.headers.get('Origin') || '';
+  return origin === (env.ALLOWED_ORIGIN || '') ? origin : '';
+}
+
+function safeDocumentUrl(raw: unknown, env: Env) {
+  if (typeof raw !== 'string' || raw.length > 2000) return null;
+  try {
+    const url = new URL(raw);
+    const hosts = (env.ALLOWED_DOCUMENT_HOSTS || 'pncp.gov.br').split(',').map(x => x.trim().toLowerCase()).filter(Boolean);
+    if (url.protocol !== 'https:' || !hosts.some(host => url.hostname === host || url.hostname.endsWith(`.${host}`))) return null;
+    return url.toString();
+  } catch { return null; }
+}
+
+function answerFrom(response: any) {
+  if (typeof response.output_text === 'string' && response.output_text.trim()) return response.output_text.trim();
+  for (const item of response.output || []) for (const content of item.content || []) {
+    if (content.type === 'output_text' && content.text) return content.text;
+  }
+  return '';
+}
+
+export default {
+  async fetch(request: Request, env: Env): Promise<Response> {
+    const origin = allowedOrigin(request, env);
+    if (request.method === 'OPTIONS') {
+      return new Response(null, { headers: { ...(origin ? { 'access-control-allow-origin': origin, vary: 'Origin' } : {}), 'access-control-allow-methods': 'POST, OPTIONS', 'access-control-allow-headers': 'content-type', 'access-control-max-age': '86400' } });
+    }
+    if (request.method !== 'POST' || new URL(request.url).pathname !== '/ask') return json({ error: 'Rota não encontrada.' }, 404, origin);
+    if (!origin) return json({ error: 'Origem não permitida.' }, 403);
+    if (!env.OPENAI_API_KEY) return json({ error: 'Assistente não configurado.' }, 503, origin);
+
+    let body: { documentUrl?: unknown; documentName?: unknown; question?: unknown; opportunityId?: unknown };
+    try { body = await request.json(); } catch { return json({ error: 'JSON inválido.' }, 400, origin); }
+    const documentUrl = safeDocumentUrl(body.documentUrl, env);
+    const question = typeof body.question === 'string' ? body.question.trim() : '';
+    const filename = typeof body.documentName === 'string' ? body.documentName.slice(0, 180) : 'documento.pdf';
+    if (!documentUrl) return json({ error: 'O documento precisa ser um URL HTTPS de fonte autorizada.' }, 400, origin);
+    if (!question || question.length > 1600) return json({ error: 'A pergunta deve ter entre 1 e 1.600 caracteres.' }, 400, origin);
+
+    const prompt = `Você é um analista de licitações. Responda em português do Brasil SOMENTE com base no documento anexado. Seja objetivo. Diferencie fatos do documento de inferências. Se a informação não estiver no documento, diga claramente que não foi localizada. Não dê aconselhamento jurídico definitivo e recomende conferência humana para habilitação, prazos, impugnação e proposta. Pergunta: ${question}`;
+    const upstream = await fetch('https://api.openai.com/v1/responses', {
+      method: 'POST',
+      headers: { authorization: `Bearer ${env.OPENAI_API_KEY}`, 'content-type': 'application/json' },
+      body: JSON.stringify({ model: env.OPENAI_MODEL || 'gpt-4.1-mini', store: false, input: [{ role: 'user', content: [{ type: 'input_file', file_url: documentUrl, filename, detail: 'low' }, { type: 'input_text', text: prompt }] }] }),
+    });
+    const result: any = await upstream.json().catch(() => ({}));
+    if (!upstream.ok) return json({ error: result?.error?.message || 'A IA não conseguiu ler este documento.' }, 502, origin);
+    const answer = answerFrom(result);
+    return json({ answer: answer || 'Não foi possível extrair uma resposta do documento.' }, 200, origin);
+  },
+};

@@ -121,6 +121,9 @@ td.dir{text-align:right;white-space:nowrap}
 .docs li{display:flex;flex-wrap:wrap;gap:4px 10px;align-items:baseline}
 .acoes{display:flex;flex-wrap:wrap;gap:8px}
 .nota{background:var(--faixa);border-radius:6px;padding:10px 12px}
+.ia-tr{border:1px solid var(--acento);background:var(--acento-fraco);border-radius:6px;padding:12px;display:flex;flex-direction:column;gap:8px}
+.ia-tr textarea{width:100%;resize:vertical;padding:8px;border:1px solid var(--linha);border-radius:4px;background:var(--papel)}
+.ia-resposta{white-space:pre-wrap;background:var(--papel);padding:10px;border-radius:4px;border:1px solid var(--linha)}
 .ficha td input{width:110px;text-align:right}
 .grade2{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:16px}
 .bloco{display:flex;flex-direction:column;gap:8px;min-width:0}
@@ -155,11 +158,13 @@ td.dir{text-align:right;white-space:nowrap}
 <main id="main"></main>
 <div id="ficha-raiz"></div>
 
+<script src="config.js"></script>
 <script src="dados.js"></script>
 <script>
 (function(){
 "use strict";
 const D=window.DADOS||{abertas:[],atas:[],vencidas:[],revisar:[],pcp:[],sebrae:[],estadual:[],cobertura:[],totais:{}};
+const TR_API=window.RADAR_TR_API||'';
 const $=(s,r)=>(r||document).querySelector(s);
 const esc=s=>String(s==null?'':s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const norm=s=>String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
@@ -184,8 +189,8 @@ let marcas={};
 try{marcas=JSON.parse(localStorage.getItem('radar-licit-marcas')||'{}')||{}}catch(e){marcas={}}
 function salvarMarcas(){try{localStorage.setItem('radar-licit-marcas',JSON.stringify(marcas))}catch(e){}}
 
-D.abertas.forEach(r=>{r._b=norm([r.obj,r.org,r.un,r.cid,r.tit,r.id,(r.mc||[]).join(' '),(r.it||[]).map(i=>i.d).join(' ')].join(' '))});
-['atas','vencidas','revisar'].forEach(k=>D[k].forEach(r=>{r._b=norm([r.obj,r.org,r.un,r.cid,r.tit,r.id,(r.mc||[]).join(' ')].join(' '))}));
+D.abertas.forEach(r=>{r._b=norm([r.obj,r.org,r.un,r.cid,r.tit,r.id,(r.mc||[]).join(' '),(r.sv||[]).join(' '),(r.it||[]).map(i=>i.d).join(' ')].join(' '))});
+['atas','vencidas','revisar'].forEach(k=>D[k].forEach(r=>{r._b=norm([r.obj,r.org,r.un,r.cid,r.tit,r.id,(r.mc||[]).join(' '),(r.sv||[]).join(' ')].join(' '))}));
 D.pcp.forEach(r=>{r._b=norm([r.obj,r.org,r.cid,r.proc,r.mc].join(' '))});
 D.sebrae.forEach(r=>{r._b=norm([r.obj,r.org,r.num,r.mc].join(' '))});
 
@@ -194,19 +199,20 @@ const opts=(pares,rot)=>'<option value="">'+esc(rot)+'</option>'+pares.map(([v,n
 
 /* ---------- definição das abas ---------- */
 const colPrazo=r=>{const p=prazo(r.fim);return '<span class="pil '+p.c+'">'+p.t+'</span><div class="sub num">'+fmtData(r.fim)+'</div>'};
-const colObj=r=>'<div class="tags">'+((r.mc||[]).map(m=>'<span class="pil ac">'+esc(m)+'</span>').join(''))+'<span class="pil">'+esc(clCurto(r.cl))+'</span>'+(r.me?'<span class="pil aler">Exclusivo ME/EPP</span>':'')+(r.dup?'<span class="pil">Possível duplicidade</span>':'')+'</div><div class="t">'+esc(r.obj)+'</div><div class="o">'+esc(r.un||r.org||'')+'</div>';
+const serviceTags=r=>(r.sv||[]).map(s=>'<span class="pil bom">'+esc(s)+'</span>').join('');
+const colObj=r=>'<div class="tags">'+((r.mc||[]).map(m=>'<span class="pil ac">'+esc(m)+'</span>').join(''))+serviceTags(r)+'<span class="pil">'+esc(clCurto(r.cl))+'</span>'+(r.me?'<span class="pil aler">Exclusivo ME/EPP</span>':'')+(r.dup?'<span class="pil">Possível duplicidade</span>':'')+'</div><div class="t">'+esc(r.obj)+'</div><div class="o">'+esc(r.un||r.org||'')+'</div>';
 const colLocal=r=>esc(r.cid||'—')+'<div class="sub">'+esc(r.uf||'')+(r.esf?' · '+esc(r.esf):'')+'</div>';
 const colValor=r=>'<span class="num">'+brl(r.val)+'</span>'+(r.val?'<div class="sub num" title="Teto de custo para imposto de 6% e margem de 15% sobre a venda">teto '+brl(Math.floor(r.val*79)/100)+'</div>':'');
 
 const ABAS=[
  {id:'abertas',nome:'Abertas',rows:D.abertas,ficha:true,
   cols:[['Prazo',colPrazo],['Objeto',colObj,'obj'],['Local',colLocal],['Valor estimado',colValor,'dir'],['Modalidade',r=>esc(r.mod||'—')+(r.srp?'<div class="sub">Registro de preços</div>':'')],['Docs',r=>'<span class="num">'+(r.docs?r.docs.length:0)+'</span><div class="sub num">'+(r.nit||0)+' itens</div>','dir'],['Minha marcação',r=>{const m=marcas[r.id];return m&&m.s?'<span class="pil '+(m.s==='Descartada'?'':'ac')+'">'+esc(m.s)+'</span>':'<span class="sub">—</span>'}]],
-  filtros:['q','cl','mc','uf','esf','mod','prazo','valor','me','docs','srp','semdup','meu'],
+  filtros:['q','cl','sv','mc','uf','esf','mod','prazo','valor','me','docs','srp','semdup','meu'],
   ordens:[['fim','Prazo mais próximo'],['-val','Maior valor'],['val','Menor valor'],['-pub','Publicação mais recente']],
   aviso:'Prazos vêm do cadastro PNCP. Confirme suspensão, retificação e horário no portal de disputa antes de participar. Classificação automática não comprova autorização de revenda.'},
  {id:'atas',nome:'Atas vigentes',rows:D.atas,
   cols:[['Fim da vigência',r=>'<span class="num">'+fmtData(r.fim)+'</span>'],['Objeto',colObj,'obj'],['Local',colLocal],['Valor global',r=>'<span class="num">'+brl(r.val)+'</span>','dir'],['Adesão',r=>esc(r.ad||'—')],['PNCP',r=>'<a href="'+esc(r.link)+'" target="_blank" rel="noopener">abrir</a>']],
-  filtros:['q','cl','mc','uf','esf','valor'],ordens:[['fim','Vence primeiro'],['-fim','Vence por último'],['-val','Maior valor']],
+  filtros:['q','cl','sv','mc','uf','esf','valor'],ordens:[['fim','Vence primeiro'],['-fim','Vence por último'],['-val','Maior valor']],
   aviso:'Atas já têm fornecedor selecionado. Servem para conhecer compradores, preços e renovações futuras; não são disputa aberta.'},
  {id:'externas',nome:'Fora do PNCP',custom:renderExternas,rows:[].concat(D.pcp,D.sebrae,D.estadual)},
  {id:'revisar',nome:'Revisar',rows:D.revisar,
@@ -215,7 +221,7 @@ const ABAS=[
   aviso:'Contratações com proposta aberta cujo objeto cita sistema, plataforma ou termo parecido, mas que a triagem não reconheceu como licença. Use a busca para garimpar; objeto resumido.'},
  {id:'vencidas',nome:'Vencidas e inconsistentes',rows:D.vencidas,
   cols:[['Situação',r=>'<span class="pil">'+esc(r.st)+'</span>'],['Fim',r=>'<span class="num">'+fmtData(r.fim)+'</span>'],['Objeto',colObj,'obj'],['Local',colLocal],['Valor',r=>'<span class="num">'+brl(r.val)+'</span>','dir'],['PNCP',r=>'<a href="'+esc(r.link)+'" target="_blank" rel="noopener">abrir</a>']],
-  filtros:['q','st','cl','mc','uf'],ordens:[['-fim','Fim mais recente'],['fim','Fim mais antigo'],['-val','Maior valor']],
+  filtros:['q','st','cl','sv','mc','uf'],ordens:[['-fim','Fim mais recente'],['fim','Fim mais antigo'],['-val','Maior valor']],
   aviso:'Prazos encerrados, suspensas/canceladas, atas vencidas e cadastros com data absurda (2030, 2099). Guardados para conferência.'},
  {id:'cobertura',nome:'Cobertura',custom:renderCobertura,rows:D.cobertura}
 ];
@@ -226,6 +232,7 @@ let abaAtual='abertas';
 function passa(a,r,f){
   if(f.q){const ts=norm(f.q).split(/\s+/).filter(Boolean);for(const t of ts)if(!r._b.includes(t))return false}
   if(f.cl&&r.cl!==f.cl)return false;
+  if(f.sv&&!(r.sv||[]).includes(f.sv))return false;
   if(f.st&&r.st!==f.st)return false;
   if(f.mc&&!(r.mc||[]).includes(f.mc))return false;
   if(f.uf&&r.uf!==f.uf)return false;
@@ -251,6 +258,7 @@ function htmlFiltros(a){
   if(tem('q'))h+='<label>Busca<input type="search" id="f-'+a.id+'-q" data-f="q" placeholder="produto, órgão, cidade, nº de controle"></label>';
   if(tem('st'))h+=sel('st','Situação',uniq(R,r=>r.st));
   if(tem('cl'))h+=sel('cl','Enquadramento',uniq(R,r=>r.cl));
+  if(tem('sv'))h+=sel('sv','Serviço atendível',uniq(R,r=>r.sv||[]));
   if(tem('mc'))h+=sel('mc','Produto / marca',uniq(R,r=>r.mc||[]));
   if(tem('uf'))h+=sel('uf','UF',uniq(R,r=>r.uf));
   if(tem('esf'))h+=sel('esf','Esfera',uniq(R,r=>r.esf));
@@ -340,6 +348,13 @@ function abrirFicha(id){
   h+='<section><h3>Objeto</h3><div class="txt">'+esc(r.obj)+'</div></section>';
   h+='<section><h3>'+(r.manual?'Leitura do edital':'Pontos a conferir')+'</h3><div class="nota txt">'+esc(r.nota||'')+'</div><div class="sub" style="margin-top:4px">'+esc(r.ver||'')+'</div></section>';
   h+='<section><h3>Documentos ('+(r.docs?r.docs.length:0)+')</h3>'+(r.docs&&r.docs.length?'<ul class="docs">'+r.docs.map(d=>'<li><a href="'+esc(d.u)+'" target="_blank" rel="noopener">'+esc(d.n||d.t||'arquivo')+'</a><span class="pil">'+esc(d.t||'')+'</span><span class="sub num">'+fmtData(d.p)+'</span></li>').join('')+'</ul>':'<div class="sub">'+(r.det?'Nenhum arquivo ativo listado no PNCP.':'Lista de documentos ainda não consultada para esta contratação. Abra no PNCP.')+'</div>')+'</section>';
+  const docsTR=(r.docs||[]).filter(d=>/termo de refer|\btr\b/i.test((d.t||'')+' '+(d.n||'')));
+  const docsIA=docsTR.length?docsTR:(r.docs||[]).filter(d=>/pdf|edital|aviso/i.test((d.t||'')+' '+(d.n||'')+' '+(d.u||'')));
+  if(docsIA.length){
+    const apiNote=TR_API?'Envie uma pergunta. A resposta é baseada apenas no documento selecionado.':'Assistente ainda não configurado. Defina o endereço da API segura em <code>painel/config.js</code> para ativá-lo.';
+    h+='<section><h3>Pergunte à IA sobre o '+(docsTR.length?'TR':'edital ou documento')+'</h3><div class="ia-tr"><div class="sub">'+apiNote+'</div><label class="sub">Documento <select id="tr-doc">'+docsIA.map((d,i)=>'<option value="'+i+'">'+esc(d.n||d.t||'documento')+'</option>').join('')+'</select></label><textarea id="tr-pergunta" rows="3" maxlength="1600" placeholder="Ex.: quais são os requisitos de habilitação, prazos e entregáveis?"></textarea><div><button class="btn forte" data-acao="perguntar-tr" type="button" '+(TR_API?'':'disabled')+'>Perguntar sobre o documento</button></div><div id="tr-resposta" class="ia-resposta" hidden></div></div></section>';
+    r._docsIA=docsIA;
+  }
   if(r.it&&r.it.length){
     h+='<section><h3>Itens ('+r.nit+') — preencha seu custo para ver o lance mínimo</h3><div class="rolagem"><table><thead><tr><th>#</th><th>Descrição</th><th style="text-align:right">Qtd</th><th style="text-align:right">Ref. unitária</th><th style="text-align:right">Teto de custo unit.</th><th style="text-align:right">Meu custo unit. (R$)</th><th style="text-align:right">Lance mínimo unit.</th></tr></thead><tbody>';
     r.it.forEach((i,k)=>{h+='<tr><td class="num">'+esc(i.n)+'</td><td style="min-width:220px">'+esc(i.d)+(i.b&&!/n.o se aplica|sem benef/i.test(i.b)?'<div class="sub">'+esc(i.b)+'</div>':'')+'</td><td class="dir num">'+(i.q==null?'—':Number(i.q).toLocaleString('pt-BR'))+'<div class="sub">'+esc(i.u||'')+'</div></td><td class="dir num">'+brl(i.vu)+'</td><td class="dir num">'+(i.vu?brl(Math.floor(i.vu*79)/100):'—')+'</td><td class="dir"><input type="number" min="0" step="0.01" id="custo-'+k+'" data-custo="'+k+'" data-ref="'+(i.vu||'')+'" aria-label="Meu custo unitário do item '+esc(i.n)+'"></td><td class="dir num" id="lance-'+k+'">—</td></tr>'});
@@ -351,6 +366,18 @@ function abrirFicha(id){
   const raiz=$('#ficha-raiz');raiz.innerHTML=h;raiz.dataset.id=id;$('#fechar-ficha').focus();
 }
 function fecharFicha(){const raiz=$('#ficha-raiz');if(!raiz.innerHTML)return;raiz.innerHTML='';delete raiz.dataset.id;const a=ABAS.find(x=>x.id===abaAtual);if(!a.custom)renderLista(a)}
+async function perguntarTR(){
+  const raiz=$('#ficha-raiz'),id=raiz.dataset.id,r=D.abertas.find(x=>x.id===id),pergunta=$('#tr-pergunta')?.value.trim(),saida=$('#tr-resposta');
+  const indice=Number($('#tr-doc')?.value||0),doc=r&&r._docsIA&&r._docsIA[indice];
+  if(!pergunta||!doc||!saida)return;
+  const botao=$('[data-acao="perguntar-tr"]',raiz);botao.disabled=true;saida.hidden=false;saida.textContent='Lendo o documento e preparando a resposta…';
+  try{
+    const res=await fetch(TR_API.replace(/\/$/,'')+'/ask',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({documentUrl:doc.u,documentName:doc.n||doc.t||'documento.pdf',question:pergunta,opportunityId:id})});
+    const body=await res.json().catch(()=>({}));if(!res.ok)throw new Error(body.error||'Não foi possível consultar o documento.');
+    saida.textContent=body.answer||'A IA não retornou uma resposta.';
+  }catch(err){saida.textContent='Erro: '+(err.message||'falha ao consultar a IA.');}
+  finally{botao.disabled=false}
+}
 
 /* ---------- eventos ---------- */
 $('#abas').innerHTML=ABAS.map(a=>'<button role="tab" type="button" data-aba="'+a.id+'">'+a.nome+'<span class="qt">'+a.rows.length.toLocaleString('pt-BR')+'</span></button>').join('');
@@ -364,6 +391,7 @@ document.addEventListener('click',ev=>{
     if(k==='fechar'){fecharFicha();return}
     if(k==='limpar'){est[abaAtual].f={};est[abaAtual].pag=1;renderAba();return}
     if(k==='alternar-filtros'){$('#filtros').classList.toggle('fechado');return}
+    if(k==='perguntar-tr'){perguntarTR();return}
   }
   if(t.closest('a,button,input,select,textarea'))return;
   const tr=t.closest('tr[data-id]');if(tr)abrirFicha(tr.dataset.id);

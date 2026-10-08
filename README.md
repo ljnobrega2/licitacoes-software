@@ -59,3 +59,26 @@ A exportação recalcula o status dos prazos usando a hora atual de Brasília, m
 - O cache bruto das consultas não vai para o Git (ver `.gitignore`); os scripts o refazem.
 
 Ordem para refazer tudo: `coletar_uf.py` → `recuperar_lacunas.py` → `buscar_pcp.py` → `buscar_sebrae.py` → `triagem.py` → `enriquecer.py` → `gerar_entrega.py`.
+
+## Escopo AD PRO e filtro de serviços
+
+Além de licenças, assinaturas e SaaS, o radar identifica no objeto e nos itens as demandas que podem ser atendidas pela AD PRO. No painel, use o filtro **Serviço atendível**; ele é uma triagem comercial e exige conferência do edital/TR antes de qualquer proposta.
+
+- CRM e processo comercial
+- IA e agentes inteligentes
+- Automação e integrações (n8n, APIs e webhooks)
+- WhatsApp, atendimento e VoIP
+- Dashboards, BI e dados
+- Sistemas e desenvolvimento sob medida
+- Marketing digital e tráfego pago
+- Landing pages, sites e conversão
+- Copywriting e conteúdo comercial
+- ERP, pagamentos e e-commerce
+- Recrutamento e RH automatizado
+- Treinamento, suporte e sustentação
+
+Os termos de varredura e busca por texto também foram ampliados para essas categorias. “Marketing” isolado não basta para incluir um processo: a regra exige termos mais específicos como tráfego pago, marketing digital, agência, mídia paga ou plataforma de anúncios, reduzindo falsos positivos.
+
+## Assistente de IA para TR
+
+Na ficha de uma oportunidade com TR, edital ou aviso em PDF, o painel exibe **Pergunte à IA sobre o TR**. A interface está pronta, mas a API precisa ser publicada uma única vez para não expor a chave no navegador. As instruções e o Worker estão em `tr-assistant/README.md`. Após o deploy, informe a URL do Worker em `painel/config.js` e publique o painel.

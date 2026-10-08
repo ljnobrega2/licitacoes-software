@@ -23,6 +23,22 @@ BRANDS={
 'Colaboração/marketing SaaS':r'\bdropbox\b|\bslack\b|\bzendesk\b|\bsalesforce\b|\bhubspot\b|rd station|\bsemrush\b|\bmlabs\b|\bvimeo\b|\bkahoot\b|\bmentimeter\b|\bpadlet\b|\bwinrar\b|\bcitrix\b|\b1password\b|\blastpass\b|\bclickup\b|\basana\b|\bpipefy\b',
 'Outros SaaS':r'\bfigma\b|\bnotion\b|\bdocusign\b|\bclicksign\b|\bperplexity\b|\bmidjourney\b|\bfoxit\b|nitro pdf|\bgrammarly\b|\btrello\b|\batlassian\b|\bjira\b|\bjetbrains\b|\bgithub\b|\bgitlab\b'
 }
+# Serviços que a AD PRO pode executar. São categorias comerciais, não uma
+# afirmação de que o edital já foi validado ou que a empresa está habilitada.
+ADPRO_SERVICES={
+    'CRM e processo comercial':r'\bcrm\b|gestao de relacionamento com (?:o )?cliente|funil de vendas|pipeline comercial|forca de vendas',
+    'IA e agentes inteligentes':r'inteligencia artificial|\b(?:agente|assistente|chatbot) de ia\b|ia generativa|machine learning|processamento de linguagem natural',
+    'Automação e integrações':r'automacao(?: de processos)?|\bn8n\b|\brpa\b|\bwebhook\b|integrac(?:ao|oes) (?:de |entre )?sistemas?|\bapi\b|workflow',
+    'WhatsApp, atendimento e VoIP':r'whatsapp(?: business| api)?|atendimento omnichannel|central de atendimento|\bvoip\b|telefonia (?:ip|em nuvem)|discador',
+    'Dashboards, BI e dados':r'\bpower bi\b|business intelligence|\bbi\b|dashboard(?:s)?|visualizacao de dados|indicadores gerenciais|analytics',
+    'Sistemas e desenvolvimento sob medida':r'desenvolvimento (?:de )?(?:sistema|software|aplicativo|plataforma)|fabrica de software|sistema sob medida|portal (?:web|institucional)|aplicativo (?:web|mobile)',
+    'Marketing digital e tráfego pago':r'trafego pago|gestao de trafego|marketing digital|agencia de marketing|midia paga|\bmeta ads\b|\bgoogle ads\b|campanha de publicidade|performance digital|remarketing',
+    'Landing pages, sites e conversão':r'landing page|pagina de aterrissagem|criacao de (?:site|pagina|portal)|desenvolvimento de site|hotsite',
+    'Copywriting e conteúdo comercial':r'copywriting|redacao publicitaria|conteudo para redes sociais|producao de conteudo|roteiro comercial',
+    'ERP, pagamentos e e-commerce':r'\berp\b|sistema de gestao empresarial|gateway de pagamento|meio de pagamento|cobranca recorrente|e-commerce|loja virtual',
+    'Recrutamento e RH automatizado':r'recrutamento(?: e selecao)?|selecao de candidatos|triagem de curriculos|banco de talentos|\bats\b',
+    'Treinamento, suporte e sustentação':r'treinamento (?:de equipe|comercial|de usuarios)|capacitacao (?:de usuarios|tecnica)|sustentacao (?:tecnica|de sistema)|suporte (?:tecnico|continuado)'
+}
 SOFT=r'software|softwares|softwere|softwar|licenciamento de sistema|licenca.{0,40}(?:sistema|plataforma|programa|uso)|subscri|\bsaas\b|sistema.{0,25}informatizad|locacao.{0,30}sistema|cessao.{0,30}sistema|plataforma.{0,40}inteligencia artificial|programas? de computador|solucao informatizada'
 HARD=r'aquisicao.{0,90}(?:equipamento|computador|notebook|workstation)|fornecimento.{0,50}(?:equipamento|hardware)|outsourcing de impressao|locacao de equipamentos|cameras|videomonitoramento|catraca|impressoras|appliances|ponto eletronico|suporte tecnico avancado'
 COMPLEX=r'desenvolvimento|fabrica de software|gestao publica|gestao municipal|gestao hospitalar|prontuario|contabilidade|folha de pagamento|tributari|recursos humanos|gestao educacional|gestao escolar|gestao de saude|ponto eletronico|gestao de cemiterio|georreferenci|sistema integrado|solucao integrada|portal institucional'
@@ -96,16 +112,20 @@ def load_rows():
             merge(rows,from_consulta(d))
     return list(rows.values())
 
+def service_matches(text):
+    return [name for name,pattern in ADPRO_SERVICES.items() if re.search(pattern,text)]
+
 def classify(r,extra=''):
     s=norm((r.get('description') or '')+' '+extra)
     brands=[k for k,p in BRANDS.items() if re.search(p,s)]
-    has_software=bool(brands or re.search(SOFT,s))
-    if not has_software:return 'Fora do foco / conferir itens',brands
-    if re.search(r'inscricao|participacao.{0,30}curso|capacitacao denominada',s) and not re.search(r'fornecimento.{0,50}licenc',s):return 'Curso / fora do foco',brands
-    if re.search(HARD,s):return 'Hardware ou solução integrada',brands
-    if brands:return 'Licenças comerciais identificadas',brands
-    if re.search(COMPLEX,s):return 'Sistema especializado / serviços',brands
-    return 'Software sem marca / validar fornecimento',brands
+    services=service_matches(s)
+    has_software=bool(brands or re.search(SOFT,s) or services)
+    if not has_software:return 'Fora do foco / conferir itens',brands,services
+    if re.search(r'inscricao|participacao.{0,30}curso|capacitacao denominada',s) and not re.search(r'fornecimento.{0,50}licenc',s):return 'Curso / fora do foco',brands,services
+    if re.search(HARD,s):return 'Hardware ou solução integrada',brands,services
+    if brands:return 'Licenças comerciais identificadas',brands,services
+    if services or re.search(COMPLEX,s):return 'Sistema especializado / serviços',brands,services
+    return 'Software sem marca / validar fornecimento',brands,services
 
 def status(r):
     def date(s):
@@ -128,7 +148,7 @@ def status(r):
 
 def main():
     rows=load_rows()
-    for r in rows:r['_classe'],r['_marcas']=classify(r);r['_status']=status(r)
+    for r in rows:r['_classe'],r['_marcas'],r['_servicos']=classify(r);r['_status']=status(r)
     (DATA/'triagem.json').write_text(json.dumps(rows,ensure_ascii=False))
     from collections import Counter
     print('TOTAL',len(rows));print(Counter(r['_classe'] for r in rows if r['document_type']=='edital'));print(Counter(r['_status'] for r in rows))

@@ -19,7 +19,7 @@ def main():
     rows=load_rows()
     selected=[]
     for r in rows:
-        cl,brands=classify(r)
+        cl,brands,_=classify(r)
         if r['document_type']=='edital' and status(r) in ['Prazo aberto no cadastro PNCP','Recebimento futuro anunciado'] and cl in ['Licenças comerciais identificadas','Software sem marca / validar fornecimento']:
             selected.append(r)
     selected.sort(key=lambda r:(0 if any(t in norm(r['description']) for t in ['chatgpt','claude','adobe','canva','corel']) else 1,r.get('data_fim_vigencia','')))

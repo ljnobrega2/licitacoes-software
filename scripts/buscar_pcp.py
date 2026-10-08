@@ -7,7 +7,7 @@ from coletar import *
 
 API='https://compras.api.portaldecompraspublicas.com.br/v2/licitacao/processos?'
 SITE='https://www.portaldecompraspublicas.com.br/processos'
-TERMOS=['software','licença de uso','licenciamento','subscrição','assinatura','SaaS','inteligência artificial','ChatGPT','OpenAI','Claude','Gemini','Copilot','Adobe','Acrobat','Creative Cloud','Canva','CorelDRAW','CapCut','Microsoft','Office 365','Microsoft 365','Windows','Power BI','Google Workspace','Autodesk','AutoCAD','Revit','SketchUp','ArcGIS','antivírus','Kaspersky','ESET','Bitdefender','Sophos','Fortinet','firewall','Veeam','VMware','Oracle','Red Hat','Zoom','TeamViewer','AnyDesk','certificado digital']
+TERMOS=['software','licença de uso','licenciamento','subscrição','assinatura','SaaS','inteligência artificial','ChatGPT','OpenAI','Claude','Gemini','Copilot','Adobe','Acrobat','Creative Cloud','Canva','CorelDRAW','CapCut','Microsoft','Office 365','Microsoft 365','Windows','Power BI','Google Workspace','Autodesk','AutoCAD','Revit','SketchUp','ArcGIS','antivírus','Kaspersky','ESET','Bitdefender','Sophos','Fortinet','firewall','Veeam','VMware','Oracle','Red Hat','Zoom','TeamViewer','AnyDesk','certificado digital','CRM','automação','integração de sistemas','WhatsApp API','VoIP','dashboard','business intelligence','desenvolvimento de software','tráfego pago','marketing digital','agência de marketing','landing page','copywriting','ERP','gateway de pagamento','recrutamento e seleção']
 CACHE=DATA/'cache_pcp'
 
 def get(url):
