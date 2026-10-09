@@ -89,7 +89,7 @@ Fontes primárias: [cartilha do fornecedor Compras.gov.br](https://www.gov.br/co
 
 ### Conferência no endereço público
 
-Versão `2026.10.09-team-5`, publicada em `https://licitacoes-tr-assistant.lucasjesusnobrega.workers.dev/`.
+Versão `2026.10.09-team-6`, publicada em `https://licitacoes-tr-assistant.lucasjesusnobrega.workers.dev/`.
 
 - Trabalho compartilhado entre duas contas confirmado no endereço público.
 - Na versão 4, `triage-flow.mjs` confirmou piso visível no Resumo, rejeição de valor inválido, aceite salvando preço/objetivo no mesmo PATCH e abertura imediata do Kanban. Desfazer, recusa, teclado e gestos reais de toque passaram.
@@ -100,6 +100,16 @@ Versão `2026.10.09-team-5`, publicada em `https://licitacoes-tr-assistant.lucas
 - O cadastro de equipamento de limpeza foi confirmado fora do escopo na API pública, sem marca Autodesk. Headsets para VoIP sem contratação digital também foram excluídos da triagem padrão.
 
 ## Segurança de publicação e limites restantes
+
+### Revisão 6 · mínimo limitado ao valor publicado
+
+- Limite operacional por unidade e no total da participação, baseado nos valores numéricos publicados no PNCP. Quando só há total do item e quantidade, deriva o máximo unitário sem arredondar para cima. O menor limite disponível prevalece; ausência, zero ou orçamento sigiloso não geram teto zero inventado.
+- A referência PNCP é identificada como tal, não anunciada como teto juridicamente confirmado no edital/TR. A IA não inventa limites monetários. Sem valor publicado, a interface informa que o teto precisa ser confirmado no edital.
+- Campo acima do limite recebe erro contextual e bloqueia salvar/aceitar. Preparo de lance também bloqueia acima do máximo. API valida independentemente do navegador, com igualdade permitida e comparação de quatro casas decimais.
+- Exclusões só alteram a participação quando a análise comprovou julgamento por item. Mínimos dos produtos excluídos não compõem o total dessa participação; pacote/lote não admite essa exclusão avulsa.
+- Piso derivado dos custos acima da referência informa inviabilidade e bloqueia aceite/preparo. Custos continuam registráveis para estudo; não são diminuídos automaticamente para caber no teto. Cotações antigas são preservadas, permitindo alterações de responsável/notas e recusa sem apagar preços.
+- `tests/bid-limits.test.mjs`: unidade versus total, soma, divisão com quatro decimais, igualdade, exclusão condicionada, preços desconhecidos e custos inviáveis. `tests/bid-limits-flow.mjs`: fixture estritamente local, campos e botões, bypass pela API sem mutação, limites de lance, acessibilidade e quatro larguras. Nenhuma fixture sintética nem conta QA desta revisão foi criada em produção.
+- Verificação da revisão 6: tipagem e 19 testes unitários passaram, assim como os fluxos locais de limites, ficha única, triagem/gestos e regras item/pacote/lote. `tests/published-limits-smoke.mjs` confirmou no endereço público excesso de 0,0001 bloqueado por unidade e no global, igualdade aceita, valor digitado preservado, quatro larguras sem overflow e nenhuma exceção JavaScript. Essa conferência foi anônima e não enviou nenhuma requisição de alteração.
 
 Backup D1 completo antes das migrações: `dados/backups-operacao/2026-10-09-antes-triagem-rapida.sql`, privado, permissão 0600 e excluído do Git. O snapshot na interface continua disponível; exportação anônima não inclui dados privados da equipe.
 

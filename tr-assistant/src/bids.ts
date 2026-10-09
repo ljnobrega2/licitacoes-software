@@ -3,6 +3,7 @@ import {getCatalog} from './sync';
 import {getReview} from './review';
 import {bidRuleError} from '../../app/tender-rules.js';
 import {bidMinimum,parseAmount,decimalAmount,portalLink} from '../../app/bid-math.js';
+import {bidLimitError} from '../../app/bid-limits.js';
 type Bid={id:string;opportunity_id:string;member_id:string;basis:string;item_label:string;amount:string;minimum:string|null;quantity:number;portal_url:string;status:string};
 export async function prepareBid(env:Env,member:Member,id:string,body:Body){
   const key=text(body.id,80),amount=parseAmount(body.amount),basis=body.basis==='unit'?'unit':'total',index=Number(body.itemIndex),version=Number(body.version);
@@ -12,6 +13,7 @@ export async function prepareBid(env:Env,member:Member,id:string,body:Body){
   const r=await getCatalog(env,id),review=await getReview(env,id),ruleError=bidRuleError(review,basis);if(ruleError)throw new HttpError(400,ruleError);const work=await env.DB.prepare('SELECT quote FROM opportunities WHERE opportunity_id=?').bind(id).first<{quote:string}>(),floor=bidMinimum(r,JSON.parse(work?.quote||'{}'),basis,index);
   if(basis==='unit'&&JSON.parse(work?.quote||'{}').selectedItems?.[String(r.it?.[index]?.n??index+1)]===false)throw new HttpError(400,'Produto excluído da participação pela equipe.');
   if(floor.error)throw new HttpError(400,floor.error);
+  const ceilingError=bidLimitError({...r,review},JSON.parse(work?.quote||'{}'),basis,index,amount);if(ceilingError)throw new HttpError(400,ceilingError);
   if(floor.minimum!==null&&Math.round(amount*10000)<Math.round(floor.minimum*10000))throw new HttpError(400,'Valor abaixo do piso calculado. Revise custos, tributos ou margem antes de preparar.');
   if(floor.minimum===null&&body.acknowledgeUnknownCost!==true)throw new HttpError(400,'Sem custo informado: preencha o preço ou confirme que ainda não há piso validado.');
   const rawPortal=text(body.portalUrl,2000)||r.orig||'',portal=portalLink(rawPortal);if(text(body.portalUrl,2000)&&!portal)throw new HttpError(400,'Informe o portal de disputa, não o PNCP.');

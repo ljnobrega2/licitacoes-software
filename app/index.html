@@ -4,7 +4,7 @@
   <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
   <meta name="referrer" content="no-referrer"><meta name="theme-color" content="#14273c">
   <title>Licitações · Operação da equipe</title>
-  <link rel="stylesheet" href="/style.css?v=20261009-team5">
+  <link rel="stylesheet" href="/style.css?v=20261009-team6">
 </head>
 <body>
   <aside class="sidebar">
@@ -22,7 +22,7 @@
       <button data-view="archive" class="nav-item"><span>◷</span> Encerradas</button>
       <button data-view="team" class="nav-item"><span>♧</span> Equipe e convites</button>
     </nav>
-    <div class="sidebar-foot"><span class="live-dot"></span> Banco compartilhado<br><small>Quadro, tarefas e estudos da equipe</small><div class="version">Versão 2026.10.09 · Ficha única</div></div>
+    <div class="sidebar-foot"><span class="live-dot"></span> Banco compartilhado<br><small>Quadro, tarefas e estudos da equipe</small><div class="version">Versão 2026.10.09 · Limites de preço</div></div>
   </aside>
   <div class="shell">
     <header class="topbar"><div><span class="breadcrumb">Espaço da equipe</span><span class="separator">/</span><b id="page-name">Quadro Kanban</b></div><div class="top-actions"><span id="sync-indicator" class="sync-indicator">Conectando…</span><button id="refresh-workspace" class="icon-btn" title="Sincronizar quadro" aria-label="Sincronizar quadro">↻</button><div id="account"></div></div></header>
@@ -41,6 +41,6 @@
   <dialog id="report-dialog" class="auth-dialog" aria-label="Registrar envio no portal"><div class="dialog-pad"><button class="close-button" data-close="report-dialog" aria-label="Fechar registro de envio">×</button><h2>Você já enviou no portal?</h2><p id="report-amount"></p><p>Este é um registro manual para a equipe. Não envia o lance nem verifica a aceitação pelo portal.</p><form id="report-form"><input id="report-bid-id" name="bidId" type="hidden"><label>Portal em que enviou<input name="portalUrl" id="report-portal" type="url" required maxlength="2000"></label><label>Protocolo ou observação (opcional)<input id="report-receipt" name="receipt" maxlength="500"></label><label class="check-label"><input id="report-confirm" type="checkbox" required>Confirmo que enviei este valor no portal oficial.</label><div id="report-error" class="form-error" role="alert"></div><button class="button primary" type="submit">Registrar envio informado e mover para Disputadas</button></form></div></dialog>
   <dialog id="invite-dialog" class="auth-dialog" aria-label="Convidar equipe"><div class="dialog-pad"><button data-close="invite-dialog" class="close-button" aria-label="Fechar">×</button><h2>Convide alguém da equipe</h2><p>Envie este link para um colega criar seu acesso individual. O convite vale por 7 dias e pode ser usado uma vez.</p><input id="invite-url" readonly aria-label="Link do convite"><button id="copy-invite" class="button primary">Copiar convite</button></div></dialog>
   <div id="toast" role="status" class="toast" hidden></div>
-  <script type="module" src="/app.js?v=20261009-team5"></script>
+  <script type="module" src="/app.js?v=20261009-team6"></script>
 </body>
 </html>

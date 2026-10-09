@@ -1,0 +1,45 @@
+// Synthetic fixtures are local-only; no production records or portal bids.
+import {chromium} from '../tr-assistant/node_modules/playwright/index.mjs';
+import AxeBuilder from '../tr-assistant/node_modules/@axe-core/playwright/dist/index.mjs';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {execFileSync} from 'node:child_process';
+import {createHash,randomUUID} from 'node:crypto';
+const base='http://localhost:8787',id='00000000000000-1-'+String(Math.floor(Math.random()*899999)+100000)+'/2026',route='/opportunities/'+encodeURIComponent(id),dir=new URL('../tr-assistant/',import.meta.url),file='/tmp/licitacoes-local-limits-qa.sql';
+const quoted=value=>"'"+String(value).replaceAll("'","''")+"'";
+function sql(statement){fs.writeFileSync(file,statement,{mode:0o600});return JSON.parse(execFileSync('./node_modules/.bin/wrangler',['d1','execute','licitacoes-team','--local','--file',file,'--json'],{cwd:dir,encoding:'utf8'}));}
+const r={id,obj:'QA LOCAL · Licenças de software · fixture sintética, não é uma licitação real',org:'QA LOCAL',cid:'Cidade de teste',uf:'PR',val:300,fim:'2026-12-10T17:00:00',det:true,docs:[],it:[{n:2,d:'QA LOCAL · Produto A',q:2,u:'Unidade',vu:100,vt:200},{n:5,d:'QA LOCAL · Produto B',q:2,u:'Unidade',vu:50,vt:100}]};
+const fingerprint=createHash('sha256').update(JSON.stringify({obj:r.obj,it:r.it,docs:r.docs})).digest('hex');
+function fixture(mode){sql('INSERT INTO settings(key,value) VALUES('+quoted('review:'+id)+','+quoted(JSON.stringify({status:'ready',fingerprint,at:new Date().toISOString(),bidRule:{mode,quote:'QA LOCAL · somente fixture sintética',source:'QA LOCAL'},documents:[]}))+') ON CONFLICT(key) DO UPDATE SET value=excluded.value;');}
+assert.equal(sql('SELECT id FROM catalog WHERE id='+quoted(id)+';')[0].results.length,0);
+sql('INSERT INTO catalog(id,kind,payload,deadline,checked_at,source) VALUES('+quoted(id)+",'opportunity',"+quoted(JSON.stringify(r))+",'2026-12-10T20:00:00.000Z',"+quoted(new Date().toISOString())+",'QA LOCAL');");fixture('item');
+const browser=await chromium.launch({channel:'chromium',headless:true}),context=await browser.newContext({viewport:{width:1600,height:1000}}),page=await context.newPage(),errors=[];
+page.on('pageerror',error=>errors.push(error.message));
+async function api(path,method='GET',body){return page.evaluate(async({path,method,body})=>{const response=await fetch('/api'+path,{method,headers:body?{'content-type':'application/json'}:undefined,body:body?JSON.stringify(body):undefined});return {status:response.status,body:await response.json()};},{path,method,body});}
+async function detail(){const d=await api(route+'/detail');assert.equal(d.status,200);return d.body;}
+async function change(quote,stage='nova'){const d=await detail();return api(route,'PATCH',{stage,version:d.work.version,quote});}
+async function bid(amount,basis='unit'){return api(route+'/bids','POST',{id:randomUUID(),version:(await detail()).work.version,basis,itemIndex:0,amount,acknowledgeUnknownCost:true});}
+async function save(){const pending=page.waitForResponse(response=>response.request().method()==='PATCH'&&response.url().endsWith(encodeURIComponent(id)));await page.locator('[data-inline-save-floors]').click();assert.equal((await pending).status(),200);await page.waitForLoadState('networkidle');}
+try{
+  await page.route('**/api/opportunities/*/review',request=>request.fulfill({status:200,contentType:'application/json',body:JSON.stringify({review:{status:'ready',bidRule:{mode:'item'},documents:[]}})}));
+  await page.goto(base);await page.getByText('Entrar na equipe',{exact:true}).click();await page.locator('[name=email]').fill('qa.alice@licitacoes.test');await page.locator('[name=password]').fill('Local-QA-9Oct!2026');await page.locator('#auth-form button').first().click();await page.locator('.account').waitFor();await page.locator('#search').fill(id);await page.locator('[data-swipe-card="'+id+'"]').waitFor();
+  const first=page.locator('[data-inline-floor="2"]'),second=page.locator('[data-inline-floor="5"]'),global=page.locator('[data-inline-floor="total"]');
+  await first.fill('100,0001');assert.equal(await first.getAttribute('aria-invalid'),'true');assert.ok(await page.locator('[data-inline-save-floors]').isDisabled());assert.ok(await page.locator('[data-triage-accept]').isDisabled());assert.match(await page.locator('[data-line-feedback="2"]').textContent(),/100,00/);assert.equal(await first.inputValue(),'100,0001','Never silently clamp the typed floor');
+  await first.fill('100');await second.fill('50');assert.ok(await page.locator('[data-inline-save-floors]').isEnabled());await global.fill('300,0001');assert.ok(await page.locator('[data-inline-save-floors]').isDisabled());await global.fill('300');await save();assert.equal(JSON.parse((await detail()).work.quote).minimumTotal,300);
+  const version=(await detail()).work.version;assert.equal((await change({unitFloors:{2:100.0001}})).status,400);assert.equal((await change({minimumTotal:300.0001})).status,400);assert.equal((await detail()).work.version,version,'Rejected quote does not modify shared work');
+  await global.fill('');await first.fill('101');await page.locator('[data-inline-include="2"]').uncheck();assert.ok(await page.locator('[data-inline-save-floors]').isEnabled(),'A verified item rule can exclude an uncompetitive product');assert.match(await page.locator('[data-inline-maximum]').textContent(),/100,00/);await save();
+  assert.equal((await bid(100)).status,400,'Excluded product cannot be bid');
+  assert.equal((await change({unitFloors:{2:90,5:45}})).status,200);assert.equal((await bid(100.0001)).status,400);assert.equal((await bid(89.9999)).status,400);assert.equal((await bid(100)).status,201,'Exact published unit reference is allowed');
+  await page.locator('nav [data-view=board]').click();await page.locator('#refresh-workspace').click();await page.locator('[data-quick-bid]').first().click();await page.locator('#bid-form').waitFor();await page.locator('#bid-amount').fill('100,0001');assert.ok(await page.locator('#bid-form button[type=submit]').isDisabled());assert.match(await page.locator('#bid-feedback').textContent(),/superar/);await page.locator('#bid-amount').fill('100');assert.ok(await page.locator('#bid-form button[type=submit]').isEnabled());
+  fixture('package');assert.equal((await bid(300.0001,'total')).status,400);assert.equal((await change({licenses:790},'cotacao')).status,200,'Keep real cost estimates even if not competitive');assert.equal((await change({licenses:790},'compativel')).status,400,'Cost-derived floor above reference cannot be accepted');assert.equal((await bid(300,'total')).status,400,'Never lower cost-derived floor to the ceiling');
+  // Preserve an old over-limit quote for unrelated team updates; never invent a new lower floor.
+  const legacy={unitFloors:{2:101}};sql('UPDATE opportunities SET quote='+quoted(JSON.stringify(legacy))+",stage='compativel',version=version+1 WHERE opportunity_id="+quoted(id)+';');assert.equal((await change(legacy,'compativel')).status,200);assert.equal((await change({...legacy,minimumTotal:301},'compativel')).status,400);assert.equal((await change(legacy,'declinada')).status,400,'Decline still requires a reason');
+  const old=(await detail()).work;assert.equal((await api(route,'PATCH',{stage:'declinada',version:old.version,quote:legacy,declineReason:'margem'})).status,200,'Legacy over-limit quote does not prevent refusing the opportunity');
+  await page.locator('[data-close=detail]').click();assert.equal((await change({})).status,200);await page.locator('nav [data-view=triage]').click();await page.locator('#refresh-workspace').click();await page.locator('[data-swipe-card]').waitFor();await page.locator('[data-inline-floor="2"]').fill('101');
+  const axe=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();assert.deepEqual(axe.violations.map(v=>v.id),[]);
+  for(const width of [320,390,768,1600]){await page.setViewportSize({width,height:1000});assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'No overflow at '+width);}
+  await page.screenshot({path:'/tmp/licitacoes-price-limits.png',fullPage:true});assert.deepEqual(errors,[]);
+  console.log(JSON.stringify({result:'PASS',environment:'local only',checks:['unit and global live validation','exact limit accepted','four decimal excess blocked','invalid floor blocks save and accept','no silent clamping','server rejects bypass without changing work','verified exclusion removes item from total','unit and global bid maximum enforced','cost floor remains truthful and blocks acceptance/bid','accessible error feedback','four viewport widths','no JavaScript errors']}));
+}finally{
+  await browser.close();sql('DELETE FROM bids WHERE opportunity_id='+quoted(id)+'; DELETE FROM activity WHERE opportunity_id='+quoted(id)+'; DELETE FROM opportunities WHERE opportunity_id='+quoted(id)+'; DELETE FROM catalog WHERE id='+quoted(id)+'; DELETE FROM settings WHERE key='+quoted('review:'+id)+';');
+}
