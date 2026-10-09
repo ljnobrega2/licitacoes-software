@@ -1,6 +1,19 @@
 # Licitações de software — Brasil
 
-Levantamento de 06/10/2026. Pasta de pesquisa e exportação de dados públicos; não é uma aplicação implantada.
+Aplicação operacional publicada em **https://licitacoes-tr-assistant.lucasjesusnobrega.workers.dev/**. O endereço anterior do GitHub Pages redireciona para ela. A pesquisa histórica de 06/10/2026 está preservada; o banco operacional recebe novas consultas oficiais com data de verificação por registro.
+
+## Aplicação da equipe — 09/10/2026
+
+- Kanban é a tela inicial, com oito etapas: Novas, Aguardando documentação, Compatíveis, Em cotação, Disputadas, Declinadas, Perdidas e Ganhas.
+- Contas individuais por convite. Administradores convidam colegas; dados comerciais, responsáveis, tarefas, documentação pendente, comentários, orçamento e estudos ficam no D1 compartilhado, não no `localStorage`.
+- Edições concorrentes usam controle de versão; uma alteração antiga não sobrescreve outra pessoa. O quadro consulta mudanças a cada 20 segundos.
+- Downloads de arquivos oficiais por rota autenticada, com verificação do domínio e limite de 15 MB. Se faltarem anexos, **Atualizar prazo e anexos** consulta o PNCP naquele momento.
+- IA ativa via Workers AI: leitura real de PDF, perguntas e estimativas com premissas explícitas. Resultados são preliminares, salvos para a equipe, e não representam cotações verificadas.
+- Orçamento por componentes ou itens, implantação por horas, contingência, tributos e margem configuráveis. Lance mínimo sugerido = custo / (1 − tributos − margem), arredondado para cima. Não envia lances ao portal da disputa.
+- **Snapshot** baixa o catálogo e, quando autenticado, o estado do quadro e das tarefas em JSON com horário de exportação. Exportar não significa reconsultar a fonte.
+- Coleta PNCP automática paginada nas 27 UFs, com checkpoint e retomada após falha. A primeira nova varredura nacional está em andamento; a interface informa progresso e falhas. A classificação continua sendo uma triagem, não certificação de compatibilidade.
+
+Código: `app/` e `tr-assistant/`. Instruções técnicas em `tr-assistant/README.md`; auditoria em `docs/auditoria-2026-10-09.md`. O painel estático antigo está em `painel/arquivo.html` exclusivamente para consulta histórica.
 
 ## Para começar
 
@@ -16,12 +29,9 @@ Levantamento de 06/10/2026. Pasta de pesquisa e exportação de dados públicos;
 
 O estado atual, o que falta e os cuidados técnicos estão em `HANDOFF.md`, na raiz do repositório.
 
-## Quadro comercial e estimativa
+## Acervo histórico e estimativas
 
-- O painel tem a aba **Kanban**, com as etapas Novas, Aguardando documentação, Compatíveis, Em cotação, Disputadas, Declinadas, Perdidas e Ganhas. As movimentações e anotações ficam no `localStorage` do navegador; não são compartilhadas entre máquinas nem alteram os dados públicos.
-- Na ficha de cada oportunidade, os arquivos de TR e edital têm ação **Baixar**. O navegador pode abrir o arquivo em nova aba quando o servidor oficial não permite download direto.
-- O lance mínimo por item usa `custo ÷ 0,79` (6% de imposto e 15% de margem). É uma simulação, não uma garantia de viabilidade.
-- A ficha também oferece **Estimar custo do projeto** com IA, a partir de TR/edital e premissas inseridas pelo usuário. Requer publicar o Worker em `tr-assistant/` e informar sua URL em `painel/config.js`; o resultado é preliminar e não substitui cotações.
+As planilhas históricas usam imposto de 6% e margem de 15%, ambos ajustáveis na aplicação atual. Os arquivos históricos não são regenerados pela coleta operacional.
 
 Objetivo do usuário: encontrar todas as oportunidades brasileiras para fornecer/revender licenças e assinaturas de sistemas, em todas as esferas e localidades, incluindo abertas, futuras anunciadas e atas vigentes. O levantamento atual **não é exaustivo**: há falhas documentadas de consulta e portais externos ainda sem cobertura integral. Atas não representam nova disputa para qualquer fornecedor; classificação como licença comercial não comprova autorização de revenda.
 
@@ -52,7 +62,7 @@ A exportação recalcula o status dos prazos usando a hora atual de Brasília, m
 - `scripts/gerar_entrega.py`: exporta XLSX/CSV, mantém observações manuais das oportunidades verificadas e valida contagens da planilha.
 - A aba **Cobertura das buscas** registra falhas. Consultar também os JSONs de auditoria.
 - A aba **Itens para cotar** preserva a unidade do edital. A coluna amarela recebe o custo efetivo, incluindo despesas. Lance mínimo = custo ÷ 0,79 para imposto de 6% e margem de 15% sobre a venda.
-- Nenhum lance, compra, cadastro externo ou monitoramento automático foi realizado.
+- Nenhum lance ou compra foi realizado. A aplicação atual consulta automaticamente dados públicos; as notas das sessões anteriores abaixo descrevem a pesquisa histórica.
 
 ## Atualização de 06/10/2026 (2ª sessão)
 

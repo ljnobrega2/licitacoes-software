@@ -1,0 +1,7 @@
+{
+  "name": "licitacoes-equipe",
+  "private": true,
+  "type": "module",
+  "scripts": { "typecheck": "tsc --noEmit", "dev": "wrangler dev", "deploy": "wrangler deploy", "test": "node --test ../tests/*.test.mjs" },
+  "devDependencies": { "typescript": "^5.9.3", "wrangler": "^4.122.0", "@playwright/test": "^1.56.0" }
+}

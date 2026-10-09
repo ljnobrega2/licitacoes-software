@@ -1,4 +1,8 @@
-# Estado do projeto — 06/10/2026, 19h50 (Brasília)
+# Estado do projeto — aplicação publicada em 09/10/2026
+
+Operação atual: https://licitacoes-tr-assistant.lucasjesusnobrega.workers.dev/ . Código em `app/` e `tr-assistant/`; instruções em `tr-assistant/README.md`; auditoria e evidências em `docs/auditoria-2026-10-09.md`. Banco D1, conta individual por convite, Kanban inicial, tarefas, comentários, orçamento e IA real compartilhados. Cron PNCP ativo, primeira varredura nova em andamento; não confundir os números históricos abaixo com o estado do banco atual. Credenciais de bootstrap em arquivo local ignorado `dados/workspace-access.json`; nunca publicar esse arquivo.
+
+## Registro histórico — 06/10/2026, 19h50 (Brasília)
 
 Objetivo: achar licitações brasileiras de licenças e assinaturas de software para fornecimento/revenda, em todas as esferas e UFs, incluindo abertas, futuras e atas vigentes. Levantamento **não exaustivo**.
 

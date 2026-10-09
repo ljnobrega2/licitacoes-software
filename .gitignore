@@ -16,5 +16,12 @@ scripts/__pycache__/
 .venv/
 .DS_Store
 tr-assistant/.wrangler/
+.wrangler/
 tr-assistant/worker-configuration.d.ts
+tr-assistant/node_modules/
+tr-assistant/.dev.vars
+test-results/
+playwright-report/
+dados/workspace-import.sql
+dados/workspace-access.json
 dados/resultado_final.json
