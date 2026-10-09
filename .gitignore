@@ -24,4 +24,5 @@ test-results/
 playwright-report/
 dados/workspace-import.sql
 dados/workspace-access.json
+dados/backups-operacao/
 dados/resultado_final.json

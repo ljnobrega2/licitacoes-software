@@ -1,0 +1,2 @@
+ALTER TABLE opportunities ADD COLUMN goal TEXT NOT NULL DEFAULT '';
+ALTER TABLE opportunities ADD COLUMN decline_reason TEXT NOT NULL DEFAULT '';

@@ -1,7 +1,7 @@
 import { UFS, classify, deadlineISO, documents, fromPNCP, items, pncpRoot, type Opportunity } from './catalog';
 import { HttpError, now, delay, getSetting, setSetting } from './common';
 export type CatalogRow = { id:string; payload:string; kind:string; checked_at:string; source:string };
-export function decodeCatalog(row:CatalogRow) {return {...JSON.parse(row.payload),kind:row.kind,checkedAt:row.checked_at,source:row.source} as Opportunity;}
+export function decodeCatalog(row:CatalogRow) {const record=JSON.parse(row.payload),scope=classify(String(record.obj||'')+' '+String(record.info||'')+' '+(record.it||[]).map((i:{d?:string})=>i.d||'').join(' '));return {...record,mc:scope.mc,sv:scope.sv,cl:scope.cl,scope,kind:row.kind,checkedAt:row.checked_at,source:row.source} as Opportunity;}
 export async function getCatalog(env:Env,id:string) {
   const row=await env.DB.prepare('SELECT * FROM catalog WHERE id=?').bind(id).first<CatalogRow>();
   if(!row)throw new HttpError(404,'Oportunidade não encontrada.'); return decodeCatalog(row);

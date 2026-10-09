@@ -1,5 +1,7 @@
 # Auditoria e publicação — 09/10/2026
 
+Registro da primeira publicação. A segunda revisão, com triagem rápida, objetivos, motivos de recusa, preparação de lances e edição/arquivamento de tarefas, está em [auditoria de usabilidade](auditoria-usabilidade-2026-10-09.md). Os limites abaixo descrevem a primeira versão.
+
 ## Problemas constatados e correções
 
 | Problema anterior | Correção publicada |
