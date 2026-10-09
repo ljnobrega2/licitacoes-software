@@ -297,11 +297,12 @@ function aplicarValores(a){
 /* ---------- lista paginada ---------- */
 function renderLista(a){
   const e=est[a.id];
-  const rows=ordenar(a.rows.filter(r=>passa(a,r,e.f)),e.ord);
+  const fonte=a.id==='abertas'?a.rows.filter(r=>{const d=data(r.fim);return !d||d>AGORA}):a.rows;
+  const rows=ordenar(fonte.filter(r=>passa(a,r,e.f)),e.ord);
   const paginas=Math.max(1,Math.ceil(rows.length/e.tam));if(e.pag>paginas)e.pag=paginas;
   const ini=(e.pag-1)*e.tam,vis=rows.slice(ini,ini+e.tam);
   const soma=rows.reduce((s,r)=>s+(Number(r.val)||0),0);
-  let h='<div class="barra"><div class="conta"><b>'+rows.length.toLocaleString('pt-BR')+'</b> de '+a.rows.length.toLocaleString('pt-BR')+' · valor estimado somado <b>'+brl(soma)+'</b></div><div class="ctrl">';
+  let h='<div class="barra"><div class="conta"><b>'+rows.length.toLocaleString('pt-BR')+'</b> de '+fonte.length.toLocaleString('pt-BR')+' · valor estimado somado <b>'+brl(soma)+'</b></div><div class="ctrl">';
   h+='<select id="ord-'+a.id+'" data-acao="ord" aria-label="Ordenar">'+a.ordens.map(o=>'<option value="'+o[0]+'"'+(o[0]===e.ord?' selected':'')+'>'+o[1]+'</option>').join('')+'</select>';
   h+='<select id="tam-'+a.id+'" data-acao="tam" aria-label="Linhas por página">'+[25,50,100].map(n=>'<option value="'+n+'"'+(n===e.tam?' selected':'')+'>'+n+' por página</option>').join('')+'</select></div></div>';
   if(!vis.length)h+='<div class="rolagem"><div class="vazio">Nada com esses filtros. Afrouxe a busca ou limpe os filtros.</div></div>';
