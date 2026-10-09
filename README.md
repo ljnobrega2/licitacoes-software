@@ -16,6 +16,13 @@ Levantamento de 06/10/2026. Pasta de pesquisa e exportação de dados públicos;
 
 O estado atual, o que falta e os cuidados técnicos estão em `HANDOFF.md`, na raiz do repositório.
 
+## Quadro comercial e estimativa
+
+- O painel tem a aba **Kanban**, com as etapas Novas, Aguardando documentação, Compatíveis, Em cotação, Disputadas, Declinadas, Perdidas e Ganhas. As movimentações e anotações ficam no `localStorage` do navegador; não são compartilhadas entre máquinas nem alteram os dados públicos.
+- Na ficha de cada oportunidade, os arquivos de TR e edital têm ação **Baixar**. O navegador pode abrir o arquivo em nova aba quando o servidor oficial não permite download direto.
+- O lance mínimo por item usa `custo ÷ 0,79` (6% de imposto e 15% de margem). É uma simulação, não uma garantia de viabilidade.
+- A ficha também oferece **Estimar custo do projeto** com IA, a partir de TR/edital e premissas inseridas pelo usuário. Requer publicar o Worker em `tr-assistant/` e informar sua URL em `painel/config.js`; o resultado é preliminar e não substitui cotações.
+
 Objetivo do usuário: encontrar todas as oportunidades brasileiras para fornecer/revender licenças e assinaturas de sistemas, em todas as esferas e localidades, incluindo abertas, futuras anunciadas e atas vigentes. O levantamento atual **não é exaustivo**: há falhas documentadas de consulta e portais externos ainda sem cobertura integral. Atas não representam nova disputa para qualquer fornecedor; classificação como licença comercial não comprova autorização de revenda.
 
 ## Regenerar a planilha

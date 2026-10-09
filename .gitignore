@@ -15,4 +15,6 @@ dados/externo/sebrae_grid*.json
 scripts/__pycache__/
 .venv/
 .DS_Store
+tr-assistant/.wrangler/
+tr-assistant/worker-configuration.d.ts
 dados/resultado_final.json

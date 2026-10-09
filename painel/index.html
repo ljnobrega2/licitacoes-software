@@ -129,6 +129,18 @@ td.dir{text-align:right;white-space:nowrap}
 .bloco{display:flex;flex-direction:column;gap:8px;min-width:0}
 .bloco h2{font-family:var(--cond);font-size:17px;margin:0}
 .bloco p{margin:0;color:var(--tinta2)}
+.kanban-intro{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:10px;background:var(--papel);border:1px solid var(--linha);border-radius:6px;padding:12px}
+.kanban-intro p{margin:0;color:var(--tinta2)}
+.kanban{display:flex;gap:12px;overflow-x:auto;align-items:flex-start;padding-bottom:10px}
+.kanban-col{width:280px;min-width:280px;background:var(--faixa);border:1px solid var(--linha);border-radius:6px;padding:9px;min-height:190px}
+.kanban-col h2{font-family:var(--cond);font-size:16px;margin:0 0 8px;display:flex;justify-content:space-between;gap:8px}
+.kanban-col h2 span{font-family:var(--mono);font-size:12px;color:var(--tinta2);font-weight:400}
+.kanban-cards{display:flex;flex-direction:column;gap:8px;min-height:130px}
+.kanban-card{background:var(--papel);border:1px solid var(--linha);border-radius:5px;padding:9px;cursor:pointer;box-shadow:0 1px 1px rgba(0,0,0,.04)}
+.kanban-card:hover{border-color:var(--acento)}
+.kanban-card .titulo{font-weight:500;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;margin:4px 0}
+.kanban-card .rodape{display:flex;align-items:center;justify-content:space-between;gap:6px;color:var(--tinta2);font-size:12px}
+.kanban-card select{width:100%;margin-top:7px;padding:4px 6px;border:1px solid var(--linha);border-radius:4px;background:var(--fundo);font-size:12px}
 
 @media (max-width:900px){
   .corpo{grid-template-columns:1fr}
@@ -184,10 +196,12 @@ const CL_CURTO={'Licenças comerciais identificadas':'Licença comercial','Softw
 const clCurto=c=>CL_CURTO[c]||c||'—';
 
 /* Marcações do usuário: ficam só neste navegador. */
-const MEUS=['','Interessa','Cotando','Proposta enviada','Descartada'];
+const MEUS=['','Aguardando documentação','Compatível','Em cotação','Disputada','Declinada','Perdida','Ganha'];
 let marcas={};
 try{marcas=JSON.parse(localStorage.getItem('radar-licit-marcas')||'{}')||{}}catch(e){marcas={}}
 function salvarMarcas(){try{localStorage.setItem('radar-licit-marcas',JSON.stringify(marcas))}catch(e){}}
+const STATUS_LEGADO={'Interessa':'Compatível','Cotando':'Em cotação','Proposta enviada':'Disputada','Descartada':'Declinada'};
+Object.values(marcas).forEach(m=>{if(m&&STATUS_LEGADO[m.s])m.s=STATUS_LEGADO[m.s]});salvarMarcas();
 
 D.abertas.forEach(r=>{r._b=norm([r.obj,r.org,r.un,r.cid,r.tit,r.id,(r.mc||[]).join(' '),(r.sv||[]).join(' '),(r.it||[]).map(i=>i.d).join(' ')].join(' '))});
 ['atas','vencidas','revisar'].forEach(k=>D[k].forEach(r=>{r._b=norm([r.obj,r.org,r.un,r.cid,r.tit,r.id,(r.mc||[]).join(' '),(r.sv||[]).join(' ')].join(' '))}));
@@ -210,6 +224,7 @@ const ABAS=[
   filtros:['q','cl','sv','mc','uf','esf','mod','prazo','valor','me','docs','srp','semdup','meu'],
   ordens:[['fim','Prazo mais próximo'],['-val','Maior valor'],['val','Menor valor'],['-pub','Publicação mais recente']],
   aviso:'Prazos vêm do cadastro PNCP. Confirme suspensão, retificação e horário no portal de disputa antes de participar. Classificação automática não comprova autorização de revenda.'},
+ {id:'kanban',nome:'Kanban',custom:renderKanban,rows:D.abertas},
  {id:'atas',nome:'Atas vigentes',rows:D.atas,
   cols:[['Fim da vigência',r=>'<span class="num">'+fmtData(r.fim)+'</span>'],['Objeto',colObj,'obj'],['Local',colLocal],['Valor global',r=>'<span class="num">'+brl(r.val)+'</span>','dir'],['Adesão',r=>esc(r.ad||'—')],['PNCP',r=>'<a href="'+esc(r.link)+'" target="_blank" rel="noopener">abrir</a>']],
   filtros:['q','cl','sv','mc','uf','esf','valor'],ordens:[['fim','Vence primeiro'],['-fim','Vence por último'],['-val','Maior valor']],
@@ -245,7 +260,7 @@ function passa(a,r,f){
   if(f.docs&&!(r.docs&&r.docs.length))return false;
   if(f.srp&&!r.srp)return false;
   if(f.semdup&&r.dup)return false;
-  if(f.meu){const s=(marcas[r.id]||{}).s||'';if(f.meu==='*'?!s:f.meu==='-'?s==='Descartada':s!==f.meu)return false}
+  if(f.meu){const s=(marcas[r.id]||{}).s||'';if(f.meu==='*'?!s:f.meu==='-'?s==='Declinada':s!==f.meu)return false}
   return true;
 }
 function ordenar(rows,ord){
@@ -324,6 +339,28 @@ function renderExternas(){
   h+='<div class="bloco"><h2>Página oficial estadual</h2>'+tabela(['Sessão','Órgão','Objeto','Identificador','Observação','Fonte'],D.estadual.map(r=>['<span class="num">'+fmtData(r.fim)+'</span>',esc(r.org)+'<div class="sub">'+esc(r.cid)+' / '+esc(r.uf)+'</div>',esc(r.obj),esc(r.id),esc(r.nota),'<a href="'+esc(r.link)+'" target="_blank" rel="noopener">abrir</a>']))+'</div>';
   return h;
 }
+function renderKanban(){
+  const colunas=[
+    ['', 'Novas'],
+    ['Aguardando documentação','Aguardando documentação'],
+    ['Compatível','Compatíveis'],
+    ['Em cotação','Em cotação'],
+    ['Disputada','Disputadas'],
+    ['Declinada','Declinadas'],
+    ['Perdida','Perdidas'],
+    ['Ganha','Ganhas']
+  ];
+  const ativo=D.abertas;
+  let h='<div class="kanban-intro"><p>Organize as oportunidades neste navegador. O status e as anotações ficam salvos localmente; abra um cartão para baixar documentos, calcular o lance ou estudar custos com IA.</p><button class="btn" data-acao="limpar-kanban" type="button">Limpar status do quadro</button></div><div class="kanban">';
+  colunas.forEach(([status,nome])=>{
+    const rows=ativo.filter(r=>((marcas[r.id]||{}).s||'')===status).sort((a,b)=>String(a.fim||'').localeCompare(String(b.fim||'')));
+    h+='<section class="kanban-col"><h2>'+nome+' <span>'+rows.length+'</span></h2><div class="kanban-cards">';
+    rows.forEach(r=>{const p=prazo(r.fim);h+='<article class="kanban-card" data-kanban-id="'+esc(r.id)+'" tabindex="0"><div class="tags">'+(r.mc||[]).slice(0,2).map(x=>'<span class="pil ac">'+esc(x)+'</span>').join('')+'</div><div class="titulo">'+esc(r.obj)+'</div><div class="sub">'+esc(r.un||r.org||'')+' · '+esc(r.cid||'')+'/'+esc(r.uf||'')+'</div><div class="rodape"><span class="pil '+p.c+'">'+p.t+'</span><span class="num">'+brl(r.val)+'</span></div><select data-kanban-status="'+esc(r.id)+'" aria-label="Status da oportunidade"><option value="">Novas</option>'+MEUS.slice(1).map(s=>'<option value="'+esc(s)+'"'+(status===s?' selected':'')+'>'+esc(s)+'</option>').join('')+'</select></article>'});
+    if(!rows.length)h+='<div class="sub">Nenhuma oportunidade.</div>';
+    h+='</div></section>';
+  });
+  return h+'</div>';
+}
 function renderCobertura(){
   const v=D.varredura,C=D.cobertura;
   const fora=C.filter(c=>c.res==='Sem cobertura'),termos=C.filter(c=>c.res!=='Sem cobertura'&&!String(c.etapa).startsWith('Varredura'));
@@ -347,12 +384,12 @@ function abrirFicha(id){
   if(r.dup)h+='<div class="nota">Possível duplicidade de <span class="num">'+esc(r.dup)+'</span>. Não conte como segunda oportunidade sem conferir.</div>';
   h+='<section><h3>Objeto</h3><div class="txt">'+esc(r.obj)+'</div></section>';
   h+='<section><h3>'+(r.manual?'Leitura do edital':'Pontos a conferir')+'</h3><div class="nota txt">'+esc(r.nota||'')+'</div><div class="sub" style="margin-top:4px">'+esc(r.ver||'')+'</div></section>';
-  h+='<section><h3>Documentos ('+(r.docs?r.docs.length:0)+')</h3>'+(r.docs&&r.docs.length?'<ul class="docs">'+r.docs.map(d=>'<li><a href="'+esc(d.u)+'" target="_blank" rel="noopener">'+esc(d.n||d.t||'arquivo')+'</a><span class="pil">'+esc(d.t||'')+'</span><span class="sub num">'+fmtData(d.p)+'</span></li>').join('')+'</ul>':'<div class="sub">'+(r.det?'Nenhum arquivo ativo listado no PNCP.':'Lista de documentos ainda não consultada para esta contratação. Abra no PNCP.')+'</div>')+'</section>';
+  h+='<section><h3>Documentos ('+(r.docs?r.docs.length:0)+')</h3>'+(r.docs&&r.docs.length?'<ul class="docs">'+r.docs.map(d=>'<li><a href="'+esc(d.u)+'" target="_blank" rel="noopener">'+esc(d.n||d.t||'arquivo')+'</a><a class="btn" href="'+esc(d.u)+'" download target="_blank" rel="noopener" aria-label="Baixar '+esc(d.n||d.t||'arquivo')+'">Baixar</a><span class="pil">'+esc(d.t||'')+'</span><span class="sub num">'+fmtData(d.p)+'</span></li>').join('')+'</ul>':'<div class="sub">'+(r.det?'Nenhum arquivo ativo listado no PNCP.':'Lista de documentos ainda não consultada para esta contratação. Abra no PNCP.')+'</div>')+'</section>';
   const docsTR=(r.docs||[]).filter(d=>/termo de refer|\btr\b/i.test((d.t||'')+' '+(d.n||'')));
   const docsIA=docsTR.length?docsTR:(r.docs||[]).filter(d=>/pdf|edital|aviso/i.test((d.t||'')+' '+(d.n||'')+' '+(d.u||'')));
   if(docsIA.length){
     const apiNote=TR_API?'Envie uma pergunta. A resposta é baseada apenas no documento selecionado.':'Assistente ainda não configurado. Defina o endereço da API segura em <code>painel/config.js</code> para ativá-lo.';
-    h+='<section><h3>Pergunte à IA sobre o '+(docsTR.length?'TR':'edital ou documento')+'</h3><div class="ia-tr"><div class="sub">'+apiNote+'</div><label class="sub">Documento <select id="tr-doc">'+docsIA.map((d,i)=>'<option value="'+i+'">'+esc(d.n||d.t||'documento')+'</option>').join('')+'</select></label><textarea id="tr-pergunta" rows="3" maxlength="1600" placeholder="Ex.: quais são os requisitos de habilitação, prazos e entregáveis?"></textarea><div><button class="btn forte" data-acao="perguntar-tr" type="button" '+(TR_API?'':'disabled')+'>Perguntar sobre o documento</button></div><div id="tr-resposta" class="ia-resposta" hidden></div></div></section>';
+    h+='<section><h3>Estudo com IA: TR, edital e estimativa de custo</h3><div class="ia-tr"><div class="sub">'+apiNote+' A estimativa é uma referência comercial, não substitui cotações de fornecedor, impostos, equipe ou validação humana.</div><label class="sub">Documento <select id="tr-doc">'+docsIA.map((d,i)=>'<option value="'+i+'">'+esc(d.n||d.t||'documento')+'</option>').join('')+'</select></label><textarea id="tr-pergunta" rows="3" maxlength="1600" placeholder="Ex.: quais são os requisitos de habilitação, prazos e entregáveis?"></textarea><div><button class="btn forte" data-acao="perguntar-tr" type="button" '+(TR_API?'':'disabled')+'>Perguntar sobre o documento</button></div><hr style="width:100%;border:0;border-top:1px solid var(--linha)"><label class="sub">Premissas próprias para a estimativa (opcional)<textarea id="custo-premissas" rows="3" maxlength="1600" placeholder="Ex.: fornecedor X cotou R$ 20 mil; equipe interna R$ 180/h; incluir implantação e suporte por 12 meses."></textarea></label><div><button class="btn forte" data-acao="estimar-custo" type="button" '+(TR_API?'':'disabled')+'>Estimar custo do projeto</button></div><div id="tr-resposta" class="ia-resposta" hidden></div></div></section>';
     r._docsIA=docsIA;
   }
   if(r.it&&r.it.length){
@@ -378,6 +415,18 @@ async function perguntarTR(){
   }catch(err){saida.textContent='Erro: '+(err.message||'falha ao consultar a IA.');}
   finally{botao.disabled=false}
 }
+async function estimarCusto(){
+  const raiz=$('#ficha-raiz'),id=raiz.dataset.id,r=D.abertas.find(x=>x.id===id),saida=$('#tr-resposta');
+  const indice=Number($('#tr-doc')?.value||0),doc=r&&r._docsIA&&r._docsIA[indice],premissas=$('#custo-premissas')?.value.trim()||'';
+  if(!doc||!saida)return;
+  const botao=$('[data-acao="estimar-custo"]',raiz);botao.disabled=true;saida.hidden=false;saida.textContent='Lendo o documento e estruturando a estimativa…';
+  try{
+    const res=await fetch(TR_API.replace(/\/$/,'')+'/estimate',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({documentUrl:doc.u,documentName:doc.n||doc.t||'documento.pdf',assumptions:premissas,opportunityId:id})});
+    const body=await res.json().catch(()=>({}));if(!res.ok)throw new Error(body.error||'Não foi possível estimar o custo.');
+    saida.textContent=body.answer||'A IA não retornou uma estimativa.';
+  }catch(err){saida.textContent='Erro: '+(err.message||'falha ao consultar a IA.');}
+  finally{botao.disabled=false}
+}
 
 /* ---------- eventos ---------- */
 $('#abas').innerHTML=ABAS.map(a=>'<button role="tab" type="button" data-aba="'+a.id+'">'+a.nome+'<span class="qt">'+a.rows.length.toLocaleString('pt-BR')+'</span></button>').join('');
@@ -390,9 +439,12 @@ document.addEventListener('click',ev=>{
   if(ac){const k=ac.dataset.acao;
     if(k==='fechar'){fecharFicha();return}
     if(k==='limpar'){est[abaAtual].f={};est[abaAtual].pag=1;renderAba();return}
+    if(k==='limpar-kanban'){Object.keys(marcas).forEach(id=>{if(marcas[id])marcas[id].s=''});salvarMarcas();renderAba();return}
     if(k==='alternar-filtros'){$('#filtros').classList.toggle('fechado');return}
     if(k==='perguntar-tr'){perguntarTR();return}
+    if(k==='estimar-custo'){estimarCusto();return}
   }
+  const card=t.closest('[data-kanban-id]');if(card&&!t.closest('a,button,input,select,textarea')){abrirFicha(card.dataset.kanbanId);return}
   if(t.closest('a,button,input,select,textarea'))return;
   const tr=t.closest('tr[data-id]');if(tr)abrirFicha(tr.dataset.id);
 });
@@ -409,6 +461,7 @@ document.addEventListener('input',ev=>{
 });
 document.addEventListener('change',ev=>{
   const t=ev.target,e=est[abaAtual];
+  if(t.dataset.kanbanStatus){const id=t.dataset.kanbanStatus,m=marcas[id]||{s:'',n:''};m.s=t.value;if(!m.s&&!m.n)delete marcas[id];else marcas[id]=m;salvarMarcas();renderAba();return}
   if(t.dataset.acao==='ord'){e.ord=t.value;e.pag=1;renderLista(ABAS.find(x=>x.id===abaAtual))}
   if(t.dataset.acao==='tam'){e.tam=Number(t.value);e.pag=1;renderLista(ABAS.find(x=>x.id===abaAtual))}
 });
