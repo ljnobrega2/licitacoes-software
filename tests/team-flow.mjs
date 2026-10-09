@@ -1,4 +1,5 @@
 import {chromium} from '../tr-assistant/node_modules/playwright/index.mjs';
+import {stubAutomaticReview} from './helpers.mjs';
 import assert from 'node:assert/strict';
 import fs from 'node:fs';
 const base=process.env.TEST_BASE||'http://localhost:8787';
@@ -21,6 +22,7 @@ async function registerOrLogin(page,email,name,invite){
 }
 async function request(page,path,method='GET',body){return page.evaluate(async({path,method,body})=>{const response=await fetch('/api'+path,{method,headers:body?{'content-type':'application/json'}:undefined,body:body?JSON.stringify(body):undefined});return {status:response.status,body:await response.json()};},{path,method,body});}
 try{
+  await stubAutomaticReview(alice,base);await stubAutomaticReview(bob,base);
   await alice.goto(base+'/');await alice.locator('[data-swipe-card]').waitFor();
   assert.ok(await alice.locator('[data-triage-accept]').isVisible(),'Quick triage is the initial screen');await alice.locator('nav [data-view=board]').click();await alice.locator('.card').first().waitFor();
   assert.equal(await alice.locator('.column').count(),8,'Kanban remains accessible with all eight stages');

@@ -1,0 +1,2 @@
+// Local browser tests must not consume the real Workers AI binding implicitly.
+export async function stubAutomaticReview(page,base){if(new URL(base).hostname!=='localhost')return;await page.route('**/api/opportunities/*/review',route=>route.fulfill({status:200,contentType:'application/json',body:JSON.stringify({review:{status:'unavailable',bidRule:{mode:'unknown'},documents:[],message:'Leitura automática simulada apenas no teste local de interface.'}})}));}

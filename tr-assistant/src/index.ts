@@ -3,6 +3,7 @@ import { HttpError, now, hash, token, text, cookie, passwordHash, session, limit
 import { decodeCatalog, getCatalog, refreshOpportunity, syncPNCP, type CatalogRow } from './sync';
 import { boundedDocument, study } from './study';
 import { prepareBid, reportBid } from './bids';
+import {reviewOpportunity,getReview} from './review';
 import {parseAmount} from '../../app/bid-math.js';
 import {goals,declineReasons,goalLabel,reasonLabel} from '../../app/goals.js';
 
@@ -48,7 +49,7 @@ async function api(request:Request,env:Env,ctx:ExecutionContext):Promise<Respons
   if(path==='/api/sync'&&method==='POST'){if(member.role!=='admin')throw new HttpError(403,'Somente administradores podem solicitar coleta.');ctx.waitUntil(syncPNCP(env));return Response.json({ok:true,message:'Coleta retomada em segundo plano.'},{status:202});}
   const bidRoute=/^\/api\/bids\/([^/]+)\/report$/.exec(path);
   if(bidRoute&&method==='POST')return Response.json(await reportBid(env,member,bidRoute[1],await readBody(request)));
-  const match=/^\/api\/opportunities\/([^/]+)(?:\/(detail|refresh|tasks|comments|study|download|bids))?$/.exec(path);
+  const match=/^\/api\/opportunities\/([^/]+)(?:\/(detail|refresh|tasks|comments|study|download|bids|review))?$/.exec(path);
   if(match){
     const id=decodeURIComponent(match[1]),action=match[2];
     if(action==='download'&&method==='GET'){
@@ -60,7 +61,7 @@ async function api(request:Request,env:Env,ctx:ExecutionContext):Promise<Respons
     await ensureOpportunity(env,id);
     if(action==='detail'&&method==='GET'){
       const results=await env.DB.batch([env.DB.prepare('SELECT * FROM opportunities WHERE opportunity_id=?').bind(id),env.DB.prepare('SELECT * FROM tasks WHERE opportunity_id=? AND deleted_at IS NULL ORDER BY done,created_at').bind(id),env.DB.prepare('SELECT c.*,m.name FROM comments c JOIN members m ON m.id=c.member_id WHERE opportunity_id=? ORDER BY created_at DESC LIMIT 100').bind(id),env.DB.prepare('SELECT a.*,m.name FROM activity a JOIN members m ON m.id=a.member_id WHERE opportunity_id=? ORDER BY created_at DESC LIMIT 100').bind(id),env.DB.prepare('SELECT s.*,m.name FROM ai_studies s JOIN members m ON m.id=s.member_id WHERE opportunity_id=? ORDER BY created_at DESC LIMIT 15').bind(id),env.DB.prepare('SELECT id,name,email,role FROM members WHERE active=1 ORDER BY name'),env.DB.prepare('SELECT b.*,m.name FROM bids b JOIN members m ON m.id=b.member_id WHERE opportunity_id=? ORDER BY created_at DESC LIMIT 100').bind(id)]);
-      return Response.json({opportunity:await getCatalog(env,id),work:results[0].results[0],tasks:results[1].results,comments:results[2].results,activity:results[3].results,studies:results[4].results,members:results[5].results,bids:results[6].results});
+      return Response.json({review:await getReview(env,id),opportunity:await getCatalog(env,id),work:results[0].results[0],tasks:results[1].results,comments:results[2].results,activity:results[3].results,studies:results[4].results,members:results[5].results,bids:results[6].results});
     }
     if(!action&&method==='PATCH'){
       const body=await readBody(request),stage=text(body.stage,30),owner=text(body.ownerId,80)||null,version=Number(body.version);
@@ -69,6 +70,7 @@ async function api(request:Request,env:Env,ctx:ExecutionContext):Promise<Respons
       const existing=body.goal===undefined||body.declineReason===undefined?await env.DB.prepare('SELECT goal,decline_reason FROM opportunities WHERE opportunity_id=?').bind(id).first<{goal:string;decline_reason:string}>():null;
       const goal=text(body.goal===undefined?existing?.goal:body.goal,40),reason=text(body.declineReason===undefined?existing?.decline_reason:body.declineReason,40);if(goal&&!goals.some(([id])=>id===goal))throw new HttpError(400,'Escolha um objetivo válido.');if(stage==='declinada'&&!declineReasons.some(([id])=>id===reason))throw new HttpError(400,'Escolha o motivo da recusa.');
       const q=body.quote||{};if(typeof q!=='object'||Array.isArray(q))throw new HttpError(400,'Orçamento inválido.');const floorValues=(q as Record<string,unknown>).unitFloors;if(floorValues&&(typeof floorValues!=='object'||Array.isArray(floorValues)||Object.entries(floorValues).some(([key,value])=>!/^[0-9]{1,6}$/.test(key)||parseAmount(value)===null)))throw new HttpError(400,'Pisos por produto inválidos.');const totalFloor=(q as Record<string,unknown>).minimumTotal;if(totalFloor!==undefined&&parseAmount(totalFloor)===null)throw new HttpError(400,'Piso total inválido.');
+      const selected=(q as Record<string,unknown>).selectedItems;if(selected!==undefined){if(!selected||typeof selected!=='object'||Array.isArray(selected)||Object.entries(selected).some(([key,value])=>!/^[0-9]{1,6}$/.test(key)||typeof value!=='boolean'))throw new HttpError(400,'Seleção de produtos inválida.');if(Object.values(selected).some(value=>value===false)&&(await getReview(env,id))?.bidRule?.mode!=='item')throw new HttpError(400,'Excluir produto exige confirmação de disputa por item no edital.');const record=await getCatalog(env,id),keys=new Set((record.it||[]).map((item,index)=>String(item.n??index+1)));if(Object.keys(selected).some(key=>!keys.has(key)))throw new HttpError(400,'Produto não existe no cadastro.');if(record.it?.length&&record.it.every((item,index)=>(selected as Record<string,boolean>)[String(item.n??index+1)]===false))throw new HttpError(400,'Selecione ao menos um produto para participar.');}
       const mutation=crypto.randomUUID(),notes=text(body.notes,8000),quote=JSON.stringify(q);if(quote.length>10000)throw new HttpError(400,'Orçamento muito grande.');
       const result=await env.DB.batch<Record<string,unknown>>([env.DB.prepare('UPDATE opportunities SET stage=?,owner_id=?,notes=?,quote=?,goal=?,decline_reason=?,version=version+1,updated_at=?,updated_by=?,last_mutation=? WHERE opportunity_id=? AND version=? RETURNING version').bind(stage,owner,notes,quote,goal,stage==='declinada'?reason:'',now(),member.id,mutation,id,version),env.DB.prepare("INSERT INTO activity(id,opportunity_id,member_id,action,detail) SELECT ?,opportunity_id,?,'Atualização',? FROM opportunities WHERE opportunity_id=? AND last_mutation=?").bind(crypto.randomUUID(),member.id,stage+' · '+goalLabel(goal)+(stage==='declinada'?' · '+reasonLabel(reason):''),id,mutation)]);
       if(!result[0].results.length)throw new HttpError(409,'Outra pessoa atualizou esta oportunidade. Recarregue para preservar a alteração dela.');return Response.json({version:result[0].results[0].version});
@@ -82,6 +84,7 @@ async function api(request:Request,env:Env,ctx:ExecutionContext):Promise<Respons
     }
     if(action==='comments'&&method==='POST'){const body=await readBody(request),content=text(body.body,6000);if(!content)throw new HttpError(400,'Escreva o comentário.');await env.DB.batch([env.DB.prepare('INSERT INTO comments(id,opportunity_id,member_id,body) VALUES(?,?,?,?)').bind(crypto.randomUUID(),id,member.id,content),activity(env,id,member,'Comentário',content.slice(0,100))]);return Response.json({ok:true},{status:201});}
     if(action==='bids'&&method==='POST')return Response.json(await prepareBid(env,member,id,await readBody(request)),{status:201});
+    if(action==='review'&&method==='POST'){const result=await reviewOpportunity(env,member,id);return Response.json(result,{status:result.processing?202:200});}
     if(action==='study'&&method==='POST')return Response.json(await study(env,member,id,await readBody(request)));
   }
   const task=/^\/api\/tasks\/([^/]+)$/.exec(path);

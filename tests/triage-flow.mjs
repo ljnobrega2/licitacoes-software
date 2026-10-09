@@ -1,4 +1,6 @@
 import {chromium} from '../tr-assistant/node_modules/playwright/index.mjs';
+import {stubAutomaticReview} from './helpers.mjs';
+import {inferGoal} from '../app/goals.js';
 import assert from 'node:assert/strict';
 const base=process.env.TEST_BASE||'http://localhost:8787',browser=await chromium.launch({headless:true,channel:'chromium'}),context=await browser.newContext({viewport:{width:1440,height:1000}}),page=await context.newPage(),errors=[];
 page.on('pageerror',e=>errors.push(e.message));
@@ -9,13 +11,14 @@ async function reset(){const d=await detail();const result=await api(path,'PATCH
 async function decideByClick(selector){const pending=page.waitForResponse(r=>r.url().endsWith(encodeURIComponent(id))&&r.request().method()==='PATCH');await page.locator(selector).click();assert.equal((await pending).status(),200);}
 async function undo(){await decideByClick('[data-undo-decision]');await page.locator('[data-swipe-card="'+id+'"]').waitFor();await page.waitForLoadState('networkidle');}
 try{
+  await stubAutomaticReview(page,base);
   await page.goto(base+'/');await page.locator('[data-swipe-card]').waitFor();assert.equal(await page.locator('[data-swipe-card]').count(),1);
   await page.getByText('Entrar na equipe',{exact:true}).click();await page.locator('[name=email]').fill('qa.alice@licitacoes.test');await page.locator('[name=password]').fill('Local-QA-9Oct!2026');await page.locator('#auth-form button').first().click();await page.locator('.account').waitFor();
   const member=(await api('/me')).body.member,initial=(await detail()).work;
   assert.ok(!initial.updated_by||initial.updated_by===member.id,'QA must not overwrite work last changed by a real team member');
   await page.locator('#search').fill(id);await reset();
-  assert.equal(await page.locator('textarea:visible').count(),0,'Triage needs no text entry');await page.locator('[data-goal-choice=ia]').click();const floor=page.locator('[data-inline-floor]').first(),floorKey=await floor.getAttribute('data-inline-floor');assert.ok(await floor.isVisible(),'Minimum bid is on the first screen');await floor.fill('-1');await page.locator('[data-triage-accept]').click();assert.equal((await detail()).work.stage,'nova','Invalid pending floor blocks accepting');await floor.fill('189,4321');await decideByClick('[data-triage-accept]');await page.waitForFunction(()=>document.querySelector('nav [data-view=board]').classList.contains('active'));
-  let d=await detail();assert.equal(d.work.stage,'compativel');assert.equal(d.work.goal,'ia');assert.equal(JSON.parse(d.work.quote).unitFloors[floorKey],189.4321,'Accept saves floors and decision atomically');assert.equal(d.work.owner_id,initial.owner_id||member.id,'Preserve an existing owner; only auto-assign unowned work');assert.equal(await page.locator('[data-swipe-card]').count(),0,'Decided card leaves the new queue');
+  assert.equal(await page.locator('textarea:visible').count(),0,'Triage needs no text entry');assert.equal(await page.locator('[data-goal-choice]').count(),0);const expectedGoal=inferGoal((await detail()).opportunity);const floor=page.locator('[data-inline-floor]').first(),floorKey=await floor.getAttribute('data-inline-floor');assert.ok(await floor.isVisible(),'Minimum bid is on the first screen');await floor.fill('-1');await page.locator('[data-triage-accept]').click();assert.equal((await detail()).work.stage,'nova','Invalid pending floor blocks accepting');await floor.fill('189,4321');await decideByClick('[data-triage-accept]');await page.waitForFunction(()=>document.querySelector('nav [data-view=board]').classList.contains('active'));
+  let d=await detail();assert.equal(d.work.stage,'compativel');assert.equal(d.work.goal,expectedGoal);assert.equal(JSON.parse(d.work.quote).unitFloors[floorKey],189.4321,'Accept saves floors and decision atomically');assert.equal(d.work.owner_id,initial.owner_id||member.id,'Preserve an existing owner; only auto-assign unowned work');assert.equal(await page.locator('[data-swipe-card]').count(),0,'Decided card leaves the new queue');
   await page.locator('[data-undo-decision]').waitFor();await undo();assert.equal((await detail()).work.stage,'nova');
   await page.locator('[data-triage-decline]').click();await page.locator('#decline-dialog').waitFor();assert.equal((await detail()).work.stage,'nova','Opening the reason picker must not save a decline');assert.equal(await page.locator('#decline-dialog textarea').count(),0);
   const withoutReason=await api(path,'PATCH',{stage:'declinada',version:(await detail()).work.version,goal:'ia'});assert.equal(withoutReason.status,400,'Server requires a structured reason');

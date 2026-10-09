@@ -1,5 +1,7 @@
 import {HttpError,now,text,type Body,type Member} from './common';
 import {getCatalog} from './sync';
+import {getReview} from './review';
+import {bidRuleError} from '../../app/tender-rules.js';
 import {bidMinimum,parseAmount,decimalAmount,portalLink} from '../../app/bid-math.js';
 type Bid={id:string;opportunity_id:string;member_id:string;basis:string;item_label:string;amount:string;minimum:string|null;quantity:number;portal_url:string;status:string};
 export async function prepareBid(env:Env,member:Member,id:string,body:Body){
@@ -7,7 +9,8 @@ export async function prepareBid(env:Env,member:Member,id:string,body:Body){
   if(!/^[0-9a-f-]{36}$/i.test(key)||!Number.isInteger(version)||amount===null)throw new HttpError(400,'Informe um valor positivo com até quatro casas decimais.');
   const existing=await env.DB.prepare('SELECT * FROM bids WHERE id=?').bind(key).first<Bid>();
   if(existing){if(existing.opportunity_id!==id||existing.member_id!==member.id||Number(existing.amount)!==amount||existing.basis!==basis||basis==='unit'&&Number((existing as Bid & {item_index:number}).item_index)!==index)throw new HttpError(409,'Identificador já utilizado.');return {bid:existing,idempotent:true};}
-  const r=await getCatalog(env,id),work=await env.DB.prepare('SELECT quote FROM opportunities WHERE opportunity_id=?').bind(id).first<{quote:string}>(),floor=bidMinimum(r,JSON.parse(work?.quote||'{}'),basis,index);
+  const r=await getCatalog(env,id),review=await getReview(env,id),ruleError=bidRuleError(review,basis);if(ruleError)throw new HttpError(400,ruleError);const work=await env.DB.prepare('SELECT quote FROM opportunities WHERE opportunity_id=?').bind(id).first<{quote:string}>(),floor=bidMinimum(r,JSON.parse(work?.quote||'{}'),basis,index);
+  if(basis==='unit'&&JSON.parse(work?.quote||'{}').selectedItems?.[String(r.it?.[index]?.n??index+1)]===false)throw new HttpError(400,'Produto excluído da participação pela equipe.');
   if(floor.error)throw new HttpError(400,floor.error);
   if(floor.minimum!==null&&Math.round(amount*10000)<Math.round(floor.minimum*10000))throw new HttpError(400,'Valor abaixo do piso calculado. Revise custos, tributos ou margem antes de preparar.');
   if(floor.minimum===null&&body.acknowledgeUnknownCost!==true)throw new HttpError(400,'Sem custo informado: preencha o preço ou confirme que ainda não há piso validado.');

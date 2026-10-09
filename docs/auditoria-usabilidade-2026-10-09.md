@@ -1,6 +1,24 @@
 # Auditoria de usabilidade — operação AD PRO
 
-Esta é a terceira revisão de 09/10/2026. A publicação anterior está documentada em `auditoria-2026-10-09.md`; o pedido posterior mudou a entrada principal de Kanban para triagem rápida. O Kanban continua disponível, com todas as oito etapas.
+Esta é a quarta revisão de 09/10/2026. A publicação anterior está documentada em `auditoria-2026-10-09.md`; o pedido posterior mudou a entrada principal de Kanban para triagem rápida. O Kanban continua disponível, com todas as oito etapas.
+
+## Ficha única — revisão final solicitada pelo usuário
+
+O fluxo inicial agora é uma página dinâmica por oportunidade, sem formulário de objetivos. A categoria é um badge no topo; número/modalidade da licitação, órgão/unidade, cidade/UF, controle PNCP, processo, valor e prazo estão visíveis na ficha. Cabeçalhos e orientações repetidas foram retirados para subir o cartão.
+
+Produtos aparecem em linhas com descrição inteira, quantidade/unidade, referência oficial, mínimo editável e subtotal. O total dos produtos selecionados é recalculado no fim, com indicação explícita quando faltar preço ou quantidade. Produtos não são apagados do catálogo: a seleção fica em `quote.selectedItems` para a equipe.
+
+Ao entrar, a ficha busca itens/anexos quando ainda não detalhados e lê automaticamente até dois documentos prioritários (edital/TR), com até 28.000 caracteres cada. Pontos importantes e downloads são exibidos abaixo dos produtos, sem clicar para gerar. Visualização do PDF e dúvidas/estimativas continuam na mesma página. Resultado é compartilhado e reutilizado enquanto a identificação dos documentos/itens não mudar; há trava de concorrência para evitar leituras duplicadas e cota de 15 novas análises por pessoa/hora. Falhas/cota aparecem na ficha sem afirmar leitura bem-sucedida.
+
+A forma de disputa **não** é inferida pela quantidade de produtos. A indicação por item, lote/grupo ou pacote depende de trecho literal encontrado no texto oficial, validado contra padrões explícitos de julgamento/adjudicação. Ausência de evidência mantém “a confirmar”. Isso é auxílio com IA, não certificação jurídica.
+
+- Por item confirmado: pode excluir produtos e preparar lance unitário dos selecionados. API rejeita produto excluído e seleção vazia.
+- Pacote completo: não permite excluir produtos nem preparar lance separado; mínimos por componente formam referência para o global.
+- Lote/grupo: informa pacote de cada grupo. Sem composição de lotes estruturada neste cadastro, a API bloqueia tratar um produto avulso ou o contrato inteiro como um lote. O fornecedor continua usando o portal oficial; não há alegação de envio automático ou integração completa de lotes.
+
+`onepage-flow.mjs` passou localmente com respostas explicitamente simuladas e publicamente com leitura real de PDF. No edital de Londrina, a evidência literal “menor preço por grupo” produziu indicação de lote/grupo. `server-rules.mjs` usa fixtures sintéticas **exclusivamente no D1 local** e confirmou exclusão autorizada por item, bloqueio de pacote, piso unitário, preparo interno do produto selecionado, rejeição de seleção vazia e proteção de lotes. Fixtures sintéticas jamais são instaladas no banco público.
+
+Os testes antigos de triagem/inline foram adaptados à categoria sem formulário e resumo automático. Tipagem e 15 testes unitários passaram. Testes locais de navegador simulam a análise automática para não consumir o serviço real inadvertidamente. O trabalho de duas pessoas também passou na versão pública 5.
 
 ## Método e escopo
 
@@ -43,8 +61,8 @@ Sinal digital não significa habilitação confirmada, autorização de revenda 
 
 ## Fluxo operacional
 
-1. Na Triagem rápida, selecionar o objetivo e definir o mínimo unitário de cada produto, sem mudar de aba. Campos opcionais e pisos ainda ausentes não são preenchidos automaticamente.
-2. Conferir os produtos, edital/TR e dúvidas de IA no painel da mesma tela. O Resumo permite extrair os pontos críticos a partir de um arquivo disponível, citando a fonte; antes dessa leitura, não apresenta regras do edital como confirmadas.
+1. Na Triagem rápida, conferir a categoria e a identificação e definir o mínimo unitário na linha de cada produto, sem mudar de aba. Campos opcionais e pisos ainda ausentes não são preenchidos automaticamente.
+2. Conferir os produtos, edital/TR e dúvidas de IA no painel da mesma tela. Os pontos críticos carregam automaticamente a partir dos arquivos disponíveis, citando a fonte; antes dessa leitura, não apresenta regras do edital como confirmadas.
 3. Aceitar salva decisão e pisos pendentes juntos, atribui responsável apenas se ainda não existir e abre o Kanban em Compatíveis. Recusar exige motivo e permanece na fila de triagem. Desfazer a decisão também fica acessível no Kanban.
 4. No Kanban, a equipe continua com responsáveis, tarefas e “Preparar lance”. O valor efetivo deve respeitar o piso salvo e a unidade definida no edital. Enviar é ação no portal oficial; registrar envio exige confirmação explícita.
 
@@ -71,7 +89,7 @@ Fontes primárias: [cartilha do fornecedor Compras.gov.br](https://www.gov.br/co
 
 ### Conferência no endereço público
 
-Versão `2026.10.09-team-4`, publicada em `https://licitacoes-tr-assistant.lucasjesusnobrega.workers.dev/`.
+Versão `2026.10.09-team-5`, publicada em `https://licitacoes-tr-assistant.lucasjesusnobrega.workers.dev/`.
 
 - Trabalho compartilhado entre duas contas confirmado no endereço público.
 - Na versão 4, `triage-flow.mjs` confirmou piso visível no Resumo, rejeição de valor inválido, aceite salvando preço/objetivo no mesmo PATCH e abertura imediata do Kanban. Desfazer, recusa, teclado e gestos reais de toque passaram.
@@ -85,7 +103,7 @@ Versão `2026.10.09-team-4`, publicada em `https://licitacoes-tr-assistant.lucas
 
 Backup D1 completo antes das migrações: `dados/backups-operacao/2026-10-09-antes-triagem-rapida.sql`, privado, permissão 0600 e excluído do Git. O snapshot na interface continua disponível; exportação anônima não inclui dados privados da equipe.
 
-Novo backup privado imediatamente antes da limpeza de QA: `dados/backups-operacao/2026-10-09-antes-limpeza-qa.sql`, 0600, também excluído do Git. A exportação D1 pode suspender brevemente as consultas; ela foi finalizada antes da repetição bem-sucedida dos fluxos públicos.
+Backup privado imediatamente antes da primeira limpeza de QA: `dados/backups-operacao/2026-10-09-antes-limpeza-qa.sql`, 0600, também excluído do Git. A exportação D1 pode suspender brevemente as consultas; ela foi finalizada antes da repetição bem-sucedida dos fluxos públicos.
 
 Migrações são aditivas. Histórico e catálogo são preservados; a limpeza de testes identifica exclusivamente contas QA e seus registros de teste.
 
